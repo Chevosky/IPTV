@@ -32,12 +32,12 @@ jobs:
 
       - name: Publish coverage files
         run: |
-          if git diff --quiet -- iptvorg-selected.channels.xml iptvorg-epg-coverage.json && git ls-files --error-unmatch iptvorg-selected.channels.xml >/dev/null 2>&1; then
+          if git diff --quiet -- iptvorg-selected.channels.xml iptvorg-missing-selected.channels.xml iptvorg-epg-coverage.json && git ls-files --error-unmatch iptvorg-selected.channels.xml >/dev/null 2>&1; then
             echo "No coverage changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add iptvorg-selected.channels.xml iptvorg-epg-coverage.json
+          git add iptvorg-selected.channels.xml iptvorg-missing-selected.channels.xml iptvorg-epg-coverage.json
           git commit -m "Update exact iptv-org EPG coverage"
           git push
