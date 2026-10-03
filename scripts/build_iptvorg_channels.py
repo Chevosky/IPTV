@@ -1,0 +1,105 @@
+#!/usr/bin/env python3
+import json, re, sys
+import xml.etree.ElementTree as ET
+from collections import defaultdict, Counter
+from pathlib import Path
+
+ROOT=Path(__file__).resolve().parents[1]
+PLAYLIST=ROOT/"favorites-test.m3u"
+EPG_ROOT=Path(sys.argv[1]) if len(sys.argv)>1 else ROOT/"vendor/epg"
+OUT_XML=ROOT/"iptvorg-selected.channels.xml"
+OUT_JSON=ROOT/"iptvorg-epg-coverage.json"
+
+SITE_PRIORITY=[
+    "mi.tv",
+    "meuguia.tv",
+    "gatotv.com",
+    "programacion.tcc.com.uy",
+    "xumo.tv",
+    "plex.tv",
+    "pluto.tv",
+    "i.mjh.nz",
+]
+
+def parse_playlist(path):
+    ids={}
+    for line in path.read_text(encoding="utf-8",errors="ignore").splitlines():
+        if not line.startswith("#EXTINF:"): continue
+        m=re.search(r'tvg-id="([^"]+)"',line)
+        if not m: continue
+        cid=m.group(1).strip()
+        name=line[line.rfind(",")+1:].strip()
+        if cid: ids[cid]=name
+    return ids
+
+def rank(site,path):
+    try:
+        return SITE_PRIORITY.index(site)
+    except ValueError:
+        pass
+    # stable fallback after preferred sources
+    return len(SITE_PRIORITY)+1
+
+wanted=parse_playlist(PLAYLIST)
+matches=defaultdict(list)
+
+for path in EPG_ROOT.glob("sites/**/*.channels.xml"):
+    try:
+        root=ET.parse(path).getroot()
+    except Exception:
+        continue
+    for ch in root.findall("channel"):
+        cid=(ch.get("xmltv_id") or "").strip()
+        if cid not in wanted:
+            continue
+        site=(ch.get("site") or path.parent.name).strip()
+        matches[cid].append({
+            "site":site,
+            "site_id":ch.get("site_id") or "",
+            "lang":ch.get("lang") or "",
+            "xmltv_id":cid,
+            "name":(ch.text or "").strip(),
+            "path":str(path.relative_to(EPG_ROOT))
+        })
+
+selected={}
+for cid,rows in matches.items():
+    rows=sorted(rows,key=lambda r:(rank(r["site"],r["path"]),r["site"],r["path"],r["site_id"]))
+    selected[cid]=rows[0]
+
+root=ET.Element("channels")
+for cid in sorted(selected):
+    r=selected[cid]
+    ch=ET.SubElement(root,"channel",{
+        "site":r["site"],
+        "site_id":r["site_id"],
+        "lang":r["lang"],
+        "xmltv_id":cid,
+    })
+    ch.text=r["name"] or wanted[cid]
+
+ET.indent(root,space="  ")
+ET.ElementTree(root).write(OUT_XML,encoding="utf-8",xml_declaration=True)
+
+site_counts=Counter(r["site"] for r in selected.values())
+missing=sorted(set(wanted)-set(selected))
+report={
+    "playlist_channels":len(wanted),
+    "exactly_supported_channels":len(selected),
+    "support_percent":round(len(selected)/len(wanted)*100,1) if wanted else 0,
+    "selected_sites":dict(site_counts.most_common()),
+    "selected":[
+        {"tvg_id":cid,"playlist_name":wanted[cid],**selected[cid]}
+        for cid in sorted(selected)
+    ],
+    "missing":[{"tvg_id":cid,"name":wanted[cid]} for cid in missing],
+    "all_matches":{cid:rows for cid,rows in sorted(matches.items())}
+}
+OUT_JSON.write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+print(json.dumps({
+    "playlist_channels":report["playlist_channels"],
+    "exactly_supported_channels":report["exactly_supported_channels"],
+    "support_percent":report["support_percent"],
+    "selected_sites":report["selected_sites"],
+    "missing":len(missing)
+},ensure_ascii=False,indent=2))
