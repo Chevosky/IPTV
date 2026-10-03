@@ -241,6 +241,10 @@
     <display-name>Canal 26 (Argentina) (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" />
   </channel>
+  <channel id="Canal8MardelPlata.ar@SD">
+    <display-name>Canal 8 Mar del Plata (720p) [Not 24/7]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" />
+  </channel>
   <channel id="CanalPlusActionEurope.nl@Czechia">
     <display-name>Canal+ Action Europe Czechia</display-name>
     <icon src="https://tvgidsassets.nl/v388/img/channels/120x120/498.png" />
@@ -746,6 +750,12 @@
     <display-name>Rai Storia (1080p)</display-name>
     <url>http://www.tv.sfr.fr</url>
   </channel>
+  <channel id="RealAmericasVoice.us@KPVMLD">
+    <display-name>Real America's Voice KPVM-LD</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s117378_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s117378_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
   <channel id="RealAmericasVoice.us@SD">
     <display-name>Real America's Voice (1080p)</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s117378_h15_aa.png" />
@@ -862,6 +872,10 @@
   </channel>
   <channel id="ThePetCollective.us@Brazil">
     <display-name>The Pet Collective Brazil (720p)</display-name>
+  </channel>
+  <channel id="ThePetCollective.us@Spain">
+    <display-name>The Pet Collective Spain</display-name>
+    <url>http://www.tivify.tv</url>
   </channel>
   <channel id="ThePetCollective.us@UK">
     <display-name>The Pet Collective UK (720p)</display-name>
@@ -4551,13 +4565,6 @@
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating>
-  </programme>
-  <programme channel="AmericasVoiceNews.us@SD" start="20261003160000 +0000" stop="20261003170000 +0000">
-    <title>America's Top 10 With Wayne Allyn Root</title>
-    <sub-title>America's Top 10 With Wayne Allyn Root</sub-title>
-    <desc>Wayne countdowns the top stories of the week every American needs to know.</desc>
-    <category>News &amp; Information</category>
-    <category>News &amp; Information</category>
   </programme>
   <programme channel="AmericasVoiceNews.us@SD" start="20261003170000 +0000" stop="20261003180000 +0000">
     <title>RAM Live</title>
@@ -8394,13 +8401,6 @@
     <category>Romance</category>
     <category>African-American Romance</category>
   </programme>
-  <programme channel="BETClassicsPlutoTV.us@SD" start="20261003163000 +0000" stop="20261003170000 +0000">
-    <title>Webster</title>
-    <sub-title>The Cruise</sub-title>
-    <desc>George and Katherine recall how they met on a two-week Greek cruise, fell in love, and got married before it was over.</desc>
-    <category>Comedy</category>
-    <category>African-American Comedies</category>
-  </programme>
   <programme channel="BETClassicsPlutoTV.us@SD" start="20261003170000 +0000" stop="20261003173000 +0000">
     <title>Webster</title>
     <sub-title>Dial K for Katherine</sub-title>
@@ -8688,6 +8688,13 @@
     <category>Comedy</category>
     <category>African-American Comedies</category>
   </programme>
+  <programme channel="BETClassicsPlutoTV.us@SD" start="20261004163000 +0000" stop="20261004170000 +0000">
+    <title>BET Classics</title>
+    <sub-title>BET Classics</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="BETComedyMovies.us@SD" start="20261003160000 +0000" stop="20261003180000 +0000">
     <title>Friday</title>
     <sub-title>Friday</sub-title>
@@ -8778,6 +8785,13 @@
     <desc>Four teens are tricked by their professor into visiting a haunted house for a school project.</desc>
     <category>Comedy</category>
     <category>Spoofs and Satire</category>
+  </programme>
+  <programme channel="BETComedyMovies.us@SD" start="20261004164500 +0000" stop="20261004170000 +0000">
+    <title>BET Comedy Movies</title>
+    <sub-title>BET Comedy Movies</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="BETPlutoTV.us@BR" start="20261003132000 +0000" stop="20261003141000 +0000">
     <title lang="pt">Sistas</title>
@@ -8906,13 +8920,6 @@
     <category lang="pt">Drama</category>
     <category lang="pt">Romantic Drama</category>
     <icon src="https://images.pluto.tv/series/6009e0df2a97380013436ff4/tile_1781879041394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-  </programme>
-  <programme channel="BETPlutoTV.us@US" start="20261003163000 +0000" stop="20261003170000 +0000">
-    <title>The Game</title>
-    <sub-title>He's a No-Good, Lyin', Cheatin', Honky-Tonk Man!</sub-title>
-    <desc>Keira inadvertently starts a fire that leads to some major consequences. Jason gets kicked out of the house by Chardonnay. Tasha learns she is having a daughter.</desc>
-    <category>Comedy</category>
-    <category>African-American Comedies</category>
   </programme>
   <programme channel="BETPlutoTV.us@US" start="20261003170000 +0000" stop="20261003173000 +0000">
     <title>The Game</title>
@@ -9124,6 +9131,13 @@
     <category>Comedy</category>
     <category>African-American Comedies</category>
   </programme>
+  <programme channel="BETPlutoTV.us@US" start="20261004163000 +0000" stop="20261004170000 +0000">
+    <title>BET Pluto TV</title>
+    <sub-title>BET Pluto TV</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="BETVisionaries.us@SD" start="20261003151500 +0000" stop="20261003171500 +0000">
     <title>Head of State</title>
     <sub-title>Head of State</sub-title>
@@ -9207,13 +9221,6 @@
     <desc>Q. Raheem. Bishop. Steel. They're four Harlem friends who spend their days hanging out and looking for a way to get the power and respect they call Juice. Q hopes to earn respect by becoming a scratch 'n' mix DJ.</desc>
     <category>Thriller</category>
     <category>Thriller</category>
-  </programme>
-  <programme channel="BestofMTV.se@DK" start="20261003163402 +0000" stop="20261003165902 +0000">
-    <title>My Super Sweet 16: Lila</title>
-    <sub-title>Lila</sub-title>
-    <desc>A private jet to Vegas for dress shopping, 100% pure silver invitations and a hot VIP list is Lila's dream come true. So why did her mom go and hire those Latin dancers?</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
   </programme>
   <programme channel="BestofMTV.se@DK" start="20261003165902 +0000" stop="20261003172402 +0000">
     <title>My Super Sweet 16: Jazmin</title>
@@ -9530,7 +9537,7 @@
     <category>Comedy</category>
     <category>Fails &amp; Pranks</category>
   </programme>
-  <programme channel="BestofMTV.se@DK" start="20261004160631 +0000" stop="20261004163000 +0000">
+  <programme channel="BestofMTV.se@DK" start="20261004160631 +0000" stop="20261004170000 +0000">
     <title>Best of MTV</title>
     <sub-title>Best of MTV</sub-title>
     <desc>no info available</desc>
@@ -9852,7 +9859,7 @@
     <category>Comedy</category>
     <category>Fails &amp; Pranks</category>
   </programme>
-  <programme channel="BestofMTV.se@NO" start="20261004162327 +0000" stop="20261004163000 +0000">
+  <programme channel="BestofMTV.se@NO" start="20261004162327 +0000" stop="20261004170000 +0000">
     <title>Best of MTV</title>
     <sub-title>Best of MTV</sub-title>
     <desc>no info available</desc>
@@ -10146,19 +10153,12 @@
     <category>Reality</category>
     <category>Celebrity Reality</category>
   </programme>
-  <programme channel="BestofMTV.se@SE" start="20261004161120 +0000" stop="20261004163000 +0000">
+  <programme channel="BestofMTV.se@SE" start="20261004161120 +0000" stop="20261004170000 +0000">
     <title>Best of MTV</title>
     <sub-title>Best of MTV</sub-title>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="BestofParadiseHotelFinalveckan.se@SE" start="20261003155942 +0000" stop="20261003164437 +0000">
-    <title>Paradise Hotel, säsong 16</title>
-    <sub-title>Avsnitt 1635</sub-title>
-    <desc>Det är dags för säsongens sista parceremoni och finalparen ska bildas. Men för de fyra lyckliga finalisterna blir glädjen kortvarig, de gamla gästerna är på väg för att grilla dem en sista gång.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
   </programme>
   <programme channel="BestofParadiseHotelFinalveckan.se@SE" start="20261003164437 +0000" stop="20261003173935 +0000">
     <title>Paradise Hotel, säsong 16</title>
@@ -10356,7 +10356,7 @@
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="BestofParadiseHotelFinalveckan.se@SE" start="20261004160103 +0000" stop="20261004163000 +0000">
+  <programme channel="BestofParadiseHotelFinalveckan.se@SE" start="20261004160103 +0000" stop="20261004170000 +0000">
     <title>Best of Paradise Hotel: Finalveckan</title>
     <sub-title>Best of Paradise Hotel: Finalveckan</sub-title>
     <desc>no info available</desc>
@@ -10580,19 +10580,12 @@
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="BestofParadiseHotelKyssarkarlek.se@SE" start="20261004162929 +0000" stop="20261004163000 +0000">
+  <programme channel="BestofParadiseHotelKyssarkarlek.se@SE" start="20261004162929 +0000" stop="20261004170000 +0000">
     <title>Best of Paradise Hotel: Kyssar &amp; kärlek</title>
     <sub-title>Best of Paradise Hotel: Kyssar &amp; kärlek</sub-title>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="BestofParadiseHotelPandorasAsk.se@SE" start="20261003160121 +0000" stop="20261003165637 +0000">
-    <title>Paradise Hotel, säsong 8</title>
-    <sub-title>Avsnitt 828</sub-title>
-    <desc>FINALVECKAN ÄR HÄR! Smail, Emma, Kristian, Anna, Fanny och Hermansson är de som överlevde den skoningslösa Helvetesveckan och som nu är ensamma kvar på hotellet.</desc>
-    <category>Reality</category>
-    <category>Competition Reality</category>
   </programme>
   <programme channel="BestofParadiseHotelPandorasAsk.se@SE" start="20261003165637 +0000" stop="20261003173814 +0000">
     <title>Paradise Hotel, säsong 16</title>
@@ -10804,19 +10797,12 @@
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="BestofParadiseHotelPandorasAsk.se@SE" start="20261004160327 +0000" stop="20261004163000 +0000">
+  <programme channel="BestofParadiseHotelPandorasAsk.se@SE" start="20261004160327 +0000" stop="20261004170000 +0000">
     <title>Best of Paradise Hotel: Pandoras Ask</title>
     <sub-title>Best of Paradise Hotel: Pandoras Ask</sub-title>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261003160216 +0000" stop="20261003165422 +0000">
-    <title>Paradise Hotel, säsong 9: Avsnitt 918</title>
-    <sub-title>Avsnitt 918</sub-title>
-    <desc>Ett nytt prov väntar för några utsatta studenter och självklart är det mycket som står på spel när det snart är dags för veckans dramatiska parceremoni.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
   </programme>
   <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261003165422 +0000" stop="20261003173625 +0000">
     <title>Paradise Hotel, säsong 16</title>
@@ -11035,7 +11021,7 @@
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261004161617 +0000" stop="20261004163000 +0000">
+  <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261004161617 +0000" stop="20261004170000 +0000">
     <title>Best of Paradise Hotel: Skolveckan</title>
     <sub-title>Best of Paradise Hotel: Skolveckan</sub-title>
     <desc>no info available</desc>
@@ -11320,19 +11306,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261004161500 +0000" stop="20261004163000 +0000">
+  <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261004161500 +0000" stop="20261004170000 +0000">
     <title>Best of The Drew Barrymore Show</title>
     <sub-title>Best of The Drew Barrymore Show</sub-title>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261003163500 +0000" stop="20261003165800 +0000">
-    <title>The Drew Barrymore Show: Guy Fieri, Damona Hoffman, Pilar Valdes, Robin Black</title>
-    <sub-title>Guy Fieri, Damona Hoffman, Pilar Valdes, Robin Black</sub-title>
-    <desc>"Diners, Drive-Ins and Dives" host Guy Fieri is joining Drew to chat and play a game! Dating expert Damona Hoffman is joining Drew, Ross Mathews and his husband Wellington Garciato talk about love and soulmates.</desc>
-    <category>Talk Show</category>
-    <category>Talk Show</category>
   </programme>
   <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261003165800 +0000" stop="20261003172100 +0000">
     <title>The Drew Barrymore Show: Drew's News with Taye Diggs, Jamila Norman, Jeralyn Gerba, Nadine Jane</title>
@@ -11670,19 +11649,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261004160200 +0000" stop="20261004163000 +0000">
+  <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261004160200 +0000" stop="20261004170000 +0000">
     <title>Best of The Drew Barrymore Show</title>
     <sub-title>Best of The Drew Barrymore Show</sub-title>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261003160200 +0000" stop="20261003165300 +0000">
-    <title>The Drew Barrymore Show: Hoda Kotb, America’s Most Haunted House, The Weekender</title>
-    <sub-title>Hoda Kotb, America’s Most Haunted House, The Weekender</sub-title>
-    <desc>"Today" Co-Anchor Hoda Kotb joins Drew to discuss her new book. Drew goes inside one of America’s most Haunted Houses with the help of a medium. Then, Drew gives a curated list of her favorites in "The Weekender."</desc>
-    <category>Talk Show</category>
-    <category>Talk Show</category>
   </programme>
   <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261003165300 +0000" stop="20261003174400 +0000">
     <title>The Drew Barrymore Show: “Drew’s D-Cluttering” Show, Marie Kondo, Rachael Ray</title>
@@ -11971,7 +11943,7 @@ great 1860 painting cellphone debate.</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261004160400 +0000" stop="20261004163000 +0000">
+  <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261004160400 +0000" stop="20261004170000 +0000">
     <title>Best of The Drew Barrymore Show</title>
     <sub-title>Best of The Drew Barrymore Show</sub-title>
     <desc>no info available</desc>
@@ -12174,7 +12146,7 @@ great 1860 painting cellphone debate.</desc>
     <category>Variety Show</category>
     <category>Variety Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261004161200 +0000" stop="20261004163000 +0000">
+  <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261004161200 +0000" stop="20261004170000 +0000">
     <title>Best of The Drew Barrymore Show</title>
     <sub-title>Best of The Drew Barrymore Show</sub-title>
     <desc>no info available</desc>
@@ -12510,7 +12482,7 @@ great 1860 painting cellphone debate.</desc>
     <category>Comedy</category>
     <category>African-American Comedies</category>
   </programme>
-  <programme channel="CCPlutoTV.de@DACH" start="20261004160824 +0000" stop="20261004163000 +0000">
+  <programme channel="CCPlutoTV.de@DACH" start="20261004160824 +0000" stop="20261004170000 +0000">
     <title>Comedy Central Pluto TV</title>
     <sub-title>Comedy Central Pluto TV</sub-title>
     <desc>no info available</desc>
@@ -12713,12 +12685,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Crime</category>
     <category>Crime</category>
   </programme>
-  <programme channel="CSI.us@SD" start="20261003160000 +0000" stop="20261003170000 +0000">
+  <programme channel="CSI.se@DK" start="20261004163350 +0000" stop="20261004170000 +0000">
     <title>CSI</title>
-    <sub-title>Leaving Las Vegas</sub-title>
-    <desc>Catherine's testimony in court is not enough to convict a killer suspected of murdering his own mother. Adam Novak, with whom Catherine had a brief romantic encounter, is the lawyer who represents the killer and secures his freedom.</desc>
-    <category>Drama</category>
-    <category>Crime Drama</category>
+    <sub-title>CSI</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="CSI.us@SD" start="20261003170000 +0000" stop="20261003180000 +0000">
     <title>CSI</title>
@@ -12881,19 +12853,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
-  <programme channel="CSI.us@SD" start="20261004161500 +0000" stop="20261004163000 +0000">
+  <programme channel="CSI.us@SD" start="20261004161500 +0000" stop="20261004170000 +0000">
     <title>CSI</title>
     <sub-title>CSI</sub-title>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="CSICrimeSceneInvestigation.de@GB" start="20261003160620 +0000" stop="20261003165459 +0000">
-    <title>CSI: Crime Scene Investigation</title>
-    <sub-title>Lab Rats</sub-title>
-    <desc>Lab technician Hodges convinces his colleagues that Grissom needs their help.</desc>
-    <category>Drama</category>
-    <category>Crime Drama</category>
   </programme>
   <programme channel="CSICrimeSceneInvestigation.de@GB" start="20261003165459 +0000" stop="20261003173757 +0000">
     <title>CSI: Crime Scene Investigation</title>
@@ -13098,7 +13063,7 @@ great 1860 painting cellphone debate.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
-  <programme channel="CSICrimeSceneInvestigation.de@GB" start="20261004160452 +0000" stop="20261004163000 +0000">
+  <programme channel="CSICrimeSceneInvestigation.de@GB" start="20261004160452 +0000" stop="20261004170000 +0000">
     <title>CSI: Crime Scene Investigation</title>
     <sub-title>CSI: Crime Scene Investigation</sub-title>
     <desc>no info available</desc>
@@ -13301,19 +13266,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Action &amp; Adventure</category>
     <category>Crime Action</category>
   </programme>
-  <programme channel="CSIMiami.us@BR" start="20261004162000 +0000" stop="20261004163000 +0000">
+  <programme channel="CSIMiami.us@BR" start="20261004162000 +0000" stop="20261004170000 +0000">
     <title>CSI: Miami</title>
     <sub-title>CSI: Miami</sub-title>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="CSIMiami.us@SD" start="20261003160000 +0000" stop="20261003170000 +0000">
-    <title>CSI: Miami</title>
-    <sub-title>Come As You Are</sub-title>
-    <desc>When a Marine recruiter is murdered, the CSIs must delve into the world of enlisting soldiers and the families they leave behind.</desc>
-    <category>Thriller</category>
-    <category>Thriller</category>
   </programme>
   <programme channel="CSIMiami.us@SD" start="20261003170000 +0000" stop="20261003180000 +0000">
     <title>CSI: Miami</title>
@@ -13651,12 +13609,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
-  <programme channel="CSINYenespanol.us@SD" start="20261003160000 +0000" stop="20261003170000 +0000">
-    <title>CSI: New York en español</title>
-    <sub-title>No desenterremos el pasado</sub-title>
-    <desc>Cuando encuentran muerto a un estudiante universitario en un laberinto del museo de la granja del condado de Queens, el equipo de CSI descubre una fraternidad parecida a un culto con severos castigos.</desc>
-    <category>Drama</category>
-    <category>Crime Drama</category>
+  <programme channel="CSIMiamienespanol.us@SD" start="20261004163000 +0000" stop="20261004170000 +0000">
+    <title>CSI: Miami en español</title>
+    <sub-title>CSI: Miami en español</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="CSINYenespanol.us@SD" start="20261003170000 +0000" stop="20261003180000 +0000">
     <title>CSI: New York en español</title>
@@ -14164,6 +14122,180 @@ great 1860 painting cellphone debate.</desc>
     <desc lang="es">Se presentan las últimas noticias, con móviles en vivo e invitados especiales.</desc>
     <date>19700101</date>
     <image>https://zpapi.zetatv.com.uy/media/images/8c35161a72d2067dcf55090995b87b27.jpg</image>
+  </programme>
+  <programme start="20261003043000 +0000" stop="20261003063000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Cortá por Lozano</title>
+    <desc lang="es">Actualidad, espectáculos, entrevistas y humor, con el particular estilo de Verónica Lozano, acompañada de reconocidos profesionales...</desc>
+    <category lang="es">Magazine</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_corta-por-lozano_l_m.jpg</image>
+  </programme>
+  <programme start="20261003050000 +0000" stop="20261003050500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Intuiciones</title>
+  </programme>
+  <programme start="20261003050500 +0000" stop="20261003053000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">El Valor de Tus Joyas</title>
+  </programme>
+  <programme start="20261003053000 +0000" stop="20261003073000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Cortá Por Lozano</title>
+  </programme>
+  <programme start="20261003063000 +0000" stop="20261003070000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">El álbum</title>
+    <desc lang="es">Cada participante deberá reunir las 20 figuritas necesarias para completar su álbum, enfrentándose a preguntas, desafíos y momentos de tensión que pondrán a prueba su memoria, su pasión y su rapidez.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003070000 +0000" stop="20261003090000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">A la Barbarossa</title>
+    <desc lang="es">Georgina combina los temas de actualidad, la cocina y el humor en tus mañanas. Junto a su panel, tratarán los temas más importantes del día con móviles en vivo en el lugar de los hechos.</desc>
+    <category lang="es">Magazine</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003073000 +0000" stop="20261003080000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">El album</title>
+  </programme>
+  <programme start="20261003080000 +0000" stop="20261003100000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">A la Barbarossa</title>
+  </programme>
+  <programme start="20261003090000 +0000" stop="20261003091500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Disney Jr.</title>
+    <desc lang="es">Un espacio que presenta los mejores contenidos de Disney Jr. para que disfruten los más pequeños.</desc>
+    <category lang="es">Infantil</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003091500 +0000" stop="20261003101500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Disney Jr.</title>
+    <desc lang="es">Un espacio que presenta los mejores contenidos de Disney Jr. para que disfruten los más pequeños.</desc>
+    <category lang="es">Infantil</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003100000 +0000" stop="20261003113000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Disney Junior</title>
+  </programme>
+  <programme start="20261003101500 +0000" stop="20261003103000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">El Chavo y el Chapulín colorado</title>
+    <desc lang="es">Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.</desc>
+    <category lang="es">Comedia</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003103000 +0000" stop="20261003121500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">El Chavo y el Chapulín colorado</title>
+    <desc lang="es">Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.</desc>
+    <category lang="es">Comedia</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003113000 +0000" stop="20261003150000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">El Chavo y Chapulín</title>
+  </programme>
+  <programme start="20261003121500 +0000" stop="20261003140000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">El Chavo y el Chapulín colorado</title>
+    <desc lang="es">Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.</desc>
+    <category lang="es">Comedia</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003140000 +0000" stop="20261003200000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.</desc>
+    <category lang="es">Comedia</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_los-simpson_l_m.jpg</image>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003210000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20261003200000 +0000" stop="20261003203000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Escape perfecto</title>
+    <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
+  </programme>
+  <programme start="20261003203000 +0000" stop="20261003213000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">A confirmar</title>
+    <desc lang="es">Programación a confirmar.</desc>
+    <category lang="es">Variedades</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_a-confirmar_l_m.jpg</image>
+  </programme>
+  <programme start="20261003210000 +0000" stop="20261003223000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">El Muro Infernal</title>
+  </programme>
+  <programme start="20261003213000 +0000" stop="20261003214500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Escape perfecto</title>
+    <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
+  </programme>
+  <programme start="20261003214500 +0000" stop="20261003230000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Escape perfecto</title>
+    <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
+  </programme>
+  <programme start="20261003223000 +0000" stop="20261004000000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20261003230000 +0000" stop="20261004000000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Pasapalabra</title>
+    <desc lang="es">En cada emisión, se enfrentan 2 equipos en diferentes juegos cuyo objetivo es la suma de segundos para el desafío final. Figuras muy conocidas y queridas, se sumarán en cada programa y lo dejarán todo para ser los mejores.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_pasapalabra_l_m.jpg</image>
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004001500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Palpitando la previa</title>
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004020000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Argentina vs. Burkina Faso</title>
+    <desc lang="es">Disfruta de los mejores partidos amistosos internacionales de la Selección Argentina.</desc>
+    <category lang="es">Amistoso internacional</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
+  </programme>
+  <programme start="20261004001500 +0000" stop="20261004010000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Fútbol: Previa</title>
+  </programme>
+  <programme start="20261004010000 +0000" stop="20261004024500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Argentina vs. Burkina Faso</title>
+  </programme>
+  <programme start="20261004020000 +0000" stop="20261004024500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">PH: Podemos hablar</title>
+    <desc lang="es">Distintas personalidades visitan a Andy en un encuentro para hablar de todo y escucharse unos a otros, y se sorprenden al descubrir que tienen mucho más en común de lo que piensan.</desc>
+    <category lang="es">Talk Show</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_ph-podemos-hablar-1_l_m.jpg</image>
+  </programme>
+  <programme start="20261004024500 +0000" stop="20261004033000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Fútbol: Post</title>
+  </programme>
+  <programme start="20261004024500 +0000" stop="20261004030000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">DirecTV - DGO Presentan: Espiando la casa</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+    <category lang="es">Reality Show</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261004030000 +0000" stop="20261004033000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">El álbum</title>
+    <desc lang="es">Cada participante deberá reunir las 20 figuritas necesarias para completar su álbum, enfrentándose a preguntas, desafíos y momentos de tensión que pondrán a prueba su memoria, su pasión y su rapidez.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261004033000 +0000" stop="20261004040000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Tierras</title>
+  </programme>
+  <programme start="20261004033000 +0000" stop="20261004053000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">PH: Podemos hablar</title>
+    <desc lang="es">Distintas personalidades visitan a Andy en un encuentro para hablar de todo y escucharse unos a otros, y se sorprenden al descubrir que tienen mucho más en común de lo que piensan.</desc>
+    <category lang="es">Talk Show</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_ph-podemos-hablar-1_l_m.jpg</image>
+  </programme>
+  <programme start="20261004040000 +0000" stop="20261004054500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Argentina vs. Burkina Faso</title>
+  </programme>
+  <programme start="20261004053000 +0000" stop="20261004054500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">DirecTV - DGO Presentan: Espiando la casa</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+    <category lang="es">Reality Show</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261004054500 +0000" stop="20261004064500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">#JuegoChino</title>
+    <desc lang="es">Guillermo Pelado López desafía a las figuras más reconocidas con sus preguntas desopilantes, el humor ácido que lo caracteriza y situaciones muy divertidas.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
   </programme>
   <programme start="20261003160000 +0200" stop="20261003213000 +0200" channel="CanalPlusActionEurope.nl@Czechia">
     <title lang="nl">Padel: Rotterdam Premier Padel</title>
@@ -15581,6 +15713,13 @@ great 1860 painting cellphone debate.</desc>
     <category>Horror</category>
     <category>Supernatural Horror</category>
   </programme>
+  <programme channel="CineTerror.us@US" start="20261004163000 +0000" stop="20261004170000 +0000">
+    <title>Cine terror</title>
+    <sub-title>Cine terror</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="CineThrillersbyPlutoTV.de@FR" start="20261003130454 +0000" stop="20261003145251 +0000">
     <title lang="fr">The Wolf Hour</title>
     <sub-title lang="fr">The Wolf Hour</sub-title>
@@ -16377,12 +16516,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Crime</category>
     <category>Crime</category>
   </programme>
-  <programme channel="ClassicTVComedy.us@SD" start="20261003163048 +0000" stop="20261003170048 +0000">
-    <title>The Dick Van Dyke Show</title>
-    <sub-title>Empress Carlotta's Necklace</sub-title>
-    <desc>Rob buys Laura a hideous necklace but Laura can't bring herself to tell Rob how she really feels about it. When Rob invites his parents to see the necklace, his mother has a surprising reaction.</desc>
-    <category>Comedy</category>
-    <category>Cult Comedies</category>
+  <programme channel="Cineenespanol.us@SD" start="20261004163000 +0000" stop="20261004170000 +0000">
+    <title>Cine en español</title>
+    <sub-title>Cine en español</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="ClassicTVComedy.us@SD" start="20261003170048 +0000" stop="20261003173048 +0000">
     <title>The Dick Van Dyke Show</title>
@@ -16706,7 +16845,7 @@ great 1860 painting cellphone debate.</desc>
     <category>Comedy</category>
     <category>Screwball</category>
   </programme>
-  <programme channel="ClassicTVComedy.us@SD" start="20261004160048 +0000" stop="20261004163000 +0000">
+  <programme channel="ClassicTVComedy.us@SD" start="20261004160048 +0000" stop="20261004170000 +0000">
     <title>Classic TV Comedy</title>
     <sub-title>Classic TV Comedy</sub-title>
     <desc>no info available</desc>
@@ -16847,13 +16986,6 @@ great 1860 painting cellphone debate.</desc>
   </programme>
   <programme start="20261004203000 +0000" stop="20261003210000 +0000" channel="CodeFashionTV.bg@SD">
     <title lang="bg">Fashion Films Night</title>
-  </programme>
-  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261003161524 +0000" stop="20261003164224 +0000">
-    <title>Vergüenza Ajena</title>
-    <sub-title>Chanel y Sterling CCCLX</sub-title>
-    <desc>En un nuevo episodio de Vergüenza ajena, Rob, Chanel y Steelo intentarán poner música en sus MUERTICULARES, tratarán de presenciar PRÁCTICAS INVISIBLES y verán quién es COMO LA COPA DE UN PINO.</desc>
-    <category>Comedy</category>
-    <category>Fails &amp; Pranks</category>
   </programme>
   <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261003164224 +0000" stop="20261003170924 +0000">
     <title>Vergüenza Ajena</title>
@@ -17247,19 +17379,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Comedy</category>
     <category>Fails &amp; Pranks</category>
   </programme>
-  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261004162421 +0000" stop="20261004163000 +0000">
+  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261004162421 +0000" stop="20261004170000 +0000">
     <title>Comedia a lo bestia de Pluto TV</title>
     <sub-title>Comedia a lo bestia de Pluto TV</sub-title>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="ComedyCentralAnimation.us@SD" start="20261003162400 +0000" stop="20261003164900 +0000">
-    <title>Ugly Americans</title>
-    <sub-title>Pilot</sub-title>
-    <desc>A New York Department of Integration social worker helps supernatural creatures adapt to city life.</desc>
-    <category>Comedy</category>
-    <category>Late Night Comedies</category>
   </programme>
   <programme channel="ComedyCentralAnimation.us@SD" start="20261003164900 +0000" stop="20261003171400 +0000">
     <title>Ugly Americans</title>
@@ -17772,7 +17897,7 @@ great 1860 painting cellphone debate.</desc>
     <category>Comedy</category>
     <category>Cult Comedies</category>
   </programme>
-  <programme channel="ComedyCentralAnimation.us@SD" start="20261004160400 +0000" stop="20261004163000 +0000">
+  <programme channel="ComedyCentralAnimation.us@SD" start="20261004160400 +0000" stop="20261004170000 +0000">
     <title>Comedy Central Animation</title>
     <sub-title>Comedy Central Animation</sub-title>
     <desc>no info available</desc>
@@ -18966,13 +19091,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">African-American Comedies</category>
     <icon src="https://images.pluto.tv/series/6aa0142faf45eb18dbf62fa9/tile_1788875824440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="ComedyCentralPlutoTV.us@US" start="20261003163000 +0000" stop="20261003170000 +0000">
-    <title>Nathan For You</title>
-    <sub-title>Souvenir Shop/E.L.A.I.F.F.</sub-title>
-    <desc>Nathan sets up a fake film shoot in an effort to boost sales at a Hollywood souvenir shop, but his plan gets complicated when he discovers that he may have committed fraud.</desc>
-    <category>Comedy</category>
-    <category>Sketch Comedies</category>
-  </programme>
   <programme channel="ComedyCentralPlutoTV.us@US" start="20261003170000 +0000" stop="20261003173000 +0000">
     <title>Beavis and Butt-Head</title>
     <sub-title>The Mike Judge Collection 207</sub-title>
@@ -19302,6 +19420,13 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Late Night Comedies</category>
   </programme>
+  <programme channel="ComedyCentralPlutoTV.us@US" start="20261004163000 +0000" stop="20261004170000 +0000">
+    <title>Comedy Central Pluto TV</title>
+    <sub-title>Comedy Central Pluto TV</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="ComedyCentralRoast.se@DK" start="20261003161347 +0000" stop="20261003174847 +0000">
     <title>The Roast of Justin Bieber</title>
     <sub-title>The Roast of Justin Bieber</sub-title>
@@ -19449,19 +19574,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Stand-Up</category>
   </programme>
-  <programme channel="ComedyCentralRoast.se@DK" start="20261004162620 +0000" stop="20261004163000 +0000">
+  <programme channel="ComedyCentralRoast.se@DK" start="20261004162620 +0000" stop="20261004170000 +0000">
     <title>Comedy Central Roast</title>
     <sub-title>Comedy Central Roast</sub-title>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="ComedyCentralSouthPark.us@BR" start="20261003162400 +0000" stop="20261003165100 +0000">
-    <title>South Park</title>
-    <sub-title>Fim do Log In</sub-title>
-    <desc>Um dia, os moradores de South Park acordam e descobrem que estão sem Internet. Randy descobre que ainda há Internet na Califórnia e junto com a sua família, eles se dirigem para o Oeste do país.</desc>
-    <category>Comedy</category>
-    <category>Spoofs and Satire</category>
   </programme>
   <programme channel="ComedyCentralSouthPark.us@BR" start="20261003165100 +0000" stop="20261003171800 +0000">
     <title>South Park</title>
@@ -19827,7 +19945,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Spoofs and Satire</category>
   </programme>
-  <programme channel="ComedyCentralSouthPark.us@BR" start="20261004161500 +0000" stop="20261004163000 +0000">
+  <programme channel="ComedyCentralSouthPark.us@BR" start="20261004161500 +0000" stop="20261004170000 +0000">
     <title>Comedy Central South Park</title>
     <sub-title>Comedy Central South Park</sub-title>
     <desc>no info available</desc>
@@ -20184,19 +20302,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Dark Humor &amp; Black Comedies</category>
   </programme>
-  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261004161100 +0000" stop="20261004163000 +0000">
+  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261004161100 +0000" stop="20261004170000 +0000">
     <title>Comedy Central South Park</title>
     <sub-title>Comedy Central South Park</sub-title>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="ComedyCentralenEspanol.us@SD" start="20261003163000 +0000" stop="20261003170000 +0000">
-    <title>Enchufe.TV: Enchufe.TV S4 E.07</title>
-    <sub-title>Enchufe.TV S4 E.07</sub-title>
-    <desc>Grupo de WhatsApp.  Esperman. Cuestión de percepción: Amor. En la mente de Esteban. Andrés, el que te visita cada mes. Esto no es un videojuego</desc>
-    <category>Comedy</category>
-    <category>Sketch Comedies</category>
   </programme>
   <programme channel="ComedyCentralenEspanol.us@SD" start="20261003170000 +0000" stop="20261003173000 +0000">
     <title>Enchufe.TV: Enchufe.TV S4 E.08</title>
@@ -20386,6 +20497,13 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc>Un clavo saca otro clavo. La casita del terror. Tecnología antes y ahora. Forknite entre padre e hijo.  Tío borracho cuenta: El Grinch</desc>
     <category>Comedy</category>
     <category>Sketch Comedies</category>
+  </programme>
+  <programme channel="ComedyCentralenEspanol.us@SD" start="20261004163000 +0000" stop="20261004170000 +0000">
+    <title>Comedy Central en español</title>
+    <sub-title>Comedy Central en español</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="DW.de@English" start="20261003140000 +0000" stop="20261003140200 +0000">
     <title lang="en">DW News</title>
@@ -21265,13 +21383,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="DatingNakedUK.se@DK" start="20261003154933 +0000" stop="20261003164514 +0000">
-    <title>Dating Naked UK</title>
-    <sub-title>Vindende forbindelser</sub-title>
-    <desc>De sidste tre par kæmpe rom at vinde Dating Naked. Der står £50.000 på spil. Vil de vise deres sande jeg?</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
-  </programme>
   <programme channel="DatingNakedUK.se@DK" start="20261003164514 +0000" stop="20261003173252 +0000">
     <title>Dating Naked UK</title>
     <sub-title>Smid kludene</sub-title>
@@ -21468,6 +21579,13 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
+  <programme channel="DatingNakedUK.se@DK" start="20261004165300 +0000" stop="20261004170000 +0000">
+    <title>Dating Naked UK</title>
+    <sub-title>Dating Naked UK</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="DatingNakedUK.se@NO" start="20261003160946 +0000" stop="20261003170444 +0000">
     <title>Dating Naked UK</title>
     <sub-title>Nuss, nuss...</sub-title>
@@ -21650,19 +21768,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="DatingNakedUK.se@NO" start="20261004160049 +0000" stop="20261004163000 +0000">
+  <programme channel="DatingNakedUK.se@NO" start="20261004160049 +0000" stop="20261004170000 +0000">
     <title>Dating Naked UK</title>
     <sub-title>Dating Naked UK</sub-title>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="DatingNakedUK.se@SE" start="20261003155301 +0000" stop="20261003164810 +0000">
-    <title>Dating Naked UK</title>
-    <sub-title>Äkta relationer</sub-title>
-    <desc>Det närmar sig slutet, och det ska fattas stora beslut som skakar om huset.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
   </programme>
   <programme channel="DatingNakedUK.se@SE" start="20261003164810 +0000" stop="20261003174451 +0000">
     <title>Dating Naked UK</title>
@@ -21839,7 +21950,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="DatingNakedUK.se@SE" start="20261004160148 +0000" stop="20261004163000 +0000">
+  <programme channel="DatingNakedUK.se@SE" start="20261004160148 +0000" stop="20261004170000 +0000">
     <title>Dating Naked UK</title>
     <sub-title>Dating Naked UK</sub-title>
     <desc>no info available</desc>
@@ -25605,13 +25716,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="es">El Viejo Oeste con Kevin Costner</title>
     <sub-title lang="es">Comanchería</sub-title>
   </programme>
-  <programme channel="LEGOKidsTV.us@SD" start="20261003163200 +0000" stop="20261003165900 +0000">
-    <title>LEGO Ninjago: Masters of Spinjitzu</title>
-    <sub-title>Grave Danger</sub-title>
-    <desc>The Ninja use Ronan’s airship to travel to the tomb of the First Spinjitzu Master in an underwater cave under the ocean, only to find out Moro is already there.</desc>
-    <category>Children &amp; Family</category>
-    <category>Family Animation</category>
-  </programme>
   <programme channel="LEGOKidsTV.us@SD" start="20261003165900 +0000" stop="20261003172600 +0000">
     <title>LEGO Ninjago: Masters of Spinjitzu</title>
     <sub-title>Curse World, Part I</sub-title>
@@ -25969,7 +26073,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Children &amp; Family</category>
     <category>Family Animation</category>
   </programme>
-  <programme channel="LEGOKidsTV.us@SD" start="20261004160300 +0000" stop="20261004163000 +0000">
+  <programme channel="LEGOKidsTV.us@SD" start="20261004160300 +0000" stop="20261004170000 +0000">
     <title>LEGO Kids TV</title>
     <sub-title>LEGO Kids TV</sub-title>
     <desc>no info available</desc>
@@ -28197,7 +28301,7 @@ fasttømrede par.</desc>
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="ParadiseHotel.se@DK" start="20261004160846 +0000" stop="20261004163000 +0000">
+  <programme channel="ParadiseHotel.se@DK" start="20261004160846 +0000" stop="20261004170000 +0000">
     <title>Paradise Hotel</title>
     <sub-title>Paradise Hotel</sub-title>
     <desc>no info available</desc>
@@ -28421,12 +28525,12 @@ fasttømrede par.</desc>
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="ParadiseHotel.se@SE" start="20261003162138 +0000" stop="20261003170127 +0000">
-    <title>Paradise Hotel, säsong 17</title>
-    <sub-title>Avsnitt 1728</sub-title>
-    <desc>Gästerna vaknar upp i Monaco, men vilka vågar att satsa och vilka är det som kommer gå vinnande från roulettehjulet? En ny romans är på väg att blomma upp för en av killarna, men är kärleken besvarad?</desc>
-    <category>Reality</category>
-    <category>Competition Reality</category>
+  <programme channel="ParadiseHotel.se@NO" start="20261004164457 +0000" stop="20261004170000 +0000">
+    <title>Paradise Hotel</title>
+    <sub-title>Paradise Hotel</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="ParadiseHotel.se@SE" start="20261003170127 +0000" stop="20261003173731 +0000">
     <title>Paradise Hotel, säsong 17</title>
@@ -28666,19 +28770,12 @@ fasttømrede par.</desc>
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="ParadiseHotel.se@SE" start="20261004160030 +0000" stop="20261004163000 +0000">
+  <programme channel="ParadiseHotel.se@SE" start="20261004160030 +0000" stop="20261004170000 +0000">
     <title>Paradise Hotel</title>
     <sub-title>Paradise Hotel</sub-title>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="ParadiseHotelUnderlagnerne.se@DK" start="20261003160354 +0000" stop="20261003164914 +0000">
-    <title>Paradise Hotel - Sæson 21: Episode 2114</title>
-    <sub-title>Episode 2114</sub-title>
-    <desc>Pigerne skal på tur, for uden for hotellet venter en ny gæst, som nogen har set før. Og så bliver der skruet op for flirteriet, men det er ikke alle, der er glade for det.</desc>
-    <category>Reality</category>
-    <category>Competition Reality</category>
   </programme>
   <programme channel="ParadiseHotelUnderlagnerne.se@DK" start="20261003164914 +0000" stop="20261003173117 +0000">
     <title>Paradise Hotel - Sæson 21: Episode 2115</title>
@@ -28917,6 +29014,13 @@ fasttømrede par.</desc>
     <desc>Kongen og dronningen holder storslået hofbal, men kongens interesse i en af pigerne skaber utryghed hos flere af de andre gæster.</desc>
     <category>Reality</category>
     <category>Human Interest</category>
+  </programme>
+  <programme channel="ParadiseHotelUnderlagnerne.se@DK" start="20261004163015 +0000" stop="20261004170000 +0000">
+    <title>Paradise Hotel: Under lagnerne</title>
+    <sub-title>Paradise Hotel: Under lagnerne</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme start="20261003040000 +0000" stop="20261003060000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Duplex nacional</title>
@@ -30310,6 +30414,13 @@ fasttømrede par.</desc>
     <category>Comedy</category>
     <category>Best of British Humor</category>
   </programme>
+  <programme channel="PlutoTVCineComedia.de@ES" start="20261004165700 +0000" stop="20261004170000 +0000">
+    <title>Pluto TV Cine Comedia</title>
+    <sub-title>Pluto TV Cine Comedia</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="PlutoTVCineComedia.us@BR" start="20261003122900 +0000" stop="20261003140700 +0000">
     <title lang="pt">Arrume Um Emprego</title>
     <sub-title lang="pt">Arrume Um Emprego</sub-title>
@@ -31273,6 +31384,13 @@ fasttømrede par.</desc>
     <category>Comedy</category>
     <category>Cult Comedies</category>
   </programme>
+  <programme channel="PlutoTVCineRomantico.de@ES" start="20261004165903 +0000" stop="20261004170000 +0000">
+    <title>Pluto TV Cine Romántico</title>
+    <sub-title>Pluto TV Cine Romántico</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="PlutoTVCineSucessos.us@BR" start="20261003124830 +0000" stop="20261003145730 +0000">
     <title lang="pt">Os Reis da Rua</title>
     <sub-title lang="pt">Os Reis da Rua</sub-title>
@@ -31658,7 +31776,7 @@ fasttømrede par.</desc>
     <category>Comedy</category>
     <category>African-American Comedies</category>
   </programme>
-  <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261004162940 +0000" stop="20261004163000 +0000">
+  <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261004162940 +0000" stop="20261004170000 +0000">
     <title>Pluto TV Comedia made in Spain</title>
     <sub-title>Pluto TV Comedia made in Spain</sub-title>
     <desc>no info available</desc>
@@ -31769,6 +31887,13 @@ fasttømrede par.</desc>
     <desc>Basada en la exitosa obra del mismo nombre con música del grupo pop-folk, "The Proclaimers", cuenta la historia de Davy y Ally, que han de adaptarse de nuevo a vivir en  Edimburgo tras su  paso por la guerra en Afganistán.</desc>
     <category>Comedy</category>
     <category>African-American Comedies</category>
+  </programme>
+  <programme channel="PlutoTVComediasRomanticas.de@ES" start="20261004163628 +0000" stop="20261004170000 +0000">
+    <title>Pluto TV Comedias Románticas</title>
+    <sub-title>Pluto TV Comedias Románticas</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="PlutoTVDesenhosClassicos.us@BR" start="20261003135500 +0000" stop="20261003142200 +0000">
     <title lang="pt">Denis o Pimentinha</title>
@@ -32514,13 +32639,6 @@ fasttømrede par.</desc>
     <category lang="es">Family Comedies</category>
     <icon src="https://images.pluto.tv/series/5f3587e0bbff270013bb0a63/tile_1769624281505.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="PlutoTVKidsClassics.de@ES" start="20261003162000 +0000" stop="20261003165000 +0000">
-    <title>Pluto TV Kids Classics</title>
-    <sub-title>Pluto TV Kids Classics</sub-title>
-    <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-    <category>Children &amp; Family</category>
-    <category>Cartoons</category>
-  </programme>
   <programme channel="PlutoTVKidsClassics.de@ES" start="20261003165000 +0000" stop="20261003172000 +0000">
     <title>Pluto TV Kids Classics</title>
     <sub-title>Pluto TV Kids Classics</sub-title>
@@ -32850,7 +32968,7 @@ fasttømrede par.</desc>
     <category>Children &amp; Family</category>
     <category>Cartoons</category>
   </programme>
-  <programme channel="PlutoTVKidsClassics.de@ES" start="20261004162000 +0000" stop="20261004163000 +0000">
+  <programme channel="PlutoTVKidsClassics.de@ES" start="20261004162000 +0000" stop="20261004170000 +0000">
     <title>Pluto TV Kids Classics</title>
     <sub-title>Pluto TV Kids Classics</sub-title>
     <desc>no info available</desc>
@@ -34100,7 +34218,7 @@ fasttømrede par.</desc>
     <category>Sci-Fi &amp; Fantasy</category>
     <category>Action Sci-Fi &amp; Fantasy</category>
   </programme>
-  <programme channel="PlutoTVSciFi.de@ES" start="20261004160932 +0000" stop="20261004163000 +0000">
+  <programme channel="PlutoTVSciFi.de@ES" start="20261004160932 +0000" stop="20261004170000 +0000">
     <title>Pluto TV Sci-Fi</title>
     <sub-title>Pluto TV Sci-Fi</sub-title>
     <desc>no info available</desc>
@@ -35534,6 +35652,13 @@ fasttømrede par.</desc>
     <category>Sci-Fi &amp; Fantasy</category>
     <category>Supernatural Sci-Fi</category>
   </programme>
+  <programme channel="PlutoTVSeriesSciFi.de@ES" start="20261004164943 +0000" stop="20261004170000 +0000">
+    <title>Pluto TV Series Sci-Fi</title>
+    <sub-title>Pluto TV Series Sci-Fi</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="PlutoTVSeriesSciFi.us@BR" start="20261003132600 +0000" stop="20261003141700 +0000">
     <title lang="pt">Os 4400</title>
     <sub-title lang="pt">O Fantasma na Máquina</sub-title>
@@ -35653,13 +35778,6 @@ fasttømrede par.</desc>
     <category lang="pt">Sci-Fi &amp; Fantasy</category>
     <category lang="pt">Sci-Fi Dramas</category>
     <icon src="https://images.pluto.tv/series/693c1bab6a5d6e3860947ceb/tile_1771016404054.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-  </programme>
-  <programme channel="PlutoTVSeriescriminales.de@ES" start="20261003161101 +0000" stop="20261003170054 +0000">
-    <title>Rush</title>
-    <sub-title>Capítulo 14</sub-title>
-    <desc>Lawson extrae a una agente encubierta de un sindicato de drogas solo para descubrir que ha cruzado la línea y está embarazada de un criminal conocido. 'Tactical Response' corre para localizarla antes de que su novio descubra que es policía.</desc>
-    <category>Thriller</category>
-    <category>Thriller</category>
   </programme>
   <programme channel="PlutoTVSeriescriminales.de@ES" start="20261003170054 +0000" stop="20261003180127 +0000">
     <title>Unidad de investigación</title>
@@ -35843,7 +35961,7 @@ fasttømrede par.</desc>
     <category>Thriller</category>
     <category>Thriller</category>
   </programme>
-  <programme channel="PlutoTVSeriescriminales.de@ES" start="20261004161307 +0000" stop="20261004163000 +0000">
+  <programme channel="PlutoTVSeriescriminales.de@ES" start="20261004161307 +0000" stop="20261004170000 +0000">
     <title>Pluto TV Series criminales</title>
     <sub-title>Pluto TV Series criminales</sub-title>
     <desc>no info available</desc>
@@ -36988,13 +37106,6 @@ fasttømrede par.</desc>
     <category>Thriller</category>
     <category>Thriller</category>
   </programme>
-  <programme channel="PlutoTVTrueCrime.de@ES" start="20261003153804 +0000" stop="20261003164404 +0000">
-    <title>Evidencias del Crimen: En busca de SK1 - Caso Akira Ojima</title>
-    <sub-title>En busca de SK1 - Caso Akira Ojima</sub-title>
-    <desc>El 13 de octubre de 1996, el cuerpo de la joven Angélique Dumetz, de 18 años, es recuperado en una zanja en el bosque de Oise.</desc>
-    <category>Crime</category>
-    <category>Crime</category>
-  </programme>
   <programme channel="PlutoTVTrueCrime.de@ES" start="20261003164404 +0000" stop="20261003173242 +0000">
     <title>Happily Never After: Vestido de Novia Rojo Sangre</title>
     <sub-title>Vestido de Novia Rojo Sangre</sub-title>
@@ -37183,6 +37294,13 @@ fasttømrede par.</desc>
     <desc>En la mañana del 24 de julio de 2009, se produce un incendio en una casa de Plougonvelin.</desc>
     <category>Crime</category>
     <category>Crime</category>
+  </programme>
+  <programme channel="PlutoTVTrueCrime.de@ES" start="20261004164409 +0000" stop="20261004170000 +0000">
+    <title>Pluto TV True Crime</title>
+    <sub-title>Pluto TV True Crime</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="PlutoTVWestern.de@ES" start="20261003142631 +0000" stop="20261003171731 +0000">
     <title>¡Agáchate, maldito!</title>
@@ -37992,6 +38110,76 @@ fasttømrede par.</desc>
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/8/1/15240189.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
+  <programme channel="RealAmericasVoice.us@KPVMLD" start="20261003100000 -0400" stop="20261003120000 -0400">
+    <title lang="en">Live: The War Room</title>
+    <desc lang="en">Steve Bannon and the team brings important news from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23401942_b_v8_ab.jpg" />
+  </programme>
+  <programme channel="RealAmericasVoice.us@KPVMLD" start="20261003120000 -0400" stop="20261003130000 -0400">
+    <title lang="en">Live: America's Top 10 With Wayne Allyn Root</title>
+    <desc lang="en">Wayne countdowns the top stories of the week every American needs to know.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22884044_b_v8_aa.jpg" />
+  </programme>
+  <programme channel="RealAmericasVoice.us@KPVMLD" start="20261003130000 -0400" stop="20261003140000 -0400">
+    <title lang="en">RAM Live</title>
+    <desc lang="en">Hosted by Beau Davidson, RAM Live is Real America's Music's flagship show covering music, film, sports, faith, entertainment and viral culture from a fresh perspective.</desc>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33962399_b_v12_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme channel="RealAmericasVoice.us@KPVMLD" start="20261003140000 -0400" stop="20261003150000 -0400">
+    <title lang="en">Ringside Politics</title>
+    <desc lang="en">Jeff Crouere analyzes the hot topics and offers informative interviews with political leaders.</desc>
+    <category lang="en">Political</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18991714_b_v8_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme channel="RealAmericasVoice.us@KPVMLD" start="20261003150000 -0400" stop="20261003160000 -0400">
+    <title lang="en">Ted Nugent's Spirit Campfire</title>
+    <desc lang="en">Nugent tackles the most important political and cultural issues along with interviews of the nation's leading newsmakers and influencers.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22215275_b_v8_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme channel="RealAmericasVoice.us@KPVMLD" start="20261003160000 -0400" stop="20261003170000 -0400">
+    <title lang="en">A Case for America</title>
+    <desc lang="en">Exposes how the judicial system is being weaponized against conservatives, spotlighting key cases and the fight to protect our constitutional rights.</desc>
+    <category lang="en">Political</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p31892805_b_v11_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme channel="RealAmericasVoice.us@KPVMLD" start="20261003170000 -0400" stop="20261003190000 -0400">
+    <title lang="en">The War Room</title>
+    <desc lang="en">Steve Bannon and the team brings important news from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23401942_b_v8_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme channel="RealAmericasVoice.us@KPVMLD" start="20261003190000 -0400" stop="20261003200000 -0400">
+    <title lang="en">Get Real</title>
+    <desc lang="en">Join RealClearPolitics host David Desrosier.</desc>
+    <category lang="en">Political</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32316024_b_v8_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme channel="RealAmericasVoice.us@KPVMLD" start="20261003200000 -0400" stop="20261003210000 -0400">
+    <title lang="en">RAM Live</title>
+    <desc lang="en">Hosted by Beau Davidson, RAM Live is Real America's Music's flagship show covering music, film, sports, faith, entertainment and viral culture from a fresh perspective.</desc>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p33962399_b_v12_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme channel="RealAmericasVoice.us@KPVMLD" start="20261003210000 -0400" stop="20261003230000 -0400">
+    <title lang="en">Cowboy Logic</title>
+    <desc lang="en">Hosted by Donna Fiducia, a former Fox News Channel anchor and Don Neuen, a politically incorrect cowboy.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20504130_b_v8_ab.jpg" />
+    <previously-shown />
+  </programme>
   <programme channel="RealAmericasVoice.us@SD" start="20261003100000 -0400" stop="20261003120000 -0400">
     <title lang="en">Live: The War Room</title>
     <desc lang="en">Steve Bannon and the team brings important news from around the world.</desc>
@@ -38061,13 +38249,6 @@ fasttømrede par.</desc>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20504130_b_v8_ab.jpg" />
     <previously-shown />
-  </programme>
-  <programme channel="SensaCineTVxPluto.de@ES" start="20261003143339 +0000" stop="20261003165339 +0000">
-    <title>El viajante</title>
-    <sub-title>El viajante</sub-title>
-    <desc>Oscar a Mejor Película Internacional (2016). Ante el peligro de derrumbe del edificio en el que viven de alquiler, Emad y Rana se ven obligados a mudarse. Un incidente con la inquilina anterior cambiará dramáticamente la vida de la joven pareja.</desc>
-    <category>Drama</category>
-    <category>Foreign Drama</category>
   </programme>
   <programme channel="SensaCineTVxPluto.de@ES" start="20261003165339 +0000" stop="20261003195139 +0000">
     <title>Toni Erdmann</title>
@@ -42492,6 +42673,274 @@ fasttømrede par.</desc>
     <category lang="pt">Variety Show</category>
     <icon src="https://images.pluto.tv/series/68dabb79a44f8dcccd0549e5/tile_1759183401126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
+  <programme start="20261003135211 +0000" stop="20261003142311 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">Crazy Fun Time Pet Countdown</title>
+    <sub-title lang="es">Crazy Fun Time Pet Countdown Fluffiest Floofers</sub-title>
+    <desc lang="es">Join us as we count down the 25 fluffiest pets you ever did see!</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-b5b964ecf543020d25b8d347a6da0c4b/bg_1l70ayleizy7413p3qanhc1va.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003142311 +0000" stop="20261003145411 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">Crazy Fun Time Pet Countdown</title>
+    <sub-title lang="es">Crazy Fun Time Pet Countdown Family First</sub-title>
+    <desc lang="es">No matter what, you know that your family has got your back!</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-aaa3d756b3d5875bb63d98743e5962a3/bg_1uxuxoqfcxn9o1tg5vamfwf2m.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003145411 +0000" stop="20261003152511 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">The Pet Collective Paws &amp; Unwind</title>
+    <desc lang="es">Take a break and unwind with your furry friends - it's the purrfect way to relax.</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-bd1a25daa6573374a27c82ad0bc6558f/bg_lm0m6obsjrs81a56540tb4d0f.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003152511 +0000" stop="20261003155611 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">The Pet Collective Adorable Animals</title>
+    <desc lang="es">Find baby animals at their cutest—eating, napping, bathing, and playing, making each moment delightful.</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-9e2bd5e8698c5abdb8aa5104705137fc/bg_17a635ceymcd51msbpxmgqp7tu.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003155611 +0000" stop="20261003162811 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">TPC Halloween</title>
+    <desc lang="es">When it comes to trick or treating, these pets deserve all the treats!</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-191ea1ced3d9cd13ef469a63b387d8c7/bg_wv7ldy8yma6q1g1ozx675x2b3.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003162811 +0000" stop="20261003165911 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">TPC Halloween II</title>
+    <desc lang="es">They try to be spooky, but mostly they're just cute. Happy Halloween from The Pet Collective!</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-0021a09d9f2c74cda64630c4b6ec0555/bg_1qdb4mbwuxcd413rymm51ajtj.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003165911 +0000" stop="20261003173111 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">TPC Howl-O-Ween</title>
+    <desc lang="es">This Halloween, enjoy the cutest creature features to ever hit your screen.</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-174e7bdb90027a943d23a5623d033009/bg_lkdhik8ui7bj1dc9mpijxxo70.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003173111 +0000" stop="20261003180211 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">TPC Howl-O-ween II</title>
+    <desc lang="es">A TPC Halloween Special celebrating the cutest costumes, sneaky shenanigans, and hilarious reactions.</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-19e4d7f6b1dd0ebf7a86d9e2c8900aa7/bg_1ortymp4aje5v17bv4smwfi8y8.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003180211 +0000" stop="20261003183311 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">The Pet Collective Howl-O-Ween: Costume Edition</title>
+    <desc lang="es">Furry friends dressed to impress, adorable Halloween costumes you can’t miss!</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-d04fd79fcc4f944138a308e31794c579/bg_4jtmyohs5ars1wmi7f7wmst3z.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003183311 +0000" stop="20261003190511 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">Show Us Your Pets</title>
+    <sub-title lang="es">Show Us Your Pets Iain Armitage &amp; Tori Kelly</sub-title>
+    <desc lang="es">Today, we're meeting the hamster dad known for his role as Young Sheldon, and his two chubby cheeked nibblers. Then, we're going to snoot to snoot with the two fur-nerds that acompany this Grammy winning singer-songwriter while she writes her new album, with their help of course...on this episode of Show Us Your pets.</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-ac6ac439a25e1f04c4b874a7b84bcf2e/bg_oo12rvgx1etd1oglaraoww84e.png" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003190511 +0000" stop="20261003193711 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">Show Us Your Pets</title>
+    <sub-title lang="es">Show Us Your Pets Cheryl Burke &amp; Matthew Lawrence &amp; Nicole Travolta</sub-title>
+    <desc lang="es">Today, we're going to 'The Farm' to meet a fabulous frenchie family with some scaly additions. Then, we're diving into the puppy pool with the two precious pals who keep their comedy queen mama company...on this episode of Show Us Your Pets.</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-e384246e58cb4ce50c8b4f4e15d82bbb/bg_ao6xtz19ffv118tq4s7so6gel.png" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003193711 +0000" stop="20261003200911 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">Show Us Your Pets</title>
+    <sub-title lang="es">Show Us Your Pets Gabriel Iglesias &amp; Loren Gray</sub-title>
+    <desc lang="es">Today, were heading to Long Beach, California to meet the two fluffys that keep this Fluffy on his feet, then, we'll meet a TikTok starlet turned popstar who loves spending quality time with her small family of adopted furbabies on this episode of Show Us Your Pets.</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-206fd09588e49dd12d95ce1a118bd94c/bg_w8efj94e2w3s1rjkc9i9k7kja.png" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003200911 +0000" stop="20261003204111 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">Show Us Your Pets</title>
+    <sub-title lang="es">Show Us Your Pets Joey Graceffa &amp; Margaret Cho</sub-title>
+    <desc lang="es">Today we're checking in on a standup comediens eclectic home filled with even more eclectic cats and dogs. Then we shift gears to meet a kind hearted youtuber and his clan of rescued furbabies! On this episode of show us your pets.</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-92b5ece96a305262cce57d82aab0f087/bg_1biywtv2rjgte1l78nc7gybpqo.png" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003204111 +0000" stop="20261003211311 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">Show Us Your Pets</title>
+    <sub-title lang="es">Show Us Your Pets Roi Fabito &amp; Lauren Riihimaki</sub-title>
+    <desc lang="es">Today, were meeting a youtuber who epitomizes the old saying, then we drop by to meet a wildly creative influencer and her four legged bestie, as she shares with us why a dog makes a better pet than a fish. All that and more on this episode of Show Us Your Pets.</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-8c83097682a2054f33ca2ea7ecce5307/bg_v0d6p9chakkw19pqss8dr0x4b.png" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003211311 +0000" stop="20261003214511 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">Show Us Your Pets</title>
+    <sub-title lang="es">Show Us Your Pets Chrishell Stause &amp; Lizzy Capri</sub-title>
+    <desc lang="es">Today, we swing by the home of a soap opera star whose knack for real estate landed her on one of Netlflix’s biggest reality tv hits. Then, we cozy up for the holidays with a multi-talented Youtuber and her two adorable fur babies. All that and more on this episode of Show Us Your Pets.</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-3a1331dcc3ff3ea7d00a0d29a955697b/bg_bq2a7tz76u3h15pcb4hca8g23.png" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003214511 +0000" stop="20261003221711 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">TPC Halloween</title>
+    <desc lang="es">When it comes to trick or treating, these pets deserve all the treats!</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-fd6c97d22c1f8463151dad85b405a113/bg_wv7ldy8yma6q1g1ozx675x2b3.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003221711 +0000" stop="20261003224811 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">TPC Halloween II</title>
+    <desc lang="es">They try to be spooky, but mostly they're just cute. Happy Halloween from The Pet Collective!</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-70102a0e4cc9483b840a3d550be1ae33/bg_1qdb4mbwuxcd413rymm51ajtj.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003224811 +0000" stop="20261003231911 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">The Pet Collective Howl-O-Ween: Costume Edition</title>
+    <desc lang="es">Furry friends dressed to impress, adorable Halloween costumes you can’t miss!</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-e04524beb43d4fedb01268657223548d/bg_4jtmyohs5ars1wmi7f7wmst3z.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261003231911 +0000" stop="20261003235011 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">Countdown: The Funniest Pets</title>
+    <sub-title lang="es">Countdown: The Funniest Pets Wild Wild Animals!</sub-title>
+    <desc lang="es">We've got some kooky cats, darling doggos, and some wild-wild animal fails!</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-1ca617c25be2159b69e5dbe185183bda/bg_ch511c2i3r901psodn3sfkq8y.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261003235011 +0000" stop="20261004002111 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">Countdown: The Funniest Pets</title>
+    <sub-title lang="es">Countdown: The Funniest Pets Zoomie Party</sub-title>
+    <desc lang="es">We've got some cooky cockatoos, bounding bunnies, and proud pups for you to chuckle at!</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-2f8c3c7b520b05a4f4db6f19786c8e0e/bg_1h6qqhyl09pc91uy1x08y7jpy0.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20261004002111 +0000" stop="20261004005211 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">Funniest Pets of the Month</title>
+    <sub-title lang="es">Funniest Pets Of The Month Ep. 2.9</sub-title>
+    <desc lang="es">These pets won August '25. But after watching these clips, the real winner is you.</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-7f3b1cea693a27c9ca64835f336cab06/bg_1kdf1cgnt3ura1tl5f6i4xog05.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261004005211 +0000" stop="20261004012311 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">Funniest Pets of the Month</title>
+    <sub-title lang="es">Funniest Pets Of The Month Ep. 2.10</sub-title>
+    <desc lang="es">These pets won September '25. But after watching these clips, the real winner is you.</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-e5f8b368566b71d42ba3e79ba394c26a/bg_1jc5ri5dq9iqo17i0u0lp2nkxh.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261004012311 +0000" stop="20261004015511 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">TPC That's My Pet</title>
+    <sub-title lang="es">Tpc That's My Pet Ponies</sub-title>
+    <desc lang="es">Did you know the biggest difference between Ponies and Mini Horses are the height? Ponies are under 58 inches while mini horses are under 34 inches tall!</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-f236206bce804eb80b55bc7851eb4074/bg_2ku6rx27hzwf1rthk6javfbuf.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20261004015511 +0000" stop="20261004022711 +0000" channel="ThePetCollective.us@Spain">
+    <title lang="es">TPC That's My Pet</title>
+    <sub-title lang="es">Tpc That's My Pet Kitty Cats</sub-title>
+    <desc lang="es">Did you know 25% of U.S. households have pet cats?</desc>
+    <date>2026</date>
+    <icon src="https://media.tvup.cloud/epg/ser_ot-4f29f4f48d78da46010721ae0e072383/bg_1wlg6ndamjk5k1cykd3blwciwb.jpeg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+  </programme>
   <programme start="20261002234311 +0000" stop="20261003001511 +0000" channel="ThePetCollective.us@UK">
     <title lang="en">Best Pets of the Month</title>
     <sub-title lang="en">Best Pets of the Month | Ep. 3.2</sub-title>
@@ -43491,7 +43940,7 @@ fasttømrede par.</desc>
     <category>Entertainment</category>
     <category>Entertainment</category>
   </programme>
-  <programme channel="TopGear.uk@SD" start="20261004160233 +0000" stop="20261004163000 +0000">
+  <programme channel="TopGear.uk@SD" start="20261004160233 +0000" stop="20261004170000 +0000">
     <title>Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>no info available</desc>
