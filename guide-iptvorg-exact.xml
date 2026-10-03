@@ -1470,11 +1470,6 @@
       <value>no rating</value>
     </rating>
   </programme>
-  <programme start="20261003150000 +0000" stop="20261003153000 +0000" channel="BBCNews.uk@Europe">
-    <title lang="en">BBC News</title>
-    <desc lang="en">A suivre, les dernières actualités présentées par les équipes rédactionnelles de la BBC, le très réputé radiodiffuseur du service public britannique. Créée en 1922 à Londres, la British Broadcast Corporation est connue pour être la plus ancienne société diffusant des programmes de radio ou de télévision au monde.</desc>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/plmws/images.media-press.cloud/12fc/12fc1f8377c94de8bd4e047b8b2b2368</image>
-  </programme>
   <programme start="20261003153000 +0000" stop="20261003160000 +0000" channel="BBCNews.uk@Europe">
     <title lang="en">Racing on the Edge</title>
     <desc lang="en">Martine Grael faces pressure, setbacks and a home crowd as Brazil embraces SailGP.</desc>
@@ -1596,11 +1591,6 @@
       <actor>Shawn Yuan</actor>
     </credits>
     <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/plmws/images.media-press.cloud/4559/4559f9b1b9f74d58a89cd69f808f2893</image>
-  </programme>
-  <programme start="20261003150000 +0000" stop="20261003153000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">BBC News</title>
-    <category lang="es">Noticiero</category>
-    <image>https://www.reportv.com.ar/buscador/img/Programas/5153439.jpg</image>
   </programme>
   <programme start="20261003153000 +0000" stop="20261003160000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Racing on the Edge</title>
@@ -1967,6 +1957,12 @@
     <title lang="es">BBC News</title>
     <date>19700101</date>
     <image>https://zpapi.zetatv.com.uy/media/images/550bef4779f7c7d93e2ed3aeb4edcdfb.jpg</image>
+  </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Talking Business</title>
+    <desc lang="es">Noticias empresariales globales, tanto de las salas de juntas como de los acontecimientos sobre el terreno. Los presentadores debaten los temas clave del día con las personalidades más importantes e influyentes del mundo de los negocios y las finanzas.</desc>
+    <category lang="es">Economía</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/b3bc78d72e99d4110fabc7b52218bc24.jpg</image>
   </programme>
   <programme start="20261003130000 +0000" stop="20261003160000 +0000" channel="Canal26.ar@SD">
     <title lang="es">El diario del sbado</title>
@@ -2647,12 +2643,6 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20261003151000 +0000" stop="20261003153000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
-    <title lang="es">El rey del barrio</title>
-    <desc lang="es">En su fiesta de aniversario número once, Doug y Carrie reciben un retrato de ambos por parte de Deacon y Kelly. Les desagrada tanto que para deshacerse del mismo fingen un robo.</desc>
-    <category lang="es">Temporada 8 Episodio 17 - Presente tenso</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
-  </programme>
   <programme start="20261003153000 +0000" stop="20261003155500 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
     <title lang="es">El rey del barrio</title>
     <desc lang="es">Doug le convence a Carrie a vender su cabello para que puedan ir en un crucero, pero a él no le gusta el nuevo estilo.</desc>
@@ -3235,9 +3225,6 @@
     <category lang="es">Comedia / 1953</category>
     <image>https://cdn.mitvstatic.com/programs/mx_dos-tipos-de-cuidado-1953_l_m.jpg</image>
   </programme>
-  <programme start="20261003150500 +0000" stop="20261003153000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
-  </programme>
   <programme start="20261003151000 +0000" stop="20261003153500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Turbo FAST</title>
   </programme>
@@ -3393,10 +3380,6 @@
     <episode-num system="xmltv_ns">0.6.0/1</episode-num>
     <episode-num system="onscreen">S01E07</episode-num>
     <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR467726438/436b8168ad5373badfce11dae8eea9a7.jpg</image>
-  </programme>
-  <programme start="20261003150000 +0000" stop="20261003153000 +0000" channel="DubaiTVInternational.ae@SD">
-    <title lang="en">أخبار الإمارات</title>
-    <image>https://media0106.elcinema.com/blank_photos/150x200.jpg</image>
   </programme>
   <programme start="20261003153000 +0000" stop="20261003163000 +0000" channel="DubaiTVInternational.ae@SD">
     <title lang="en">برنامج</title>
@@ -3847,6 +3830,11 @@
     <desc lang="pt">Assista à partida entre República Federal da Alemanha e Inglaterra. Estádio delle Alpi, Turim.</desc>
     <image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-01/a0c0943e067e77b53989c83791d96517.jpg.webp</image>
   </programme>
+  <programme start="20261004173122 +0000" stop="20261004181800 +0000" channel="FIFAPlus.uk@Portuguese">
+    <title lang="pt">World Champions: República Federal De Alemanha 1990</title>
+    <desc lang="pt">L’indimenticabile trionfo della Germania Ovest alla Coppa del Mondo FIFA Italia 1990™.</desc>
+    <image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-01/9537f606b21fd7178bd0772254f5d9ec.jpg.webp</image>
+  </programme>
   <programme start="20261003150000 +0000" stop="20261003160000 +0000" channel="FashionBox.nl@SD">
     <title lang="en">Homme</title>
     <desc lang="en">S01E01 social/political</desc>
@@ -3934,11 +3922,6 @@
     <category lang="en">Politika</category>
     <episode-num system="xmltv_ns">0.32.0/1</episode-num>
     <episode-num system="onscreen">S01E33</episode-num>
-  </programme>
-  <programme start="20261003150000 +0000" stop="20261003153000 +0000" channel="FashionTV.in@SD">
-    <title lang="en">Fashion News</title>
-    <desc lang="en">The hosts present the latest updates on fashion shows, celebrities and red carpets.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29217639_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261003153000 +0000" stop="20261003160000 +0000" channel="FashionTV.in@SD">
     <title lang="en">Vogue</title>
@@ -4041,13 +4024,6 @@
   <programme start="20261003230000 +0000" stop="20261004000000 +0000" channel="FashionTV.ua@SD">
     <title lang="ru">Fashion TV</title>
     <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии</desc>
-  </programme>
-  <programme start="20261003150000 +0000" stop="20261003153000 +0000" channel="FashionTVAsia.fr@SD">
-    <title lang="id">Fashion Films</title>
-  </programme>
-  <programme start="20261003150000 +0000" stop="20261003153000 +0000" channel="FashionTVAsia.fr@SD">
-    <title lang="id">Fashion Magazines</title>
-    <desc lang="id">Jelajahi berbagai majalah mode terbaik saat ini kendaraan impian mewah dan sumber inspirasi. Lihatlah pembaruan terbaru pandangan lucu dan wawasan mode</desc>
   </programme>
   <programme start="20261003153000 +0000" stop="20261003160000 +0000" channel="FashionTVAsia.fr@SD">
     <title lang="id">Fashion Films</title>
@@ -4347,6 +4323,14 @@
     <desc lang="id">FashionTV mempersembahkan liputan eksklusif seputar barisan depan pekan mode, karpet merah, kemewahan Hollywood, dan acara peluncuran</desc>
   </programme>
   <programme start="20261004100000 +0000" stop="20261004103000 +0000" channel="FashionTVAsia.fr@SD">
+    <title lang="id">Top Photoshoots</title>
+    <desc lang="id">Selami dunia fotografi mode yang menakjubkan untuk menemukan suasana di balik layar dan nikmati mahakarya terindah dari para fotografer ikonik dan inspirasi mereka</desc>
+  </programme>
+  <programme start="20261004103000 +0000" stop="20261004105500 +0000" channel="FashionTVAsia.fr@SD">
+    <title lang="id">Global Fashion</title>
+    <desc lang="id">FashionTV menyajikan kepada Anda semua pekan mode internasional, koleksi-koleksi eksotis dan unik, serta tren-tren terkini dari seluruh dunia.</desc>
+  </programme>
+  <programme start="20261004103000 +0000" stop="20261004110000 +0000" channel="FashionTVAsia.fr@SD">
     <title lang="id">Top Photoshoots</title>
     <desc lang="id">Selami dunia fotografi mode yang menakjubkan untuk menemukan suasana di balik layar dan nikmati mahakarya terindah dari para fotografer ikonik dan inspirasi mereka</desc>
   </programme>
@@ -4753,12 +4737,6 @@
     <desc lang="es">Las pickups ahora tienen su lugar. Potencia, fuerza y motor para esta extrema raza.</desc>
     <category lang="es">Automovilismo</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
-  </programme>
-  <programme start="20261003135500 +0000" stop="20261003153000 +0000" channel="LifetimeLatinAmerica.us@Brazil">
-    <title lang="pt">Pétalas ao Vento</title>
-    <desc lang="pt">Uma família tenta esquecer seu passado obscuro, mas a tragédia volta a assombrá-los. Agora, eles precisam enfrentar seus mais profundos sentimentos.</desc>
-    <category lang="pt">Thriller / 2014</category>
-    <image>https://cdn.mitvstatic.com/programs/br_petalas-ao-vento-2014-1_l_m.jpg</image>
   </programme>
   <programme start="20261003153000 +0000" stop="20261003170500 +0000" channel="LifetimeLatinAmerica.us@Brazil">
     <title lang="pt">Você Não me Escapa</title>
@@ -6061,19 +6039,6 @@
     <category lang="es">Animación</category>
     <image>https://zpapi.zetatv.com.uy/media/images/71efd76587ef0f0cfcce24020145d2b6.jpg</image>
   </programme>
-  <programme start="20261003144014 +0000" stop="20261003153145 +0000" channel="SonyOneBlacklist.fr@HD">
-    <title lang="fr">The Blacklist</title>
-    <sub-title lang="fr">The Osterman Umbrella Company (No. 6)</sub-title>
-    <desc lang="fr">Red demande à Liz d'enquêter sur une organisation secrète d'assassins, embauchés par des agences de renseignement mondiales afin d'éliminer les anciens agents.</desc>
-    <date>20130923</date>
-    <category lang="fr">Bingeworthy</category>
-    <episode-num system="xmltv_ns">5.13.0/1</episode-num>
-    <episode-num system="onscreen">S06E14</episode-num>
-    <rating>
-      <value>12</value>
-    </rating>
-    <image>https://images.frequency.com/video/originals/7312854863345483411/rectangle/pmy1qg4zkjxg199dcj6i5anfb.jpg</image>
-  </programme>
   <programme start="20261003153145 +0000" stop="20261003162346 +0000" channel="SonyOneBlacklist.fr@HD">
     <title lang="fr">The Blacklist</title>
     <sub-title lang="fr">Olivia Olson (No. 115)</sub-title>
@@ -6665,11 +6630,6 @@
     <episode-num system="xmltv_ns">0.12.0/1</episode-num>
     <episode-num system="onscreen">S01E13</episode-num>
     <image>https://programacion-tv.elpais.com/imagenes/programas/8280.jpg</image>
-  </programme>
-  <programme start="20261003143500 +0000" stop="20261003152800 +0000" channel="TVEInternacionalEurope.es@SD">
-    <title lang="es">De tapas por España</title>
-    <desc lang="es">Un viaje donde se marida la historia, el arte y la gastronomía. Un recorrido de norte a sur y de este a oeste para disfrutar de las tapas típicas de cada lugar, con pequeños bocados y grandes platos que demuestran el gran legado gastronómico.</desc>
-    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p33121105eh10aa_Iconic_w1920.webp</image>
   </programme>
   <programme start="20261003152800 +0000" stop="20261003160500 +0000" channel="TVEInternacionalEurope.es@SD">
     <title lang="es">De tapas por España</title>
@@ -7752,9 +7712,6 @@
     <category lang="es">Acción</category>
     <category lang="es">Aventuras</category>
     <icon src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_3995671.jpg" />
-  </programme>
-  <programme start="20261003144500 +0000" stop="20261003153000 +0000" channel="Trece.py@SD">
-    <title lang="es">Franja infantil</title>
   </programme>
   <programme start="20261003151500 +0000" stop="20261003154500 +0000" channel="Trece.py@SD">
     <title lang="es">Cocina rica</title>
