@@ -54,5 +54,8 @@
   "TelefeInterior.ar@SD": "Telefe.ar@SD",
   "Nickelodeon.br@SD": "São.Paulo/SP..Nickelodeon.br",
   "TVEInternacionalAsiaOceania.es@HD": "TVEInternacionalAsiaOceania.es@SD",
-  "TVEInternacionalEurope.es@HD": "TVEInternacionalEurope.es@SD"
+  "TVEInternacionalEurope.es@HD": "TVEInternacionalEurope.es@SD",
+  "Canal8MardelPlata.ar@SD": "Telefe.ar@SD",
+  "RealAmericasVoice.us@KPVMLD": "Real.Americas.Voice.us2",
+  "ThePetCollective.us@Spain": "The.Pet.Collective.es"
 }
