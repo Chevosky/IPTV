@@ -9,6 +9,7 @@ on:
     paths:
       - "favorites-test.m3u"
       - "scripts/build_favorites_guide.py"
+      - "epg-aliases.json"
       - ".github/workflows/update-curated-epg.yml"
 
 permissions:
