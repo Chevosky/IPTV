@@ -13,6 +13,7 @@ BATCH_DIR=ROOT/"iptvorg-batches"
 OUT_JSON=ROOT/"iptvorg-epg-coverage.json"
 COVERAGE=ROOT/"coverage-favorites.json"
 MANUAL=ROOT/"manual-epg-sources.json"
+EXACT_GUIDE=ROOT/"guide-iptvorg-exact.xml"
 
 SITE_PRIORITY=[
     "mi.tv",
@@ -135,8 +136,18 @@ if BATCH_DIR.exists():
 else:
     BATCH_DIR.mkdir(parents=True)
 
+refresh_ids=set()
+if EXACT_GUIDE.exists():
+    try:
+        eroot=ET.parse(EXACT_GUIDE).getroot()
+        refresh_ids={ch.get("id") for ch in eroot.findall("channel") if ch.get("id")}
+    except Exception:
+        refresh_ids=set()
+
+batch_targets=current_missing | refresh_ids
+
 site_rows=defaultdict(list)
-for cid in sorted(current_missing):
+for cid in sorted(batch_targets):
     rows=matches.get(cid,[])
     if not rows:
         continue
@@ -190,5 +201,7 @@ print(json.dumps({
     "missing":len(missing),
     "currently_missing_but_exact_supported":len(missing_selected),
     "batch_sites":len(site_rows),
-    "batch_entries":sum(len(v) for v in site_rows.values())
+    "batch_entries":sum(len(v) for v in site_rows.values()),
+    "refresh_ids":len(refresh_ids),
+    "batch_targets":len(batch_targets)
 },ensure_ascii=False,indent=2))
