@@ -241,6 +241,18 @@
     <display-name>Canal 26 (Argentina) (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" />
   </channel>
+  <channel id="CanalPlusActionEurope.nl@Czechia">
+    <display-name>Canal+ Action Europe Czechia</display-name>
+    <icon src="https://tvgidsassets.nl/v388/img/channels/120x120/498.png" />
+    <icon src="https://tvgidsassets.nl/v388/img/channels/120x120/498.png" />
+    <url>http://www.tvgids.nl</url>
+  </channel>
+  <channel id="CanalPlusActionEurope.nl@Slovakia">
+    <display-name>Canal+ Action Europe Slovakia (720p)</display-name>
+    <icon src="https://tvgidsassets.nl/v388/img/channels/120x120/498.png" />
+    <icon src="https://tvgidsassets.nl/v388/img/channels/120x120/498.png" />
+    <url>http://www.tvgids.nl</url>
+  </channel>
   <channel id="CanalPlusCinemas.fr@SD">
     <display-name>Canal+ Cinemas (720p)</display-name>
     <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
@@ -374,6 +386,30 @@
     <display-name>De Pelicula Latin America (1080p)</display-name>
     <icon src="https://i.imgur.com/aksM8pa.png" />
   </channel>
+  <channel id="DePeliculaPlus.mx@SD">
+    <display-name>De Pelicula Plus (1080p)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DePeliculaUS.us@SD">
+    <display-name>De Pelicula US (720p)</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s16288_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s16288_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+  </channel>
+  <channel id="ELatinAmerica.us@Mexico">
+    <display-name>E! Latin America Mexico (720p)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ELatinAmerica.us@South">
+    <display-name>E! Latin America (1080p)</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s30259_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s30259_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+  </channel>
   <channel id="ElTreceInternacionalLatinAmerica.ar@SD">
     <display-name>El Trece Internacional Latin America (1080p)</display-name>
     <icon src="https://i.imgur.com/Vo6prbh.png" />
@@ -481,6 +517,10 @@
   <channel id="ParaguayTV.py@SD">
     <display-name>Paraguay TV (1080p)</display-name>
     <icon src="https://i.imgur.com/fkK7i8g.png" />
+  </channel>
+  <channel id="PlayTV.br@SD">
+    <display-name>Play TV (Brazil) (720p)</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="PlutoTV90sClassics.de@FR">
     <display-name>Pluto TV 90's Classics</display-name>
@@ -764,6 +804,12 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png" />
     <url>http://www.movistar.co</url>
   </channel>
+  <channel id="TNTNovelas.us@Brazil">
+    <display-name>TNT Novelas Brazil (720p)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="TVEInternacionalAmerica.es@HD">
     <display-name>TVE Internacional America HD (1080p) [Geo-blocked]</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png" />
@@ -786,6 +832,14 @@
   </channel>
   <channel id="Telefe.ar@SD">
     <display-name>Telefe (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" />
+  </channel>
+  <channel id="TelefeBuenosAires.ar@SD">
+    <display-name>Telefe Buenos Aires (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" />
+  </channel>
+  <channel id="TelefeInterior.ar@SD">
+    <display-name>Telefe Interior (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" />
   </channel>
   <channel id="TelefeInternacional.ar@SD">
@@ -9496,13 +9550,6 @@
     <category>Comedy</category>
     <category>Fails &amp; Pranks</category>
   </programme>
-  <programme channel="BestofMTV.se@NO" start="20261003153221 +0000" stop="20261003161721 +0000">
-    <title>Jersey Shore: Boardwalk Blowups</title>
-    <sub-title>Boardwalk Blowups</sub-title>
-    <desc>Mike ber jenter til huset, og situasjonen kommer ut av kontroll. Snooki havner i slåsskamp igjen. Ronnie havner også i bråk, og Sammi begynner å tvile på forholdet deres.</desc>
-    <category>Reality</category>
-    <category>Celebrity Reality</category>
-  </programme>
   <programme channel="BestofMTV.se@NO" start="20261003161721 +0000" stop="20261003164221 +0000">
     <title>MTV Cribs NO: Melissa Joan Hart, Trick Daddy, Jewel</title>
     <sub-title>Melissa Joan Hart, Trick Daddy, Jewel</sub-title>
@@ -14095,6 +14142,286 @@ great 1860 painting cellphone debate.</desc>
     <desc lang="es">Se presentan las últimas noticias, con móviles en vivo e invitados especiales.</desc>
     <date>19700101</date>
     <image>https://zpapi.zetatv.com.uy/media/images/8c35161a72d2067dcf55090995b87b27.jpg</image>
+  </programme>
+  <programme start="20261003160000 +0200" stop="20261003213000 +0200" channel="CanalPlusActionEurope.nl@Czechia">
+    <title lang="nl">Padel: Rotterdam Premier Padel</title>
+    <desc lang="nl">Verslag van het padeltoernooi Premier Padel Rotterdam, gespeeld in Rotterdam Ahoy.</desc>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+  </programme>
+  <programme start="20261003213000 +0200" stop="20261003232500 +0200" channel="CanalPlusActionEurope.nl@Czechia">
+    <title lang="nl">Knox Goes Away</title>
+    <desc lang="nl">Wanneer bij een huurmoordenaar een snel voortschrijdende vorm van dementie wordt vastgesteld, krijgt hij de kans om zichzelf te redden door het leven van zijn vervreemde volwassen zoon te redden.</desc>
+    <credits>
+      <director>Michael Keaton</director>
+      <actor>Michael Keaton</actor>
+      <actor>James Marsden</actor>
+      <actor>Al Pacino</actor>
+      <actor>Suzy Nakamura</actor>
+      <actor>Joanna Kulig</actor>
+      <actor>Chad Donella</actor>
+      <actor>Dennis Dugan</actor>
+      <actor>Jay Paulson</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="nl">Film</category>
+    <category lang="nl">Thriller</category>
+    <icon src="https://tvgidsassets.nl/v388/upload/k/carrousel/knox-goes-away-771305982.jpg" />
+    <rating system="KIJKWIJZER">
+      <value>Geweld</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/g.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>Grof taalgebruik</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/t.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>6+</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/2.svg" />
+    </rating>
+  </programme>
+  <programme start="20261003232500 +0200" stop="20261004000500 +0200" channel="CanalPlusActionEurope.nl@Czechia">
+    <title lang="nl">Snoepjes</title>
+    <desc lang="nl">In Snoepjes duik je in bijna veertig jaar Nederland als XTC-land. Aan de hand van openhartige verhalen van mensen die daar middenin zaten, ontvouwt zich een verborgen wereld van productie, handel en transport.</desc>
+    <credits>
+      <director>Bart van den Aardweg</director>
+    </credits>
+    <category lang="nl">Misdaad</category>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="KIJKWIJZER">
+      <value>16+</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/4.svg" />
+    </rating>
+  </programme>
+  <programme start="20261004000500 +0200" stop="20261004015000 +0200" channel="CanalPlusActionEurope.nl@Czechia">
+    <title lang="nl">The Seeding</title>
+    <desc lang="nl">Een wandelaar verdwaalt in de woestijn en zoekt zijn toevlucht bij een vrouw die alleen woont. Hij ontdekt dat ze er misschien niet uit eigen vrije wil is..</desc>
+    <credits>
+      <director>Barnaby Clay</director>
+      <actor>Aarman Touré</actor>
+      <actor>Alex Montaldo</actor>
+      <actor>Axton Cox</actor>
+      <actor>Bodhi Barrett</actor>
+      <actor>Charlie Avink</actor>
+      <actor>Chelsea Jurkiewicz</actor>
+      <actor>Christa Atkins</actor>
+      <actor>Ethan Gunalda</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="nl">Film</category>
+    <category lang="nl">Horror</category>
+    <rating system="KIJKWIJZER">
+      <value>Geweld</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/g.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>Grof taalgebruik</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/t.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>6+</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/2.svg" />
+    </rating>
+  </programme>
+  <programme start="20261004015000 +0200" stop="20261004033000 +0200" channel="CanalPlusActionEurope.nl@Czechia">
+    <title lang="nl">Huracán</title>
+    <desc lang="nl">Alonso Santos, een ambitieuze mixed martial arts-vechter uit Miami, heeft moeite om door te dringen tot het professionele MMA-circuit omdat hij worstelt met een meervoudige persoonlijkheidsstoornis.</desc>
+    <credits>
+      <director>Cassius Corrigan</director>
+      <actor>Cassius Corrigan</actor>
+      <actor>Yara Martinez</actor>
+      <actor>Jorge Masvidal</actor>
+      <actor>Camila Rodríguez</actor>
+      <actor>Steven Spence</actor>
+      <actor>Benhur Sito Barrero</actor>
+      <actor>Carlos Guerrero</actor>
+      <actor>Martín Fajardo</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="nl">Film</category>
+    <category lang="nl">Thriller</category>
+    <icon src="https://tvgidsassets.nl/v388/upload/h/carrousel/huracan-771306192.jpg" />
+    <rating system="KIJKWIJZER">
+      <value>Geweld</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/g.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>Grof taalgebruik</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/t.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>6+</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/2.svg" />
+    </rating>
+  </programme>
+  <programme start="20261004033000 +0200" stop="20261004051000 +0200" channel="CanalPlusActionEurope.nl@Czechia">
+    <title lang="nl">Prizefighter: The Life of Jem Belcher</title>
+    <desc lang="nl">In 1800 wordt James 'Jem' Belcher de jongste wereldkampioen ooit, maar na een vreselijk ongeluk wordt Jem blind aan één oog en kan hij zijn titel niet meer verdedigen.</desc>
+    <credits>
+      <director>Daniel Graham</director>
+      <actor>Matt Hookings</actor>
+      <actor>Ray Winstone</actor>
+      <actor>Marton Csokas</actor>
+      <actor>Jodhi May</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Julian Glover</actor>
+      <actor>Steven Berkoff</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="nl">Film</category>
+    <category lang="nl">Actie</category>
+    <icon src="https://tvgidsassets.nl/v388/upload/p/carrousel/prizefighter-the-life-of-jem-belcher-771068272.jpg" />
+    <rating system="KIJKWIJZER">
+      <value>Geweld</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/g.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>Grof taalgebruik</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/t.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>6+</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/2.svg" />
+    </rating>
+  </programme>
+  <programme start="20261003160000 +0200" stop="20261003213000 +0200" channel="CanalPlusActionEurope.nl@Slovakia">
+    <title lang="nl">Padel: Rotterdam Premier Padel</title>
+    <desc lang="nl">Verslag van het padeltoernooi Premier Padel Rotterdam, gespeeld in Rotterdam Ahoy.</desc>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+  </programme>
+  <programme start="20261003213000 +0200" stop="20261003232500 +0200" channel="CanalPlusActionEurope.nl@Slovakia">
+    <title lang="nl">Knox Goes Away</title>
+    <desc lang="nl">Wanneer bij een huurmoordenaar een snel voortschrijdende vorm van dementie wordt vastgesteld, krijgt hij de kans om zichzelf te redden door het leven van zijn vervreemde volwassen zoon te redden.</desc>
+    <credits>
+      <director>Michael Keaton</director>
+      <actor>Michael Keaton</actor>
+      <actor>James Marsden</actor>
+      <actor>Al Pacino</actor>
+      <actor>Suzy Nakamura</actor>
+      <actor>Joanna Kulig</actor>
+      <actor>Chad Donella</actor>
+      <actor>Dennis Dugan</actor>
+      <actor>Jay Paulson</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="nl">Film</category>
+    <category lang="nl">Thriller</category>
+    <icon src="https://tvgidsassets.nl/v388/upload/k/carrousel/knox-goes-away-771305982.jpg" />
+    <rating system="KIJKWIJZER">
+      <value>Geweld</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/g.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>Grof taalgebruik</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/t.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>6+</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/2.svg" />
+    </rating>
+  </programme>
+  <programme start="20261003232500 +0200" stop="20261004000500 +0200" channel="CanalPlusActionEurope.nl@Slovakia">
+    <title lang="nl">Snoepjes</title>
+    <desc lang="nl">In Snoepjes duik je in bijna veertig jaar Nederland als XTC-land. Aan de hand van openhartige verhalen van mensen die daar middenin zaten, ontvouwt zich een verborgen wereld van productie, handel en transport.</desc>
+    <credits>
+      <director>Bart van den Aardweg</director>
+    </credits>
+    <category lang="nl">Misdaad</category>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="KIJKWIJZER">
+      <value>16+</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/4.svg" />
+    </rating>
+  </programme>
+  <programme start="20261004000500 +0200" stop="20261004015000 +0200" channel="CanalPlusActionEurope.nl@Slovakia">
+    <title lang="nl">The Seeding</title>
+    <desc lang="nl">Een wandelaar verdwaalt in de woestijn en zoekt zijn toevlucht bij een vrouw die alleen woont. Hij ontdekt dat ze er misschien niet uit eigen vrije wil is..</desc>
+    <credits>
+      <director>Barnaby Clay</director>
+      <actor>Aarman Touré</actor>
+      <actor>Alex Montaldo</actor>
+      <actor>Axton Cox</actor>
+      <actor>Bodhi Barrett</actor>
+      <actor>Charlie Avink</actor>
+      <actor>Chelsea Jurkiewicz</actor>
+      <actor>Christa Atkins</actor>
+      <actor>Ethan Gunalda</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="nl">Film</category>
+    <category lang="nl">Horror</category>
+    <rating system="KIJKWIJZER">
+      <value>Geweld</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/g.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>Grof taalgebruik</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/t.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>6+</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/2.svg" />
+    </rating>
+  </programme>
+  <programme start="20261004015000 +0200" stop="20261004033000 +0200" channel="CanalPlusActionEurope.nl@Slovakia">
+    <title lang="nl">Huracán</title>
+    <desc lang="nl">Alonso Santos, een ambitieuze mixed martial arts-vechter uit Miami, heeft moeite om door te dringen tot het professionele MMA-circuit omdat hij worstelt met een meervoudige persoonlijkheidsstoornis.</desc>
+    <credits>
+      <director>Cassius Corrigan</director>
+      <actor>Cassius Corrigan</actor>
+      <actor>Yara Martinez</actor>
+      <actor>Jorge Masvidal</actor>
+      <actor>Camila Rodríguez</actor>
+      <actor>Steven Spence</actor>
+      <actor>Benhur Sito Barrero</actor>
+      <actor>Carlos Guerrero</actor>
+      <actor>Martín Fajardo</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="nl">Film</category>
+    <category lang="nl">Thriller</category>
+    <icon src="https://tvgidsassets.nl/v388/upload/h/carrousel/huracan-771306192.jpg" />
+    <rating system="KIJKWIJZER">
+      <value>Geweld</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/g.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>Grof taalgebruik</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/t.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>6+</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/2.svg" />
+    </rating>
+  </programme>
+  <programme start="20261004033000 +0200" stop="20261004051000 +0200" channel="CanalPlusActionEurope.nl@Slovakia">
+    <title lang="nl">Prizefighter: The Life of Jem Belcher</title>
+    <desc lang="nl">In 1800 wordt James 'Jem' Belcher de jongste wereldkampioen ooit, maar na een vreselijk ongeluk wordt Jem blind aan één oog en kan hij zijn titel niet meer verdedigen.</desc>
+    <credits>
+      <director>Daniel Graham</director>
+      <actor>Matt Hookings</actor>
+      <actor>Ray Winstone</actor>
+      <actor>Marton Csokas</actor>
+      <actor>Jodhi May</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Julian Glover</actor>
+      <actor>Steven Berkoff</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="nl">Film</category>
+    <category lang="nl">Actie</category>
+    <icon src="https://tvgidsassets.nl/v388/upload/p/carrousel/prizefighter-the-life-of-jem-belcher-771068272.jpg" />
+    <rating system="KIJKWIJZER">
+      <value>Geweld</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/g.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>Grof taalgebruik</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/t.svg" />
+    </rating>
+    <rating system="KIJKWIJZER">
+      <value>6+</value>
+      <icon src="https://tvgidsassets.nl/v388/img/assets/2.svg" />
+    </rating>
   </programme>
   <programme channel="CanalPlusCinemas.fr@SD" start="20261003150600 +0200" stop="20261003171800 +0200">
     <title lang="fr">"Hurlevent"</title>
@@ -21720,6 +22047,875 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Comedia / 1953</category>
     <image>https://cdn.mitvstatic.com/programs/mx_dos-tipos-de-cuidado-1953_l_m.jpg</image>
   </programme>
+  <programme start="20261003082400 -0500" stop="20261003094700 -0500" channel="DePeliculaPlus.mx@SD">
+    <title lang="es">El jinete solitario</title>
+  </programme>
+  <programme start="20261003094700 -0500" stop="20261003112800 -0500" channel="DePeliculaPlus.mx@SD">
+    <title lang="es">El revoltoso</title>
+  </programme>
+  <programme start="20261003112800 -0500" stop="20261003131900 -0500" channel="DePeliculaPlus.mx@SD">
+    <title lang="es">El siete machos</title>
+  </programme>
+  <programme start="20261003131900 -0500" stop="20261003151800 -0500" channel="DePeliculaPlus.mx@SD">
+    <title lang="es">El hijo de Huracán Ramírez</title>
+  </programme>
+  <programme start="20261003151800 -0500" stop="20261003165900 -0500" channel="DePeliculaPlus.mx@SD">
+    <title lang="es">Lástima de ropa</title>
+  </programme>
+  <programme start="20261003165900 -0500" stop="20261003183000 -0500" channel="DePeliculaPlus.mx@SD">
+    <title lang="es">Don juan 67</title>
+  </programme>
+  <programme start="20261003183000 -0500" stop="20261003201300 -0500" channel="DePeliculaPlus.mx@SD">
+    <title lang="es">Esperame en Siberia vida mia</title>
+  </programme>
+  <programme start="20261003201300 -0500" stop="20261003220000 -0500" channel="DePeliculaPlus.mx@SD">
+    <title lang="es">El Satiro</title>
+  </programme>
+  <programme channel="DePeliculaUS.us@SD" start="20261003140000 +0000" stop="20261003143000 +0000">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.</desc>
+    <category lang="es">Consumer</category>
+    <category lang="es">Shopping</category>
+    <category lang="es">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bs.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="DePeliculaUS.us@SD" start="20261003143000 +0000" stop="20261003162000 +0000">
+    <title lang="es">Alguien nos quiere matar</title>
+    <desc lang="es">Carlota es enviada a México para vengar la muerte de su padre y se hace secretaria de Juan, el presunto asesino. Unos extranjeros se únen en un pacto para asesinarlo, pero son tan torpes que terminan matándose entre ellos.</desc>
+    <credits>
+      <actor>Angélica María</actor>
+      <actor>Carlos Bracho</actor>
+      <actor>Jorge Russek</actor>
+      <director>Carlos Velo</director>
+    </credits>
+    <date>1970</date>
+    <category lang="es">Movie</category>
+    <category lang="es">Musical</category>
+    <icon src="http://dtil.tmsimg.com/assets/p49556_v_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="DePeliculaUS.us@SD" start="20261003162000 +0000" stop="20261003180500 +0000">
+    <title lang="es">El tonto que hacía milagros</title>
+    <desc lang="es">Un joven que no puede controlar sus poderes sobrenaturales, convierte en realidad todos los deseos que le piden.</desc>
+    <credits>
+      <actor>Miguel Ángel Ferriz</actor>
+      <actor>René Casados</actor>
+      <actor>Gastón Padilla</actor>
+      <director>Mario Hernández</director>
+    </credits>
+    <date>1984</date>
+    <category lang="es">Movie</category>
+    <category lang="es">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p48953_v_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="DePeliculaUS.us@SD" start="20261003180500 +0000" stop="20261003194500 +0000">
+    <title lang="es">Santo y Blue Demon vs. Los Monstruos</title>
+    <desc lang="es">Santo y Blue Demon luchan contra un científico que resucita cadáveres trasplantando cerebros vivos en ellos.</desc>
+    <credits>
+      <actor>Santo</actor>
+      <actor>Alejandro Cruz</actor>
+      <actor>Hedi Blue</actor>
+      <director>Gilberto Martínez Solares</director>
+    </credits>
+    <date>1970</date>
+    <category lang="es">Movie</category>
+    <category lang="es">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p50292_v_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="DePeliculaUS.us@SD" start="20261003194500 +0000" stop="20261003212500 +0000">
+    <title lang="es">El Rey de Acapulco</title>
+    <desc lang="es">Capulina es contratado para cuidar el yate de una joven extranjera que acaba de recibir cuantiosa herencia de su padre.</desc>
+    <credits>
+      <actor>Capulina</actor>
+      <actor>Jacqueline Voltaire</actor>
+      <actor>Lina Marín</actor>
+      <director>Gilberto Martínez Solares</director>
+    </credits>
+    <date>1972</date>
+    <category lang="es">Movie</category>
+    <category lang="es">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p79597_v_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="DePeliculaUS.us@SD" start="20261003212500 +0000" stop="20261003225500 +0000">
+    <title lang="es">El bello durmiente</title>
+    <desc lang="es">Tin Tan encarna a una momia que despierta de su largo sueño, cada vez que se produce un terremoto.</desc>
+    <credits>
+      <actor>Tin Tan</actor>
+      <actor>Lilia del Valle</actor>
+      <actor>Wolf Ruvinskis</actor>
+      <director>Gilberto Martínez Solares</director>
+    </credits>
+    <date>1952</date>
+    <category lang="es">Movie</category>
+    <category lang="es">Horror</category>
+    <icon src="http://dtil.tmsimg.com/assets/p48906_v_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="DePeliculaUS.us@SD" start="20261003225500 +0000" stop="20261004003500 +0000">
+    <title lang="es">Los gemelos alborotados</title>
+    <desc lang="es">Un hermano gemelo que fue perdido desde niño reaparece y causa gran confusión en el pueblo.</desc>
+    <credits>
+      <actor>Antonio Aguilar</actor>
+      <actor>Ernesto Gómez Cruz</actor>
+      <actor>Lucila Mariscal</actor>
+      <director>Mario Hernández</director>
+    </credits>
+    <date>1982</date>
+    <category lang="es">Movie</category>
+    <category lang="es">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p49467_v_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme channel="DePeliculaUS.us@SD" start="20261004003500 +0000" stop="20261004021500 +0000">
+    <title lang="es">Pepito y la lámpara maravillosa</title>
+    <desc lang="es">Como castigo, un niño debe escribir una composición en un utensilio de cocina que resulta ser una lámpara maravillosa.</desc>
+    <credits>
+      <actor>Martín Ramos</actor>
+      <actor>Javier López</actor>
+      <actor>Guillermo Orea</actor>
+      <director>Alejandro Galindo</director>
+    </credits>
+    <date>1971</date>
+    <category lang="es">Movie</category>
+    <category lang="es">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p75966_v_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme>
+  <programme start="20261003084000 -0500" stop="20261003093000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="es">Come una galleta y relájate</sub-title>
+    <episode-num system="onscreen">S13 E8</episode-num>
+  </programme>
+  <programme start="20261003093000 -0500" stop="20261003102000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Vanderpump Rules</title>
+    <sub-title lang="es">Escrito en las estrellas</sub-title>
+    <episode-num system="onscreen">S11 E7</episode-num>
+  </programme>
+  <programme start="20261003102000 -0500" stop="20261003111000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Vanderpump Rules</title>
+    <sub-title lang="es">Cimas y valles</sub-title>
+    <episode-num system="onscreen">S11 E8</episode-num>
+  </programme>
+  <programme start="20261003111000 -0500" stop="20261003120000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Keeping Up with the Kardashians</title>
+    <sub-title lang="es">Caos de Navidad</sub-title>
+    <episode-num system="onscreen">S16 E9</episode-num>
+  </programme>
+  <programme start="20261003120000 -0500" stop="20261003125000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Keeping Up with the Kardashians</title>
+    <sub-title lang="es">Medio pesado</sub-title>
+    <episode-num system="onscreen">S16 E10</episode-num>
+  </programme>
+  <programme start="20261003125000 -0500" stop="20261003134000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Keeping Up with the Kardashians</title>
+    <sub-title lang="es">Traición</sub-title>
+    <episode-num system="onscreen">S16 E11</episode-num>
+  </programme>
+  <programme start="20261003134000 -0500" stop="20261003143000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Keeping Up with the Kardashians</title>
+    <sub-title lang="es">Réplica</sub-title>
+    <episode-num system="onscreen">S16 E12</episode-num>
+  </programme>
+  <programme start="20261003143000 -0500" stop="20261003152000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="es">Código de la puerta de entrada</sub-title>
+    <episode-num system="onscreen">S13 E9</episode-num>
+  </programme>
+  <programme start="20261003152000 -0500" stop="20261003161000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="es">Mira mamá, lo hemos conseguido</sub-title>
+    <episode-num system="onscreen">S13 E10</episode-num>
+  </programme>
+  <programme start="20261003161000 -0500" stop="20261003170000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="es">9021... ¡No</sub-title>
+    <episode-num system="onscreen">S13 E11</episode-num>
+  </programme>
+  <programme start="20261003170000 -0500" stop="20261003175000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="es">Problemas en OC</sub-title>
+    <episode-num system="onscreen">S13 E12</episode-num>
+  </programme>
+  <programme start="20261003175000 -0500" stop="20261003184000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="es">El gran concurso británico de cocina</sub-title>
+    <episode-num system="onscreen">S13 E13</episode-num>
+  </programme>
+  <programme start="20261003184000 -0500" stop="20261003194000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="es">La que tiene la Marilyn de 2 metros</sub-title>
+    <episode-num system="onscreen">S13 E14</episode-num>
+  </programme>
+  <programme start="20261003194000 -0500" stop="20261003203000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Botched</title>
+    <sub-title lang="es">El Dr. Nassif salvó mi vida</sub-title>
+    <episode-num system="onscreen">S2 E14</episode-num>
+  </programme>
+  <programme start="20261003203000 -0500" stop="20261003212000 -0500" channel="ELatinAmerica.us@Mexico">
+    <title lang="es">Botched</title>
+    <sub-title lang="es">Zona libre de acción</sub-title>
+    <episode-num system="onscreen">S2 E15</episode-num>
+  </programme>
+  <programme start="20261003134000 +0000" stop="20261003143000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="en">Come una galleta y relájate</sub-title>
+    <desc lang="es">Tracy comienza a buscar una casa en Beverly Hills y se sorprende al descubrir que Flagg está vendiendo la casa de sus sueños. Fredrik presiona para establecer un precio récord en Upper Bel Air.</desc>
+    <credits>
+      <actor>Josh Flagg</actor>
+      <actor>Josh Altman</actor>
+      <actor>James Harris</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Shopping</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9233787_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S13 E8</episode-num>
+    <previously-shown />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20261003143000 +0000" stop="20261003152000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Escrito en las estrellas</sub-title>
+    <desc lang="es">Para sorpresa de Ariana y Katie, y con el viaje al lago Tahoe en puerta, el grupo comienza a enmendar sus amistades.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Ariana Madix</actor>
+      <actor>James Kennedy</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S11 E7</episode-num>
+    <previously-shown />
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261003152000 +0000" stop="20261003161000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Vanderpump Rules</title>
+    <sub-title lang="en">Cimas y valles</sub-title>
+    <desc lang="es">Katie y Lala se dicen sus verdades. Sandoval empieza a tener citas. Ariana advierte a Scheana sobre retomar su amistad con Sandoval.</desc>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Ariana Madix</actor>
+      <actor>James Kennedy</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9656862_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S11 E8</episode-num>
+    <previously-shown />
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261003161000 +0000" stop="20261003170000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Keeping Up With the Kardashians</title>
+    <sub-title lang="en">Caos de navidad</sub-title>
+    <desc lang="es">Kris, no muy convencida, le permite a Kim hacerse cargo de la fiesta de Nochebuena. El hámster de North muere, y Khloé debe acudir al rescate. Kris trata de entender la relación poco convencional entre Kourtney, Scott y su novia.</desc>
+    <credits>
+      <actor>Kris Jenner</actor>
+      <actor>Kim Kardashian West</actor>
+      <actor>Khloé Kardashian</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185738_b_h8_bx.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E9</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20261003170000 +0000" stop="20261003175000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Keeping Up With the Kardashians</title>
+    <sub-title lang="en">Medio pesado</sub-title>
+    <desc lang="es">Khloé intenta mediar entre Kourtney y Kendall, pero termina empeorando las cosas. Kim continúa la búsqueda de una cura para su psoriasis. Kris se pone cómoda en el nuevo sector de oficinas de Kylie y ella debe mostrarle quién es la jefa.</desc>
+    <credits>
+      <actor>Kris Jenner</actor>
+      <actor>Kim Kardashian West</actor>
+      <actor>Khloé Kardashian</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185738_b_h8_bx.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E10</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20261003175000 +0000" stop="20261003184000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Keeping Up With the Kardashians</title>
+    <sub-title lang="en">Traición</sub-title>
+    <desc lang="es">Khloé enfrenta problemas de salud, pero nada se compara con los rumores que vinculan a Tristan con Jordyn Woods, una amiga de la familia. Por otro lado, Kanye reúne a familiares y amigos para celebrar el poder sanador de la música.</desc>
+    <credits>
+      <actor>Kris Jenner</actor>
+      <actor>Kim Kardashian West</actor>
+      <actor>Khloé Kardashian</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185738_b_h8_bx.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E11</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20261003184000 +0000" stop="20261003193000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Keeping Up With the Kardashians</title>
+    <sub-title lang="en">Réplica</sub-title>
+    <desc lang="es">Kim y Kourtney hacen una escapada con Khloé para ayudarla a lidiar con las noticias. La rabia de Khloé llega a su punto máximo cuando descubre que Jordyn está hablando públicamente de lo que sucedió.</desc>
+    <credits>
+      <actor>Kris Jenner</actor>
+      <actor>Kim Kardashian West</actor>
+      <actor>Khloé Kardashian</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p185738_b_h8_bx.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S16 E12</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20261003193000 +0000" stop="20261003202000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="en">Código de la puerta de entrada</sub-title>
+    <desc lang="es">Tracy se enfrenta cara a cara con Flagg. En Beverly Hills, Altman se enamora de una obra maestra de mediados de siglo. James se apresura a cerrar un trato para Bernard "Harv" Harvey y su esposa en el mercado del Valle.</desc>
+    <credits>
+      <actor>Josh Flagg</actor>
+      <actor>Josh Altman</actor>
+      <actor>James Harris</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Shopping</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9233787_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S13 E9</episode-num>
+    <previously-shown />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20261003202000 +0000" stop="20261003211000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="en">Mira mamá, lo hemos conseguido</sub-title>
+    <desc lang="es">La propiedad de Tracy es difícil de vender, pero no tan difícil como su confrontación con Fredrik. Altman quiere compensar el mal comportamiento de niño dándoles a sus padres algo especial. La experiencia de Flagg es puesta a prueba.</desc>
+    <credits>
+      <actor>Josh Flagg</actor>
+      <actor>Josh Altman</actor>
+      <actor>James Harris</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Shopping</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9233787_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S13 E10</episode-num>
+    <previously-shown />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20261003211000 +0000" stop="20261003220000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="en">9021... ¡No!</sub-title>
+    <desc lang="es">Fredrik y Altman regresan a Beverly Park con una oferta, pero el vendedor los pone a prueba. Flagg organiza una cena exclusiva mientras intenta cerrar un trato en Beverly Hills Flats.</desc>
+    <credits>
+      <actor>Josh Flagg</actor>
+      <actor>Josh Altman</actor>
+      <actor>James Harris</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Shopping</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9233787_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S13 E11</episode-num>
+    <previously-shown />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20261003220000 +0000" stop="20261003225000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="en">Problemas en OC</sub-title>
+    <desc lang="es">Aunque Flagg aún no ha encontrado comprador, la casa de Suzanne Somers puede que ya esté vendida. Tracy y sus hijos revisan el progreso de su nueva casa. Fredrik y Altman quieren ampliar el negocio y vender casas en la misma zona: frente al océano.</desc>
+    <credits>
+      <actor>Josh Flagg</actor>
+      <actor>Josh Altman</actor>
+      <actor>James Harris</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Shopping</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9233787_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S13 E12</episode-num>
+    <previously-shown />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20261003225000 +0000" stop="20261003234000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="en">El gran concurso británico de cocina</sub-title>
+    <desc lang="es">Tracy está encantada de intentar vender la casa de Gleb Savchenko y Elena Samodanova, estrellas de "Dancing with the Stars". Los británicos se ensucian las manos cuando organizan una cena en su propiedad, Nightingale, de 30 millones de dólares.</desc>
+    <credits>
+      <actor>Josh Flagg</actor>
+      <actor>Josh Altman</actor>
+      <actor>James Harris</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Shopping</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9233787_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S13 E13</episode-num>
+    <previously-shown />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20261003234000 +0000" stop="20261004004000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Million Dollar Listing Los Angeles</title>
+    <sub-title lang="en">La que tiene la Marilyn de 2 metros</sub-title>
+    <desc lang="es">Tracy se abre camino hasta llegar a un acuerdo por la propiedad Skyline. Altman pretende vender un récord con la venta de una propiedad que tiene accesorios innecesarios por todos lados.</desc>
+    <credits>
+      <actor>Josh Flagg</actor>
+      <actor>Josh Altman</actor>
+      <actor>James Harris</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Shopping</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9233787_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S13 E14</episode-num>
+    <previously-shown />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20261004004000 +0000" stop="20261004013000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Botched</title>
+    <sub-title lang="en">El Dr. Nassif salvó mi vida</sub-title>
+    <desc lang="es">Después de salvar la vida de Luci, Paul da el visto bueno para reparar su nariz. Terry arregla el pecho de gran tamaño de una DJ. Llega una mujer que se sometió a terribles procedimientos.</desc>
+    <credits>
+      <actor>Paul Nassif</actor>
+      <actor>Terry Dubrow</actor>
+      <actor>Michelle Romano</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10819476_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261004013000 +0000" stop="20261004022000 +0000" channel="ELatinAmerica.us@South">
+    <title lang="en">Botched</title>
+    <sub-title lang="en">Zona libre de acción</sub-title>
+    <desc lang="es">Nassif corrige la nariz de una mujer cuyo dentista le hizo una rinoplastia. Los médicos conocen a una madre que tuvo una gran cantidad de cirugías para lucir exactamente como su hija.</desc>
+    <credits>
+      <actor>Paul Nassif</actor>
+      <actor>Terry Dubrow</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10819476_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme>
   <programme start="20261003041500 +0000" stop="20261003104500 +0000" channel="ElTreceInternacionalLatinAmerica.ar@SD">
     <title lang="es">Fin de transmisión</title>
     <desc lang="es">Fin de transmisión.</desc>
@@ -27755,6 +28951,110 @@ fasttømrede par.</desc>
   </programme>
   <programme start="20261004030000 +0000" stop="20261004090000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Festivales / Conciertos / Musicales</title>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003110000 -0300" stop="20261003120000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003120000 -0300" stop="20261003130000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003130000 -0300" stop="20261003140000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003140000 -0300" stop="20261003150000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003150000 -0300" stop="20261003160000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003160000 -0300" stop="20261003170000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003170000 -0300" stop="20261003180000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003180000 -0300" stop="20261003190000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003190000 -0300" stop="20261003200000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003200000 -0300" stop="20261003210000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003210000 -0300" stop="20261003220000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003220000 -0300" stop="20261003230000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="PlayTV.br@SD" start="20261003230000 -0300" stop="20261004000000 -0300">
+    <title lang="pt">Canal substituído por TV WA \u2013 135</title>
+    <desc lang="pt">Esse canal foi substituído pela TV WA, a nova programação está disponível no canal de número 135.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
   </programme>
   <programme channel="PlutoTV90sClassics.de@FR" start="20261003134334 +0000" stop="20261003140834 +0000">
     <title lang="fr">Sabrina The Teenage Witch</title>
@@ -39216,6 +40516,51 @@ fasttømrede par.</desc>
       <value>AGE228</value>
     </rating>
   </programme>
+  <programme start="20261003083600 -0500" stop="20261003092400 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">El Chico De Oro</title>
+  </programme>
+  <programme start="20261003092400 -0500" stop="20261003101200 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">El Chico De Oro</title>
+  </programme>
+  <programme start="20261003101200 -0500" stop="20261003110000 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">El Chico De Oro</title>
+  </programme>
+  <programme start="20261003110000 -0500" stop="20261003115200 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20261003115200 -0500" stop="20261003124500 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20261003124500 -0500" stop="20261003133700 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20261003133700 -0500" stop="20261003142900 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20261003142900 -0500" stop="20261003152100 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20261003152100 -0500" stop="20261003161200 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">Quiéreme Siempre</title>
+  </programme>
+  <programme start="20261003161200 -0500" stop="20261003170300 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">Quiéreme Siempre</title>
+  </programme>
+  <programme start="20261003170300 -0500" stop="20261003175400 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">Quiéreme Siempre</title>
+  </programme>
+  <programme start="20261003175400 -0500" stop="20261003184500 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">Quiéreme Siempre</title>
+  </programme>
+  <programme start="20261003184500 -0500" stop="20261003193600 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">Quiéreme Siempre</title>
+  </programme>
+  <programme start="20261003193600 -0500" stop="20261003202700 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">Quiéreme Siempre</title>
+  </programme>
+  <programme start="20261003202700 -0500" stop="20261003211800 -0500" channel="TNTNovelas.us@Brazil">
+    <title lang="es">Quiéreme Siempre</title>
+  </programme>
   <programme start="20261003085000 -0500" stop="20261003092000 -0500" channel="TVEInternacionalAmerica.es@HD">
     <title lang="es">Pagina dos</title>
   </programme>
@@ -39921,6 +41266,354 @@ fasttømrede par.</desc>
     <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
   </programme>
   <programme start="20261004054500 +0000" stop="20261004064500 +0000" channel="Telefe.ar@SD">
+    <title lang="es">#JuegoChino</title>
+    <desc lang="es">Guillermo Pelado López desafía a las figuras más reconocidas con sus preguntas desopilantes, el humor ácido que lo caracteriza y situaciones muy divertidas.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003043000 +0000" stop="20261003063000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Cortá por Lozano</title>
+    <desc lang="es">Actualidad, espectáculos, entrevistas y humor, con el particular estilo de Verónica Lozano, acompañada de reconocidos profesionales...</desc>
+    <category lang="es">Magazine</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_corta-por-lozano_l_m.jpg</image>
+  </programme>
+  <programme start="20261003050000 +0000" stop="20261003050500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Intuiciones</title>
+  </programme>
+  <programme start="20261003050500 +0000" stop="20261003053000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">El Valor de Tus Joyas</title>
+  </programme>
+  <programme start="20261003053000 +0000" stop="20261003073000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Cortá Por Lozano</title>
+  </programme>
+  <programme start="20261003063000 +0000" stop="20261003070000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">El álbum</title>
+    <desc lang="es">Cada participante deberá reunir las 20 figuritas necesarias para completar su álbum, enfrentándose a preguntas, desafíos y momentos de tensión que pondrán a prueba su memoria, su pasión y su rapidez.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003070000 +0000" stop="20261003090000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">A la Barbarossa</title>
+    <desc lang="es">Georgina combina los temas de actualidad, la cocina y el humor en tus mañanas. Junto a su panel, tratarán los temas más importantes del día con móviles en vivo en el lugar de los hechos.</desc>
+    <category lang="es">Magazine</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003073000 +0000" stop="20261003080000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">El album</title>
+  </programme>
+  <programme start="20261003080000 +0000" stop="20261003100000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">A la Barbarossa</title>
+  </programme>
+  <programme start="20261003090000 +0000" stop="20261003091500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Disney Jr.</title>
+    <desc lang="es">Un espacio que presenta los mejores contenidos de Disney Jr. para que disfruten los más pequeños.</desc>
+    <category lang="es">Infantil</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003091500 +0000" stop="20261003101500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Disney Jr.</title>
+    <desc lang="es">Un espacio que presenta los mejores contenidos de Disney Jr. para que disfruten los más pequeños.</desc>
+    <category lang="es">Infantil</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003100000 +0000" stop="20261003113000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Disney Junior</title>
+  </programme>
+  <programme start="20261003101500 +0000" stop="20261003103000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">El Chavo y el Chapulín colorado</title>
+    <desc lang="es">Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.</desc>
+    <category lang="es">Comedia</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003103000 +0000" stop="20261003121500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">El Chavo y el Chapulín colorado</title>
+    <desc lang="es">Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.</desc>
+    <category lang="es">Comedia</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003113000 +0000" stop="20261003150000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">El Chavo y Chapulín</title>
+  </programme>
+  <programme start="20261003121500 +0000" stop="20261003140000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">El Chavo y el Chapulín colorado</title>
+    <desc lang="es">Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.</desc>
+    <category lang="es">Comedia</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003140000 +0000" stop="20261003200000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.</desc>
+    <category lang="es">Comedia</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_los-simpson_l_m.jpg</image>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003210000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20261003200000 +0000" stop="20261003203000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Escape perfecto</title>
+    <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
+  </programme>
+  <programme start="20261003203000 +0000" stop="20261003213000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">A confirmar</title>
+    <desc lang="es">Programación a confirmar.</desc>
+    <category lang="es">Variedades</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_a-confirmar_l_m.jpg</image>
+  </programme>
+  <programme start="20261003210000 +0000" stop="20261003223000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">El Muro Infernal</title>
+  </programme>
+  <programme start="20261003213000 +0000" stop="20261003214500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Escape perfecto</title>
+    <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
+  </programme>
+  <programme start="20261003214500 +0000" stop="20261003230000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Escape perfecto</title>
+    <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
+  </programme>
+  <programme start="20261003223000 +0000" stop="20261004000000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20261003230000 +0000" stop="20261004000000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Pasapalabra</title>
+    <desc lang="es">En cada emisión, se enfrentan 2 equipos en diferentes juegos cuyo objetivo es la suma de segundos para el desafío final. Figuras muy conocidas y queridas, se sumarán en cada programa y lo dejarán todo para ser los mejores.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_pasapalabra_l_m.jpg</image>
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004001500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Palpitando la previa</title>
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004020000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Argentina vs. Burkina Faso</title>
+    <desc lang="es">Disfruta de los mejores partidos amistosos internacionales de la Selección Argentina.</desc>
+    <category lang="es">Amistoso internacional</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
+  </programme>
+  <programme start="20261004001500 +0000" stop="20261004010000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Fútbol: Previa</title>
+  </programme>
+  <programme start="20261004010000 +0000" stop="20261004024500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Argentina vs. Burkina Faso</title>
+  </programme>
+  <programme start="20261004020000 +0000" stop="20261004024500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">PH: Podemos hablar</title>
+    <desc lang="es">Distintas personalidades visitan a Andy en un encuentro para hablar de todo y escucharse unos a otros, y se sorprenden al descubrir que tienen mucho más en común de lo que piensan.</desc>
+    <category lang="es">Talk Show</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_ph-podemos-hablar-1_l_m.jpg</image>
+  </programme>
+  <programme start="20261004024500 +0000" stop="20261004033000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Fútbol: Post</title>
+  </programme>
+  <programme start="20261004024500 +0000" stop="20261004030000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">DirecTV - DGO Presentan: Espiando la casa</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+    <category lang="es">Reality Show</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261004030000 +0000" stop="20261004033000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">El álbum</title>
+    <desc lang="es">Cada participante deberá reunir las 20 figuritas necesarias para completar su álbum, enfrentándose a preguntas, desafíos y momentos de tensión que pondrán a prueba su memoria, su pasión y su rapidez.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261004033000 +0000" stop="20261004040000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Tierras</title>
+  </programme>
+  <programme start="20261004033000 +0000" stop="20261004053000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">PH: Podemos hablar</title>
+    <desc lang="es">Distintas personalidades visitan a Andy en un encuentro para hablar de todo y escucharse unos a otros, y se sorprenden al descubrir que tienen mucho más en común de lo que piensan.</desc>
+    <category lang="es">Talk Show</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_ph-podemos-hablar-1_l_m.jpg</image>
+  </programme>
+  <programme start="20261004040000 +0000" stop="20261004054500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Argentina vs. Burkina Faso</title>
+  </programme>
+  <programme start="20261004053000 +0000" stop="20261004054500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">DirecTV - DGO Presentan: Espiando la casa</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+    <category lang="es">Reality Show</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261004054500 +0000" stop="20261004064500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">#JuegoChino</title>
+    <desc lang="es">Guillermo Pelado López desafía a las figuras más reconocidas con sus preguntas desopilantes, el humor ácido que lo caracteriza y situaciones muy divertidas.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003043000 +0000" stop="20261003063000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Cortá por Lozano</title>
+    <desc lang="es">Actualidad, espectáculos, entrevistas y humor, con el particular estilo de Verónica Lozano, acompañada de reconocidos profesionales...</desc>
+    <category lang="es">Magazine</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_corta-por-lozano_l_m.jpg</image>
+  </programme>
+  <programme start="20261003050000 +0000" stop="20261003050500 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Intuiciones</title>
+  </programme>
+  <programme start="20261003050500 +0000" stop="20261003053000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">El Valor de Tus Joyas</title>
+  </programme>
+  <programme start="20261003053000 +0000" stop="20261003073000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Cortá Por Lozano</title>
+  </programme>
+  <programme start="20261003063000 +0000" stop="20261003070000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">El álbum</title>
+    <desc lang="es">Cada participante deberá reunir las 20 figuritas necesarias para completar su álbum, enfrentándose a preguntas, desafíos y momentos de tensión que pondrán a prueba su memoria, su pasión y su rapidez.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003070000 +0000" stop="20261003090000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">A la Barbarossa</title>
+    <desc lang="es">Georgina combina los temas de actualidad, la cocina y el humor en tus mañanas. Junto a su panel, tratarán los temas más importantes del día con móviles en vivo en el lugar de los hechos.</desc>
+    <category lang="es">Magazine</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003073000 +0000" stop="20261003080000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">El album</title>
+  </programme>
+  <programme start="20261003080000 +0000" stop="20261003100000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">A la Barbarossa</title>
+  </programme>
+  <programme start="20261003090000 +0000" stop="20261003091500 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Disney Jr.</title>
+    <desc lang="es">Un espacio que presenta los mejores contenidos de Disney Jr. para que disfruten los más pequeños.</desc>
+    <category lang="es">Infantil</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003091500 +0000" stop="20261003101500 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Disney Jr.</title>
+    <desc lang="es">Un espacio que presenta los mejores contenidos de Disney Jr. para que disfruten los más pequeños.</desc>
+    <category lang="es">Infantil</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003100000 +0000" stop="20261003113000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Disney Junior</title>
+  </programme>
+  <programme start="20261003101500 +0000" stop="20261003103000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">El Chavo y el Chapulín colorado</title>
+    <desc lang="es">Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.</desc>
+    <category lang="es">Comedia</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003103000 +0000" stop="20261003121500 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">El Chavo y el Chapulín colorado</title>
+    <desc lang="es">Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.</desc>
+    <category lang="es">Comedia</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003113000 +0000" stop="20261003150000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">El Chavo y Chapulín</title>
+  </programme>
+  <programme start="20261003121500 +0000" stop="20261003140000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">El Chavo y el Chapulín colorado</title>
+    <desc lang="es">Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.</desc>
+    <category lang="es">Comedia</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261003140000 +0000" stop="20261003200000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.</desc>
+    <category lang="es">Comedia</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_los-simpson_l_m.jpg</image>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003210000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20261003200000 +0000" stop="20261003203000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Escape perfecto</title>
+    <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
+  </programme>
+  <programme start="20261003203000 +0000" stop="20261003213000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">A confirmar</title>
+    <desc lang="es">Programación a confirmar.</desc>
+    <category lang="es">Variedades</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_a-confirmar_l_m.jpg</image>
+  </programme>
+  <programme start="20261003210000 +0000" stop="20261003223000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">El Muro Infernal</title>
+  </programme>
+  <programme start="20261003213000 +0000" stop="20261003214500 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Escape perfecto</title>
+    <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
+  </programme>
+  <programme start="20261003214500 +0000" stop="20261003230000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Escape perfecto</title>
+    <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
+  </programme>
+  <programme start="20261003223000 +0000" stop="20261004000000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20261003230000 +0000" stop="20261004000000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Pasapalabra</title>
+    <desc lang="es">En cada emisión, se enfrentan 2 equipos en diferentes juegos cuyo objetivo es la suma de segundos para el desafío final. Figuras muy conocidas y queridas, se sumarán en cada programa y lo dejarán todo para ser los mejores.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_pasapalabra_l_m.jpg</image>
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004001500 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Palpitando la previa</title>
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004020000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Argentina vs. Burkina Faso</title>
+    <desc lang="es">Disfruta de los mejores partidos amistosos internacionales de la Selección Argentina.</desc>
+    <category lang="es">Amistoso internacional</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
+  </programme>
+  <programme start="20261004001500 +0000" stop="20261004010000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Fútbol: Previa</title>
+  </programme>
+  <programme start="20261004010000 +0000" stop="20261004024500 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Argentina vs. Burkina Faso</title>
+  </programme>
+  <programme start="20261004020000 +0000" stop="20261004024500 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">PH: Podemos hablar</title>
+    <desc lang="es">Distintas personalidades visitan a Andy en un encuentro para hablar de todo y escucharse unos a otros, y se sorprenden al descubrir que tienen mucho más en común de lo que piensan.</desc>
+    <category lang="es">Talk Show</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_ph-podemos-hablar-1_l_m.jpg</image>
+  </programme>
+  <programme start="20261004024500 +0000" stop="20261004033000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Fútbol: Post</title>
+  </programme>
+  <programme start="20261004024500 +0000" stop="20261004030000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">DirecTV - DGO Presentan: Espiando la casa</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+    <category lang="es">Reality Show</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261004030000 +0000" stop="20261004033000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">El álbum</title>
+    <desc lang="es">Cada participante deberá reunir las 20 figuritas necesarias para completar su álbum, enfrentándose a preguntas, desafíos y momentos de tensión que pondrán a prueba su memoria, su pasión y su rapidez.</desc>
+    <category lang="es">Entretenimientos</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261004033000 +0000" stop="20261004040000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Tierras</title>
+  </programme>
+  <programme start="20261004033000 +0000" stop="20261004053000 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">PH: Podemos hablar</title>
+    <desc lang="es">Distintas personalidades visitan a Andy en un encuentro para hablar de todo y escucharse unos a otros, y se sorprenden al descubrir que tienen mucho más en común de lo que piensan.</desc>
+    <category lang="es">Talk Show</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_ph-podemos-hablar-1_l_m.jpg</image>
+  </programme>
+  <programme start="20261004040000 +0000" stop="20261004054500 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">Argentina vs. Burkina Faso</title>
+  </programme>
+  <programme start="20261004053000 +0000" stop="20261004054500 +0000" channel="TelefeInterior.ar@SD">
+    <title lang="es">DirecTV - DGO Presentan: Espiando la casa</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+    <category lang="es">Reality Show</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261004054500 +0000" stop="20261004064500 +0000" channel="TelefeInterior.ar@SD">
     <title lang="es">#JuegoChino</title>
     <desc lang="es">Guillermo Pelado López desafía a las figuras más reconocidas con sus preguntas desopilantes, el humor ácido que lo caracteriza y situaciones muy divertidas.</desc>
     <category lang="es">Entretenimientos</category>
