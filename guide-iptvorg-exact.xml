@@ -610,6 +610,14 @@
       <value>TVPG</value>
     </rating>
   </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="AmericasVoice.us@SD">
+    <title lang="en">The Power of Prayer</title>
+    <desc lang="en">Hosted by Jentezen Franklin.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/02026fb121ef490f3a7aa441d504824e/images/gracenote/assets/p32618712_b_h8_aa.jpg" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme>
   <programme start="20261003143000 +0000" stop="20261003160000 +0000" channel="Arte1.br@SD">
     <title lang="pt">Adoção</title>
     <desc lang="pt">Kata deseja ter um filho com o amante. Anna quer se casar com o namorado. As duas estabelecem uma forte relação que as faz encarar as próprias angústias e revela as forças que moldam a vida das mulheres.</desc>
@@ -1814,6 +1822,9 @@
   <programme start="20261004033000 +0000" stop="20261004040000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Talking Business</title>
   </programme>
+  <programme start="20261004033000 +0000" stop="20261004040000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Global Eye</title>
+  </programme>
   <programme start="20261004040000 +0000" stop="20261004043000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
   </programme>
@@ -2116,12 +2127,6 @@
     <category lang="es">Variedades</category>
     <image>https://zpapi.zetatv.com.uy/media/images/6c62a52e737b5ce9b6123ba609f0a8fb.jpg</image>
   </programme>
-  <programme start="20261003135453 +0000" stop="20261003153801 +0000" channel="CineRomantico.us@SD">
-    <title lang="es">A Crush On You</title>
-    <desc lang="es">Correo electrónico de un hombre enviado a la chica equivocada lleva a un romance inesperado.</desc>
-    <category lang="es">En Español</category>
-    <image>https://image.xumo.com/v1/assets/asset/XM0Q56FKYXO972/720x1080.jpg?fb=https%253A%252F%252Fimage.xumo.com%252Fv1%252Fchannels%252Fchannel%252F88889481%252F720x1080.jpg%253Ftype%253DtrcChannelTile2x3</image>
-  </programme>
   <programme start="20261003153801 +0000" stop="20261003171814 +0000" channel="CineRomantico.us@SD">
     <title lang="es">Love's Unending Legacy</title>
     <desc lang="es">Una viuda (Erin Cottrell) regresa junto con su hijo a su pueblo.</desc>
@@ -2184,14 +2189,24 @@
     <title lang="es">North by Northpole: A Dial "S" Mystery</title>
     <desc lang="es">Santa Claus regresa para ayudar a una pareja a resolver un misterio y encontrar el amor.</desc>
   </programme>
+  <programme start="20261004173010 +0000" stop="20261004191143 +0000" channel="CineRomantico.us@SD">
+    <title lang="es">The Wedding Do Over</title>
+    <desc lang="es">Una planificadora de bodas llamada Abby se especializa en arreglar las bodas que les han ido mal.</desc>
+  </programme>
   <programme start="20261003145900 +0000" stop="20261003162500 +0000" channel="CineSony.us@SD">
     <title lang="es">Rec</title>
   </programme>
   <programme start="20261003150100 +0000" stop="20261003170200 +0000" channel="CineSony.us@SD">
     <title lang="es">District 9</title>
   </programme>
+  <programme start="20261003152500 +0000" stop="20261003170100 +0000" channel="CineSony.us@SD">
+    <title lang="es">Rec 2</title>
+  </programme>
   <programme start="20261003162500 +0000" stop="20261003180100 +0000" channel="CineSony.us@SD">
     <title lang="es">Rec 2</title>
+  </programme>
+  <programme start="20261003170100 +0000" stop="20261003190200 +0000" channel="CineSony.us@SD">
+    <title lang="es">District 9</title>
   </programme>
   <programme start="20261003170200 +0000" stop="20261003185800 +0000" channel="CineSony.us@SD">
     <title lang="es">Layer Cake</title>
@@ -2202,14 +2217,23 @@
   <programme start="20261003185800 +0000" stop="20261003203100 +0000" channel="CineSony.us@SD">
     <title lang="es">Lake Placid</title>
   </programme>
+  <programme start="20261003190200 +0000" stop="20261003205800 +0000" channel="CineSony.us@SD">
+    <title lang="es">Layer Cake</title>
+  </programme>
   <programme start="20261003200200 +0000" stop="20261003215800 +0000" channel="CineSony.us@SD">
     <title lang="es">Layer Cake</title>
   </programme>
   <programme start="20261003203100 +0000" stop="20261003224200 +0000" channel="CineSony.us@SD">
     <title lang="es">Hellboy</title>
   </programme>
+  <programme start="20261003205800 +0000" stop="20261003223100 +0000" channel="CineSony.us@SD">
+    <title lang="es">Lake Placid</title>
+  </programme>
   <programme start="20261003215800 +0000" stop="20261003233100 +0000" channel="CineSony.us@SD">
     <title lang="es">Lake Placid</title>
+  </programme>
+  <programme start="20261003223100 +0000" stop="20261004004200 +0000" channel="CineSony.us@SD">
+    <title lang="es">Hellboy</title>
   </programme>
   <programme start="20261003224200 +0000" stop="20261004010000 +0000" channel="CineSony.us@SD">
     <title lang="es">xXx</title>
@@ -2218,6 +2242,11 @@
   </programme>
   <programme start="20261003233100 +0000" stop="20261004014200 +0000" channel="CineSony.us@SD">
     <title lang="es">Hellboy</title>
+  </programme>
+  <programme start="20261004004200 +0000" stop="20261004030000 +0000" channel="CineSony.us@SD">
+    <title lang="es">xXx</title>
+    <desc lang="es">El ex atleta de deportes extremos, Cage, es llamado a una misión encubierta contra unos maleantes que poseen tecnología de punta conocidos como Anarchy 99.</desc>
+    <image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/triple_x.jpg</image>
   </programme>
   <programme start="20261004010000 +0000" stop="20261004024600 +0000" channel="CineSony.us@SD">
     <title lang="es">XXX State of the union</title>
@@ -2230,11 +2259,17 @@
   <programme start="20261004024600 +0000" stop="20261004041700 +0000" channel="CineSony.us@SD">
     <title lang="es">Anaconda</title>
   </programme>
+  <programme start="20261004030000 +0000" stop="20261004044600 +0000" channel="CineSony.us@SD">
+    <title lang="es">XXX State of the union</title>
+  </programme>
   <programme start="20261004040000 +0000" stop="20261004054600 +0000" channel="CineSony.us@SD">
     <title lang="es">XXX State of the union</title>
   </programme>
   <programme start="20261004041700 +0000" stop="20261004055900 +0000" channel="CineSony.us@SD">
     <title lang="es">Urban Legend</title>
+  </programme>
+  <programme start="20261004044600 +0000" stop="20261004061700 +0000" channel="CineSony.us@SD">
+    <title lang="es">Anaconda</title>
   </programme>
   <programme start="20261003000000 +0000" stop="20261004000000 +0000" channel="CineWestern.es@SD">
     <title lang="es">Cine Western</title>
@@ -2636,12 +2671,6 @@
   </programme>
   <programme start="20261004203000 +0000" stop="20261003210000 +0000" channel="CodeFashionTV.bg@SD">
     <title lang="bg">Fashion Films Night</title>
-  </programme>
-  <programme start="20261003151000 +0000" stop="20261003153500 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
-    <title lang="es">Presente tenso</title>
-    <rating system="MPA">
-      <value>TVPG</value>
-    </rating>
   </programme>
   <programme start="20261003153000 +0000" stop="20261003155500 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
     <title lang="es">El rey del barrio</title>
@@ -3147,6 +3176,9 @@
     <category lang="es">Comedia / 1967 / 7.4</category>
     <image>https://cdn.mitvstatic.com/programs/ar_don-juan-67-1967_l_m.jpg</image>
   </programme>
+  <programme start="20261003215900 +0000" stop="20261003233000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
+    <title lang="es">Don juan 67</title>
+  </programme>
   <programme start="20261003225900 +0000" stop="20261004003000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Don juan 67</title>
   </programme>
@@ -3158,6 +3190,9 @@
     <desc lang="es">Faber, un fraudulento doctor, se aprovecha de la incalculable fortuna de su amigo Mario, a quien opera innecesariamente, con tal de apoderarse de su dinero.</desc>
     <category lang="es">Comedia / 1971 / 7.3</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image>
+  </programme>
+  <programme start="20261003233000 +0000" stop="20261004011300 +0000" channel="DePeliculaLatinAmerica.mx@SD">
+    <title lang="es">Esperame en Siberia vida mia</title>
   </programme>
   <programme start="20261003234800 +0000" stop="20261004012200 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Rigo es amor</title>
@@ -3176,6 +3211,9 @@
     <desc lang="es">Don Juan harto de recurrir a varios disfraces, está dispuesto a reavivar su encanto y mantener su reputación.</desc>
     <category lang="es">Comedia / 1981 / 5.7</category>
     <image>https://cdn.mitvstatic.com/programs/ar_el-satiro-1981_l_m.jpg</image>
+  </programme>
+  <programme start="20261004011300 +0000" stop="20261004030000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
+    <title lang="es">El Satiro</title>
   </programme>
   <programme start="20261004012200 +0000" stop="20261004024600 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Conexión criminal</title>
@@ -3225,8 +3263,8 @@
     <category lang="es">Comedia / 1953</category>
     <image>https://cdn.mitvstatic.com/programs/mx_dos-tipos-de-cuidado-1953_l_m.jpg</image>
   </programme>
-  <programme start="20261003151000 +0000" stop="20261003153500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">Turbo FAST</title>
+  <programme start="20261003152500 +0000" stop="20261003155000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las aventuras del Gato con Botas</title>
   </programme>
   <programme start="20261003153000 +0000" stop="20261003155500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
@@ -3234,11 +3272,17 @@
   <programme start="20261003153500 +0000" stop="20261003160000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
   </programme>
+  <programme start="20261003155000 +0000" stop="20261003161500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las aventuras del Gato con Botas</title>
+  </programme>
   <programme start="20261003155500 +0000" stop="20261003162000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261003160000 +0000" stop="20261003162500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
+  </programme>
+  <programme start="20261003161500 +0000" stop="20261003164000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las aventuras del Gato con Botas</title>
   </programme>
   <programme start="20261003162000 +0000" stop="20261003164500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
@@ -3246,11 +3290,17 @@
   <programme start="20261003162500 +0000" stop="20261003165000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras del Gato con Botas</title>
   </programme>
+  <programme start="20261003164000 +0000" stop="20261003170500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
   <programme start="20261003164500 +0000" stop="20261003171000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261003165000 +0000" stop="20261003171500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras del Gato con Botas</title>
+  </programme>
+  <programme start="20261003170500 +0000" stop="20261003173000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
   <programme start="20261003171000 +0000" stop="20261003173500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
@@ -3258,11 +3308,17 @@
   <programme start="20261003171500 +0000" stop="20261003174000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras del Gato con Botas</title>
   </programme>
+  <programme start="20261003173000 +0000" stop="20261003175500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
   <programme start="20261003173500 +0000" stop="20261003180000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261003174000 +0000" stop="20261003180500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261003175500 +0000" stop="20261003182000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261003180000 +0000" stop="20261003192500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls</title>
@@ -3270,10 +3326,19 @@
   <programme start="20261003180500 +0000" stop="20261003183000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
+  <programme start="20261003182000 +0000" stop="20261003184500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261003183000 +0000" stop="20261003185500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
+  <programme start="20261003184500 +0000" stop="20261003191000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261003185500 +0000" stop="20261003192000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261003191000 +0000" stop="20261003193500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261003192000 +0000" stop="20261003194500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
@@ -3282,8 +3347,14 @@
   <programme start="20261003192500 +0000" stop="20261003211000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kubo y la búsqueda samurái</title>
   </programme>
+  <programme start="20261003193500 +0000" stop="20261003200000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261003194500 +0000" stop="20261003201000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261003200000 +0000" stop="20261003212500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Trolls</title>
   </programme>
   <programme start="20261003201000 +0000" stop="20261003203500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
@@ -3297,6 +3368,9 @@
   <programme start="20261003211000 +0000" stop="20261003224500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Los Boxtrolls</title>
   </programme>
+  <programme start="20261003212500 +0000" stop="20261003231000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kubo y la búsqueda samurái</title>
+  </programme>
   <programme start="20261003222500 +0000" stop="20261004001000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kubo y la búsqueda samurái</title>
   </programme>
@@ -3305,6 +3379,9 @@
   </programme>
   <programme start="20261003231000 +0000" stop="20261003233500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261003231000 +0000" stop="20261004004500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Los Boxtrolls</title>
   </programme>
   <programme start="20261003233500 +0000" stop="20261004000000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
@@ -3318,11 +3395,20 @@
   <programme start="20261004002500 +0000" stop="20261004005000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261004004500 +0000" stop="20261004011000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Glitter Model</title>
+  </programme>
   <programme start="20261004005000 +0000" stop="20261004011500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261004011000 +0000" stop="20261004013500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261004011500 +0000" stop="20261004014000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261004013500 +0000" stop="20261004020000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261004014000 +0000" stop="20261004020500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
@@ -3330,10 +3416,16 @@
   <programme start="20261004014500 +0000" stop="20261004021000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Glitter Model</title>
   </programme>
+  <programme start="20261004020000 +0000" stop="20261004022500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261004020500 +0000" stop="20261004023000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
   <programme start="20261004021000 +0000" stop="20261004023500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261004022500 +0000" stop="20261004025000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004025500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
@@ -3342,11 +3434,17 @@
   <programme start="20261004023500 +0000" stop="20261004030000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261004025000 +0000" stop="20261004031500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261004025500 +0000" stop="20261004032000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
   <programme start="20261004030000 +0000" stop="20261004032500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261004031500 +0000" stop="20261004034000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
   <programme start="20261004032000 +0000" stop="20261004034500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
@@ -3354,23 +3452,35 @@
   <programme start="20261004032500 +0000" stop="20261004035000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261004034000 +0000" stop="20261004040500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
   <programme start="20261004034500 +0000" stop="20261004041500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El amanecer de los Croods</title>
   </programme>
   <programme start="20261004035000 +0000" stop="20261004041500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261004040500 +0000" stop="20261004043000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
   <programme start="20261004041500 +0000" stop="20261004044000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El amanecer de los Croods</title>
   </programme>
   <programme start="20261004041500 +0000" stop="20261004044000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
+  <programme start="20261004043000 +0000" stop="20261004045500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
+  </programme>
   <programme start="20261004044000 +0000" stop="20261004051000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El Show de Peabody y Sherman</title>
   </programme>
   <programme start="20261004044000 +0000" stop="20261004050500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261004045500 +0000" stop="20261004052000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
   <programme start="20261003150000 +0000" stop="20261003160000 +0000" channel="DubaiTVInternational.ae@SD">
     <title lang="en">Rise of the Raven</title>
@@ -5377,11 +5487,22 @@
       <value>UR</value>
     </rating>
   </programme>
+  <programme start="20261004173500 +0000" stop="20261004192000 +0000" channel="MyTimeMovieNetworkEast.us@SD">
+    <title lang="en">Candid About Love</title>
+    <desc lang="en">A gallery assistant tries to get a reclusive artist to premiere his latest work at the gallery.</desc>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4e880423cd4c5faeb179403ece28382b/images/gracenote/assets/p24218147_v_h10_ab.jpg" />
+    <rating system="Motion Picture Association of America">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme start="20261003150000 +0000" stop="20261003160000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Jajapopy</title>
   </programme>
   <programme start="20261003150000 +0000" stop="20261003160000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Ñane mba'e</title>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003170000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Investigando de una</title>
   </programme>
   <programme start="20261003160000 +0000" stop="20261003180000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Investigando de una</title>
@@ -5392,11 +5513,17 @@
   <programme start="20261003170000 +0000" stop="20261003180000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Magazine Central</title>
   </programme>
+  <programme start="20261003170000 +0000" stop="20261003180000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Ñane mba'e</title>
+  </programme>
   <programme start="20261003180000 +0000" stop="20261003190000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Ñane mba'e</title>
   </programme>
   <programme start="20261003180000 +0000" stop="20261003190000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Ñemongueta</title>
+  </programme>
+  <programme start="20261003180000 +0000" stop="20261003190000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Magarte</title>
   </programme>
   <programme start="20261003190000 +0000" stop="20261003200000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Magarte</title>
@@ -5404,11 +5531,17 @@
   <programme start="20261003190000 +0000" stop="20261003200000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Jajapopy</title>
   </programme>
+  <programme start="20261003190000 +0000" stop="20261003200000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Magazine Central</title>
+  </programme>
   <programme start="20261003200000 +0000" stop="20261003210000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Magazine Central</title>
   </programme>
   <programme start="20261003200000 +0000" stop="20261003210000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Paraguay VIP</title>
+  </programme>
+  <programme start="20261003200000 +0000" stop="20261003210000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Ñemongueta</title>
   </programme>
   <programme start="20261003210000 +0000" stop="20261003220000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Ñemongueta</title>
@@ -5416,17 +5549,26 @@
   <programme start="20261003210000 +0000" stop="20261003220000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Cazatalentos</title>
   </programme>
+  <programme start="20261003210000 +0000" stop="20261003220000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Jajapopy</title>
+  </programme>
   <programme start="20261003220000 +0000" stop="20261003230000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Jajapopy</title>
   </programme>
   <programme start="20261003220000 +0000" stop="20261003230000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">En democracia</title>
   </programme>
+  <programme start="20261003220000 +0000" stop="20261003230000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Paraguay VIP</title>
+  </programme>
   <programme start="20261003230000 +0000" stop="20261004000000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Paraguay VIP</title>
   </programme>
   <programme start="20261003230000 +0000" stop="20261003233000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Curiosidades</title>
+  </programme>
+  <programme start="20261003230000 +0000" stop="20261004000000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Cazatalentos</title>
   </programme>
   <programme start="20261003233000 +0000" stop="20261004000000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Nuestra música</title>
@@ -5437,11 +5579,23 @@
   <programme start="20261004000000 +0000" stop="20261004060000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Festivales / Conciertos / Musicales</title>
   </programme>
+  <programme start="20261004000000 +0000" stop="20261004010000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">En democracia</title>
+  </programme>
   <programme start="20261004010000 +0000" stop="20261004020000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">En democracia</title>
   </programme>
+  <programme start="20261004010000 +0000" stop="20261004013000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Curiosidades</title>
+  </programme>
+  <programme start="20261004013000 +0000" stop="20261004020000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Nuestra música</title>
+  </programme>
   <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Curiosidades</title>
+  </programme>
+  <programme start="20261004020000 +0000" stop="20261004080000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Festivales / Conciertos / Musicales</title>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Nuestra música</title>
@@ -6778,6 +6932,9 @@
     <category lang="es">Entretenimientos</category>
     <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
   </programme>
+  <programme start="20261003200000 +0000" stop="20261003213000 +0000" channel="Telefe.ar@SD">
+    <title lang="es">El Muro Infernal</title>
+  </programme>
   <programme start="20261003203000 +0000" stop="20261003213000 +0000" channel="Telefe.ar@SD">
     <title lang="es">A confirmar</title>
     <desc lang="es">Programación a confirmar.</desc>
@@ -6799,6 +6956,9 @@
     <category lang="es">Entretenimientos</category>
     <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
   </programme>
+  <programme start="20261003213000 +0000" stop="20261003230000 +0000" channel="Telefe.ar@SD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
   <programme start="20261003214500 +0000" stop="20261003230000 +0000" channel="Telefe.ar@SD">
     <title lang="es">Escape perfecto</title>
     <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
@@ -6817,6 +6977,12 @@
     <category lang="es">Entretenimientos</category>
     <image>https://cdn.mitvstatic.com/programs/ar_pasapalabra_l_m.jpg</image>
   </programme>
+  <programme start="20261003230000 +0000" stop="20261003231500 +0000" channel="Telefe.ar@SD">
+    <title lang="es">Palpitando la previa</title>
+  </programme>
+  <programme start="20261003231500 +0000" stop="20261004000000 +0000" channel="Telefe.ar@SD">
+    <title lang="es">Fútbol: Previa</title>
+  </programme>
   <programme start="20261003234500 +0000" stop="20261004003000 +0000" channel="Telefe.ar@SD">
     <title lang="es">Fútbol: Post</title>
   </programme>
@@ -6829,6 +6995,9 @@
     <category lang="es">Amistoso internacional</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
   </programme>
+  <programme start="20261004000000 +0000" stop="20261004014500 +0000" channel="Telefe.ar@SD">
+    <title lang="es">Argentina vs. Burkina Faso</title>
+  </programme>
   <programme start="20261004001500 +0000" stop="20261004010000 +0000" channel="Telefe.ar@SD">
     <title lang="es">Fútbol: Previa</title>
   </programme>
@@ -6838,11 +7007,17 @@
   <programme start="20261004010000 +0000" stop="20261004024500 +0000" channel="Telefe.ar@SD">
     <title lang="es">Argentina vs. Burkina Faso</title>
   </programme>
+  <programme start="20261004014500 +0000" stop="20261004023000 +0000" channel="Telefe.ar@SD">
+    <title lang="es">Fútbol: Post</title>
+  </programme>
   <programme start="20261004020000 +0000" stop="20261004024500 +0000" channel="Telefe.ar@SD">
     <title lang="es">PH: Podemos hablar</title>
     <desc lang="es">Distintas personalidades visitan a Andy en un encuentro para hablar de todo y escucharse unos a otros, y se sorprenden al descubrir que tienen mucho más en común de lo que piensan.</desc>
     <category lang="es">Talk Show</category>
     <image>https://cdn.mitvstatic.com/programs/ar_ph-podemos-hablar-1_l_m.jpg</image>
+  </programme>
+  <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="Telefe.ar@SD">
+    <title lang="es">Tierras</title>
   </programme>
   <programme start="20261004024500 +0000" stop="20261004033000 +0000" channel="Telefe.ar@SD">
     <title lang="es">Fútbol: Post</title>
@@ -6862,6 +7037,9 @@
     <category lang="es">Entretenimientos</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
   </programme>
+  <programme start="20261004030000 +0000" stop="20261004044500 +0000" channel="Telefe.ar@SD">
+    <title lang="es">Argentina vs. Burkina Faso</title>
+  </programme>
   <programme start="20261004031500 +0000" stop="20261004034500 +0000" channel="Telefe.ar@SD">
     <title lang="es">Tierras</title>
   </programme>
@@ -6880,6 +7058,9 @@
   <programme start="20261004040000 +0000" stop="20261004054500 +0000" channel="Telefe.ar@SD">
     <title lang="es">Argentina vs. Burkina Faso</title>
   </programme>
+  <programme start="20261004044500 +0000" stop="20261004051500 +0000" channel="Telefe.ar@SD">
+    <title lang="es">Juego chino</title>
+  </programme>
   <programme start="20261004053000 +0000" stop="20261004054500 +0000" channel="Telefe.ar@SD">
     <title lang="es">DirecTV - DGO Presentan: Espiando la casa</title>
     <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
@@ -6892,9 +7073,6 @@
     <category lang="es">Entretenimientos</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
   </programme>
-  <programme start="20261003143000 +0000" stop="20261003154000 +0000" channel="Telefuturo.py@SD">
-    <title lang="es">Dragon Ball Daima</title>
-  </programme>
   <programme start="20261003150000 +0000" stop="20261003160000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Arriba el finde</title>
   </programme>
@@ -6903,6 +7081,9 @@
     <desc lang="es">Noticiero ideado para ser visto en medio de las actividades cotidianas con un perfil de magazine. El televidente también podrá conocer algo de misceláneas y noticias insólitas que se registran en el país y el mundo.</desc>
     <category lang="es">Magazine</category>
     <image>https://cdn.mitvstatic.com/programs/pe_meridiano-informativo_l_m.jpg</image>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003163000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">Meridiano Informativo</title>
   </programme>
   <programme start="20261003154000 +0000" stop="20261003183000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Mentiras verdaderas</title>
@@ -6981,6 +7162,9 @@
     <desc lang="es">Fin de transmisión.</desc>
     <category lang="es">Variedades</category>
     <image>https://cdn.mitvstatic.com/programs/pe_fin-de-transmision_l_m.jpg</image>
+  </programme>
+  <programme start="20261004030000 +0000" stop="20261004082000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">Fin de transmisión</title>
   </programme>
   <programme start="20261004034500 +0000" stop="20261004040000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">New Amsterdam</title>
@@ -7195,6 +7379,10 @@
   <programme start="20261004170411 +0000" stop="20261004173511 +0000" channel="ThePetCollective.us@UK">
     <title lang="en">Funniest Pets of the Month</title>
     <desc lang="en">These pets won January '24. But after watching these clips, the real winner is you.</desc>
+  </programme>
+  <programme start="20261004173511 +0000" stop="20261004180611 +0000" channel="ThePetCollective.us@UK">
+    <title lang="en">Funniest Pets of the Month</title>
+    <desc lang="en">These pets won February '24. But after watching these clips, the real winner is you.</desc>
   </programme>
   <programme start="20261003142300 +0000" stop="20261003183300 +0000" channel="ThePetCollective.us@US">
     <title lang="en">Crazy Fun Time Pet Countdown</title>
@@ -7713,6 +7901,9 @@
     <category lang="es">Aventuras</category>
     <icon src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_3995671.jpg" />
   </programme>
+  <programme start="20261003143000 +0000" stop="20261003160000 +0000" channel="Trece.py@SD">
+    <title lang="es">El Noticiero</title>
+  </programme>
   <programme start="20261003151500 +0000" stop="20261003154500 +0000" channel="Trece.py@SD">
     <title lang="es">Cocina rica</title>
   </programme>
@@ -7722,8 +7913,14 @@
   <programme start="20261003154500 +0000" stop="20261003161500 +0000" channel="Trece.py@SD">
     <title lang="es">Cocineritos TV</title>
   </programme>
+  <programme start="20261003160000 +0000" stop="20261003161500 +0000" channel="Trece.py@SD">
+    <title lang="es">Sorteo de la quiniela</title>
+  </programme>
   <programme start="20261003161500 +0000" stop="20261003173000 +0000" channel="Trece.py@SD">
     <title lang="es">Juegos Mundiales de Patinaje</title>
+  </programme>
+  <programme start="20261003161500 +0000" stop="20261003171500 +0000" channel="Trece.py@SD">
+    <title lang="es">Asado Benítez</title>
   </programme>
   <programme start="20261003170000 +0000" stop="20261003171500 +0000" channel="Trece.py@SD">
     <title lang="es">Sorteo de la quiniela</title>
@@ -7731,19 +7928,34 @@
   <programme start="20261003171500 +0000" stop="20261003181500 +0000" channel="Trece.py@SD">
     <title lang="es">Asado Benítez</title>
   </programme>
+  <programme start="20261003171500 +0000" stop="20261003174500 +0000" channel="Trece.py@SD">
+    <title lang="es">Cocina rica</title>
+  </programme>
   <programme start="20261003173000 +0000" stop="20261003174500 +0000" channel="Trece.py@SD">
     <title lang="es">Sorteo de la quiniela</title>
   </programme>
   <programme start="20261003174500 +0000" stop="20261003200000 +0000" channel="Trece.py@SD">
     <title lang="es">Juegos Mundiales de Patinaje</title>
   </programme>
+  <programme start="20261003174500 +0000" stop="20261003181500 +0000" channel="Trece.py@SD">
+    <title lang="es">Cocineritos TV</title>
+  </programme>
   <programme start="20261003181500 +0000" stop="20261003184500 +0000" channel="Trece.py@SD">
     <title lang="es">Cocina rica</title>
+  </programme>
+  <programme start="20261003181500 +0000" stop="20261003193000 +0000" channel="Trece.py@SD">
+    <title lang="es">Juegos Mundiales de Patinaje</title>
   </programme>
   <programme start="20261003184500 +0000" stop="20261003191500 +0000" channel="Trece.py@SD">
     <title lang="es">Cocineritos TV</title>
   </programme>
   <programme start="20261003191500 +0000" stop="20261003203000 +0000" channel="Trece.py@SD">
+    <title lang="es">Juegos Mundiales de Patinaje</title>
+  </programme>
+  <programme start="20261003193000 +0000" stop="20261003194500 +0000" channel="Trece.py@SD">
+    <title lang="es">Sorteo de la quiniela</title>
+  </programme>
+  <programme start="20261003194500 +0000" stop="20261003220000 +0000" channel="Trece.py@SD">
     <title lang="es">Juegos Mundiales de Patinaje</title>
   </programme>
   <programme start="20261003200000 +0000" stop="20261003213000 +0000" channel="Trece.py@SD">
@@ -7764,11 +7976,23 @@
   <programme start="20261003220000 +0000" stop="20261003230000 +0000" channel="Trece.py@SD">
     <title lang="es">Especial ciclo de cine de terror</title>
   </programme>
+  <programme start="20261003220000 +0000" stop="20261003233000 +0000" channel="Trece.py@SD">
+    <title lang="es">World Skate Games Asu 2026 - Inauguración</title>
+  </programme>
   <programme start="20261003230000 +0000" stop="20261004003000 +0000" channel="Trece.py@SD">
     <title lang="es">World Skate Games Asu 2026 - Inauguración</title>
   </programme>
   <programme start="20261003230000 +0000" stop="20261004010000 +0000" channel="Trece.py@SD">
     <title lang="es">El apartamento</title>
+  </programme>
+  <programme start="20261003233000 +0000" stop="20261003234500 +0000" channel="Trece.py@SD">
+    <title lang="es">Sorteo de la quiniela</title>
+  </programme>
+  <programme start="20261003234500 +0000" stop="20261004000000 +0000" channel="Trece.py@SD">
+    <title lang="es">Juegos Mundiales de Patinaje</title>
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004010000 +0000" channel="Trece.py@SD">
+    <title lang="es">Especial ciclo de cine de terror</title>
   </programme>
   <programme start="20261004003000 +0000" stop="20261004004500 +0000" channel="Trece.py@SD">
     <title lang="es">Sorteo de la quiniela</title>
@@ -7782,11 +8006,17 @@
   <programme start="20261004010000 +0000" stop="20261004030000 +0000" channel="Trece.py@SD">
     <title lang="es">World Skate Games Asu 2026 - Inauguración</title>
   </programme>
+  <programme start="20261004010000 +0000" stop="20261004030000 +0000" channel="Trece.py@SD">
+    <title lang="es">El apartamento</title>
+  </programme>
   <programme start="20261004020000 +0000" stop="20261004040000 +0000" channel="Trece.py@SD">
     <title lang="es">El apartamento</title>
   </programme>
   <programme start="20261004030000 +0000" stop="20261004050000 +0000" channel="Trece.py@SD">
     <title lang="es">Fútbol Partido amistoso</title>
+  </programme>
+  <programme start="20261004030000 +0000" stop="20261004050000 +0000" channel="Trece.py@SD">
+    <title lang="es">World Skate Games Asu 2026 - Inauguración</title>
   </programme>
   <programme start="20261004040000 +0000" stop="20261004060000 +0000" channel="Trece.py@SD">
     <title lang="es">World Skate Games Asu 2026 - Inauguración</title>
