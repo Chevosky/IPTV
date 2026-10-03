@@ -1,0 +1,62 @@
+name: Update Curated EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "favorites-test.m3u"
+      - "scripts/build_favorites_guide.py"
+      - ".github/workflows/update-curated-epg.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-curated-epg
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build curated XMLTV
+        run: python scripts/build_favorites_guide.py
+
+      - name: Validate
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+          p=Path("guide-favorites.xml")
+          root=ET.parse(p).getroot()
+          ch=len(root.findall("channel"))
+          pr=len(root.findall("programme"))
+          print(f"{ch} channels / {pr} programmes / {p.stat().st_size/1024/1024:.2f} MB")
+          if ch == 0 or pr == 0:
+              raise SystemExit("Filtered guide is empty")
+          PY
+
+      - name: Publish
+        run: |
+          if git diff --quiet -- guide-favorites.xml && git ls-files --error-unmatch guide-favorites.xml >/dev/null 2>&1; then
+            echo "No guide changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add guide-favorites.xml
+          git commit -m "Update curated EPG"
+          git push
