@@ -9,6 +9,7 @@ on:
       - "coverage-favorites.json"
       - "guide.xml"
       - "scripts/generate_mapping_candidates.py"
+      - "scripts/brand_inventory.py"
       - ".github/workflows/mapping-candidates.yml"
 
 permissions:
@@ -34,6 +35,9 @@ jobs:
       - name: Generate mapping candidates
         run: python scripts/generate_mapping_candidates.py
 
+      - name: Generate brand inventory
+        run: python scripts/brand_inventory.py
+
       - name: Publish report
         run: |
           if git diff --quiet -- mapping-candidates.json && git ls-files --error-unmatch mapping-candidates.json >/dev/null 2>&1; then
@@ -42,6 +46,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add mapping-candidates.json
+          git add mapping-candidates.json brand-inventory.json
           git commit -m "Update EPG mapping candidates"
           git push
