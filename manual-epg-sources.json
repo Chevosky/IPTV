@@ -1,0 +1,66 @@
+{
+  "AmericaParaguay.py@SD": [
+    {
+      "site": "mi.tv",
+      "site_id": "py#america-television",
+      "lang": "es",
+      "name": "AMÉRICA TELEVISION"
+    }
+  ],
+  "TigoSports.py@SD": [
+    {
+      "site": "mi.tv",
+      "site_id": "py#tigo-sports",
+      "lang": "es",
+      "name": "Tigo Sports"
+    },
+    {
+      "site": "directv.com.ar",
+      "site_id": "4197#TIGO",
+      "lang": "es",
+      "name": "TIGO Sports"
+    }
+  ],
+  "Nickelodeon.br@SD": [
+    {
+      "site": "guiadetv.com",
+      "site_id": "nickelodeon",
+      "lang": "pt",
+      "name": "Nickelodeon"
+    },
+    {
+      "site": "clarotvmais.com.br",
+      "site_id": "3",
+      "lang": "pt",
+      "name": "NICKELODEON HD"
+    }
+  ],
+  "RaiWorldPremium.it@SD": [
+    {
+      "site": "directv.com",
+      "site_id": "9e1c6135-ac12-439a-a592-48107be0ff96",
+      "lang": "en",
+      "name": "Rai World Premium"
+    },
+    {
+      "site": "streamingtvguides.com",
+      "site_id": "DTV:RAIWP:2023",
+      "lang": "en",
+      "name": "Rai World Premium (99R)"
+    }
+  ],
+  "DubaiTVInternational.ae@SD": [
+    {
+      "site": "elcinema.com",
+      "site_id": "1169",
+      "lang": "en",
+      "name": "Dubai TV"
+    },
+    {
+      "site": "osn.com",
+      "site_id": "6603",
+      "lang": "en",
+      "name": "Dubai TV HD"
+    }
+  ]
+}
