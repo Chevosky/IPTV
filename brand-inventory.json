@@ -3730,5 +3730,664 @@
       ],
       "programmes": 8
     }
-  ]
+  ],
+  "E Entertainment": [
+    {
+      "id": "E!.Entertainment.fr",
+      "names": [
+        "E! Entertainment"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "E!.fr",
+      "names": [
+        "E!"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.E!.Entertainment.Television.(Chile).cl",
+      "names": [
+        "Canal E! Entertainment Television (Chile)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.E!.Entertainment.Television.(Costa.Rica).cr",
+      "names": [
+        "Canal E! Entertainment Television (Costa Rica)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.E!.Entertainment.Television.(Ecuador).ec",
+      "names": [
+        "Canal E! Entertainment Television (Ecuador)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.E!.Entertainment.Television.(México).mx",
+      "names": [
+        "Canal E! Entertainment Television (México)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.E!.Entertainment.Television.(Panamá).pa",
+      "names": [
+        "Canal E! Entertainment Television (Panamá)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.E!.Entertainment.Television.(República.Dominicana).do",
+      "names": [
+        "Canal E! Entertainment Television (República Dominicana)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "E!.Entertainment.HD.pt",
+      "names": [
+        "E! Entertainment HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "E!.Entertainment.TV.co",
+      "names": [
+        "E! Entertainment TV"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "E!.nl",
+      "names": [
+        "E!"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "[ETVLN].E!.Entertainment.TV.uy",
+      "names": [
+        "[ETVLN] E! Entertainment TV"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "plex.tv.E!.Keeping.Up.plex",
+      "names": [
+        "E! Keeping Up"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "E!.Entertainment.Television.HD.us2",
+      "names": [
+        "E! Entertainment Television HD"
+      ],
+      "programmes": 5
+    }
+  ],
+  "DreamWorks": [
+    {
+      "id": "DreamWorks.es",
+      "names": [
+        "DreamWorks"
+      ],
+      "programmes": 30
+    },
+    {
+      "id": "DREAMWORKS.fr",
+      "names": [
+        "DREAMWORKS"
+      ],
+      "programmes": 29
+    },
+    {
+      "id": "Dreamworks.es",
+      "names": [
+        "Dreamworks"
+      ],
+      "programmes": 29
+    },
+    {
+      "id": "Dreamworks.nl",
+      "names": [
+        "Dreamworks"
+      ],
+      "programmes": 29
+    }
+  ],
+  "Play TV": [
+    {
+      "id": "São.Paulo/SP..Play.TV.br",
+      "names": [
+        "São Paulo/SP  Play TV"
+      ],
+      "programmes": 13
+    }
+  ],
+  "Atacama": [],
+  "Canal Plus": [
+    {
+      "id": "CANAL+KIDS.fr",
+      "names": [
+        "CANAL+KIDS"
+      ],
+      "programmes": 76
+    },
+    {
+      "id": "Canal+.KIDS.fr",
+      "names": [
+        "Canal+ KIDS"
+      ],
+      "programmes": 76
+    },
+    {
+      "id": "CANAL+.Kids.ch",
+      "names": [
+        "CANAL+ Kids"
+      ],
+      "programmes": 70
+    },
+    {
+      "id": "CANAL+SPORT360.fr",
+      "names": [
+        "CANAL+SPORT360"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "Canal+.Polynésie.fr",
+      "names": [
+        "Canal+ Polynésie"
+      ],
+      "programmes": 20
+    },
+    {
+      "id": "Canal+.Sport.360.ch",
+      "names": [
+        "Canal+ Sport 360"
+      ],
+      "programmes": 18
+    },
+    {
+      "id": "Canal+.Sport.360.fr",
+      "names": [
+        "Canal+ Sport 360"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "CANAL+.UHD.HDR.fr",
+      "names": [
+        "CANAL+ UHD HDR"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "CANAL+.UHD.fr",
+      "names": [
+        "CANAL+ UHD"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "CANAL+.ch",
+      "names": [
+        "CANAL+"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "CANAL+.fr",
+      "names": [
+        "CANAL+"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal+.de",
+      "names": [
+        "Canal+"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal+.fr",
+      "names": [
+        "Canal+"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "CANAL+LIVE.1.fr",
+      "names": [
+        "CANAL+LIVE 1"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "CANAL+DOCS.fr",
+      "names": [
+        "CANAL+DOCS"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "Canal+.DOCS.fr",
+      "names": [
+        "Canal+ DOCS"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "Canal+.Docs.ch",
+      "names": [
+        "Canal+ Docs"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "CANAL+.Cinema(s).ch",
+      "names": [
+        "CANAL+ Cinema(s)"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "CANAL+BOX.OFFICE.UHD.fr",
+      "names": [
+        "CANAL+BOX OFFICE UHD"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "CANAL+CINEMA.S.fr",
+      "names": [
+        "CANAL+CINEMA.S"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "CANAL+SPORT.fr",
+      "names": [
+        "CANAL+SPORT"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Canal+.Box.Office.ch",
+      "names": [
+        "Canal+ Box Office"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Canal+.Cinéma(s).fr",
+      "names": [
+        "Canal+ Cinéma(s)"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Canal+.Cinéma.de",
+      "names": [
+        "Canal+ Cinéma"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Canal+.Sport.de",
+      "names": [
+        "Canal+ Sport"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Canal+.Sport.fr",
+      "names": [
+        "Canal+ Sport"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "CANAL+.Sport.Event.2.ch",
+      "names": [
+        "CANAL+ Sport Event 2"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "CANAL+.Sport.ch",
+      "names": [
+        "CANAL+ Sport"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "CANAL+FOOT.fr",
+      "names": [
+        "CANAL+FOOT"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "Canal+.Foot.ch",
+      "names": [
+        "Canal+ Foot"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "Canal+.Foot.fr",
+      "names": [
+        "Canal+ Foot"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "Canal+.Cinéma.DROM.fr",
+      "names": [
+        "Canal+ Cinéma DROM"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal+.Grand.Ecran.ch",
+      "names": [
+        "Canal+ Grand Ecran"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal+.en.clair.ch",
+      "names": [
+        "Canal+ en clair"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "CANAL+GRAND.ECRAN.fr",
+      "names": [
+        "CANAL+GRAND ECRAN"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "Canal+.Grand.Ecran.fr",
+      "names": [
+        "Canal+ Grand Ecran"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "CANAL+LIVE.6.fr",
+      "names": [
+        "CANAL+LIVE 6"
+      ],
+      "programmes": 6
+    },
+    {
+      "id": "Canal+.Action.nl",
+      "names": [
+        "Canal+ Action"
+      ],
+      "programmes": 6
+    },
+    {
+      "id": "CANAL+.PREMIER.LEAGUE.ch",
+      "names": [
+        "CANAL+ PREMIER LEAGUE"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "CANAL+LIVE.2.fr",
+      "names": [
+        "CANAL+LIVE 2"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "CANAL+LIVE.3.fr",
+      "names": [
+        "CANAL+LIVE 3"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "CANAL+LIVE.4.fr",
+      "names": [
+        "CANAL+LIVE 4"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "CANAL+LIVE.5.fr",
+      "names": [
+        "CANAL+LIVE 5"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "CANAL+.App.ch",
+      "names": [
+        "CANAL+ App"
+      ],
+      "programmes": 4
+    },
+    {
+      "id": "CANAL+.Sport.Event.1.ch",
+      "names": [
+        "CANAL+ Sport Event 1"
+      ],
+      "programmes": 4
+    },
+    {
+      "id": "CANAL+LIVE.10.fr",
+      "names": [
+        "CANAL+LIVE 10"
+      ],
+      "programmes": 3
+    },
+    {
+      "id": "CANAL+LIVE.11.fr",
+      "names": [
+        "CANAL+LIVE 11"
+      ],
+      "programmes": 3
+    },
+    {
+      "id": "CANAL+LIVE.12.fr",
+      "names": [
+        "CANAL+LIVE 12"
+      ],
+      "programmes": 3
+    },
+    {
+      "id": "CANAL+LIVE.13.fr",
+      "names": [
+        "CANAL+LIVE 13"
+      ],
+      "programmes": 3
+    },
+    {
+      "id": "CANAL+LIVE.14.fr",
+      "names": [
+        "CANAL+LIVE 14"
+      ],
+      "programmes": 3
+    },
+    {
+      "id": "CANAL+LIVE.15.fr",
+      "names": [
+        "CANAL+LIVE 15"
+      ],
+      "programmes": 3
+    },
+    {
+      "id": "CANAL+LIVE.16.fr",
+      "names": [
+        "CANAL+LIVE 16"
+      ],
+      "programmes": 3
+    },
+    {
+      "id": "CANAL+LIVE.17.fr",
+      "names": [
+        "CANAL+LIVE 17"
+      ],
+      "programmes": 3
+    },
+    {
+      "id": "CANAL+LIVE.18.fr",
+      "names": [
+        "CANAL+LIVE 18"
+      ],
+      "programmes": 3
+    },
+    {
+      "id": "CANAL+LIVE.19.fr",
+      "names": [
+        "CANAL+LIVE 19"
+      ],
+      "programmes": 3
+    },
+    {
+      "id": "CANAL+LIVE.7.fr",
+      "names": [
+        "CANAL+LIVE 7"
+      ],
+      "programmes": 3
+    },
+    {
+      "id": "CANAL+LIVE.8.fr",
+      "names": [
+        "CANAL+LIVE 8"
+      ],
+      "programmes": 3
+    },
+    {
+      "id": "CANAL+LIVE.9.fr",
+      "names": [
+        "CANAL+LIVE 9"
+      ],
+      "programmes": 3
+    }
+  ],
+  "De Pelicula": [
+    {
+      "id": "Canal.De.Película.ar",
+      "names": [
+        "Canal De Película"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.De.Película.cl",
+      "names": [
+        "Canal De Película"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.De.Película.cr",
+      "names": [
+        "Canal De Película"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.De.Película.ec",
+      "names": [
+        "Canal De Película"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.De.Película.mx",
+      "names": [
+        "Canal De Película"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "De.Pelicula.ch",
+      "names": [
+        "De Pelicula"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "De.Pelicula.us2",
+      "names": [
+        "De Pelicula"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "[DEPEL].De.Película.uy",
+      "names": [
+        "[DEPEL] De Película"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "De.Pelicula.Clasico.us2",
+      "names": [
+        "De Pelicula Clasico"
+      ],
+      "programmes": 7
+    }
+  ],
+  "Mar del Plata": [],
+  "Telefe Local": [
+    {
+      "id": "TELEFE.INTERNACIONAL.HD.uy",
+      "names": [
+        "TELEFE INTERNACIONAL HD"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "Canal.Telefe.Internacional.ec",
+      "names": [
+        "Canal Telefe Internacional"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Canal.Telefe.Internacional.mx",
+      "names": [
+        "Canal Telefe Internacional"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Telefe.Internacional.us2",
+      "names": [
+        "Telefe Internacional"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Telefe.international.us2",
+      "names": [
+        "Telefe international"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "[TEFEI].Telefe.Internacional.uy",
+      "names": [
+        "[TEFEI] Telefe Internacional"
+      ],
+      "programmes": 10
+    }
+  ],
+  "America Paraguay": []
 }
