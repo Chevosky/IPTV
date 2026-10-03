@@ -1,43 +1,10 @@
 {
   "summary": {
-    "missing_targets": 26,
+    "missing_targets": 20,
     "with_exact_normalized_match": 0,
     "with_fuzzy_090_plus": 0
   },
   "candidates": [
-    {
-      "target_id": "AmericaParaguay.py@SD",
-      "target_name": "America Paraguay (720p)",
-      "normalized": "america paraguay",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.667,
-          "source_id": "AMERICA.SPORTS.uy",
-          "source_name": "AMERICA SPORTS"
-        },
-        {
-          "score": 0.647,
-          "source_id": "Canal.SNT.(Paraguay).ar",
-          "source_name": "Canal SNT (Paraguay)"
-        },
-        {
-          "score": 0.609,
-          "source_id": "[AMSAT].América.Tv.uy",
-          "source_name": "[AMSAT] América Tv"
-        },
-        {
-          "score": 0.609,
-          "source_id": "[AMETVA].América.TV.uy",
-          "source_name": "[AMETVA] América TV"
-        },
-        {
-          "score": 0.609,
-          "source_id": "AMERICA.TV.uy",
-          "source_name": "AMERICA TV"
-        }
-      ]
-    },
     {
       "target_id": "AtacamaTV.cl@SD",
       "target_name": "Atacama TV",
@@ -225,19 +192,6 @@
       "normalized": "fashion and lifestyle",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": []
-    },
-    {
-      "target_id": "FashionTV.ru@SD",
-      "target_name": "FashionTV (Russia) (1080p)",
-      "normalized": "fashiontv russia",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.72,
-          "source_id": "plex.tv.FashionTV.plex",
-          "source_name": "FashionTV"
-        }
-      ]
     },
     {
       "target_id": "FashionTVParisLOriginal.fr@SD",
@@ -461,54 +415,6 @@
       ]
     },
     {
-      "target_id": "RaiItalia.it@Australia",
-      "target_name": "Rai Italia Australia (1080p)",
-      "normalized": "rai italia australia",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.703,
-          "source_id": "Radio.Italia.Live.be",
-          "source_name": "Radio Italia Live"
-        },
-        {
-          "score": 0.692,
-          "source_id": "Mediaset.Italia.-.Australia.e.Asia.it",
-          "source_name": "Mediaset Italia - Australia e Asia"
-        },
-        {
-          "score": 0.667,
-          "source_id": "[RAIIS].Rai.Italia.uy",
-          "source_name": "[RAIIS] Rai Italia"
-        },
-        {
-          "score": 0.667,
-          "source_id": "Rai.Italia.us2",
-          "source_name": "Rai Italia"
-        },
-        {
-          "score": 0.667,
-          "source_id": "Rai.Italia.pt",
-          "source_name": "Rai Italia"
-        },
-        {
-          "score": 0.667,
-          "source_id": "Rai.Italia.fr",
-          "source_name": "Rai Italia"
-        },
-        {
-          "score": 0.667,
-          "source_id": "RAI.Italia.ch",
-          "source_name": "RAI Italia"
-        },
-        {
-          "score": 0.65,
-          "source_id": "IT:.Radio.Italia.Live.be",
-          "source_name": "IT: Radio Italia Live"
-        }
-      ]
-    },
-    {
       "target_id": "RaiSudtirol.it@SD",
       "target_name": "Rai Sudtirol",
       "normalized": "rai sudtirol",
@@ -553,102 +459,6 @@
           "score": 0.6,
           "source_id": "Rai.Gulp.ch",
           "source_name": "Rai Gulp"
-        }
-      ]
-    },
-    {
-      "target_id": "RaiWorldPremium.it@SD",
-      "target_name": "Rai World Premium (1080p)",
-      "normalized": "rai world premium",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.824,
-          "source_id": "[NHKL].NHK.TV.World.Premium.uy",
-          "source_name": "[NHKL] NHK TV World Premium"
-        },
-        {
-          "score": 0.824,
-          "source_id": "NHK.World.Premium.fr",
-          "source_name": "NHK World Premium"
-        },
-        {
-          "score": 0.824,
-          "source_id": "NHK.World.Premium.es",
-          "source_name": "NHK World Premium"
-        },
-        {
-          "score": 0.786,
-          "source_id": "Rai.Premium.us2",
-          "source_name": "Rai Premium"
-        },
-        {
-          "score": 0.786,
-          "source_id": "Rai.Premium.ch",
-          "source_name": "Rai Premium"
-        },
-        {
-          "score": 0.667,
-          "source_id": "Rai.Premium..5025.it",
-          "source_name": "Rai Premium  5025"
-        },
-        {
-          "score": 0.629,
-          "source_id": "FOX.SPORTS.PREMIUM.mx",
-          "source_name": "FOX SPORTS PREMIUM"
-        },
-        {
-          "score": 0.611,
-          "source_id": "IT:.World.Poker.Tour.be",
-          "source_name": "IT: World Poker Tour"
-        }
-      ]
-    },
-    {
-      "target_id": "StarCinema.ru@SD",
-      "target_name": "Star Cinema",
-      "normalized": "star cinema",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.857,
-          "source_id": "ART.CINEMA.fr",
-          "source_name": "ART CINEMA"
-        },
-        {
-          "score": 0.846,
-          "source_id": "Starz.Cinema.HD.us2",
-          "source_name": "Starz Cinema HD"
-        },
-        {
-          "score": 0.818,
-          "source_id": "plex.tv.Surf.Cinema.plex",
-          "source_name": "Surf Cinema"
-        },
-        {
-          "score": 0.762,
-          "source_id": "TCM.Cinéma.fr",
-          "source_name": "TCM Cinéma"
-        },
-        {
-          "score": 0.762,
-          "source_id": "LA7.CINEMA.it",
-          "source_name": "LA7 CINEMA"
-        },
-        {
-          "score": 0.75,
-          "source_id": "Rotana.Cinema.fr",
-          "source_name": "Rotana Cinema"
-        },
-        {
-          "score": 0.696,
-          "source_id": "Sky.Cinema.D.ch",
-          "source_name": "Sky Cinema D"
-        },
-        {
-          "score": 0.696,
-          "source_id": "Canal.Cinema.mx",
-          "source_name": "Canal Cinema"
         }
       ]
     },
@@ -715,29 +525,6 @@
           "score": 0.783,
           "source_id": "NO:.The.Pet.Collective.be",
           "source_name": "NO: The Pet Collective"
-        }
-      ]
-    },
-    {
-      "target_id": "TigoSports.py@SD",
-      "target_name": "Tigo Sports (Paraguay) (1080p)",
-      "normalized": "tigo sports paraguay",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.632,
-          "source_id": "FOX.SPORTS.PREMIUM.mx",
-          "source_name": "FOX SPORTS PREMIUM"
-        },
-        {
-          "score": 0.632,
-          "source_id": "Canal.SNT.(Paraguay).ar",
-          "source_name": "Canal SNT (Paraguay)"
-        },
-        {
-          "score": 0.611,
-          "source_id": "plex.tv.beIN.SPORTS.XTRA.plex",
-          "source_name": "beIN SPORTS XTRA"
         }
       ]
     },
