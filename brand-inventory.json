@@ -1,0 +1,3734 @@
+{
+  "A&E": [
+    {
+      "id": "plex.tv.Chaos.on.Cam.by.A&E.plex",
+      "names": [
+        "Chaos on Cam by A&E"
+      ],
+      "programmes": 27
+    },
+    {
+      "id": "plex.tv.Duck.Dynasty.by.A&E.plex",
+      "names": [
+        "Duck Dynasty by A&E"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "plex.tv.Storage.Wars.by.A&E.plex",
+      "names": [
+        "Storage Wars by A&E"
+      ],
+      "programmes": 23
+    },
+    {
+      "id": "Planète+.A&E.ch",
+      "names": [
+        "Planète+ A&E"
+      ],
+      "programmes": 20
+    },
+    {
+      "id": "plex.tv.A&E.Crime.360.plex",
+      "names": [
+        "A&E Crime 360"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "plex.tv.A&E.Live.PD.Greatest.Shifts.plex",
+      "names": [
+        "A&E Live PD Greatest Shifts"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "plex.tv.Cold.Case.Files.by.A&E.plex",
+      "names": [
+        "Cold Case Files by A&E"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "plex.tv.The.First.48.by.A&E.plex",
+      "names": [
+        "The First 48 by A&E"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "A&E.co",
+      "names": [
+        "A&E"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.A&E.(Costa.Rica).cr",
+      "names": [
+        "Canal A&E (Costa Rica)"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.A&E.(Ecuador).ec",
+      "names": [
+        "Canal A&E (Ecuador)"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.A&E.(México).mx",
+      "names": [
+        "Canal A&E (México)"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.A&E.(República.Dominicana).do",
+      "names": [
+        "Canal A&E (República Dominicana)"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "[AEMX].A&E.uy",
+      "names": [
+        "[AEMX] A&E"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "plex.tv.A&E.Alaska.State.Troopers.plex",
+      "names": [
+        "A&E Alaska State Troopers"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.A&E.(Chile).cl",
+      "names": [
+        "Canal A&E (Chile)"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "Canal.A&E.(Panamá).pa",
+      "names": [
+        "Canal A&E (Panamá)"
+      ],
+      "programmes": 13
+    }
+  ],
+  "AMC": [
+    {
+      "id": "AMC.Break.HD.pt",
+      "names": [
+        "AMC Break HD"
+      ],
+      "programmes": 34
+    },
+    {
+      "id": "AMC.Anime.es",
+      "names": [
+        "AMC Anime"
+      ],
+      "programmes": 32
+    },
+    {
+      "id": "AMC.Break.es",
+      "names": [
+        "AMC Break"
+      ],
+      "programmes": 29
+    },
+    {
+      "id": "Stories.by.AMC.us2",
+      "names": [
+        "Stories by AMC"
+      ],
+      "programmes": 20
+    },
+    {
+      "id": "DE:.AMC.Stories.be",
+      "names": [
+        "DE: AMC Stories"
+      ],
+      "programmes": 18
+    },
+    {
+      "id": "plex.tv.Stories.by.AMC.plex",
+      "names": [
+        "Stories by AMC"
+      ],
+      "programmes": 18
+    },
+    {
+      "id": "AMC+.Connect.es",
+      "names": [
+        "AMC+ Connect"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "AMC+.us2",
+      "names": [
+        "AMC+"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "UK:.AMC.Cupid.be",
+      "names": [
+        "UK: AMC Cupid"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "AMC.Crime.HD.pt",
+      "names": [
+        "AMC Crime HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.AMC.Series.(México).mx",
+      "names": [
+        "Canal AMC Series (México)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "UK:.AMC.Reality.be",
+      "names": [
+        "UK: AMC Reality"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "plex.tv.AMC.en.Español.plex",
+      "names": [
+        "AMC en Español"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "pluto.br.678aa104680721c77c506746",
+      "names": [
+        "The Walking Dead by AMC"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "pluto.latam.678aa0b3680721c77c5035dd",
+      "names": [
+        "The Walking Dead by AMC"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "Amc.Selekt.es",
+      "names": [
+        "Amc Selekt"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "AMC.(Costa.Rica).cr",
+      "names": [
+        "AMC (Costa Rica)"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Canal.AMC.(México).mx",
+      "names": [
+        "Canal AMC (México)"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "[AMCMEX].AMC.uy",
+      "names": [
+        "[AMCMEX] AMC"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "AMC.es",
+      "names": [
+        "AMC"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "AMC.HD.co",
+      "names": [
+        "AMC HD"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "AMC.HD.pt",
+      "names": [
+        "AMC HD"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "AMC.HD.us2",
+      "names": [
+        "AMC HD"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "AMC.co",
+      "names": [
+        "AMC"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "São.Paulo/SP..AMC.HD.br",
+      "names": [
+        "São Paulo/SP  AMC HD"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "São.Paulo/SP..AMC.br",
+      "names": [
+        "São Paulo/SP  AMC"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "plex.tv.AMC.Thrillers.plex",
+      "names": [
+        "AMC Thrillers"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "Canal.AMC.(Chile).cl",
+      "names": [
+        "Canal AMC (Chile)"
+      ],
+      "programmes": 4
+    },
+    {
+      "id": "Canal.AMC.(Ecuador).ec",
+      "names": [
+        "Canal AMC (Ecuador)"
+      ],
+      "programmes": 4
+    },
+    {
+      "id": "Canal.AMC.(República.Dominicana).do",
+      "names": [
+        "Canal AMC (República Dominicana)"
+      ],
+      "programmes": 4
+    }
+  ],
+  "AXN": [
+    {
+      "id": "AXN.co",
+      "names": [
+        "AXN"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.AXN.(Chile).cl",
+      "names": [
+        "Canal AXN (Chile)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.AXN.(México).mx",
+      "names": [
+        "Canal AXN (México)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "[AXNHD].AXN.uy",
+      "names": [
+        "[AXNHD] AXN"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.AXN.(Argentina).ar",
+      "names": [
+        "Canal AXN (Argentina)"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.AXN.(Costa.Rica).cr",
+      "names": [
+        "Canal AXN (Costa Rica)"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.AXN.(Ecuador).ec",
+      "names": [
+        "Canal AXN (Ecuador)"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.AXN.(Panamá).pa",
+      "names": [
+        "Canal AXN (Panamá)"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.AXN.(República.Dominicana).do",
+      "names": [
+        "Canal AXN (República Dominicana)"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "São.Paulo/SP..AXN.br",
+      "names": [
+        "São Paulo/SP  AXN"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "[AXNARG].AXN.uy",
+      "names": [
+        "[AXNARG] AXN"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "AXN.White.ch",
+      "names": [
+        "AXN White"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "AXN.White.de",
+      "names": [
+        "AXN White"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "AXN.Black.ch",
+      "names": [
+        "AXN Black"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "AXN.Black.de",
+      "names": [
+        "AXN Black"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "AXN.Movies.es",
+      "names": [
+        "AXN Movies"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "AXN.es",
+      "names": [
+        "AXN"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "AXN.Movies.HD.pt",
+      "names": [
+        "AXN Movies HD"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "AXN.White.HD.pt",
+      "names": [
+        "AXN White HD"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "AXN.HD.pt",
+      "names": [
+        "AXN HD"
+      ],
+      "programmes": 7
+    }
+  ],
+  "Adult Swim": [
+    {
+      "id": "Adult.Swim.HD.br",
+      "names": [
+        "Adult Swim HD"
+      ],
+      "programmes": 29
+    },
+    {
+      "id": "[ADSLA].Adult.Swim.uy",
+      "names": [
+        "[ADSLA] Adult Swim"
+      ],
+      "programmes": 28
+    }
+  ],
+  "America": [
+    {
+      "id": "Canal.Baby.TV.(Latinoamérica).ar",
+      "names": [
+        "Canal Baby TV (Latinoamérica)"
+      ],
+      "programmes": 156
+    },
+    {
+      "id": "Canal.Baby.TV.(Latinoamérica).cl",
+      "names": [
+        "Canal Baby TV (Latinoamérica)"
+      ],
+      "programmes": 156
+    },
+    {
+      "id": "Canal.Baby.TV.(Latinoamérica).cr",
+      "names": [
+        "Canal Baby TV (Latinoamérica)"
+      ],
+      "programmes": 156
+    },
+    {
+      "id": "Canal.Baby.TV.(Latinoamérica).ec",
+      "names": [
+        "Canal Baby TV (Latinoamérica)"
+      ],
+      "programmes": 156
+    },
+    {
+      "id": "Canal.Baby.TV.(Latinoamérica).mx",
+      "names": [
+        "Canal Baby TV (Latinoamérica)"
+      ],
+      "programmes": 156
+    },
+    {
+      "id": "Canal.Baby.TV.(Latinoamérica).pa",
+      "names": [
+        "Canal Baby TV (Latinoamérica)"
+      ],
+      "programmes": 156
+    },
+    {
+      "id": "Canal.ZooMoo.Latinoamérica.ec",
+      "names": [
+        "Canal ZooMoo Latinoamérica"
+      ],
+      "programmes": 41
+    },
+    {
+      "id": "Canal.DW.(Latinoamérica).ar",
+      "names": [
+        "Canal DW (Latinoamérica)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.DW.(Latinoamérica).cr",
+      "names": [
+        "Canal DW (Latinoamérica)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.DW.(Latinoamérica).ec",
+      "names": [
+        "Canal DW (Latinoamérica)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.DW.(Latinoamérica).mx",
+      "names": [
+        "Canal DW (Latinoamérica)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.DW.(Latinoamérica).pa",
+      "names": [
+        "Canal DW (Latinoamérica)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.Discovery.World.Latinoamérica.ar",
+      "names": [
+        "Canal Discovery World Latinoamérica"
+      ],
+      "programmes": 29
+    },
+    {
+      "id": "Canal.Discovery.World.Latinoamérica.cl",
+      "names": [
+        "Canal Discovery World Latinoamérica"
+      ],
+      "programmes": 29
+    },
+    {
+      "id": "Canal.Discovery.World.Latinoamérica.cr",
+      "names": [
+        "Canal Discovery World Latinoamérica"
+      ],
+      "programmes": 29
+    },
+    {
+      "id": "Canal.Discovery.World.Latinoamérica.ec",
+      "names": [
+        "Canal Discovery World Latinoamérica"
+      ],
+      "programmes": 29
+    },
+    {
+      "id": "Canal.Discovery.World.Latinoamérica.mx",
+      "names": [
+        "Canal Discovery World Latinoamérica"
+      ],
+      "programmes": 29
+    },
+    {
+      "id": "Canal.Discovery.World.Latinoamérica.pa",
+      "names": [
+        "Canal Discovery World Latinoamérica"
+      ],
+      "programmes": 29
+    },
+    {
+      "id": "EBS.America.us2",
+      "names": [
+        "EBS America"
+      ],
+      "programmes": 27
+    },
+    {
+      "id": "Canal.TV.Agro.Centroamérica.pa",
+      "names": [
+        "Canal TV Agro Centroamérica"
+      ],
+      "programmes": 24
+    },
+    {
+      "id": "AMERICA.SPORTS.uy",
+      "names": [
+        "AMERICA SPORTS"
+      ],
+      "programmes": 23
+    },
+    {
+      "id": "[PLAYL].Playboy.TV.Latin.America.uy",
+      "names": [
+        "[PLAYL] Playboy TV Latin America"
+      ],
+      "programmes": 23
+    },
+    {
+      "id": "BBC.News.(North.America).HD.us2",
+      "names": [
+        "BBC News (North America) HD"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "[BBCWDNA].BBC.News.(North.America).uy",
+      "names": [
+        "[BBCWDNA] BBC News (North America)"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "plex.tv.BBC.News.(North.America).plex",
+      "names": [
+        "BBC News (North America)"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "plex.tv.America’s.Funniest.Home.Videos.plex",
+      "names": [
+        "America’s Funniest Home Videos"
+      ],
+      "programmes": 20
+    },
+    {
+      "id": "Destination.America.HD.us2",
+      "names": [
+        "Destination America HD"
+      ],
+      "programmes": 19
+    },
+    {
+      "id": "Canal.Discovery.Turbo.(Latinoamérica).ar",
+      "names": [
+        "Canal Discovery Turbo (Latinoamérica)"
+      ],
+      "programmes": 18
+    },
+    {
+      "id": "Canal.Discovery.Turbo.(Latinoamérica).cl",
+      "names": [
+        "Canal Discovery Turbo (Latinoamérica)"
+      ],
+      "programmes": 18
+    },
+    {
+      "id": "Canal.Discovery.Turbo.(Latinoamérica).mx",
+      "names": [
+        "Canal Discovery Turbo (Latinoamérica)"
+      ],
+      "programmes": 18
+    },
+    {
+      "id": "Canal.Discovery.Turbo.(Latinoamérica).pa",
+      "names": [
+        "Canal Discovery Turbo (Latinoamérica)"
+      ],
+      "programmes": 18
+    },
+    {
+      "id": "CentroAméricaTV.us2",
+      "names": [
+        "CentroAméricaTV"
+      ],
+      "programmes": 18
+    },
+    {
+      "id": "WAPA.America.us2",
+      "names": [
+        "WAPA America"
+      ],
+      "programmes": 18
+    },
+    {
+      "id": "Canal.Discovery.Turbo.(Latinoamérica).cr",
+      "names": [
+        "Canal Discovery Turbo (Latinoamérica)"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "Canal.Discovery.Turbo.(Latinoamérica).ec",
+      "names": [
+        "Canal Discovery Turbo (Latinoamérica)"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "YTA.Youtoo.America.us2",
+      "names": [
+        "YTA Youtoo America"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "Canal.Discovery.Science.(Latinoamérica).cl",
+      "names": [
+        "Canal Discovery Science (Latinoamérica)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.Discovery.Science.(Latinoamérica).cr",
+      "names": [
+        "Canal Discovery Science (Latinoamérica)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.Discovery.Science.(Latinoamérica).ec",
+      "names": [
+        "Canal Discovery Science (Latinoamérica)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.Discovery.Science.(Latinoamérica).mx",
+      "names": [
+        "Canal Discovery Science (Latinoamérica)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.Discovery.Science.(Latinoamérica).pa",
+      "names": [
+        "Canal Discovery Science (Latinoamérica)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Outdoor.America.Field.and.Stream.us2",
+      "names": [
+        "Outdoor America Field and Stream"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "[UCLPLAY].UCL.TV.Unión.Continental.Latinoamérica.uy",
+      "names": [
+        "[UCLPLAY] UCL TV Unión Continental Latinoamérica"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.Discovery.Theater.(Latinoamérica).ar",
+      "names": [
+        "Canal Discovery Theater (Latinoamérica)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.Discovery.Theater.(Latinoamérica).cl",
+      "names": [
+        "Canal Discovery Theater (Latinoamérica)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.Discovery.Theater.(Latinoamérica).cr",
+      "names": [
+        "Canal Discovery Theater (Latinoamérica)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.Discovery.Theater.(Latinoamérica).ec",
+      "names": [
+        "Canal Discovery Theater (Latinoamérica)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.Discovery.Theater.(Latinoamérica).mx",
+      "names": [
+        "Canal Discovery Theater (Latinoamérica)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.Discovery.Theater.(Latinoamérica).pa",
+      "names": [
+        "Canal Discovery Theater (Latinoamérica)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.HBO.Signature.Latinoamérica.ar",
+      "names": [
+        "Canal HBO Signature Latinoamérica"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.HBO.Signature.Latinoamérica.cl",
+      "names": [
+        "Canal HBO Signature Latinoamérica"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.HBO.Signature.Latinoamérica.cr",
+      "names": [
+        "Canal HBO Signature Latinoamérica"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.HBO.Signature.Latinoamérica.mx",
+      "names": [
+        "Canal HBO Signature Latinoamérica"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.HBO.Signature.Latinoamérica.pa",
+      "names": [
+        "Canal HBO Signature Latinoamérica"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "MBC.America.us2",
+      "names": [
+        "MBC America"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Mediaset.Italia.-.America.it",
+      "names": [
+        "Mediaset Italia - America"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "plex.tv.Racing.America.plex",
+      "names": [
+        "Racing America"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "plex.tv.Teleonce.America.plex",
+      "names": [
+        "Teleonce America"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.Pasiones.(Latinoamérica).cl",
+      "names": [
+        "Canal Pasiones (Latinoamérica)"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "Canal.Pasiones.(Latinoamérica).ec",
+      "names": [
+        "Canal Pasiones (Latinoamérica)"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "Canal.Ve.Plus.(Latinoamérica).ec",
+      "names": [
+        "Canal Ve Plus (Latinoamérica)"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "One.America.News.Network.HD.us2",
+      "names": [
+        "One America News Network HD"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+      "names": [
+        "[PASNLA] Pasiones TV Latin America"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "PBS.America.be",
+      "names": [
+        "PBS America"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "PBS.America.ch",
+      "names": [
+        "PBS America"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "PBS.America.uk",
+      "names": [
+        "PBS America"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "[GOLTVL].GolTV.Latin.America.uy",
+      "names": [
+        "[GOLTVL] GolTV Latin America"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "BBC.America.HD.us2",
+      "names": [
+        "BBC America HD"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "[EWTNL].EWTN.Latin.America.uy",
+      "names": [
+        "[EWTNL] EWTN Latin America"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "Canal.HBO.Family.Latinoamérica.ar",
+      "names": [
+        "Canal HBO Family Latinoamérica"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.HBO.Family.Latinoamérica.cl",
+      "names": [
+        "Canal HBO Family Latinoamérica"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.HBO.Family.Latinoamérica.cr",
+      "names": [
+        "Canal HBO Family Latinoamérica"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.HBO.Family.Latinoamérica.mx",
+      "names": [
+        "Canal HBO Family Latinoamérica"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.HBO.Family.Latinoamérica.pa",
+      "names": [
+        "Canal HBO Family Latinoamérica"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.HBO.2.Latinoamérica.cl",
+      "names": [
+        "Canal HBO 2 Latinoamérica"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "Canal.HBO.2.Latinoamérica.cr",
+      "names": [
+        "Canal HBO 2 Latinoamérica"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "Canal.HBO.2.Latinoamérica.mx",
+      "names": [
+        "Canal HBO 2 Latinoamérica"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "Canal.HBO.2.Latinoamérica.pa",
+      "names": [
+        "Canal HBO 2 Latinoamérica"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "AMERICA.TV.uy",
+      "names": [
+        "AMERICA TV"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "Canal.America.TV.(Argentina).ar",
+      "names": [
+        "Canal America TV (Argentina)"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "Canal.Golf.Channel.(Latinoamérica).cr",
+      "names": [
+        "Canal Golf Channel (Latinoamérica)"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "Canal.Golf.Channel.(Latinoamérica).mx",
+      "names": [
+        "Canal Golf Channel (Latinoamérica)"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "Canal.Golf.Channel.(Latinoamérica).pa",
+      "names": [
+        "Canal Golf Channel (Latinoamérica)"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "[AMSAT].América.Tv.uy",
+      "names": [
+        "[AMSAT] América Tv"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "Canal.VH1.HD.(Latinoamérica).cr",
+      "names": [
+        "Canal VH1 HD (Latinoamérica)"
+      ],
+      "programmes": 4
+    },
+    {
+      "id": "Canal.VH1.HD.(Latinoamérica).mx",
+      "names": [
+        "Canal VH1 HD (Latinoamérica)"
+      ],
+      "programmes": 4
+    },
+    {
+      "id": "[AMETVA].América.TV.uy",
+      "names": [
+        "[AMETVA] América TV"
+      ],
+      "programmes": 4
+    }
+  ],
+  "BBC": [
+    {
+      "id": "BBC.Three./.CBBC.ch",
+      "names": [
+        "BBC Three / CBBC"
+      ],
+      "programmes": 36
+    },
+    {
+      "id": "BBC.WS.uk",
+      "names": [
+        "BBC WS"
+      ],
+      "programmes": 34
+    },
+    {
+      "id": "plex.tv.BBC.Comedy.plex",
+      "names": [
+        "BBC Comedy"
+      ],
+      "programmes": 27
+    },
+    {
+      "id": "plex.tv.BBC.Sci-Fi.plex",
+      "names": [
+        "BBC Sci-Fi"
+      ],
+      "programmes": 24
+    },
+    {
+      "id": "BBC.NEWS.HD.uk",
+      "names": [
+        "BBC NEWS HD"
+      ],
+      "programmes": 23
+    },
+    {
+      "id": "BBC.News.ch",
+      "names": [
+        "BBC News"
+      ],
+      "programmes": 23
+    },
+    {
+      "id": "BBC.Three.HD.uk",
+      "names": [
+        "BBC Three HD"
+      ],
+      "programmes": 23
+    },
+    {
+      "id": "BBC.NEWS.fr",
+      "names": [
+        "BBC NEWS"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "BBC.News.(North.America).HD.us2",
+      "names": [
+        "BBC News (North America) HD"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "BBC.News.be",
+      "names": [
+        "BBC News"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "BBC.News.de",
+      "names": [
+        "BBC News"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "BBC.News.nl",
+      "names": [
+        "BBC News"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "BBC.World.News.ch",
+      "names": [
+        "BBC World News"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "BBC.World.News.co",
+      "names": [
+        "BBC World News"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "BBC.World.News.de",
+      "names": [
+        "BBC World News"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "BBC.World.News.fr",
+      "names": [
+        "BBC World News"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "BBC.World.es",
+      "names": [
+        "BBC World"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "Canal.BBC.World.News.cr",
+      "names": [
+        "Canal BBC World News"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "Canal.BBC.World.News.ec",
+      "names": [
+        "Canal BBC World News"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "Canal.BBC.World.News.mx",
+      "names": [
+        "Canal BBC World News"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "Canal.BBC.World.News.pa",
+      "names": [
+        "Canal BBC World News"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "[BBCASP].BBC.News.uy",
+      "names": [
+        "[BBCASP] BBC News"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "[BBCWDNA].BBC.News.(North.America).uy",
+      "names": [
+        "[BBCWDNA] BBC News (North America)"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "plex.tv.BBC.News.(North.America).plex",
+      "names": [
+        "BBC News (North America)"
+      ],
+      "programmes": 22
+    },
+    {
+      "id": "BBC.Food.es",
+      "names": [
+        "BBC Food"
+      ],
+      "programmes": 21
+    },
+    {
+      "id": "BBC.One.HD.be",
+      "names": [
+        "BBC One HD"
+      ],
+      "programmes": 21
+    },
+    {
+      "id": "BBC.One.London.be",
+      "names": [
+        "BBC One London"
+      ],
+      "programmes": 21
+    },
+    {
+      "id": "BBC.One.ch",
+      "names": [
+        "BBC One"
+      ],
+      "programmes": 21
+    },
+    {
+      "id": "BBC.One.nl",
+      "names": [
+        "BBC One"
+      ],
+      "programmes": 21
+    },
+    {
+      "id": "BBC.Three.be",
+      "names": [
+        "BBC Three"
+      ],
+      "programmes": 21
+    },
+    {
+      "id": "BBC.Arabic.be",
+      "names": [
+        "BBC Arabic"
+      ],
+      "programmes": 20
+    },
+    {
+      "id": "BBC.R4.FM.uk",
+      "names": [
+        "BBC R4 FM"
+      ],
+      "programmes": 20
+    },
+    {
+      "id": "BBC.R4.Ex.uk",
+      "names": [
+        "BBC R4 Ex"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "BBC.Radio.4.Extra.be",
+      "names": [
+        "BBC Radio 4 Extra"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "BBC.ALBA.HD.uk",
+      "names": [
+        "BBC ALBA HD"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "BBC.Alba.be",
+      "names": [
+        "BBC Alba"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "BBC.Dinos.24/7.us2",
+      "names": [
+        "BBC Dinos 24/7"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "BBC.Earth.es",
+      "names": [
+        "BBC Earth"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "BBC.Lifestyle.es",
+      "names": [
+        "BBC Lifestyle"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "BBC.Top.Gear.es",
+      "names": [
+        "BBC Top Gear"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "BBC.History.es",
+      "names": [
+        "BBC History"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.CI.HD.uk",
+      "names": [
+        "BBC One CI HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.E.Mid.HD.uk",
+      "names": [
+        "BBC One E Mid HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.EastHD.uk",
+      "names": [
+        "BBC One EastHD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.Lon.HD.uk",
+      "names": [
+        "BBC One Lon HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.N.West.HD.uk",
+      "names": [
+        "BBC One N West HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.NE.and.C.HD.uk",
+      "names": [
+        "BBC One NE and C HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.S.East.HD.uk",
+      "names": [
+        "BBC One S East HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.S.West.HD.uk",
+      "names": [
+        "BBC One S West HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.Sth.HD.uk",
+      "names": [
+        "BBC One Sth HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.WM.HD.uk",
+      "names": [
+        "BBC One WM HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.Wal.HD.uk",
+      "names": [
+        "BBC One Wal HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.West.HD.uk",
+      "names": [
+        "BBC One West HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.Y.and.L.HD.uk",
+      "names": [
+        "BBC One Y and L HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.Yorks.HD.uk",
+      "names": [
+        "BBC One Yorks HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "plex.tv.BBC.Food.plex",
+      "names": [
+        "BBC Food"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "BBC.One.NI.HD.uk",
+      "names": [
+        "BBC One NI HD"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "BBC.One.ScotHD.uk",
+      "names": [
+        "BBC One ScotHD"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "BBC.Series.es",
+      "names": [
+        "BBC Series"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "IT:.BBC.Series.be",
+      "names": [
+        "IT: BBC Series"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "plex.tv.BBC.Game.Shows.plex",
+      "names": [
+        "BBC Game Shows"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "plex.tv.BBC.Home.&.Garden.plex",
+      "names": [
+        "BBC Home & Garden"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "plex.tv.BBC.Travel.plex",
+      "names": [
+        "BBC Travel"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "pluto.fr.60d35a74c63c3c0008df6a90",
+      "names": [
+        "BBC Series"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "BBC.Belgium.HD.be",
+      "names": [
+        "BBC Belgium HD"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "BBC.Four.HD.uk",
+      "names": [
+        "BBC Four HD"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "BBC.One.de",
+      "names": [
+        "BBC One"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "BBC.R2.uk",
+      "names": [
+        "BBC R2"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "BBC.Radio.2.be",
+      "names": [
+        "BBC Radio 2"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "ES:.BBC.Series.be",
+      "names": [
+        "ES: BBC Series"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "plex.tv.BBC.Earth.plex",
+      "names": [
+        "BBC Earth"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "BBC.Four.HD.be",
+      "names": [
+        "BBC Four HD"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "BBC.Four.ch",
+      "names": [
+        "BBC Four"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "BBC.Parliament.HD.uk",
+      "names": [
+        "BBC Parliament HD"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "BBC.R.Foyle.uk",
+      "names": [
+        "BBC R Foyle"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "BBC.R.Ulster.uk",
+      "names": [
+        "BBC R Ulster"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "BBC.R1.uk",
+      "names": [
+        "BBC R1"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "BBC.NL.nl",
+      "names": [
+        "BBC NL"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "BBC.R5L.uk",
+      "names": [
+        "BBC R5L"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "BBC.four.de",
+      "names": [
+        "BBC four"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "BBC.America.HD.us2",
+      "names": [
+        "BBC America HD"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "BBC.R1X.uk",
+      "names": [
+        "BBC R1X"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "BBC.Radio.1.Xtra.be",
+      "names": [
+        "BBC Radio 1 Xtra"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "BBC.R3.uk",
+      "names": [
+        "BBC R3"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "BBC.Radio.3.be",
+      "names": [
+        "BBC Radio 3"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "BBC.Scotland.be",
+      "names": [
+        "BBC Scotland"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "BBC.Two.HD.be",
+      "names": [
+        "BBC Two HD"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "BBC.Two.HD.uk",
+      "names": [
+        "BBC Two HD"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "BBC.Two.NI.HD.uk",
+      "names": [
+        "BBC Two NI HD"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "BBC.Two.Wal.HD.uk",
+      "names": [
+        "BBC Two Wal HD"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "BBC.Two.ch",
+      "names": [
+        "BBC Two"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "BBC.Two.de",
+      "names": [
+        "BBC Two"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "BBC.Two.nl",
+      "names": [
+        "BBC Two"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "BBC.6.Music.uk",
+      "names": [
+        "BBC 6 Music"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "BBC.Parliament.be",
+      "names": [
+        "BBC Parliament"
+      ],
+      "programmes": 6
+    },
+    {
+      "id": "BBC.Parliament.ch",
+      "names": [
+        "BBC Parliament"
+      ],
+      "programmes": 6
+    },
+    {
+      "id": "BBC.R.Wales.uk",
+      "names": [
+        "BBC R Wales"
+      ],
+      "programmes": 6
+    },
+    {
+      "id": "BBC.Asian.uk",
+      "names": [
+        "BBC Asian"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "BBC.R.Cymru.2.uk",
+      "names": [
+        "BBC R Cymru 2"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "BBC.R.Scot..uk",
+      "names": [
+        "BBC R Scot."
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "BBC.R5SX.uk",
+      "names": [
+        "BBC R5SX"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "BBC.RB.1.HD.uk",
+      "names": [
+        "BBC RB 1 HD"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "BBC.RLondon.uk",
+      "names": [
+        "BBC RLondon"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "BBC.Radio.Bristol.104.6FM.uk",
+      "names": [
+        "BBC Radio Bristol 104.6FM"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "BBC.Radio.Bristol.94.9FM.uk",
+      "names": [
+        "BBC Radio Bristol 94.9FM"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "BBC.Radio.Bristol.DAB.uk",
+      "names": [
+        "BBC Radio Bristol DAB"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "BBC.Radio.London.be",
+      "names": [
+        "BBC Radio London"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "BBC.Radio.Sussex.uk",
+      "names": [
+        "BBC Radio Sussex"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "BBC.Red.Button.1.be",
+      "names": [
+        "BBC Red Button 1"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "BBC.R.Cymru.uk",
+      "names": [
+        "BBC R Cymru"
+      ],
+      "programmes": 4
+    },
+    {
+      "id": "BBC.R.n.Gael.uk",
+      "names": [
+        "BBC R n Gael"
+      ],
+      "programmes": 1
+    }
+  ],
+  "History": [
+    {
+      "id": "plex.tv.Torque.Presented.By.History.plex",
+      "names": [
+        "Torque Presented By History"
+      ],
+      "programmes": 27
+    },
+    {
+      "id": "plex.tv.True.History.plex",
+      "names": [
+        "True History"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "Canal.History.(México).mx",
+      "names": [
+        "Canal History (México)"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "São.Paulo/SP..History.2.HD.br",
+      "names": [
+        "São Paulo/SP  History 2 HD"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "Canal.History.2.(Argentina).ar",
+      "names": [
+        "Canal History 2 (Argentina)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.History.2.(Chile).cl",
+      "names": [
+        "Canal History 2 (Chile)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.History.2.(Costa.Rica).cr",
+      "names": [
+        "Canal History 2 (Costa Rica)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.History.2.(Ecuador).ec",
+      "names": [
+        "Canal History 2 (Ecuador)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.History.2.(México).mx",
+      "names": [
+        "Canal History 2 (México)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.History.2.(Panamá).pa",
+      "names": [
+        "Canal History 2 (Panamá)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.History.2.(Panregional).cr",
+      "names": [
+        "Canal History 2 (Panregional)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.History.2.(Panregional).pa",
+      "names": [
+        "Canal History 2 (Panregional)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.History.2.(República.Dominicana).do",
+      "names": [
+        "Canal History 2 (República Dominicana)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "HISTORY.2.HD.uy",
+      "names": [
+        "HISTORY 2 HD"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "HISTORY.CHANNEL.co",
+      "names": [
+        "HISTORY CHANNEL"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "History.2.co",
+      "names": [
+        "History 2"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "History.Channel.co",
+      "names": [
+        "History Channel"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "History.IT.ch",
+      "names": [
+        "History IT"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "History.it",
+      "names": [
+        "History"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "São.Paulo/SP..History.Hd.br",
+      "names": [
+        "São Paulo/SP  History Hd"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "São.Paulo/SP..The.History.Channel.br",
+      "names": [
+        "São Paulo/SP  The History Channel"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "BBC.History.es",
+      "names": [
+        "BBC History"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.History.(Costa.Rica).cr",
+      "names": [
+        "Canal History (Costa Rica)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.History.(Panamá).pa",
+      "names": [
+        "Canal History (Panamá)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.History.(República.Dominicana).do",
+      "names": [
+        "Canal History (República Dominicana)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "History.ch",
+      "names": [
+        "History"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "The.HISTORY.Channel.de",
+      "names": [
+        "The HISTORY Channel"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "plex.tv.Ax.Men.by.History.plex",
+      "names": [
+        "Ax Men by History"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "plex.tv.Deal.Zone.Presented.By.History.plex",
+      "names": [
+        "Deal Zone Presented By History"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "plex.tv.Military.Heroes.Presented.By.History.plex",
+      "names": [
+        "Military Heroes Presented By History"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "plex.tv.Modern.Marvels.by.History.plex",
+      "names": [
+        "Modern Marvels by History"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "plex.tv.Xtreme.Outdoor.by.HISTORY.plex",
+      "names": [
+        "Xtreme Outdoor by HISTORY"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "HISTORY.nl",
+      "names": [
+        "HISTORY"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "History.be",
+      "names": [
+        "History"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "UK:.History.Hunters.be",
+      "names": [
+        "UK: History Hunters"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.History.(Chile).cl",
+      "names": [
+        "Canal History (Chile)"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "Canal.History.(Chile).ec",
+      "names": [
+        "Canal History (Chile)"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "Disc.History+1.uk",
+      "names": [
+        "Disc.History+1"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "HISTORY.HD.uy",
+      "names": [
+        "HISTORY HD"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "History.Channel.En.Español.us2",
+      "names": [
+        "History Channel En Español"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "plex.tv.Modern.Innovations.by.History.plex",
+      "names": [
+        "Modern Innovations by History"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "Disc.History.uk",
+      "names": [
+        "Disc.History"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "History.HD.us2",
+      "names": [
+        "History HD"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "plex.tv.History.&.Warfare.plex",
+      "names": [
+        "History & Warfare"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "DK:.History.Hit.be",
+      "names": [
+        "DK: History Hit"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "FI:.History.Hit.be",
+      "names": [
+        "FI: History Hit"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Military.History.Channel.us2",
+      "names": [
+        "Military History Channel"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "NL:.History.Hit.be",
+      "names": [
+        "NL: History Hit"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "NO:.History.Hit.be",
+      "names": [
+        "NO: History Hit"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "SE:.History.Hit.be",
+      "names": [
+        "SE: History Hit"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "UK:.History.Hit.be",
+      "names": [
+        "UK: History Hit"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "plex.tv.History.Hit.plex",
+      "names": [
+        "History Hit"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "[H2LAME].History.2.uy",
+      "names": [
+        "[H2LAME] History 2"
+      ],
+      "programmes": 4
+    },
+    {
+      "id": "[HCLI].History.uy",
+      "names": [
+        "[HCLI] History"
+      ],
+      "programmes": 4
+    }
+  ],
+  "Lifetime": [
+    {
+      "id": "plex.tv.Perform.by.Lifetime.plex",
+      "names": [
+        "Perform by Lifetime"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "plex.tv.Dance.Moms.by.Lifetime.plex",
+      "names": [
+        "Dance Moms by Lifetime"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "Lifetime.Real.Women.us2",
+      "names": [
+        "Lifetime Real Women"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "Canal.Lifetime.(Argentina).ar",
+      "names": [
+        "Canal Lifetime (Argentina)"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "Canal.Lifetime.(Chile).cl",
+      "names": [
+        "Canal Lifetime (Chile)"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "Canal.Lifetime.(Costa.Rica).cr",
+      "names": [
+        "Canal Lifetime (Costa Rica)"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "Canal.Lifetime.(Ecuador).ec",
+      "names": [
+        "Canal Lifetime (Ecuador)"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "Canal.Lifetime.(Panamá).pa",
+      "names": [
+        "Canal Lifetime (Panamá)"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "Canal.Lifetime.(República.Dominicana).do",
+      "names": [
+        "Canal Lifetime (República Dominicana)"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "plex.tv.Lifetime.Movie.Favorites.plex",
+      "names": [
+        "Lifetime Movie Favorites"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "plex.tv.Lifetime.Movies.Love.&.Drama.plex",
+      "names": [
+        "Lifetime Movies Love & Drama"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "Canal.Lifetime.(México).mx",
+      "names": [
+        "Canal Lifetime (México)"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "DIRECTV.Lifetime.us2",
+      "names": [
+        "DIRECTV Lifetime"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "Lifetime.HD.us2",
+      "names": [
+        "Lifetime HD"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "[LIFELC].Lifetime.uy",
+      "names": [
+        "[LIFELC] Lifetime"
+      ],
+      "programmes": 4
+    }
+  ],
+  "Sony": [
+    {
+      "id": "DK:.Comedy.TV.Sony.be",
+      "names": [
+        "DK: Comedy TV Sony"
+      ],
+      "programmes": 27
+    },
+    {
+      "id": "FI:.Comedy.TV.Sony.be",
+      "names": [
+        "FI: Comedy TV Sony"
+      ],
+      "programmes": 27
+    },
+    {
+      "id": "NO:.Comedy.TV.Sony.be",
+      "names": [
+        "NO: Comedy TV Sony"
+      ],
+      "programmes": 27
+    },
+    {
+      "id": "SE:.Comedy.TV.Sony.be",
+      "names": [
+        "SE: Comedy TV Sony"
+      ],
+      "programmes": 27
+    },
+    {
+      "id": "UK:.Comedy.TV.Sony.be",
+      "names": [
+        "UK: Comedy TV Sony"
+      ],
+      "programmes": 27
+    },
+    {
+      "id": "DE:.Comedy.TV.Sony.be",
+      "names": [
+        "DE: Comedy TV Sony"
+      ],
+      "programmes": 26
+    },
+    {
+      "id": "UK:.Sony.Faves.be",
+      "names": [
+        "UK: Sony Faves"
+      ],
+      "programmes": 26
+    },
+    {
+      "id": "DE:.Sony.Faves.be",
+      "names": [
+        "DE: Sony Faves"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "DK:.Sony.Faves.be",
+      "names": [
+        "DK: Sony Faves"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "FI:.Sony.Faves.be",
+      "names": [
+        "FI: Sony Faves"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "NO:.Sony.Faves.be",
+      "names": [
+        "NO: Sony Faves"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "SE:.Sony.Faves.be",
+      "names": [
+        "SE: Sony Faves"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "Sony.KAL.us2",
+      "names": [
+        "Sony KAL"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "pluto.br.6647c0b91050b60008390de4",
+      "names": [
+        "Sony One Shark Tank Brasil"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "FR:.Sony.Favoris.be",
+      "names": [
+        "FR: Sony Favoris"
+      ],
+      "programmes": 24
+    },
+    {
+      "id": "SONY.SAB.uk",
+      "names": [
+        "SONY SAB"
+      ],
+      "programmes": 20
+    },
+    {
+      "id": "DE:.Thriller.TV.Sony.be",
+      "names": [
+        "DE: Thriller TV Sony"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "ES:.Blacklist.TV.Sony.be",
+      "names": [
+        "ES: Blacklist TV Sony"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "FR:.The.Blacklist.Sony.be",
+      "names": [
+        "FR: The Blacklist Sony"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Sony.MIX.us2",
+      "names": [
+        "Sony MIX"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "UK:.Thriller.TV.Sony.be",
+      "names": [
+        "UK: Thriller TV Sony"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "pluto.latam.662bf39756fc840008f25cb9",
+      "names": [
+        "Sony One Escape Perfecto"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "pluto.latam.6647c02422494d000804b13a",
+      "names": [
+        "Sony One Shark Tank México"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "UK:.Dragons`.Den.Sony.be",
+      "names": [
+        "UK: Dragons` Den Sony"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "[SETARGE].Canal.Sony.uy",
+      "names": [
+        "[SETARGE] Canal Sony"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "SONY.TV.HD.uk",
+      "names": [
+        "SONY TV HD"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "Sony.TV.Asia.nl",
+      "names": [
+        "Sony TV Asia"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "Canal.Sony.(Argentina).ar",
+      "names": [
+        "Canal Sony (Argentina)"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.Sony.(Chile).cl",
+      "names": [
+        "Canal Sony (Chile)"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.Sony.(Costa.Rica).cr",
+      "names": [
+        "Canal Sony (Costa Rica)"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.Sony.(Panamá).pa",
+      "names": [
+        "Canal Sony (Panamá)"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.Sony.(República.Dominicana).do",
+      "names": [
+        "Canal Sony (República Dominicana)"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Sony.(Costa.Rica).cr",
+      "names": [
+        "Sony (Costa Rica)"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Sony.Movies.Brazil.br",
+      "names": [
+        "Sony Movies Brazil"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Sony.co",
+      "names": [
+        "Sony"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.Sony.(México).mx",
+      "names": [
+        "Canal Sony (México)"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "Sony.Cine.us2",
+      "names": [
+        "Sony Cine"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "Sony.Movie.Channel.HD.us2",
+      "names": [
+        "Sony Movie Channel HD"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "[SONYHD].Sony.Movie.Channel.HD.uy",
+      "names": [
+        "[SONYHD] Sony Movie Channel HD"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "SONY.MAX.2.uk",
+      "names": [
+        "SONY MAX 2"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "SONY.MAX.HD.uk",
+      "names": [
+        "SONY MAX HD"
+      ],
+      "programmes": 5
+    },
+    {
+      "id": "Sony.Max.nl",
+      "names": [
+        "Sony Max"
+      ],
+      "programmes": 5
+    }
+  ],
+  "Studio Universal": [
+    {
+      "id": "Canal.Studio.Universal.(México).mx",
+      "names": [
+        "Canal Studio Universal (México)"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "São.Paulo/SP..Studio.Universal.HD.br",
+      "names": [
+        "São Paulo/SP  Studio Universal HD"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "São.Paulo/SP..Studio.Universal.br",
+      "names": [
+        "São Paulo/SP  Studio Universal"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "[STULM].Studio.Universal.uy",
+      "names": [
+        "[STULM] Studio Universal"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Canal.Studio.Universal.(Costa.Rica).cr",
+      "names": [
+        "Canal Studio Universal (Costa Rica)"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "Canal.Studio.Universal.(Ecuador).ec",
+      "names": [
+        "Canal Studio Universal (Ecuador)"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "Canal.Studio.Universal.(Panamá).pa",
+      "names": [
+        "Canal Studio Universal (Panamá)"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "STUDIO.UNIVERSAL.(Studio.Universal).pe",
+      "names": [
+        "STUDIO UNIVERSAL (Studio Universal)"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "Studio.Universal.co",
+      "names": [
+        "Studio Universal"
+      ],
+      "programmes": 7
+    }
+  ],
+  "TNT Novelas": [
+    {
+      "id": "Canal.TNT.Novelas.(Costa.Rica).cr",
+      "names": [
+        "Canal TNT Novelas (Costa Rica)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.TNT.Novelas.(Ecuador).ec",
+      "names": [
+        "Canal TNT Novelas (Ecuador)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.TNT.Novelas.(República.Dominicana).do",
+      "names": [
+        "Canal TNT Novelas (República Dominicana)"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.TNT.Novelas.(Argentina).ar",
+      "names": [
+        "Canal TNT Novelas (Argentina)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.TNT.Novelas.(Chile).cl",
+      "names": [
+        "Canal TNT Novelas (Chile)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.TNT.Novelas.(México).mx",
+      "names": [
+        "Canal TNT Novelas (México)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.TNT.Novelas.(Panamá).pa",
+      "names": [
+        "Canal TNT Novelas (Panamá)"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "TNT.Novelas.co",
+      "names": [
+        "TNT Novelas"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "TNT.NOVELAS.uy",
+      "names": [
+        "TNT NOVELAS"
+      ],
+      "programmes": 6
+    }
+  ],
+  "Telefe": [
+    {
+      "id": "TELEFE.INTERNACIONAL.HD.uy",
+      "names": [
+        "TELEFE INTERNACIONAL HD"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "Canal.Telefe.Internacional.ec",
+      "names": [
+        "Canal Telefe Internacional"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Canal.Telefe.Internacional.mx",
+      "names": [
+        "Canal Telefe Internacional"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Telefe.Internacional.us2",
+      "names": [
+        "Telefe Internacional"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Telefe.international.us2",
+      "names": [
+        "Telefe international"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "[TEFEI].Telefe.Internacional.uy",
+      "names": [
+        "[TEFEI] Telefe Internacional"
+      ],
+      "programmes": 10
+    }
+  ],
+  "TVE Internacional": [
+    {
+      "id": "TVE.Internacional.be",
+      "names": [
+        "TVE Internacional"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "TVE.Internacional.ch",
+      "names": [
+        "TVE Internacional"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "TVE.Internacional.fr",
+      "names": [
+        "TVE Internacional"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Canal.TVE.Internacional.(Televisión.Española).ar",
+      "names": [
+        "Canal TVE Internacional (Televisión Española)"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "Canal.TVE.Internacional.(Televisión.Española).cl",
+      "names": [
+        "Canal TVE Internacional (Televisión Española)"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "Canal.TVE.Internacional.(Televisión.Española).cr",
+      "names": [
+        "Canal TVE Internacional (Televisión Española)"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "Canal.TVE.Internacional.(Televisión.Española).ec",
+      "names": [
+        "Canal TVE Internacional (Televisión Española)"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "Canal.TVE.Internacional.(Televisión.Española).mx",
+      "names": [
+        "Canal TVE Internacional (Televisión Española)"
+      ],
+      "programmes": 11
+    },
+    {
+      "id": "Canal.TVE.Internacional.(Televisión.Española).pa",
+      "names": [
+        "Canal TVE Internacional (Televisión Española)"
+      ],
+      "programmes": 11
+    }
+  ],
+  "Nickelodeon": [
+    {
+      "id": "Nickelodeon.Junior.fr",
+      "names": [
+        "Nickelodeon Junior"
+      ],
+      "programmes": 62
+    },
+    {
+      "id": "NickClassico.us@Brazil",
+      "names": [
+        "Nickelodeon Clássico"
+      ],
+      "programmes": 51
+    },
+    {
+      "id": "Nickelodeon.it",
+      "names": [
+        "Nickelodeon"
+      ],
+      "programmes": 47
+    },
+    {
+      "id": "Nickelodeon.Teen.fr",
+      "names": [
+        "Nickelodeon Teen"
+      ],
+      "programmes": 35
+    },
+    {
+      "id": "Nickelodeon.nl",
+      "names": [
+        "Nickelodeon"
+      ],
+      "programmes": 34
+    },
+    {
+      "id": "Canal.Nickelodeon.(Chile).cl",
+      "names": [
+        "Canal Nickelodeon (Chile)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.Nickelodeon.(Costa.Rica).cr",
+      "names": [
+        "Canal Nickelodeon (Costa Rica)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.Nickelodeon.(Ecuador).ec",
+      "names": [
+        "Canal Nickelodeon (Ecuador)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.Nickelodeon.(Panamá).pa",
+      "names": [
+        "Canal Nickelodeon (Panamá)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.Nickelodeon.(República.Dominicana).do",
+      "names": [
+        "Canal Nickelodeon (República Dominicana)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "NICKELODEON.HD.uy",
+      "names": [
+        "NICKELODEON HD"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Nickelodeon.HD.be",
+      "names": [
+        "Nickelodeon HD"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Nickelodeon.be",
+      "names": [
+        "Nickelodeon"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Nickelodeon.ch",
+      "names": [
+        "Nickelodeon"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Nickelodeon.fr",
+      "names": [
+        "Nickelodeon"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Nickelodeon.pt",
+      "names": [
+        "Nickelodeon"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Nickelodeon+1.fr",
+      "names": [
+        "Nickelodeon+1"
+      ],
+      "programmes": 32
+    },
+    {
+      "id": "Canal.Nickelodeon.(México).mx",
+      "names": [
+        "Canal Nickelodeon (México)"
+      ],
+      "programmes": 31
+    },
+    {
+      "id": "7+./.Nickelodeon.ch",
+      "names": [
+        "7+ / Nickelodeon"
+      ],
+      "programmes": 28
+    },
+    {
+      "id": "Nickelodeon.es",
+      "names": [
+        "Nickelodeon"
+      ],
+      "programmes": 28
+    },
+    {
+      "id": "Nickelodeon.Ukraine.nl",
+      "names": [
+        "Nickelodeon Ukraine"
+      ],
+      "programmes": 26
+    },
+    {
+      "id": "pluto.br.620ff46e0a576e0007dc2f89",
+      "names": [
+        "Nickelodeon iCarly"
+      ],
+      "programmes": 26
+    },
+    {
+      "id": "pluto.latam.5ddd7c348520b40009c347e2",
+      "names": [
+        "Nickelodeon Clásico"
+      ],
+      "programmes": 26
+    },
+    {
+      "id": "pluto.latam.620ff0a01f9e8700076c6f9d",
+      "names": [
+        "Nickelodeon iCarly"
+      ],
+      "programmes": 26
+    },
+    {
+      "id": "Nickelodeon+1.uk",
+      "names": [
+        "Nickelodeon+1"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "NickelodeonHD.uk",
+      "names": [
+        "NickelodeonHD"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "pluto.br.60f5fabf0721880007cd50e3",
+      "names": [
+        "Nickelodeon Teen"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "pluto.br.645951c0e94c38000802d2cb",
+      "names": [
+        "Nickelodeon Toons"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "pluto.latam.5fab09a8749b1a00077d35d2",
+      "names": [
+        "Nickelodeon Teen"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "pluto.latam.645952687cb4b100084ed52e",
+      "names": [
+        "Nickelodeon Toons"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "pluto.latam.6824cda00101510f9eeaa011",
+      "names": [
+        "Nickelodeon Clásico"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "Nickelodeon.(Pacific).us2",
+      "names": [
+        "Nickelodeon (Pacific)"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Nickelodeon.HD.us2",
+      "names": [
+        "Nickelodeon HD"
+      ],
+      "programmes": 12
+    }
+  ],
+  "Fashion": [
+    {
+      "id": "DE:.Fashion.TV.be",
+      "names": [
+        "DE: Fashion TV"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "DK:.Fashion.TV.be",
+      "names": [
+        "DK: Fashion TV"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "ES:.Fashion.TV.be",
+      "names": [
+        "ES: Fashion TV"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "FI:.Fashion.TV.be",
+      "names": [
+        "FI: Fashion TV"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "FR:.Fashion.TV.be",
+      "names": [
+        "FR: Fashion TV"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "Fashion.TV.HD.nl",
+      "names": [
+        "Fashion TV HD"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "Fashion.TV.de",
+      "names": [
+        "Fashion TV"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "IT:.Fashion.TV.be",
+      "names": [
+        "IT: Fashion TV"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "NL:.Fashion.TV.be",
+      "names": [
+        "NL: Fashion TV"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "NO:.Fashion.TV.be",
+      "names": [
+        "NO: Fashion TV"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "PL:.Fashion.TV.be",
+      "names": [
+        "PL: Fashion TV"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "SE:.Fashion.TV.be",
+      "names": [
+        "SE: Fashion TV"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "plex.tv.FashionTV.plex",
+      "names": [
+        "FashionTV"
+      ],
+      "programmes": 25
+    },
+    {
+      "id": "FashionBox.HD.fr",
+      "names": [
+        "FashionBox HD"
+      ],
+      "programmes": 20
+    },
+    {
+      "id": "Fashion.TV.fr",
+      "names": [
+        "Fashion TV"
+      ],
+      "programmes": 4
+    }
+  ],
+  "DW": [
+    {
+      "id": "DW-TV.fr",
+      "names": [
+        "DW-TV"
+      ],
+      "programmes": 38
+    },
+    {
+      "id": "DW.Englisch.ch",
+      "names": [
+        "DW Englisch"
+      ],
+      "programmes": 38
+    },
+    {
+      "id": "DW.HD.be",
+      "names": [
+        "DW HD"
+      ],
+      "programmes": 38
+    },
+    {
+      "id": "DW.be",
+      "names": [
+        "DW"
+      ],
+      "programmes": 38
+    },
+    {
+      "id": "DW.pt",
+      "names": [
+        "DW"
+      ],
+      "programmes": 38
+    },
+    {
+      "id": "[DWEUR].DW.uy",
+      "names": [
+        "[DWEUR] DW"
+      ],
+      "programmes": 38
+    },
+    {
+      "id": "Canal.DW.(Latinoamérica).ar",
+      "names": [
+        "Canal DW (Latinoamérica)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.DW.(Latinoamérica).cr",
+      "names": [
+        "Canal DW (Latinoamérica)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.DW.(Latinoamérica).ec",
+      "names": [
+        "Canal DW (Latinoamérica)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.DW.(Latinoamérica).mx",
+      "names": [
+        "Canal DW (Latinoamérica)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Canal.DW.(Latinoamérica).pa",
+      "names": [
+        "Canal DW (Latinoamérica)"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "DW.ESPAÑOL.HD.uy",
+      "names": [
+        "DW ESPAÑOL HD"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "[DWLA].DW.en.español.uy",
+      "names": [
+        "[DWLA] DW en español"
+      ],
+      "programmes": 33
+    }
+  ],
+  "Rai": [
+    {
+      "id": "Rai.Yoyo.ch",
+      "names": [
+        "Rai Yoyo"
+      ],
+      "programmes": 86
+    },
+    {
+      "id": "Rai.Yoyo..5043.it",
+      "names": [
+        "Rai Yoyo  5043"
+      ],
+      "programmes": 74
+    },
+    {
+      "id": "Rai.News.24.us2",
+      "names": [
+        "Rai News 24"
+      ],
+      "programmes": 46
+    },
+    {
+      "id": "Rai.Gulp.HD.be",
+      "names": [
+        "Rai Gulp HD"
+      ],
+      "programmes": 41
+    },
+    {
+      "id": "Rai.Gulp.ch",
+      "names": [
+        "Rai Gulp"
+      ],
+      "programmes": 41
+    },
+    {
+      "id": "Rai.Gulp..5042.it",
+      "names": [
+        "Rai Gulp  5042"
+      ],
+      "programmes": 38
+    },
+    {
+      "id": "Rai.News.24..508.it",
+      "names": [
+        "Rai News 24  508"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Rai.News.24.HD.be",
+      "names": [
+        "Rai News 24 HD"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Rai.News.24.be",
+      "names": [
+        "Rai News 24"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "Rai.News.24.ch",
+      "names": [
+        "Rai News 24"
+      ],
+      "programmes": 33
+    },
+    {
+      "id": "RAI.STORIA.fr",
+      "names": [
+        "RAI STORIA"
+      ],
+      "programmes": 21
+    },
+    {
+      "id": "Rai.Storia..5054.it",
+      "names": [
+        "Rai Storia  5054"
+      ],
+      "programmes": 21
+    },
+    {
+      "id": "Rai.Storia.HD.be",
+      "names": [
+        "Rai Storia HD"
+      ],
+      "programmes": 21
+    },
+    {
+      "id": "Rai.Storia.ch",
+      "names": [
+        "Rai Storia"
+      ],
+      "programmes": 21
+    },
+    {
+      "id": "RAI.2.fr",
+      "names": [
+        "RAI 2"
+      ],
+      "programmes": 20
+    },
+    {
+      "id": "Rai.2.HD..102.it",
+      "names": [
+        "Rai 2 HD  102"
+      ],
+      "programmes": 19
+    },
+    {
+      "id": "Rai.2.HD.be",
+      "names": [
+        "Rai 2 HD"
+      ],
+      "programmes": 19
+    },
+    {
+      "id": "Rai.2.ch",
+      "names": [
+        "Rai 2"
+      ],
+      "programmes": 19
+    },
+    {
+      "id": "RAI.3.fr",
+      "names": [
+        "RAI 3"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "RAI.SCUOLA.fr",
+      "names": [
+        "RAI SCUOLA"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "Rai.3.HD..103.it",
+      "names": [
+        "Rai 3 HD  103"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "Rai.3.HD.be",
+      "names": [
+        "Rai 3 HD"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "Rai.3.ch",
+      "names": [
+        "Rai 3"
+      ],
+      "programmes": 17
+    },
+    {
+      "id": "RAI.1.fr",
+      "names": [
+        "RAI 1"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Rai.1.HD..101.it",
+      "names": [
+        "Rai 1 HD  101"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Rai.Uno.fr",
+      "names": [
+        "Rai Uno"
+      ],
+      "programmes": 16
+    },
+    {
+      "id": "Canal.RAI.International.ar",
+      "names": [
+        "Canal RAI International"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.RAI.International.cr",
+      "names": [
+        "Canal RAI International"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.RAI.International.ec",
+      "names": [
+        "Canal RAI International"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.RAI.International.mx",
+      "names": [
+        "Canal RAI International"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Canal.RAI.International.pa",
+      "names": [
+        "Canal RAI International"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "RAI.HD.uy",
+      "names": [
+        "RAI HD"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "RAI.Italia.ch",
+      "names": [
+        "RAI Italia"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Rai.Italia.us2",
+      "names": [
+        "Rai Italia"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Rai.Radio.1.us2",
+      "names": [
+        "Rai Radio 1"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "[RAIIS].Rai.Italia.uy",
+      "names": [
+        "[RAIIS] Rai Italia"
+      ],
+      "programmes": 15
+    },
+    {
+      "id": "Rai.1.HD.be",
+      "names": [
+        "Rai 1 HD"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Rai.1.ch",
+      "names": [
+        "Rai 1"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Rai.4..5021.it",
+      "names": [
+        "Rai 4  5021"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Rai.4.ch",
+      "names": [
+        "Rai 4"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Rai.Premium.ch",
+      "names": [
+        "Rai Premium"
+      ],
+      "programmes": 14
+    },
+    {
+      "id": "Rai.Premium..5025.it",
+      "names": [
+        "Rai Premium  5025"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "Rai.Premium.us2",
+      "names": [
+        "Rai Premium"
+      ],
+      "programmes": 13
+    },
+    {
+      "id": "Rai.5..5023.it",
+      "names": [
+        "Rai 5  5023"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "Rai.5.ch",
+      "names": [
+        "Rai 5"
+      ],
+      "programmes": 12
+    },
+    {
+      "id": "RAI.Sport...227.it",
+      "names": [
+        "RAI Sport   227"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Rai.Sport.+.ch",
+      "names": [
+        "Rai Sport +"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Rai.Sport.HD.be",
+      "names": [
+        "Rai Sport HD"
+      ],
+      "programmes": 10
+    },
+    {
+      "id": "Rai.Italia.fr",
+      "names": [
+        "Rai Italia"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "Rai.Italia.pt",
+      "names": [
+        "Rai Italia"
+      ],
+      "programmes": 8
+    },
+    {
+      "id": "Rai.Movie.ch",
+      "names": [
+        "Rai Movie"
+      ],
+      "programmes": 7
+    },
+    {
+      "id": "Rai.Movie..5024.it",
+      "names": [
+        "Rai Movie  5024"
+      ],
+      "programmes": 6
+    },
+    {
+      "id": "Rai.Scuola.HD.be",
+      "names": [
+        "Rai Scuola HD"
+      ],
+      "programmes": 4
+    },
+    {
+      "id": "Rai.Scuola.ch",
+      "names": [
+        "Rai Scuola"
+      ],
+      "programmes": 4
+    }
+  ],
+  "Paraguay": [
+    {
+      "id": "Canal.SNT.(Paraguay).ar",
+      "names": [
+        "Canal SNT (Paraguay)"
+      ],
+      "programmes": 9
+    },
+    {
+      "id": "Canal.La.Tele.(Paraguay).ar",
+      "names": [
+        "Canal La Tele (Paraguay)"
+      ],
+      "programmes": 8
+    }
+  ]
+}
