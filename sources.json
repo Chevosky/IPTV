@@ -25,5 +25,10 @@
     "CH1",
     "PLEX1",
     "RAKUTEN1"
+  ],
+  "pluto_regions": [
+    "latam",
+    "br",
+    "fr"
   ]
 }
