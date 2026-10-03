@@ -1,0 +1,5810 @@
+{
+  "summary": {
+    "missing_targets": 186,
+    "with_exact_normalized_match": 24,
+    "with_fuzzy_090_plus": 9
+  },
+  "candidates": [
+    {
+      "target_id": "AELatinAmerica.us@Brazil",
+      "target_name": "A&E Latin America Brazil (720p)",
+      "normalized": "a and e latin america brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.68,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.652,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.612,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        }
+      ]
+    },
+    {
+      "target_id": "AELatinAmerica.us@Panregional",
+      "target_name": "A&E Latin America (1080p)",
+      "normalized": "a and e latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.791,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.769,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.714,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.7,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.634,
+          "source_id": "Canal.A&E.(Panamá).pa",
+          "source_name": "Canal A&E (Panamá)"
+        },
+        {
+          "score": 0.629,
+          "source_id": "plex.tv.Racing.America.plex",
+          "source_name": "Racing America"
+        },
+        {
+          "score": 0.622,
+          "source_id": "Canal.A&E.(Costa.Rica).cr",
+          "source_name": "Canal A&E (Costa Rica)"
+        },
+        {
+          "score": 0.606,
+          "source_id": "WAPA.America.us2",
+          "source_name": "WAPA America"
+        }
+      ]
+    },
+    {
+      "target_id": "AMCLatinAmerica.us@Brazil",
+      "target_name": "AMC Latin America Brazil (720p)",
+      "normalized": "amc latin america brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.667,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.667,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.652,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.651,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.632,
+          "source_id": "plex.tv.Racing.America.plex",
+          "source_name": "Racing America"
+        }
+      ]
+    },
+    {
+      "target_id": "AMCLatinAmerica.us@Panregional",
+      "target_name": "AMC Latin America (1080p)",
+      "normalized": "amc latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.8,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.789,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.778,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.774,
+          "source_id": "plex.tv.Racing.America.plex",
+          "source_name": "Racing America"
+        },
+        {
+          "score": 0.769,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.714,
+          "source_id": "MBC.America.us2",
+          "source_name": "MBC America"
+        },
+        {
+          "score": 0.69,
+          "source_id": "WAPA.America.us2",
+          "source_name": "WAPA America"
+        },
+        {
+          "score": 0.645,
+          "source_id": "AMC.(Costa.Rica).cr",
+          "source_name": "AMC (Costa Rica)"
+        }
+      ]
+    },
+    {
+      "target_id": "AXN.br@SD",
+      "target_name": "AXN (Brazil) (720p)",
+      "normalized": "axn brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.632,
+          "source_id": "AXN.Black.de",
+          "source_name": "AXN Black"
+        },
+        {
+          "score": 0.632,
+          "source_id": "AXN.Black.ch",
+          "source_name": "AXN Black"
+        }
+      ]
+    },
+    {
+      "target_id": "AXNLatinAmerica.us@Andes",
+      "target_name": "AXN Latin America Andes (1080p)",
+      "normalized": "axn latin america andes",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.732,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.711,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.682,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.667,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        },
+        {
+          "score": 0.609,
+          "source_id": "Canal.America.TV.(Argentina).ar",
+          "source_name": "Canal America TV (Argentina)"
+        }
+      ]
+    },
+    {
+      "target_id": "AXNLatinAmerica.us@CentralAmerica",
+      "target_name": "AXN Latin America (1080p)",
+      "normalized": "axn latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.857,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.821,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.789,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.778,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.71,
+          "source_id": "plex.tv.Racing.America.plex",
+          "source_name": "Racing America"
+        },
+        {
+          "score": 0.69,
+          "source_id": "WAPA.America.us2",
+          "source_name": "WAPA America"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        },
+        {
+          "score": 0.629,
+          "source_id": "YTA.Youtoo.America.us2",
+          "source_name": "YTA Youtoo America"
+        }
+      ]
+    },
+    {
+      "target_id": "AXNLatinAmerica.us@Chile",
+      "target_name": "AXN Latin America Chile (1080p)",
+      "normalized": "axn latin america chile",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.732,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.711,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.684,
+          "source_id": "Canal.AMC.(Chile).cl",
+          "source_name": "Canal AMC (Chile)"
+        },
+        {
+          "score": 0.682,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.667,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        },
+        {
+          "score": 0.651,
+          "source_id": "Canal.Lifetime.(Chile).cl",
+          "source_name": "Canal Lifetime (Chile)"
+        },
+        {
+          "score": 0.636,
+          "source_id": "Canal.Cinecanal.(Chile).cl",
+          "source_name": "Canal Cinecanal (Chile)"
+        }
+      ]
+    },
+    {
+      "target_id": "AXNLatinAmerica.us@Mexico",
+      "target_name": "AXN Latin America Mexico",
+      "normalized": "axn latin america mexico",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.714,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.7,
+          "source_id": "Canal.AMC.(México).mx",
+          "source_name": "Canal AMC (México)"
+        },
+        {
+          "score": 0.696,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.681,
+          "source_id": "Canal.TNT.Series.(México).mx",
+          "source_name": "Canal TNT Series (México)"
+        },
+        {
+          "score": 0.681,
+          "source_id": "Canal.AMC.Series.(México).mx",
+          "source_name": "Canal AMC Series (México)"
+        },
+        {
+          "score": 0.667,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Canal.Lifetime.(México).mx",
+          "source_name": "Canal Lifetime (México)"
+        },
+        {
+          "score": 0.652,
+          "source_id": "Canal.Cinecanal.(México).mx",
+          "source_name": "Canal Cinecanal (México)"
+        }
+      ]
+    },
+    {
+      "target_id": "AXNLatinAmerica.us@South",
+      "target_name": "AXN Latin America South (1080p)",
+      "normalized": "axn latin america south",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.732,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.711,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.682,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.667,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        }
+      ]
+    },
+    {
+      "target_id": "AdultSwimLatinAmerica.us@Brazil",
+      "target_name": "Adult Swim Latin America Brazil (720p)",
+      "normalized": "adult swim latin america brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.642,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.64,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.612,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.604,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        }
+      ]
+    },
+    {
+      "target_id": "AdultSwimLatinAmerica.us@Panregional",
+      "target_name": "Adult Swim Latin America (1080p) [Geo-blocked]",
+      "normalized": "adult swim latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.744,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.739,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.714,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.667,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.652,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        }
+      ]
+    },
+    {
+      "target_id": "AmericaParaguay.py@SD",
+      "target_name": "America Paraguay (720p)",
+      "normalized": "america paraguay",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.667,
+          "source_id": "AMERICA.SPORTS.uy",
+          "source_name": "AMERICA SPORTS"
+        },
+        {
+          "score": 0.647,
+          "source_id": "Canal.SNT.(Paraguay).ar",
+          "source_name": "Canal SNT (Paraguay)"
+        },
+        {
+          "score": 0.609,
+          "source_id": "[AMSAT].América.Tv.uy",
+          "source_name": "[AMSAT] América Tv"
+        },
+        {
+          "score": 0.609,
+          "source_id": "[AMETVA].América.TV.uy",
+          "source_name": "[AMETVA] América TV"
+        },
+        {
+          "score": 0.609,
+          "source_id": "AMERICA.TV.uy",
+          "source_name": "AMERICA TV"
+        }
+      ]
+    },
+    {
+      "target_id": "AmericaTV.ar@SD",
+      "target_name": "America TV (720p)",
+      "normalized": "america",
+      "exact_normalized_matches": [
+        {
+          "source_id": "AMERICA.TV.uy",
+          "source_names": [
+            "AMERICA TV"
+          ]
+        },
+        {
+          "source_id": "[AMETVA].América.TV.uy",
+          "source_names": [
+            "[AMETVA] América TV"
+          ]
+        },
+        {
+          "source_id": "[AMSAT].América.Tv.uy",
+          "source_names": [
+            "[AMSAT] América Tv"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "AmericasVoice.us@SD",
+      "target_name": "America's Voice (720p)",
+      "normalized": "america s voice",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.824,
+          "source_id": "Real.Americas.Voice.us2",
+          "source_name": "Real Americas Voice"
+        },
+        {
+          "score": 0.69,
+          "source_id": "AMERICA.SPORTS.uy",
+          "source_name": "AMERICA SPORTS"
+        },
+        {
+          "score": 0.636,
+          "source_id": "[AMSAT].América.Tv.uy",
+          "source_name": "[AMSAT] América Tv"
+        },
+        {
+          "score": 0.636,
+          "source_id": "[AMETVA].América.TV.uy",
+          "source_name": "[AMETVA] América TV"
+        },
+        {
+          "score": 0.636,
+          "source_id": "AMERICA.TV.uy",
+          "source_name": "AMERICA TV"
+        }
+      ]
+    },
+    {
+      "target_id": "AmericasVoiceNews.us@SD",
+      "target_name": "America's Voice News (720p)",
+      "normalized": "america s voice news",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.718,
+          "source_id": "Real.Americas.Voice.us2",
+          "source_name": "Real Americas Voice"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Arise.News.uk",
+          "source_name": "Arise News"
+        },
+        {
+          "score": 0.647,
+          "source_id": "AMERICA.SPORTS.uy",
+          "source_name": "AMERICA SPORTS"
+        },
+        {
+          "score": 0.6,
+          "source_id": "plex.tv.America’s.Funniest.Home.Videos.plex",
+          "source_name": "America’s Funniest Home Videos"
+        }
+      ]
+    },
+    {
+      "target_id": "Antena3Internacional.es@SD",
+      "target_name": "Antena 3 Internacional (1080p)",
+      "normalized": "antena 3 internacional",
+      "exact_normalized_matches": [
+        {
+          "source_id": "Antena.3.Internacional.es",
+          "source_names": [
+            "Antena 3 Internacional"
+          ]
+        },
+        {
+          "source_id": "Antena.3.Internacional.us2",
+          "source_names": [
+            "Antena 3 Internacional"
+          ]
+        },
+        {
+          "source_id": "[ANT3I].Antena.3.Internacional.uy",
+          "source_names": [
+            "[ANT3I] Antena 3 Internacional"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "Arte1.br@SD",
+      "target_name": "Arte 1 (720p)",
+      "normalized": "arte 1",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.8,
+          "source_id": "Arte.nl",
+          "source_name": "Arte"
+        },
+        {
+          "score": 0.8,
+          "source_id": "Arte.fr",
+          "source_name": "Arte"
+        },
+        {
+          "score": 0.8,
+          "source_id": "Arte..fr",
+          "source_name": "Arte"
+        },
+        {
+          "score": 0.8,
+          "source_id": "Arte...fr",
+          "source_name": "Arte"
+        },
+        {
+          "score": 0.8,
+          "source_id": "ARTE.de",
+          "source_name": "ARTE"
+        },
+        {
+          "score": 0.769,
+          "source_id": "ARTE.HD.be",
+          "source_name": "ARTE HD"
+        },
+        {
+          "score": 0.727,
+          "source_id": "VRT.1.nl",
+          "source_name": "VRT 1"
+        },
+        {
+          "score": 0.727,
+          "source_id": "VRT.1.be",
+          "source_name": "VRT 1"
+        }
+      ]
+    },
+    {
+      "target_id": "AsianCrush.us@SD",
+      "target_name": "AsianCrush (1080p)",
+      "normalized": "asiancrush",
+      "exact_normalized_matches": [
+        {
+          "source_id": "plex.tv.AsianCrush.plex",
+          "source_names": [
+            "AsianCrush"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "AtacamaTV.cl@SD",
+      "target_name": "Atacama TV",
+      "normalized": "atacama",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "AztecaInternacional.mx@SD",
+      "target_name": "Azteca Internacional (1080p)",
+      "normalized": "azteca internacional",
+      "exact_normalized_matches": [
+        {
+          "source_id": "plex.tv.Azteca.Internacional.plex",
+          "source_names": [
+            "Azteca Internacional"
+          ]
+        },
+        {
+          "source_id": "pluto.latam.646cce4d1593940008a33f09",
+          "source_names": [
+            "Azteca Internacional"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BBCDrama.uk@Spain",
+      "target_name": "BBC Drama (1080p)",
+      "normalized": "bbc drama",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.778,
+          "source_id": "HBO.Drama.us2",
+          "source_name": "HBO Drama"
+        },
+        {
+          "score": 0.778,
+          "source_id": "DMC.Drama.fr",
+          "source_name": "DMC Drama"
+        },
+        {
+          "score": 0.75,
+          "source_id": "M+.Drama.es",
+          "source_name": "M+ Drama"
+        },
+        {
+          "score": 0.737,
+          "source_id": "Epic.Drama.ch",
+          "source_name": "Epic Drama"
+        },
+        {
+          "score": 0.706,
+          "source_id": "BBC.Alba.be",
+          "source_name": "BBC Alba"
+        },
+        {
+          "score": 0.667,
+          "source_id": "BBC.R4.FM.uk",
+          "source_name": "BBC R4 FM"
+        },
+        {
+          "score": 0.667,
+          "source_id": "BBC.R3.uk",
+          "source_name": "BBC R3"
+        },
+        {
+          "score": 0.667,
+          "source_id": "BBC.R2.uk",
+          "source_name": "BBC R2"
+        }
+      ]
+    },
+    {
+      "target_id": "BBCEarth.uk@US",
+      "target_name": "BBC Earth US (1080p)",
+      "normalized": "bbc earth us",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.857,
+          "source_id": "plex.tv.BBC.Earth.plex",
+          "source_name": "BBC Earth"
+        },
+        {
+          "score": 0.857,
+          "source_id": "BBC.Earth.es",
+          "source_name": "BBC Earth"
+        },
+        {
+          "score": 0.667,
+          "source_id": "BBC.R.Ulster.uk",
+          "source_name": "BBC R Ulster"
+        },
+        {
+          "score": 0.636,
+          "source_id": "pluto.fr.60d35a74c63c3c0008df6a90",
+          "source_name": "BBC Series"
+        },
+        {
+          "score": 0.636,
+          "source_id": "BBC.Series.es",
+          "source_name": "BBC Series"
+        },
+        {
+          "score": 0.615,
+          "source_id": "BBC.One.Sth.HD.uk",
+          "source_name": "BBC One Sth HD"
+        },
+        {
+          "score": 0.615,
+          "source_id": "BBC.One.EastHD.uk",
+          "source_name": "BBC One EastHD"
+        },
+        {
+          "score": 0.609,
+          "source_id": "BBC.R.Cymru.uk",
+          "source_name": "BBC R Cymru"
+        }
+      ]
+    },
+    {
+      "target_id": "BBCFood.us@SD",
+      "target_name": "BBC Food (1080p)",
+      "normalized": "bbc food",
+      "exact_normalized_matches": [
+        {
+          "source_id": "BBC.Food.es",
+          "source_names": [
+            "BBC Food"
+          ]
+        },
+        {
+          "source_id": "plex.tv.BBC.Food.plex",
+          "source_names": [
+            "BBC Food"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BBCFour.uk@UK",
+      "target_name": "BBC Four",
+      "normalized": "bbc four",
+      "exact_normalized_matches": [
+        {
+          "source_id": "BBC.Four.ch",
+          "source_names": [
+            "BBC Four"
+          ]
+        },
+        {
+          "source_id": "BBC.four.de",
+          "source_names": [
+            "BBC four"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BBCNews.uk@Europe",
+      "target_name": "BBC News Europe (576p)",
+      "normalized": "bbc news europe",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.72,
+          "source_id": "TBN.Europe.be",
+          "source_name": "TBN Europe"
+        },
+        {
+          "score": 0.696,
+          "source_id": "[BBCASP].BBC.News.uy",
+          "source_name": "[BBCASP] BBC News"
+        },
+        {
+          "score": 0.696,
+          "source_id": "BBC.News.nl",
+          "source_name": "BBC News"
+        },
+        {
+          "score": 0.696,
+          "source_id": "BBC.News.de",
+          "source_name": "BBC News"
+        },
+        {
+          "score": 0.696,
+          "source_id": "BBC.News.ch",
+          "source_name": "BBC News"
+        },
+        {
+          "score": 0.696,
+          "source_id": "BBC.News.be",
+          "source_name": "BBC News"
+        },
+        {
+          "score": 0.696,
+          "source_id": "BBC.NEWS.fr",
+          "source_name": "BBC NEWS"
+        },
+        {
+          "score": 0.692,
+          "source_id": "CNBC.Europe.nl",
+          "source_name": "CNBC Europe"
+        }
+      ]
+    },
+    {
+      "target_id": "BBCNews.uk@LatinAmerica",
+      "target_name": "BBC News Latin America (720p)",
+      "normalized": "bbc news latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.818,
+          "source_id": "plex.tv.BBC.News.(North.America).plex",
+          "source_name": "BBC News (North America)"
+        },
+        {
+          "score": 0.818,
+          "source_id": "[BBCWDNA].BBC.News.(North.America).uy",
+          "source_name": "[BBCWDNA] BBC News (North America)"
+        },
+        {
+          "score": 0.8,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.773,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.766,
+          "source_id": "BBC.News.(North.America).HD.us2",
+          "source_name": "BBC News (North America) HD"
+        },
+        {
+          "score": 0.698,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.683,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.629,
+          "source_id": "ABC.News.Live.us2",
+          "source_name": "ABC News Live"
+        }
+      ]
+    },
+    {
+      "target_id": "BBCNews.uk@NorthAmerica",
+      "target_name": "BBC News North America (1080p)",
+      "normalized": "bbc news north america",
+      "exact_normalized_matches": [
+        {
+          "source_id": "[BBCWDNA].BBC.News.(North.America).uy",
+          "source_names": [
+            "[BBCWDNA] BBC News (North America)"
+          ]
+        },
+        {
+          "source_id": "plex.tv.BBC.News.(North.America).plex",
+          "source_names": [
+            "BBC News (North America)"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BBCNews.uk@UK",
+      "target_name": "BBC News (1080p)",
+      "normalized": "bbc news",
+      "exact_normalized_matches": [
+        {
+          "source_id": "BBC.NEWS.fr",
+          "source_names": [
+            "BBC NEWS"
+          ]
+        },
+        {
+          "source_id": "BBC.News.be",
+          "source_names": [
+            "BBC News"
+          ]
+        },
+        {
+          "source_id": "BBC.News.ch",
+          "source_names": [
+            "BBC News"
+          ]
+        },
+        {
+          "source_id": "BBC.News.de",
+          "source_names": [
+            "BBC News"
+          ]
+        },
+        {
+          "source_id": "BBC.News.nl",
+          "source_names": [
+            "BBC News"
+          ]
+        },
+        {
+          "source_id": "[BBCASP].BBC.News.uy",
+          "source_names": [
+            "[BBCASP] BBC News"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BBCOne.uk@London",
+      "target_name": "BBC One",
+      "normalized": "bbc one",
+      "exact_normalized_matches": [
+        {
+          "source_id": "BBC.One.ch",
+          "source_names": [
+            "BBC One"
+          ]
+        },
+        {
+          "source_id": "BBC.One.de",
+          "source_names": [
+            "BBC One"
+          ]
+        },
+        {
+          "source_id": "BBC.One.nl",
+          "source_names": [
+            "BBC One"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BBCOne.uk@LondonHD",
+      "target_name": "BBC One London HD (720p)",
+      "normalized": "bbc one london hd",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.903,
+          "source_id": "BBC.One.London.be",
+          "source_name": "BBC One London"
+        },
+        {
+          "score": 0.903,
+          "source_id": "BBC.One.Lon.HD.uk",
+          "source_name": "BBC One Lon HD"
+        },
+        {
+          "score": 0.8,
+          "source_id": "BBC.One.NI.HD.uk",
+          "source_name": "BBC One NI HD"
+        },
+        {
+          "score": 0.774,
+          "source_id": "BBC.One.Wal.HD.uk",
+          "source_name": "BBC One Wal HD"
+        },
+        {
+          "score": 0.743,
+          "source_id": "BBC.One.Y.and.L.HD.uk",
+          "source_name": "BBC One Y and L HD"
+        },
+        {
+          "score": 0.741,
+          "source_id": "BBC.One.HD.be",
+          "source_name": "BBC One HD"
+        },
+        {
+          "score": 0.733,
+          "source_id": "BBC.One.WM.HD.uk",
+          "source_name": "BBC One WM HD"
+        },
+        {
+          "score": 0.733,
+          "source_id": "BBC.One.CI.HD.uk",
+          "source_name": "BBC One CI HD"
+        }
+      ]
+    },
+    {
+      "target_id": "BBCThree.uk@HD",
+      "target_name": "BBC Three HD",
+      "normalized": "bbc three hd",
+      "exact_normalized_matches": [
+        {
+          "source_id": "BBC.Three.HD.uk",
+          "source_names": [
+            "BBC Three HD"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BETCinema.us@SD",
+      "target_name": "BET Cinema",
+      "normalized": "bet cinema",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.8,
+          "source_id": "Zee.Cinema.uk",
+          "source_name": "Zee Cinema"
+        },
+        {
+          "score": 0.8,
+          "source_id": "Zee.Cinema.nl",
+          "source_name": "Zee Cinema"
+        },
+        {
+          "score": 0.8,
+          "source_id": "TCM.Cinéma.fr",
+          "source_name": "TCM Cinéma"
+        },
+        {
+          "score": 0.8,
+          "source_id": "ART.CINEMA.fr",
+          "source_name": "ART CINEMA"
+        },
+        {
+          "score": 0.7,
+          "source_id": "LA7.CINEMA.it",
+          "source_name": "LA7 CINEMA"
+        },
+        {
+          "score": 0.696,
+          "source_id": "Rotana.Cinema.fr",
+          "source_name": "Rotana Cinema"
+        },
+        {
+          "score": 0.667,
+          "source_id": "plex.tv.Surf.Cinema.plex",
+          "source_name": "Surf Cinema"
+        },
+        {
+          "score": 0.64,
+          "source_id": "Starz.Cinema.HD.us2",
+          "source_name": "Starz Cinema HD"
+        }
+      ]
+    },
+    {
+      "target_id": "BETClassicsPlutoTV.us@SD",
+      "target_name": "BET Classics Pluto TV",
+      "normalized": "bet classics pluto",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.667,
+          "source_id": "pluto.fr.5f92b56a367e170007cd43f4",
+          "source_name": "MTV CLASSICS"
+        },
+        {
+          "score": 0.667,
+          "source_id": "BETPlutoTV.us@BR",
+          "source_name": "BET Pluto TV"
+        },
+        {
+          "score": 0.611,
+          "source_id": "plex.tv.CINEVAULT:.Classics.plex",
+          "source_name": "CINEVAULT: Classics"
+        },
+        {
+          "score": 0.611,
+          "source_id": "Cinevault.Classics.us2",
+          "source_name": "Cinevault Classics"
+        }
+      ]
+    },
+    {
+      "target_id": "BETComedyMovies.us@SD",
+      "target_name": "BET Comedy Movies",
+      "normalized": "bet comedy movies",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.683,
+          "source_id": "UK:.Comedy.Movies.-.Rakuten.TV.be",
+          "source_name": "UK: Comedy Movies - Rakuten TV"
+        },
+        {
+          "score": 0.667,
+          "source_id": "plex.tv.GET.Comedy.plex",
+          "source_name": "GET Comedy"
+        },
+        {
+          "score": 0.667,
+          "source_id": "plex.tv.At.the.Movies.plex",
+          "source_name": "At the Movies"
+        },
+        {
+          "score": 0.667,
+          "source_id": "HBO.Movies.us2",
+          "source_name": "HBO Movies"
+        },
+        {
+          "score": 0.645,
+          "source_id": "SE:.Free.Movies.+.be",
+          "source_name": "SE: Free Movies +"
+        },
+        {
+          "score": 0.645,
+          "source_id": "SE:.Comedy.TV.Sony.be",
+          "source_name": "SE: Comedy TV Sony"
+        },
+        {
+          "score": 0.645,
+          "source_id": "DE:.Comedy.TV.Sony.be",
+          "source_name": "DE: Comedy TV Sony"
+        },
+        {
+          "score": 0.643,
+          "source_id": "BEIN.MOVIES.fr",
+          "source_name": "BEIN MOVIES"
+        }
+      ]
+    },
+    {
+      "target_id": "BETPlutoTV.us@US",
+      "target_name": "BET Pluto TV",
+      "normalized": "bet pluto",
+      "exact_normalized_matches": [
+        {
+          "source_id": "BETPlutoTV.us@BR",
+          "source_names": [
+            "BET Pluto TV"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BETVisionaries.us@SD",
+      "target_name": "BET Visionaries",
+      "normalized": "bet visionaries",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BestofMTV.se@DK",
+      "target_name": "Best of MTV DK",
+      "normalized": "best of mtv dk",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BestofMTV.se@NO",
+      "target_name": "Best of MTV NO",
+      "normalized": "best of mtv no",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BestofMTV.se@SE",
+      "target_name": "Best of MTV",
+      "normalized": "best of mtv",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BestofParadiseHotelFinalveckan.se@SE",
+      "target_name": "Best of Paradise Hotel: Finalveckan",
+      "normalized": "best of paradise hotel finalveckan",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BestofParadiseHotelKyssarkarlek.se@SE",
+      "target_name": "Best of Paradise Hotel: Kyssar & karlek",
+      "normalized": "best of paradise hotel kyssar and karlek",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BestofParadiseHotelPandorasAsk.se@SE",
+      "target_name": "Best of Paradise Hotel: Pandoras Ask",
+      "normalized": "best of paradise hotel pandoras ask",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BestofParadiseHotelSkolveckan.se@SE",
+      "target_name": "Best of Paradise Hotel: Skolveckan",
+      "normalized": "best of paradise hotel skolveckan",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BestofTheDrewBarrymoreShow.se@DK",
+      "target_name": "Best of The Drew Barrymore Show (Sweden) DK",
+      "normalized": "best of the drew barrymore show sweden dk",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BestofTheDrewBarrymoreShow.se@NO",
+      "target_name": "Best of The Drew Barrymore Show (Sweden) NO",
+      "normalized": "best of the drew barrymore show sweden no",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BestofTheDrewBarrymoreShow.se@SE",
+      "target_name": "Best of The Drew Barrymore Show (Sweden)",
+      "normalized": "best of the drew barrymore show sweden",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "BestofTheDrewBarrymoreShow.us@CA",
+      "target_name": "Best of The Drew Barrymore Show (United States)",
+      "normalized": "best of the drew barrymore show united states",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "CCPlutoTV.de@DACH",
+      "target_name": "CC Pluto TV",
+      "normalized": "cc pluto",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.706,
+          "source_id": "MTVPlutoTV.us@LatAm",
+          "source_name": "MTV Pluto TV"
+        },
+        {
+          "score": 0.706,
+          "source_id": "MTVPlutoTV.us@BR",
+          "source_name": "MTV Pluto TV"
+        },
+        {
+          "score": 0.706,
+          "source_id": "BETPlutoTV.us@BR",
+          "source_name": "BET Pluto TV"
+        },
+        {
+          "score": 0.667,
+          "source_id": "CinebyPlutoTV.de@FR",
+          "source_name": "Ciné by Pluto TV"
+        }
+      ]
+    },
+    {
+      "target_id": "CSI.se@DK",
+      "target_name": "CSI (Sweden)",
+      "normalized": "csi sweden",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "CSI.us@SD",
+      "target_name": "CSI (United States)",
+      "normalized": "csi united states",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.619,
+          "source_id": "Session.Council.Of.States.ch",
+          "source_name": "Session Council Of States"
+        }
+      ]
+    },
+    {
+      "target_id": "CSICrimeSceneInvestigation.de@GB",
+      "target_name": "CSI: Crime Scene Investigation",
+      "normalized": "csi crime scene investigation",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.792,
+          "source_id": "Crime+Investigation.nl",
+          "source_name": "Crime+Investigation"
+        },
+        {
+          "score": 0.792,
+          "source_id": "CRIME.+.INVESTIGATION.de",
+          "source_name": "CRIME + INVESTIGATION"
+        },
+        {
+          "score": 0.76,
+          "source_id": "Crime.+.Investigation.D.ch",
+          "source_name": "Crime + Investigation D"
+        },
+        {
+          "score": 0.7,
+          "source_id": "Crime.&.Investigation.Network.be",
+          "source_name": "Crime & Investigation Network"
+        },
+        {
+          "score": 0.692,
+          "source_id": "Discovery.Investigation.fr",
+          "source_name": "Discovery Investigation"
+        },
+        {
+          "score": 0.667,
+          "source_id": "SE:.Crime.Scene.Solvers.be",
+          "source_name": "SE: Crime Scene Solvers"
+        },
+        {
+          "score": 0.667,
+          "source_id": "FI:.Crime.Scene.Solvers.be",
+          "source_name": "FI: Crime Scene Solvers"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Crime.and.Investigation.Network.HD.us2",
+          "source_name": "Crime and Investigation Network HD"
+        }
+      ]
+    },
+    {
+      "target_id": "CSIMiami.us@BR",
+      "target_name": "CSI: Miami BR",
+      "normalized": "csi miami br",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.857,
+          "source_id": "pluto.latam.63eb9255c111bc0008fe6ec4",
+          "source_name": "CSI: Miami"
+        },
+        {
+          "score": 0.857,
+          "source_id": "pluto.br.63eb9c5351f5d000085e8d7e",
+          "source_name": "CSI: Miami"
+        }
+      ]
+    },
+    {
+      "target_id": "CSIMiami.us@SD",
+      "target_name": "CSI: Miami",
+      "normalized": "csi miami",
+      "exact_normalized_matches": [
+        {
+          "source_id": "pluto.br.63eb9c5351f5d000085e8d7e",
+          "source_names": [
+            "CSI: Miami"
+          ]
+        },
+        {
+          "source_id": "pluto.latam.63eb9255c111bc0008fe6ec4",
+          "source_names": [
+            "CSI: Miami"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "CSIMiamienespanol.us@SD",
+      "target_name": "CSI: Miami en espanol",
+      "normalized": "csi miami en espanol",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.765,
+          "source_id": "plex.tv.AMC.en.Español.plex",
+          "source_name": "AMC en Español"
+        },
+        {
+          "score": 0.743,
+          "source_id": "plex.tv.Cops.en.Español.plex",
+          "source_name": "Cops en Español"
+        },
+        {
+          "score": 0.743,
+          "source_id": "plex.tv.Cine.en.Español.plex",
+          "source_name": "Cine en Español"
+        },
+        {
+          "score": 0.706,
+          "source_id": "[CNNL].CNN.En.Español.uy",
+          "source_name": "[CNNL] CNN En Español"
+        },
+        {
+          "score": 0.706,
+          "source_id": "CNN.En.Español.us2",
+          "source_name": "CNN En Español"
+        },
+        {
+          "score": 0.667,
+          "source_id": "plex.tv.Cheaters.en.Español.plex",
+          "source_name": "Cheaters en Español"
+        },
+        {
+          "score": 0.667,
+          "source_id": "[DWLA].DW.en.español.uy",
+          "source_name": "[DWLA] DW en español"
+        },
+        {
+          "score": 0.667,
+          "source_id": "ES:.Top.Gear.en.español.be",
+          "source_name": "ES: Top Gear en español"
+        }
+      ]
+    },
+    {
+      "target_id": "CSINYenespanol.us@SD",
+      "target_name": "CSI: NY en espanol",
+      "normalized": "csi ny en espanol",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.875,
+          "source_id": "plex.tv.Cine.en.Español.plex",
+          "source_name": "Cine en Español"
+        },
+        {
+          "score": 0.839,
+          "source_id": "[CNNL].CNN.En.Español.uy",
+          "source_name": "[CNNL] CNN En Español"
+        },
+        {
+          "score": 0.839,
+          "source_id": "CNN.En.Español.us2",
+          "source_name": "CNN En Español"
+        },
+        {
+          "score": 0.812,
+          "source_id": "plex.tv.Cops.en.Español.plex",
+          "source_name": "Cops en Español"
+        },
+        {
+          "score": 0.786,
+          "source_id": "CNN.Español.co",
+          "source_name": "CNN Español"
+        },
+        {
+          "score": 0.774,
+          "source_id": "plex.tv.AMC.en.Español.plex",
+          "source_name": "AMC en Español"
+        },
+        {
+          "score": 0.774,
+          "source_id": "M+.Cine.Español.es",
+          "source_name": "M+ Cine Español"
+        },
+        {
+          "score": 0.765,
+          "source_id": "CNN.EN.ESPAÑOL.HD.uy",
+          "source_name": "CNN EN ESPAÑOL HD"
+        }
+      ]
+    },
+    {
+      "target_id": "CSIenespanol.us@SD",
+      "target_name": "CSI en espanol",
+      "normalized": "csi en espanol",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.897,
+          "source_id": "plex.tv.Cops.en.Español.plex",
+          "source_name": "Cops en Español"
+        },
+        {
+          "score": 0.897,
+          "source_id": "plex.tv.Cine.en.Español.plex",
+          "source_name": "Cine en Español"
+        },
+        {
+          "score": 0.857,
+          "source_id": "plex.tv.AMC.en.Español.plex",
+          "source_name": "AMC en Español"
+        },
+        {
+          "score": 0.857,
+          "source_id": "[CNNL].CNN.En.Español.uy",
+          "source_name": "[CNNL] CNN En Español"
+        },
+        {
+          "score": 0.857,
+          "source_id": "CNN.En.Español.us2",
+          "source_name": "CNN En Español"
+        },
+        {
+          "score": 0.815,
+          "source_id": "[DWLA].DW.en.español.uy",
+          "source_name": "[DWLA] DW en español"
+        },
+        {
+          "score": 0.8,
+          "source_id": "CNN.Español.co",
+          "source_name": "CNN Español"
+        },
+        {
+          "score": 0.788,
+          "source_id": "plex.tv.Cheaters.en.Español.plex",
+          "source_name": "Cheaters en Español"
+        }
+      ]
+    },
+    {
+      "target_id": "Canal26.ar@SD",
+      "target_name": "Canal 26 (Argentina) (1080p)",
+      "normalized": "canal 26 argentina",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.865,
+          "source_id": "Canal.TNT.(Argentina).ar",
+          "source_name": "Canal TNT (Argentina)"
+        },
+        {
+          "score": 0.865,
+          "source_id": "Canal.MTV.(Argentina).ar",
+          "source_name": "Canal MTV (Argentina)"
+        },
+        {
+          "score": 0.865,
+          "source_id": "Canal.HBO.(Argentina).ar",
+          "source_name": "Canal HBO (Argentina)"
+        },
+        {
+          "score": 0.865,
+          "source_id": "Canal.AXN.(Argentina).ar",
+          "source_name": "Canal AXN (Argentina)"
+        },
+        {
+          "score": 0.842,
+          "source_id": "Canal.Star.Channel.(Argentina).ar",
+          "source_name": "Canal Star Channel (Argentina)"
+        },
+        {
+          "score": 0.842,
+          "source_id": "Canal.Sony.(Argentina).ar",
+          "source_name": "Canal Sony (Argentina)"
+        },
+        {
+          "score": 0.842,
+          "source_id": "Canal.ESPN.(Argentina).ar",
+          "source_name": "Canal ESPN (Argentina)"
+        },
+        {
+          "score": 0.821,
+          "source_id": "Canal.Space.(Argentina).ar",
+          "source_name": "Canal Space (Argentina)"
+        }
+      ]
+    },
+    {
+      "target_id": "Canal26.mx@SD",
+      "target_name": "Canal 26 (Mexico) (1080p)",
+      "normalized": "canal 26 mexico",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.867,
+          "source_id": "Canal.FX.(México).mx",
+          "source_name": "Canal FX (México)"
+        },
+        {
+          "score": 0.848,
+          "source_id": "Canal.22.de.México.mx",
+          "source_name": "Canal 22 de México"
+        },
+        {
+          "score": 0.839,
+          "source_id": "Canal.TNT.(México).mx",
+          "source_name": "Canal TNT (México)"
+        },
+        {
+          "score": 0.839,
+          "source_id": "Canal.TLC.(México).mx",
+          "source_name": "Canal TLC (México)"
+        },
+        {
+          "score": 0.839,
+          "source_id": "Canal.TCM.(México).mx",
+          "source_name": "Canal TCM (México)"
+        },
+        {
+          "score": 0.839,
+          "source_id": "Canal.MTV.(México).mx",
+          "source_name": "Canal MTV (México)"
+        },
+        {
+          "score": 0.839,
+          "source_id": "Canal.HBO.(México).mx",
+          "source_name": "Canal HBO (México)"
+        },
+        {
+          "score": 0.839,
+          "source_id": "Canal.AXN.(México).mx",
+          "source_name": "Canal AXN (México)"
+        }
+      ]
+    },
+    {
+      "target_id": "Canal8MardelPlata.ar@SD",
+      "target_name": "Canal 8 Mar del Plata (720p) [Not 24/7]",
+      "normalized": "canal 8 mar del plata",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.638,
+          "source_id": "Canal.Animal.Planet.(Panamá).pa",
+          "source_name": "Canal Animal Planet (Panamá)"
+        },
+        {
+          "score": 0.636,
+          "source_id": "Canal.9.de.Panamá.(TVMax).pa",
+          "source_name": "Canal 9 de Panamá (TVMax)"
+        },
+        {
+          "score": 0.634,
+          "source_id": "Canal.Cinema.Platino.mx",
+          "source_name": "Canal Cinema Platino"
+        },
+        {
+          "score": 0.632,
+          "source_id": "Canal.Star.Channel.(Panamá).pa",
+          "source_name": "Canal Star Channel (Panamá)"
+        },
+        {
+          "score": 0.632,
+          "source_id": "Canal.De.Película.mx",
+          "source_name": "Canal De Película"
+        },
+        {
+          "score": 0.632,
+          "source_id": "Canal.De.Película.ec",
+          "source_name": "Canal De Película"
+        },
+        {
+          "score": 0.632,
+          "source_id": "Canal.De.Película.cr",
+          "source_name": "Canal De Película"
+        },
+        {
+          "score": 0.632,
+          "source_id": "Canal.De.Película.cl",
+          "source_name": "Canal De Película"
+        }
+      ]
+    },
+    {
+      "target_id": "CanalPlusActionEurope.nl@Czechia",
+      "target_name": "Canal+ Action Europe Czechia",
+      "normalized": "canal action europe czechia",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.655,
+          "source_id": "Canal.National.Geographic.(Chile).cl",
+          "source_name": "Canal National Geographic (Chile)"
+        },
+        {
+          "score": 0.63,
+          "source_id": "Canal.Cartoon.Network.(Chile).cl",
+          "source_name": "Canal Cartoon Network (Chile)"
+        },
+        {
+          "score": 0.615,
+          "source_id": "Canal+.Action.nl",
+          "source_name": "Canal+ Action"
+        },
+        {
+          "score": 0.61,
+          "source_id": "Canal.National.Geographic.(Panamá).pa",
+          "source_name": "Canal National Geographic (Panamá)"
+        },
+        {
+          "score": 0.609,
+          "source_id": "Canal.Europa.Europa.mx",
+          "source_name": "Canal Europa Europa"
+        },
+        {
+          "score": 0.609,
+          "source_id": "Canal.Europa.Europa.ec",
+          "source_name": "Canal Europa Europa"
+        },
+        {
+          "score": 0.609,
+          "source_id": "Canal.Europa.Europa.ar",
+          "source_name": "Canal Europa Europa"
+        },
+        {
+          "score": 0.609,
+          "source_id": "Canal.A&E.(Chile).cl",
+          "source_name": "Canal A&E (Chile)"
+        }
+      ]
+    },
+    {
+      "target_id": "CanalPlusActionEurope.nl@Slovakia",
+      "target_name": "Canal+ Action Europe Slovakia (720p)",
+      "normalized": "canal action europe slovakia",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.6,
+          "source_id": "Canal.National.Geographic.(Panamá).pa",
+          "source_name": "Canal National Geographic (Panamá)"
+        },
+        {
+          "score": 0.6,
+          "source_id": "Canal+.Action.nl",
+          "source_name": "Canal+ Action"
+        }
+      ]
+    },
+    {
+      "target_id": "CanalPlusCinemas.fr@SD",
+      "target_name": "Canal+ Cinemas (720p)",
+      "normalized": "canal cinemas",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.963,
+          "source_id": "Canal+.Cinéma(s).fr",
+          "source_name": "Canal+ Cinéma(s)"
+        },
+        {
+          "score": 0.963,
+          "source_id": "CANAL+CINEMA.S.fr",
+          "source_name": "CANAL+CINEMA.S"
+        },
+        {
+          "score": 0.963,
+          "source_id": "CANAL+.Cinema(s).ch",
+          "source_name": "CANAL+ Cinema(s)"
+        },
+        {
+          "score": 0.96,
+          "source_id": "Canal.Cinema.mx",
+          "source_name": "Canal Cinema"
+        },
+        {
+          "score": 0.96,
+          "source_id": "Canal+.Cinéma.de",
+          "source_name": "Canal+ Cinéma"
+        },
+        {
+          "score": 0.8,
+          "source_id": "Canal.Cocina.es",
+          "source_name": "Canal Cocina"
+        },
+        {
+          "score": 0.8,
+          "source_id": "Canal+.Cinéma.DROM.fr",
+          "source_name": "Canal+ Cinéma DROM"
+        },
+        {
+          "score": 0.759,
+          "source_id": "Canal.Cinelatino.pa",
+          "source_name": "Canal Cinelatino"
+        }
+      ]
+    },
+    {
+      "target_id": "CineRomantico.us@SD",
+      "target_name": "Cine Romantico (720p)",
+      "normalized": "cine romantico",
+      "exact_normalized_matches": [
+        {
+          "source_id": "plex.tv.Cine.Romántico.plex",
+          "source_names": [
+            "Cine Romántico"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "CineSony.us@SD",
+      "target_name": "Cine Sony (720p)",
+      "normalized": "cine sony",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.762,
+          "source_id": "Ciné+.Frisson.fr",
+          "source_name": "Ciné+ Frisson"
+        },
+        {
+          "score": 0.762,
+          "source_id": "Cine+.Frisson.ch",
+          "source_name": "Cine+ Frisson"
+        },
+        {
+          "score": 0.737,
+          "source_id": "[SETARGE].Canal.Sony.uy",
+          "source_name": "[SETARGE] Canal Sony"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Ciné+.Emotion.fr",
+          "source_name": "Ciné+ Emotion"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Cine.Western.es",
+          "source_name": "Cine Western"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Cine+.Emotion.ch",
+          "source_name": "Cine+ Emotion"
+        },
+        {
+          "score": 0.615,
+          "source_id": "Sony.co",
+          "source_name": "Sony"
+        },
+        {
+          "score": 0.609,
+          "source_id": "plex.tv.Cine.Romántico.plex",
+          "source_name": "Cine Romántico"
+        }
+      ]
+    },
+    {
+      "target_id": "CineTerror.us@US",
+      "target_name": "Cine Terror",
+      "normalized": "cine terror",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.8,
+          "source_id": "plex.tv.Cine.de.Horror.plex",
+          "source_name": "Cine de Horror"
+        },
+        {
+          "score": 0.786,
+          "source_id": "CineTerror.us@LatAm",
+          "source_name": "Pluto TV Cine Terror"
+        },
+        {
+          "score": 0.786,
+          "source_id": "CineTerror.us@BR",
+          "source_name": "Pluto TV Cine Terror"
+        },
+        {
+          "score": 0.696,
+          "source_id": "Cine.Western.es",
+          "source_name": "Cine Western"
+        },
+        {
+          "score": 0.696,
+          "source_id": "Cine.Estelar.us2",
+          "source_name": "Cine Estelar"
+        },
+        {
+          "score": 0.692,
+          "source_id": "pluto.br.64e501eec630a900088ed0f8",
+          "source_name": "Clube do Terror"
+        },
+        {
+          "score": 0.636,
+          "source_id": "[CINL].Cine.Latino.uy",
+          "source_name": "[CINL] Cine Latino"
+        },
+        {
+          "score": 0.609,
+          "source_id": "Ciné+.Frisson.fr",
+          "source_name": "Ciné+ Frisson"
+        }
+      ]
+    },
+    {
+      "target_id": "CineWestern.es@SD",
+      "target_name": "Cine Western (Spain) (1080p)",
+      "normalized": "cine western spain",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.8,
+          "source_id": "Cine.Western.es",
+          "source_name": "Cine Western"
+        },
+        {
+          "score": 0.727,
+          "source_id": "plex.tv.Cine.en.Español.plex",
+          "source_name": "Cine en Español"
+        },
+        {
+          "score": 0.718,
+          "source_id": "CineWesternbyPlutoTV.de@FR",
+          "source_name": "Ciné Western by Pluto TV"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Cine.Estelar.us2",
+          "source_name": "Cine Estelar"
+        },
+        {
+          "score": 0.625,
+          "source_id": "M+.Cine.Español.es",
+          "source_name": "M+ Cine Español"
+        },
+        {
+          "score": 0.615,
+          "source_id": "plex.tv.Western.Bound.Español.plex",
+          "source_name": "Western Bound Español"
+        },
+        {
+          "score": 0.606,
+          "source_id": "plex.tv.Cine.EstrellaTV.plex",
+          "source_name": "Cine EstrellaTV"
+        }
+      ]
+    },
+    {
+      "target_id": "CineWestern.fr@SD",
+      "target_name": "Cine Western (France) (1080p)",
+      "normalized": "cine western france",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.774,
+          "source_id": "Cine.Western.es",
+          "source_name": "Cine Western"
+        },
+        {
+          "score": 0.65,
+          "source_id": "CineWesternbyPlutoTV.de@FR",
+          "source_name": "Ciné Western by Pluto TV"
+        },
+        {
+          "score": 0.645,
+          "source_id": "Cine.Estelar.us2",
+          "source_name": "Cine Estelar"
+        },
+        {
+          "score": 0.634,
+          "source_id": "A+.International.France.fr",
+          "source_name": "A+ International France"
+        }
+      ]
+    },
+    {
+      "target_id": "Cineaventura.us@SD",
+      "target_name": "Cine aventura",
+      "normalized": "cine aventura",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.667,
+          "source_id": "PlutoTVAventura.us@LatAm",
+          "source_name": "Pluto TV Aventura"
+        },
+        {
+          "score": 0.647,
+          "source_id": "PlutoTVFilmesAventura.us@BR",
+          "source_name": "Pluto TV Filmes Aventura"
+        },
+        {
+          "score": 0.615,
+          "source_id": "FR:.Ciné.Nanar.be",
+          "source_name": "FR: Ciné Nanar"
+        }
+      ]
+    },
+    {
+      "target_id": "Cineenespanol.us@SD",
+      "target_name": "Cine en espanol",
+      "normalized": "cine en espanol",
+      "exact_normalized_matches": [
+        {
+          "source_id": "plex.tv.Cine.en.Español.plex",
+          "source_names": [
+            "Cine en Español"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "ClassicTVComedy.us@SD",
+      "target_name": "Classic TV Comedy",
+      "normalized": "classic comedy",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.75,
+          "source_id": "Classic.FM.uk",
+          "source_name": "Classic FM"
+        },
+        {
+          "score": 0.741,
+          "source_id": "Catchy.Comedy.us2",
+          "source_name": "Catchy Comedy"
+        },
+        {
+          "score": 0.714,
+          "source_id": "plex.tv.Classic.Cinema.plex",
+          "source_name": "Classic Cinema"
+        },
+        {
+          "score": 0.692,
+          "source_id": "plex.tv.Classic.Rock.plex",
+          "source_name": "Classic Rock"
+        },
+        {
+          "score": 0.667,
+          "source_id": "plex.tv.BBC.Comedy.plex",
+          "source_name": "BBC Comedy"
+        },
+        {
+          "score": 0.647,
+          "source_id": "plex.tv.XITE.Classic.Country.plex",
+          "source_name": "XITE Classic Country"
+        },
+        {
+          "score": 0.625,
+          "source_id": "plex.tv.Classic.Doctor.Who.plex",
+          "source_name": "Classic Doctor Who"
+        },
+        {
+          "score": 0.621,
+          "source_id": "plex.tv.FilmRise.Comedy.plex",
+          "source_name": "FilmRise Comedy"
+        }
+      ]
+    },
+    {
+      "target_id": "CodeFashionTV.bg@SD",
+      "target_name": "Code Fashion TV (1080p)",
+      "normalized": "code fashion",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.909,
+          "source_id": "DE:.Fashion.TV.be",
+          "source_name": "DE: Fashion TV"
+        },
+        {
+          "score": 0.818,
+          "source_id": "SE:.Fashion.TV.be",
+          "source_name": "SE: Fashion TV"
+        },
+        {
+          "score": 0.818,
+          "source_id": "NO:.Fashion.TV.be",
+          "source_name": "NO: Fashion TV"
+        },
+        {
+          "score": 0.818,
+          "source_id": "ES:.Fashion.TV.be",
+          "source_name": "ES: Fashion TV"
+        },
+        {
+          "score": 0.818,
+          "source_id": "DK:.Fashion.TV.be",
+          "source_name": "DK: Fashion TV"
+        },
+        {
+          "score": 0.737,
+          "source_id": "Fashion.TV.fr",
+          "source_name": "Fashion TV"
+        },
+        {
+          "score": 0.737,
+          "source_id": "Fashion.TV.de",
+          "source_name": "Fashion TV"
+        },
+        {
+          "score": 0.727,
+          "source_id": "PL:.Fashion.TV.be",
+          "source_name": "PL: Fashion TV"
+        }
+      ]
+    },
+    {
+      "target_id": "ComediaalobestiadePlutoTV.de@ES",
+      "target_name": "Comedia a lo bestia de Pluto TV",
+      "normalized": "comedia a lo bestia de pluto",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "ComedyCentralAnimation.us@SD",
+      "target_name": "Comedy Central Animation",
+      "normalized": "comedy central animation",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.773,
+          "source_id": "ComedyCentralPlutoTV.us@LatAm",
+          "source_name": "Comedy Central Pluto TV"
+        },
+        {
+          "score": 0.773,
+          "source_id": "ComedyCentralPlutoTV.us@BR",
+          "source_name": "Comedy Central Pluto TV"
+        },
+        {
+          "score": 0.75,
+          "source_id": "Comedy.Central.F.ch",
+          "source_name": "Comedy Central F"
+        },
+        {
+          "score": 0.745,
+          "source_id": "Canal.Comedy.Central.(Panamá).pa",
+          "source_name": "Canal Comedy Central (Panamá)"
+        },
+        {
+          "score": 0.737,
+          "source_id": "[COMCELA].Comedy.Central.uy",
+          "source_name": "[COMCELA] Comedy Central"
+        },
+        {
+          "score": 0.737,
+          "source_id": "Comedy.Central.nl",
+          "source_name": "Comedy Central"
+        },
+        {
+          "score": 0.737,
+          "source_id": "Comedy.Central.it",
+          "source_name": "Comedy Central"
+        },
+        {
+          "score": 0.737,
+          "source_id": "Comedy.Central.fr",
+          "source_name": "Comedy Central"
+        }
+      ]
+    },
+    {
+      "target_id": "ComedyCentralLatinAmerica.us@Panregional",
+      "target_name": "Comedy Central Latin America (1080p)",
+      "normalized": "comedy central latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.733,
+          "source_id": "Comedy.Central.Espana.(Costa.Rica).cr",
+          "source_name": "Comedy Central Espana (Costa Rica)"
+        },
+        {
+          "score": 0.727,
+          "source_id": "Canal.Comedy.Central.(Panamá).pa",
+          "source_name": "Canal Comedy Central (Panamá)"
+        },
+        {
+          "score": 0.717,
+          "source_id": "Comedy.Central.HD.(Pacific).us2",
+          "source_name": "Comedy Central HD (Pacific)"
+        },
+        {
+          "score": 0.708,
+          "source_id": "ComedyCentralPlutoTV.us@LatAm",
+          "source_name": "Comedy Central Pluto TV"
+        },
+        {
+          "score": 0.708,
+          "source_id": "ComedyCentralPlutoTV.us@BR",
+          "source_name": "Comedy Central Pluto TV"
+        },
+        {
+          "score": 0.7,
+          "source_id": "Comedy.Central.Centro.(Costa.Rica).cr",
+          "source_name": "Comedy Central Centro (Costa Rica)"
+        },
+        {
+          "score": 0.696,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.691,
+          "source_id": "Canal.Comedy.Central.(México).mx",
+          "source_name": "Canal Comedy Central (México)"
+        }
+      ]
+    },
+    {
+      "target_id": "ComedyCentralPlutoTV.us@US",
+      "target_name": "Comedy Central Pluto TV",
+      "normalized": "comedy central pluto",
+      "exact_normalized_matches": [
+        {
+          "source_id": "ComedyCentralPlutoTV.us@BR",
+          "source_names": [
+            "Comedy Central Pluto TV"
+          ]
+        },
+        {
+          "source_id": "ComedyCentralPlutoTV.us@LatAm",
+          "source_names": [
+            "Comedy Central Pluto TV"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "ComedyCentralRoast.se@DK",
+      "target_name": "Comedy Central Roast",
+      "normalized": "comedy central roast",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.833,
+          "source_id": "Comedy.Central.F.ch",
+          "source_name": "Comedy Central F"
+        },
+        {
+          "score": 0.824,
+          "source_id": "[COMCELA].Comedy.Central.uy",
+          "source_name": "[COMCELA] Comedy Central"
+        },
+        {
+          "score": 0.824,
+          "source_id": "Comedy.Central.nl",
+          "source_name": "Comedy Central"
+        },
+        {
+          "score": 0.824,
+          "source_id": "Comedy.Central.it",
+          "source_name": "Comedy Central"
+        },
+        {
+          "score": 0.824,
+          "source_id": "Comedy.Central.fr",
+          "source_name": "Comedy Central"
+        },
+        {
+          "score": 0.824,
+          "source_id": "Comedy.Central.de",
+          "source_name": "Comedy Central"
+        },
+        {
+          "score": 0.824,
+          "source_id": "Comedy.Central.co",
+          "source_name": "Comedy Central"
+        },
+        {
+          "score": 0.824,
+          "source_id": "Comedy.Central.ch",
+          "source_name": "Comedy Central"
+        }
+      ]
+    },
+    {
+      "target_id": "ComedyCentralSouthPark.us@BR",
+      "target_name": "Comedy Central South Park",
+      "normalized": "comedy central south park",
+      "exact_normalized_matches": [
+        {
+          "source_id": "ComedyCentralSouthPark.us@Brazil",
+          "source_names": [
+            "Comedy Central South Park"
+          ]
+        },
+        {
+          "source_id": "pluto.latam.609ae5cd48d3200007b0a98e",
+          "source_names": [
+            "Comedy Central South Park"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "ComedyCentralSouthPark.us@LatAm",
+      "target_name": "Comedy Central South Park LatAm",
+      "normalized": "comedy central south park latam",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.893,
+          "source_id": "pluto.latam.609ae5cd48d3200007b0a98e",
+          "source_name": "Comedy Central South Park"
+        },
+        {
+          "score": 0.893,
+          "source_id": "ComedyCentralSouthPark.us@Brazil",
+          "source_name": "Comedy Central South Park"
+        },
+        {
+          "score": 0.679,
+          "source_id": "Comedy.Central.HD.(Pacific).us2",
+          "source_name": "Comedy Central HD (Pacific)"
+        },
+        {
+          "score": 0.667,
+          "source_id": "ComedyCentralPlutoTV.us@LatAm",
+          "source_name": "Comedy Central Pluto TV"
+        },
+        {
+          "score": 0.667,
+          "source_id": "ComedyCentralPlutoTV.us@BR",
+          "source_name": "Comedy Central Pluto TV"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Comedy.Central.HD.us2",
+          "source_name": "Comedy Central HD"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Comedy.Central.HD.es",
+          "source_name": "Comedy Central HD"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Comedy.Central.Espana.(Costa.Rica).cr",
+          "source_name": "Comedy Central Espana (Costa Rica)"
+        }
+      ]
+    },
+    {
+      "target_id": "ComedyCentralenEspanol.us@SD",
+      "target_name": "Comedy Central en Espanol",
+      "normalized": "comedy central en espanol",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.756,
+          "source_id": "ComedyCentralPlutoTV.us@LatAm",
+          "source_name": "Comedy Central Pluto TV"
+        },
+        {
+          "score": 0.756,
+          "source_id": "ComedyCentralPlutoTV.us@BR",
+          "source_name": "Comedy Central Pluto TV"
+        },
+        {
+          "score": 0.737,
+          "source_id": "Comedy.Central.Espana.(Costa.Rica).cr",
+          "source_name": "Comedy Central Espana (Costa Rica)"
+        },
+        {
+          "score": 0.732,
+          "source_id": "Comedy.Central.F.ch",
+          "source_name": "Comedy Central F"
+        },
+        {
+          "score": 0.72,
+          "source_id": "pluto.latam.609ae5cd48d3200007b0a98e",
+          "source_name": "Comedy Central South Park"
+        },
+        {
+          "score": 0.72,
+          "source_id": "ComedyCentralSouthPark.us@Brazil",
+          "source_name": "Comedy Central South Park"
+        },
+        {
+          "score": 0.72,
+          "source_id": "Comedy.Central.HD.(Pacific).us2",
+          "source_name": "Comedy Central HD (Pacific)"
+        },
+        {
+          "score": 0.718,
+          "source_id": "[COMCELA].Comedy.Central.uy",
+          "source_name": "[COMCELA] Comedy Central"
+        }
+      ]
+    },
+    {
+      "target_id": "DW.de@English",
+      "target_name": "DW English (1080p)",
+      "normalized": "dw english",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.952,
+          "source_id": "DW.Englisch.ch",
+          "source_name": "DW Englisch"
+        },
+        {
+          "score": 0.692,
+          "source_id": "i24.News.English.us2",
+          "source_name": "i24 News English"
+        },
+        {
+          "score": 0.636,
+          "source_id": "English.Club.TV.ch",
+          "source_name": "English Club TV"
+        },
+        {
+          "score": 0.609,
+          "source_id": "DW.ESPAÑOL.HD.uy",
+          "source_name": "DW ESPAÑOL HD"
+        }
+      ]
+    },
+    {
+      "target_id": "DW.de@Espanol",
+      "target_name": "DW Espanol (1080p)",
+      "normalized": "dw espanol",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.87,
+          "source_id": "[DWLA].DW.en.español.uy",
+          "source_name": "[DWLA] DW en español"
+        },
+        {
+          "score": 0.87,
+          "source_id": "DW.ESPAÑOL.HD.uy",
+          "source_name": "DW ESPAÑOL HD"
+        },
+        {
+          "score": 0.818,
+          "source_id": "EWTN.Español.us2",
+          "source_name": "EWTN Español"
+        },
+        {
+          "score": 0.762,
+          "source_id": "CNN.Español.co",
+          "source_name": "CNN Español"
+        },
+        {
+          "score": 0.727,
+          "source_id": "[CGTNE].CGTN.Español.uy",
+          "source_name": "[CGTNE] CGTN Español"
+        },
+        {
+          "score": 0.727,
+          "source_id": "CGTN.Español.es",
+          "source_name": "CGTN Español"
+        },
+        {
+          "score": 0.727,
+          "source_id": "CGTN.Español.be",
+          "source_name": "CGTN Español"
+        },
+        {
+          "score": 0.72,
+          "source_id": "[DSTRESP].Daystar.Español.uy",
+          "source_name": "[DSTRESP] Daystar Español"
+        }
+      ]
+    },
+    {
+      "target_id": "DanceFM.cl@SD",
+      "target_name": "Dance FM (720p)",
+      "normalized": "dance fm",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.667,
+          "source_id": "SE:.Dance.Moms.be",
+          "source_name": "SE: Dance Moms"
+        },
+        {
+          "score": 0.667,
+          "source_id": "NO:.Dance.Moms.be",
+          "source_name": "NO: Dance Moms"
+        },
+        {
+          "score": 0.667,
+          "source_id": "NL:.Dance.Moms.be",
+          "source_name": "NL: Dance Moms"
+        },
+        {
+          "score": 0.667,
+          "source_id": "FI:.Dance.Moms.be",
+          "source_name": "FI: Dance Moms"
+        },
+        {
+          "score": 0.667,
+          "source_id": "DK:.Dance.Moms.be",
+          "source_name": "DK: Dance Moms"
+        }
+      ]
+    },
+    {
+      "target_id": "DatingNakedUK.se@DK",
+      "target_name": "Dating Naked UK DK",
+      "normalized": "dating naked uk dk",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "DatingNakedUK.se@NO",
+      "target_name": "Dating Naked UK NO",
+      "normalized": "dating naked uk no",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "DatingNakedUK.se@SE",
+      "target_name": "Dating Naked UK",
+      "normalized": "dating naked uk",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "DePeliculaLatinAmerica.mx@SD",
+      "target_name": "De Pelicula Latin America (1080p)",
+      "normalized": "de pelicula latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.739,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.727,
+          "source_id": "De.Pelicula.Clasico.us2",
+          "source_name": "De Pelicula Clasico"
+        },
+        {
+          "score": 0.698,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.682,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.638,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.638,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        },
+        {
+          "score": 0.618,
+          "source_id": "ES:.Películas.de.Acción.-.Rakuten.TV.be",
+          "source_name": "ES: Películas de Acción - Rakuten TV"
+        },
+        {
+          "score": 0.611,
+          "source_id": "[DEPEL].De.Película.uy",
+          "source_name": "[DEPEL] De Película"
+        }
+      ]
+    },
+    {
+      "target_id": "DePeliculaPlus.mx@SD",
+      "target_name": "De Pelicula Plus (1080p)",
+      "normalized": "de pelicula plus",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.815,
+          "source_id": "[DEPEL].De.Película.uy",
+          "source_name": "[DEPEL] De Película"
+        },
+        {
+          "score": 0.815,
+          "source_id": "De.Pelicula.us2",
+          "source_name": "De Pelicula"
+        },
+        {
+          "score": 0.815,
+          "source_id": "De.Pelicula.ch",
+          "source_name": "De Pelicula"
+        },
+        {
+          "score": 0.8,
+          "source_id": "De.Pelicula.Clasico.us2",
+          "source_name": "De Pelicula Clasico"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Canal.De.Película.mx",
+          "source_name": "Canal De Película"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Canal.De.Película.ec",
+          "source_name": "Canal De Película"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Canal.De.Película.cr",
+          "source_name": "Canal De Película"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Canal.De.Película.cl",
+          "source_name": "Canal De Película"
+        }
+      ]
+    },
+    {
+      "target_id": "DePeliculaUS.us@SD",
+      "target_name": "De Pelicula US (720p)",
+      "normalized": "de pelicula us",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.88,
+          "source_id": "[DEPEL].De.Película.uy",
+          "source_name": "[DEPEL] De Película"
+        },
+        {
+          "score": 0.88,
+          "source_id": "De.Pelicula.us2",
+          "source_name": "De Pelicula"
+        },
+        {
+          "score": 0.88,
+          "source_id": "De.Pelicula.ch",
+          "source_name": "De Pelicula"
+        },
+        {
+          "score": 0.788,
+          "source_id": "De.Pelicula.Clasico.us2",
+          "source_name": "De Pelicula Clasico"
+        },
+        {
+          "score": 0.71,
+          "source_id": "Canal.De.Película.mx",
+          "source_name": "Canal De Película"
+        },
+        {
+          "score": 0.71,
+          "source_id": "Canal.De.Película.ec",
+          "source_name": "Canal De Película"
+        },
+        {
+          "score": 0.71,
+          "source_id": "Canal.De.Película.cr",
+          "source_name": "Canal De Película"
+        },
+        {
+          "score": 0.71,
+          "source_id": "Canal.De.Película.cl",
+          "source_name": "Canal De Película"
+        }
+      ]
+    },
+    {
+      "target_id": "DreamWorksChannelLatinAmerica.us@Panregional",
+      "target_name": "DreamWorks Channel Latin America",
+      "normalized": "dreamworks latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.762,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.711,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.698,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.696,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.652,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        },
+        {
+          "score": 0.632,
+          "source_id": "plex.tv.Racing.America.plex",
+          "source_name": "Racing America"
+        }
+      ]
+    },
+    {
+      "target_id": "DubaiTVInternational.ae@SD",
+      "target_name": "Dubai TV International (1080p)",
+      "normalized": "dubai international",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.829,
+          "source_id": "Ecuavisa.International.us2",
+          "source_name": "Ecuavisa International"
+        },
+        {
+          "score": 0.811,
+          "source_id": "JSBC.International.fr",
+          "source_name": "JSBC International"
+        },
+        {
+          "score": 0.8,
+          "source_id": "TV.Romania.International.fr",
+          "source_name": "TV Romania International"
+        },
+        {
+          "score": 0.8,
+          "source_id": "TV.Romania.International.ch",
+          "source_name": "TV Romania International"
+        },
+        {
+          "score": 0.789,
+          "source_id": "Iqraa.International.fr",
+          "source_name": "Iqraa International"
+        },
+        {
+          "score": 0.78,
+          "source_id": "UK:.RACER.International.be",
+          "source_name": "UK: RACER International"
+        },
+        {
+          "score": 0.78,
+          "source_id": "DK:.RACER.International.be",
+          "source_name": "DK: RACER International"
+        },
+        {
+          "score": 0.78,
+          "source_id": "DE:.RACER.International.be",
+          "source_name": "DE: RACER International"
+        }
+      ]
+    },
+    {
+      "target_id": "ELatinAmerica.us@Mexico",
+      "target_name": "E! Latin America Mexico (720p)",
+      "normalized": "e latin america mexico",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.75,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.683,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.682,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.651,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.636,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        },
+        {
+          "score": 0.632,
+          "source_id": "Canal.AMC.(México).mx",
+          "source_name": "Canal AMC (México)"
+        },
+        {
+          "score": 0.622,
+          "source_id": "Canal.TNT.Series.(México).mx",
+          "source_name": "Canal TNT Series (México)"
+        },
+        {
+          "score": 0.622,
+          "source_id": "Canal.AMC.Series.(México).mx",
+          "source_name": "Canal AMC Series (México)"
+        }
+      ]
+    },
+    {
+      "target_id": "ELatinAmerica.us@South",
+      "target_name": "E! Latin America (1080p)",
+      "normalized": "e latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.909,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.824,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.811,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.778,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.759,
+          "source_id": "plex.tv.Racing.America.plex",
+          "source_name": "Racing America"
+        },
+        {
+          "score": 0.71,
+          "source_id": "plex.tv.Teleonce.America.plex",
+          "source_name": "Teleonce America"
+        },
+        {
+          "score": 0.703,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        },
+        {
+          "score": 0.692,
+          "source_id": "EBS.America.us2",
+          "source_name": "EBS America"
+        }
+      ]
+    },
+    {
+      "target_id": "ElChavoTV.mx@HD",
+      "target_name": "El Chavo TV (720p)",
+      "normalized": "el chavo",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "ElTreceInternacionalLatinAmerica.ar@SD",
+      "target_name": "El Trece Internacional Latin America (1080p)",
+      "normalized": "el trece internacional latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.759,
+          "source_id": "El.Trece.Internacional.es",
+          "source_name": "El Trece Internacional"
+        },
+        {
+          "score": 0.644,
+          "source_id": "TELEFE.INTERNACIONAL.HD.uy",
+          "source_name": "TELEFE INTERNACIONAL HD"
+        },
+        {
+          "score": 0.643,
+          "source_id": "[TEFEI].Telefe.Internacional.uy",
+          "source_name": "[TEFEI] Telefe Internacional"
+        },
+        {
+          "score": 0.643,
+          "source_id": "Telefe.Internacional.us2",
+          "source_name": "Telefe Internacional"
+        },
+        {
+          "score": 0.63,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.621,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.615,
+          "source_id": "TC.Internacional.us2",
+          "source_name": "TC Internacional"
+        },
+        {
+          "score": 0.613,
+          "source_id": "Canal.Telefe.Internacional.mx",
+          "source_name": "Canal Telefe Internacional"
+        }
+      ]
+    },
+    {
+      "target_id": "FIFAPlus.uk@HispanicAmerica",
+      "target_name": "FIFA+ Hispanic America (720p)",
+      "normalized": "fifa hispanic america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.667,
+          "source_id": "WAPA.America.us2",
+          "source_name": "WAPA America"
+        },
+        {
+          "score": 0.636,
+          "source_id": "Mediaset.Italia.-.America.it",
+          "source_name": "Mediaset Italia - America"
+        }
+      ]
+    },
+    {
+      "target_id": "FIFAPlus.uk@Portuguese",
+      "target_name": "FIFA+ Portuguese (720p)",
+      "normalized": "fifa portuguese",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "FashionBox.nl@SD",
+      "target_name": "FashionBox",
+      "normalized": "fashionbox",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.87,
+          "source_id": "FashionBox.HD.fr",
+          "source_name": "FashionBox HD"
+        }
+      ]
+    },
+    {
+      "target_id": "FashionLifeStyle.ru@SD",
+      "target_name": "Fashion&LifeStyle (1080p)",
+      "normalized": "fashion and lifestyle",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "FashionTV.in@SD",
+      "target_name": "FashionTV (India) (1080p)",
+      "normalized": "fashiontv india",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.75,
+          "source_id": "plex.tv.FashionTV.plex",
+          "source_name": "FashionTV"
+        },
+        {
+          "score": 0.615,
+          "source_id": "Music.India.be",
+          "source_name": "Music India"
+        }
+      ]
+    },
+    {
+      "target_id": "FashionTV.ru@SD",
+      "target_name": "FashionTV (Russia) (1080p)",
+      "normalized": "fashiontv russia",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.72,
+          "source_id": "plex.tv.FashionTV.plex",
+          "source_name": "FashionTV"
+        }
+      ]
+    },
+    {
+      "target_id": "FashionTV.ua@SD",
+      "target_name": "Fashion TV (1080p)",
+      "normalized": "fashion",
+      "exact_normalized_matches": [
+        {
+          "source_id": "Fashion.TV.de",
+          "source_names": [
+            "Fashion TV"
+          ]
+        },
+        {
+          "source_id": "Fashion.TV.fr",
+          "source_names": [
+            "Fashion TV"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "FashionTVAsia.fr@SD",
+      "target_name": "FashionTV Asia (720p)",
+      "normalized": "fashiontv asia",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.783,
+          "source_id": "plex.tv.FashionTV.plex",
+          "source_name": "FashionTV"
+        },
+        {
+          "score": 0.696,
+          "source_id": "Sony.TV.Asia.nl",
+          "source_name": "Sony TV Asia"
+        },
+        {
+          "score": 0.636,
+          "source_id": "SET.Asia.pt",
+          "source_name": "SET Asia"
+        }
+      ]
+    },
+    {
+      "target_id": "FashionTVEurope.fr@SD",
+      "target_name": "FashionTV Europe (1080p)",
+      "normalized": "fashiontv europe",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.72,
+          "source_id": "plex.tv.FashionTV.plex",
+          "source_name": "FashionTV"
+        },
+        {
+          "score": 0.667,
+          "source_id": "VividTV.Europe.es",
+          "source_name": "VividTV Europe"
+        },
+        {
+          "score": 0.615,
+          "source_id": "WRN.Europe.uk",
+          "source_name": "WRN Europe"
+        },
+        {
+          "score": 0.615,
+          "source_id": "TBN.Europe.be",
+          "source_name": "TBN Europe"
+        },
+        {
+          "score": 0.615,
+          "source_id": "HUM.EUROPE.uk",
+          "source_name": "HUM EUROPE"
+        },
+        {
+          "score": 0.611,
+          "source_id": "Home.Shopping.Europe.be",
+          "source_name": "Home Shopping Europe"
+        },
+        {
+          "score": 0.6,
+          "source_id": "Playboy.TV.Europe.nl",
+          "source_name": "Playboy TV Europe"
+        }
+      ]
+    },
+    {
+      "target_id": "FashionTVParisLOriginal.fr@SD",
+      "target_name": "FashionTV Paris L'Original (1080p)",
+      "normalized": "fashiontv paris l original",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "FashionTVSecrets.fr@HD",
+      "target_name": "FashionTV Secrets (1080p)",
+      "normalized": "fashiontv secrets",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.692,
+          "source_id": "plex.tv.FashionTV.plex",
+          "source_name": "FashionTV"
+        }
+      ]
+    },
+    {
+      "target_id": "GarageTVLatinAmerica.ar@SD",
+      "target_name": "Garage TV Latin America",
+      "normalized": "garage latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.789,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.769,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.762,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.732,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.706,
+          "source_id": "plex.tv.Racing.America.plex",
+          "source_name": "Racing America"
+        },
+        {
+          "score": 0.625,
+          "source_id": "WAPA.America.us2",
+          "source_name": "WAPA America"
+        },
+        {
+          "score": 0.619,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        },
+        {
+          "score": 0.611,
+          "source_id": "plex.tv.Teleonce.America.plex",
+          "source_name": "Teleonce America"
+        }
+      ]
+    },
+    {
+      "target_id": "GlobalFashionChannel.us@SD",
+      "target_name": "Global Fashion Channel (1080p)",
+      "normalized": "global fashion",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.75,
+          "source_id": "PL:.Fashion.TV.be",
+          "source_name": "PL: Fashion TV"
+        },
+        {
+          "score": 0.75,
+          "source_id": "NO:.Fashion.TV.be",
+          "source_name": "NO: Fashion TV"
+        },
+        {
+          "score": 0.75,
+          "source_id": "NL:.Fashion.TV.be",
+          "source_name": "NL: Fashion TV"
+        },
+        {
+          "score": 0.667,
+          "source_id": "SE:.Fashion.TV.be",
+          "source_name": "SE: Fashion TV"
+        },
+        {
+          "score": 0.667,
+          "source_id": "IT:.Fashion.TV.be",
+          "source_name": "IT: Fashion TV"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Fashion.TV.fr",
+          "source_name": "Fashion TV"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Fashion.TV.de",
+          "source_name": "Fashion TV"
+        },
+        {
+          "score": 0.667,
+          "source_id": "FR:.Fashion.TV.be",
+          "source_name": "FR: Fashion TV"
+        }
+      ]
+    },
+    {
+      "target_id": "History.br@SD",
+      "target_name": "History (Brazil) (720p)",
+      "normalized": "history brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.75,
+          "source_id": "History.IT.ch",
+          "source_name": "History IT"
+        },
+        {
+          "score": 0.72,
+          "source_id": "plex.tv.History.Hit.plex",
+          "source_name": "History Hit"
+        },
+        {
+          "score": 0.696,
+          "source_id": "[H2LAME].History.2.uy",
+          "source_name": "[H2LAME] History 2"
+        },
+        {
+          "score": 0.696,
+          "source_id": "History.2.co",
+          "source_name": "History 2"
+        },
+        {
+          "score": 0.667,
+          "source_id": "[HCLI].History.uy",
+          "source_name": "[HCLI] History"
+        },
+        {
+          "score": 0.667,
+          "source_id": "History.it",
+          "source_name": "History"
+        },
+        {
+          "score": 0.667,
+          "source_id": "History.ch",
+          "source_name": "History"
+        },
+        {
+          "score": 0.667,
+          "source_id": "History.be",
+          "source_name": "History"
+        }
+      ]
+    },
+    {
+      "target_id": "History2LatinAmerica.us@Brazil",
+      "target_name": "History 2 Latin America Brazil (720p)",
+      "normalized": "history 2 latin america brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.627,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.625,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.618,
+          "source_id": "Canal.HBO.2.Latinoamérica.pa",
+          "source_name": "Canal HBO 2 Latinoamérica"
+        },
+        {
+          "score": 0.618,
+          "source_id": "Canal.HBO.2.Latinoamérica.mx",
+          "source_name": "Canal HBO 2 Latinoamérica"
+        },
+        {
+          "score": 0.618,
+          "source_id": "Canal.HBO.2.Latinoamérica.cr",
+          "source_name": "Canal HBO 2 Latinoamérica"
+        },
+        {
+          "score": 0.618,
+          "source_id": "Canal.HBO.2.Latinoamérica.cl",
+          "source_name": "Canal HBO 2 Latinoamérica"
+        },
+        {
+          "score": 0.615,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.612,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        }
+      ]
+    },
+    {
+      "target_id": "History2LatinAmerica.us@Panregional",
+      "target_name": "History 2 Latin America (1080p)",
+      "normalized": "history 2 latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.732,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.727,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.714,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.711,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.708,
+          "source_id": "Canal.HBO.2.Latinoamérica.pa",
+          "source_name": "Canal HBO 2 Latinoamérica"
+        },
+        {
+          "score": 0.708,
+          "source_id": "Canal.HBO.2.Latinoamérica.mx",
+          "source_name": "Canal HBO 2 Latinoamérica"
+        },
+        {
+          "score": 0.708,
+          "source_id": "Canal.HBO.2.Latinoamérica.cr",
+          "source_name": "Canal HBO 2 Latinoamérica"
+        },
+        {
+          "score": 0.708,
+          "source_id": "Canal.HBO.2.Latinoamérica.cl",
+          "source_name": "Canal HBO 2 Latinoamérica"
+        }
+      ]
+    },
+    {
+      "target_id": "ISTV.br@SD",
+      "target_name": "ISTV (Brazil) (720p) [Not 24/7]",
+      "normalized": "istv brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.621,
+          "source_id": "Sony.Movies.Brazil.br",
+          "source_name": "Sony Movies Brazil"
+        }
+      ]
+    },
+    {
+      "target_id": "ImpactTVDance.ro@SD",
+      "target_name": "Impact TV Dance (1080p)",
+      "normalized": "impact dance",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.696,
+          "source_id": "Heart.Dance.uk",
+          "source_name": "Heart Dance"
+        },
+        {
+          "score": 0.692,
+          "source_id": "Impact.Network.us2",
+          "source_name": "Impact Network"
+        }
+      ]
+    },
+    {
+      "target_id": "LEGOKidsTV.us@SD",
+      "target_name": "LEGO Kids TV",
+      "normalized": "lego kids",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.737,
+          "source_id": "PlutoTVKids.us@LatAm",
+          "source_name": "Pluto TV Kids"
+        },
+        {
+          "score": 0.737,
+          "source_id": "PlutoTVKids.us@BR",
+          "source_name": "Pluto TV Kids"
+        },
+        {
+          "score": 0.7,
+          "source_id": "LooLoo.Kids.TV.us2",
+          "source_name": "LooLoo Kids TV"
+        },
+        {
+          "score": 0.636,
+          "source_id": "plex.tv.FilmRise.Kids.plex",
+          "source_name": "FilmRise Kids"
+        },
+        {
+          "score": 0.632,
+          "source_id": "Canal+.KIDS.fr",
+          "source_name": "Canal+ KIDS"
+        },
+        {
+          "score": 0.632,
+          "source_id": "CANAL+KIDS.fr",
+          "source_name": "CANAL+KIDS"
+        },
+        {
+          "score": 0.632,
+          "source_id": "CANAL+.Kids.ch",
+          "source_name": "CANAL+ Kids"
+        },
+        {
+          "score": 0.609,
+          "source_id": "DE:.LooLoo.Kids.TV.be",
+          "source_name": "DE: LooLoo Kids TV"
+        }
+      ]
+    },
+    {
+      "target_id": "LifetimeLatinAmerica.us@Brazil",
+      "target_name": "Lifetime Latin America Brazil (720p)",
+      "normalized": "lifetime latin america brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.681,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.667,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.627,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.627,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        },
+        {
+          "score": 0.6,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        }
+      ]
+    },
+    {
+      "target_id": "LifetimeLatinAmerica.us@Panregional",
+      "target_name": "Lifetime Latin America (1080p)",
+      "normalized": "lifetime latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.8,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.78,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.727,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.698,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.682,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        },
+        {
+          "score": 0.651,
+          "source_id": "Canal.Lifetime.(Panamá).pa",
+          "source_name": "Canal Lifetime (Panamá)"
+        },
+        {
+          "score": 0.638,
+          "source_id": "Canal.Lifetime.(Costa.Rica).cr",
+          "source_name": "Canal Lifetime (Costa Rica)"
+        },
+        {
+          "score": 0.634,
+          "source_id": "Lifetime.Real.Women.us2",
+          "source_name": "Lifetime Real Women"
+        }
+      ]
+    },
+    {
+      "target_id": "MBCDrama.ae@SD",
+      "target_name": "MBC Drama (United Arab Emirates) (1080p)",
+      "normalized": "mbc drama united arab emirates",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "MegaTV.py@SD",
+      "target_name": "Mega TV (Paraguay) (1080p)",
+      "normalized": "mega paraguay",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.645,
+          "source_id": "Canal.SNT.(Paraguay).ar",
+          "source_name": "Canal SNT (Paraguay)"
+        }
+      ]
+    },
+    {
+      "target_id": "MusicBoxBrazil.br@SD",
+      "target_name": "Music Box Brazil (720p)",
+      "normalized": "music box brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.711,
+          "source_id": "São.Paulo/SP..Music.Box.Brazil.br",
+          "source_name": "São Paulo/SP  Music Box Brazil"
+        },
+        {
+          "score": 0.64,
+          "source_id": "São.Paulo/SP..Music.Box.Brazil.HD.³.br",
+          "source_name": "São Paulo/SP  Music Box Brazil HD ³"
+        }
+      ]
+    },
+    {
+      "target_id": "MyTimeMovieNetworkEast.us@SD",
+      "target_name": "MyTime Movie Network East (1080p)",
+      "normalized": "mytime movie network east",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.889,
+          "source_id": "plex.tv.MyTime.Movie.Network.plex",
+          "source_name": "MyTime Movie Network"
+        },
+        {
+          "score": 0.833,
+          "source_id": "UK:.MyTime.Movie.Network.be",
+          "source_name": "UK: MyTime Movie Network"
+        },
+        {
+          "score": 0.833,
+          "source_id": "NO:.MyTime.Movie.Network.be",
+          "source_name": "NO: MyTime Movie Network"
+        },
+        {
+          "score": 0.833,
+          "source_id": "FR:.MyTime.Movie.Network.be",
+          "source_name": "FR: MyTime Movie Network"
+        },
+        {
+          "score": 0.833,
+          "source_id": "FI:.MyTime.Movie.Network.be",
+          "source_name": "FI: MyTime Movie Network"
+        },
+        {
+          "score": 0.833,
+          "source_id": "ES:.MyTime.Movie.Network.be",
+          "source_name": "ES: MyTime Movie Network"
+        },
+        {
+          "score": 0.833,
+          "source_id": "DK:.MyTime.Movie.Network.be",
+          "source_name": "DK: MyTime Movie Network"
+        },
+        {
+          "score": 0.833,
+          "source_id": "DE:.MyTime.Movie.Network.be",
+          "source_name": "DE: MyTime Movie Network"
+        }
+      ]
+    },
+    {
+      "target_id": "NBCComedyVault.us@SD",
+      "target_name": "NBC Comedy Vault (1080p)",
+      "normalized": "nbc comedy vault",
+      "exact_normalized_matches": [
+        {
+          "source_id": "NBC.Comedy.Vault.us2",
+          "source_names": [
+            "NBC Comedy Vault"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "Nickelodeon.br@SD",
+      "target_name": "Nickelodeon (Brazil) (480p)",
+      "normalized": "nickelodeon brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.811,
+          "source_id": "Nickelodeon.Ukraine.nl",
+          "source_name": "Nickelodeon Ukraine"
+        },
+        {
+          "score": 0.778,
+          "source_id": "pluto.latam.620ff0a01f9e8700076c6f9d",
+          "source_name": "Nickelodeon iCarly"
+        },
+        {
+          "score": 0.778,
+          "source_id": "pluto.br.620ff46e0a576e0007dc2f89",
+          "source_name": "Nickelodeon iCarly"
+        },
+        {
+          "score": 0.774,
+          "source_id": "Nickelodeon+1.uk",
+          "source_name": "Nickelodeon+1"
+        },
+        {
+          "score": 0.774,
+          "source_id": "Nickelodeon+1.fr",
+          "source_name": "Nickelodeon+1"
+        },
+        {
+          "score": 0.759,
+          "source_id": "Nickelodéon.fr",
+          "source_name": "Nickelodéon"
+        },
+        {
+          "score": 0.759,
+          "source_id": "Nickelodeon.pt",
+          "source_name": "Nickelodeon"
+        },
+        {
+          "score": 0.759,
+          "source_id": "Nickelodeon.nl",
+          "source_name": "Nickelodeon"
+        }
+      ]
+    },
+    {
+      "target_id": "OasisTV.py@SD",
+      "target_name": "Oasis TV (Paraguay) (720p)",
+      "normalized": "oasis paraguay",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.688,
+          "source_id": "Canal.SNT.(Paraguay).ar",
+          "source_name": "Canal SNT (Paraguay)"
+        }
+      ]
+    },
+    {
+      "target_id": "ParadiseHotel.se@DK",
+      "target_name": "Paradise Hotel DK",
+      "normalized": "paradise hotel dk",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "ParadiseHotel.se@NO",
+      "target_name": "Paradise Hotel NO",
+      "normalized": "paradise hotel no",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "ParadiseHotel.se@SE",
+      "target_name": "Paradise Hotel",
+      "normalized": "paradise hotel",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "ParadiseHotelUnderlagnerne.se@DK",
+      "target_name": "Paradise Hotel: Under lagnerne",
+      "normalized": "paradise hotel under lagnerne",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "ParaguayTV.py@SD",
+      "target_name": "Paraguay TV (1080p)",
+      "normalized": "paraguay",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.615,
+          "source_id": "Canal.SNT.(Paraguay).ar",
+          "source_name": "Canal SNT (Paraguay)"
+        }
+      ]
+    },
+    {
+      "target_id": "PlayTV.br@SD",
+      "target_name": "Play TV (Brazil) (720p)",
+      "normalized": "play brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.696,
+          "source_id": "Play.Reality.be",
+          "source_name": "Play Reality"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Play.Actie.be",
+          "source_name": "Play Actie"
+        }
+      ]
+    },
+    {
+      "target_id": "PlutoTVCineComedia.de@ES",
+      "target_name": "Pluto TV Cine Comedia (Germany)",
+      "normalized": "pluto cine comedia germany",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.852,
+          "source_id": "PlutoTVCineComediaRomantica.us@BR",
+          "source_name": "Pluto TV Cine Comédia Romântica"
+        },
+        {
+          "score": 0.818,
+          "source_id": "PlutoTVCineComedia.us@LatAm",
+          "source_name": "Pluto TV Cine Comedia"
+        },
+        {
+          "score": 0.818,
+          "source_id": "PlutoTVCineComedia.us@BR",
+          "source_name": "Pluto TV Cine Comédia"
+        },
+        {
+          "score": 0.714,
+          "source_id": "PlutoTVCineDrama.us@LatAm",
+          "source_name": "Pluto TV Cine Drama"
+        },
+        {
+          "score": 0.714,
+          "source_id": "PlutoTVCineDrama.us@BR",
+          "source_name": "Pluto TV Cine Drama"
+        },
+        {
+          "score": 0.698,
+          "source_id": "PlutoTVCineCrimen.us@LatAm",
+          "source_name": "Pluto TV Cine Crimen"
+        },
+        {
+          "score": 0.696,
+          "source_id": "PlutoTVSeriesComedia.us@BR",
+          "source_name": "Pluto TV Séries Comédia"
+        },
+        {
+          "score": 0.682,
+          "source_id": "PlutoTVCineRomance.us@LatAm",
+          "source_name": "Pluto TV Cine Romance"
+        }
+      ]
+    },
+    {
+      "target_id": "PlutoTVCineRomantico.de@ES",
+      "target_name": "Pluto TV Cine Romantico",
+      "normalized": "pluto cine romantico",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.895,
+          "source_id": "PlutoTVCineRomance.us@LatAm",
+          "source_name": "Pluto TV Cine Romance"
+        },
+        {
+          "score": 0.895,
+          "source_id": "PlutoTVCineRomance.us@BR",
+          "source_name": "Pluto TV Cine Romance"
+        },
+        {
+          "score": 0.824,
+          "source_id": "plex.tv.Cine.Romántico.plex",
+          "source_name": "Cine Romántico"
+        },
+        {
+          "score": 0.792,
+          "source_id": "PlutoTVCineComediaRomantica.us@BR",
+          "source_name": "Pluto TV Cine Comédia Romântica"
+        },
+        {
+          "score": 0.789,
+          "source_id": "PlutoTVCineClasico.us@LatAm",
+          "source_name": "Pluto TV Cine Clásico"
+        },
+        {
+          "score": 0.778,
+          "source_id": "PlutoTVCineDrama.us@LatAm",
+          "source_name": "Pluto TV Cine Drama"
+        },
+        {
+          "score": 0.778,
+          "source_id": "PlutoTVCineDrama.us@BR",
+          "source_name": "Pluto TV Cine Drama"
+        },
+        {
+          "score": 0.757,
+          "source_id": "PlutoTVCineCrimen.us@LatAm",
+          "source_name": "Pluto TV Cine Crimen"
+        }
+      ]
+    },
+    {
+      "target_id": "PlutoTVCinedeautor.de@ES",
+      "target_name": "Pluto TV Cine de autor",
+      "normalized": "pluto cine de autor",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.778,
+          "source_id": "CineTerror.us@LatAm",
+          "source_name": "Pluto TV Cine Terror"
+        },
+        {
+          "score": 0.778,
+          "source_id": "CineTerror.us@BR",
+          "source_name": "Pluto TV Cine Terror"
+        },
+        {
+          "score": 0.757,
+          "source_id": "PlutoTVCineEstelar.us@LatAm",
+          "source_name": "Pluto TV Cine Estelar"
+        },
+        {
+          "score": 0.743,
+          "source_id": "PlutoTVCineDrama.us@LatAm",
+          "source_name": "Pluto TV Cine Drama"
+        },
+        {
+          "score": 0.743,
+          "source_id": "PlutoTVCineDrama.us@BR",
+          "source_name": "Pluto TV Cine Drama"
+        },
+        {
+          "score": 0.722,
+          "source_id": "PlutoTVCineAccion.us@LatAm",
+          "source_name": "Pluto TV Cine Acción"
+        },
+        {
+          "score": 0.718,
+          "source_id": "PlutoTVFilmesdeLuta.us@BR",
+          "source_name": "Pluto TV Filmes de Luta"
+        },
+        {
+          "score": 0.703,
+          "source_id": "PlutoTVCineComedia.us@LatAm",
+          "source_name": "Pluto TV Cine Comedia"
+        }
+      ]
+    },
+    {
+      "target_id": "PlutoTVComediamadeinSpain.de@ES",
+      "target_name": "Pluto TV Comedia made in Spain",
+      "normalized": "pluto comedia made in spain",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.655,
+          "source_id": "PlutoTVCineComediaRomantica.us@BR",
+          "source_name": "Pluto TV Cine Comédia Romântica"
+        },
+        {
+          "score": 0.65,
+          "source_id": "PlutoTVComedie.de@FR",
+          "source_name": "Pluto TV Comédie"
+        },
+        {
+          "score": 0.625,
+          "source_id": "PlutoTVComediesCultes.de@FR",
+          "source_name": "Pluto TV Comédies Cultes"
+        },
+        {
+          "score": 0.625,
+          "source_id": "PlutoTVCineInspirador.us@LatAm",
+          "source_name": "Pluto TV Cine Inspirador"
+        },
+        {
+          "score": 0.625,
+          "source_id": "PlutoTVCineInspiracao.us@BR",
+          "source_name": "Pluto TV Cine Inspiração"
+        },
+        {
+          "score": 0.612,
+          "source_id": "PlutoTVSeriesdeSciFi.us@LatAm",
+          "source_name": "Pluto TV Series de Sci-Fi"
+        }
+      ]
+    },
+    {
+      "target_id": "PlutoTVComediasRomanticas.de@ES",
+      "target_name": "Pluto TV Comedias Romanticas",
+      "normalized": "pluto comedias romanticas",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.868,
+          "source_id": "PlutoTVCineComediaRomantica.us@BR",
+          "source_name": "Pluto TV Cine Comédia Romântica"
+        },
+        {
+          "score": 0.698,
+          "source_id": "PlutoTVCineRomance.us@LatAm",
+          "source_name": "Pluto TV Cine Romance"
+        },
+        {
+          "score": 0.698,
+          "source_id": "PlutoTVCineRomance.us@BR",
+          "source_name": "Pluto TV Cine Romance"
+        },
+        {
+          "score": 0.696,
+          "source_id": "PlutoTVComediesCultes.de@FR",
+          "source_name": "Pluto TV Comédies Cultes"
+        },
+        {
+          "score": 0.638,
+          "source_id": "PlutoTVSeriesCriminais.us@BR",
+          "source_name": "Pluto TV Séries Criminais"
+        },
+        {
+          "score": 0.632,
+          "source_id": "PlutoTVComedie.de@FR",
+          "source_name": "Pluto TV Comédie"
+        },
+        {
+          "score": 0.619,
+          "source_id": "PlutoTVSeriesAcao.us@BR",
+          "source_name": "Pluto TV Séries Ação"
+        },
+        {
+          "score": 0.619,
+          "source_id": "PlutoTVFilmesAcao.us@BR",
+          "source_name": "Pluto TV Filmes Ação"
+        }
+      ]
+    },
+    {
+      "target_id": "PlutoTVKidsClassics.de@ES",
+      "target_name": "Pluto TV Kids Classics (720p)",
+      "normalized": "pluto kids classics",
+      "exact_normalized_matches": [
+        {
+          "source_id": "PlutoTVKidsClassics.de@FR",
+          "source_names": [
+            "Pluto TV Kids Classics"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "PlutoTVSciFi.de@ES",
+      "target_name": "Pluto TV Sci-Fi (Germany) ES",
+      "normalized": "pluto sci fi germany es",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.686,
+          "source_id": "PlutoTVSciFi.us@LatAm",
+          "source_name": "Pluto TV Sci-Fi"
+        },
+        {
+          "score": 0.683,
+          "source_id": "PlutoTVCineRomance.us@LatAm",
+          "source_name": "Pluto TV Cine Romance"
+        },
+        {
+          "score": 0.683,
+          "source_id": "PlutoTVCineRomance.us@BR",
+          "source_name": "Pluto TV Cine Romance"
+        },
+        {
+          "score": 0.629,
+          "source_id": "PlutoTVSeries.us@LatAm",
+          "source_name": "Pluto TV Series"
+        },
+        {
+          "score": 0.615,
+          "source_id": "PlutoTVCineDrama.us@LatAm",
+          "source_name": "Pluto TV Cine Drama"
+        },
+        {
+          "score": 0.615,
+          "source_id": "PlutoTVCineDrama.us@BR",
+          "source_name": "Pluto TV Cine Drama"
+        },
+        {
+          "score": 0.611,
+          "source_id": "PlutoTVViagens.us@BR",
+          "source_name": "Pluto TV Viagens"
+        },
+        {
+          "score": 0.6,
+          "source_id": "PlutoTVCineCrimen.us@LatAm",
+          "source_name": "Pluto TV Cine Crimen"
+        }
+      ]
+    },
+    {
+      "target_id": "PlutoTVSeries.de@ES",
+      "target_name": "Pluto TV Series (Germany)",
+      "normalized": "pluto series germany",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.842,
+          "source_id": "PlutoTVSeriesDrama.us@BR",
+          "source_name": "Pluto TV Séries Drama"
+        },
+        {
+          "score": 0.829,
+          "source_id": "PlutoTVSeriesdeDrama.us@LatAm",
+          "source_name": "Pluto TV Series de Drama"
+        },
+        {
+          "score": 0.81,
+          "source_id": "PlutoTVSeriesdeCrimen.us@LatAm",
+          "source_name": "Pluto TV Series de Crimen"
+        },
+        {
+          "score": 0.789,
+          "source_id": "PlutoTVSeriesRetro.us@LatAm",
+          "source_name": "Pluto TV Series Retro"
+        },
+        {
+          "score": 0.762,
+          "source_id": "PlutoTVSeriesdeAccion.us@LatAm",
+          "source_name": "Pluto TV Series de Acción"
+        },
+        {
+          "score": 0.762,
+          "source_id": "PlutoTVSeriesCriminais.us@BR",
+          "source_name": "Pluto TV Séries Criminais"
+        },
+        {
+          "score": 0.757,
+          "source_id": "PlutoTVSeriesAcao.us@BR",
+          "source_name": "Pluto TV Séries Ação"
+        },
+        {
+          "score": 0.75,
+          "source_id": "PlutoTVSeriesLatinas.us@LatAm",
+          "source_name": "Pluto TV Series Latinas"
+        }
+      ]
+    },
+    {
+      "target_id": "PlutoTVSeriesSciFi.de@ES",
+      "target_name": "Pluto TV Series Sci-Fi (Germany)",
+      "normalized": "pluto series sci fi germany",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.826,
+          "source_id": "PlutoTVSeriesSciFi.us@BR",
+          "source_name": "Pluto TV Séries Sci-Fi"
+        },
+        {
+          "score": 0.776,
+          "source_id": "PlutoTVSeriesdeSciFi.us@LatAm",
+          "source_name": "Pluto TV Series de Sci-Fi"
+        },
+        {
+          "score": 0.711,
+          "source_id": "PlutoTVSeriesDrama.us@BR",
+          "source_name": "Pluto TV Séries Drama"
+        },
+        {
+          "score": 0.708,
+          "source_id": "PlutoTVSeriesdeDrama.us@LatAm",
+          "source_name": "Pluto TV Series de Drama"
+        },
+        {
+          "score": 0.694,
+          "source_id": "PlutoTVSeriesdeCrimen.us@LatAm",
+          "source_name": "Pluto TV Series de Crimen"
+        },
+        {
+          "score": 0.682,
+          "source_id": "PlutoTVSeriesAcao.us@BR",
+          "source_name": "Pluto TV Séries Ação"
+        },
+        {
+          "score": 0.681,
+          "source_id": "PlutoTVSeriesComedia.us@BR",
+          "source_name": "Pluto TV Séries Comédia"
+        },
+        {
+          "score": 0.667,
+          "source_id": "PlutoTVSeriesRetro.us@LatAm",
+          "source_name": "Pluto TV Series Retro"
+        }
+      ]
+    },
+    {
+      "target_id": "PlutoTVSeriescriminales.de@ES",
+      "target_name": "Pluto TV Series criminales",
+      "normalized": "pluto series criminales",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.933,
+          "source_id": "PlutoTVSeriesCriminais.us@BR",
+          "source_name": "Pluto TV Séries Criminais"
+        },
+        {
+          "score": 0.8,
+          "source_id": "PlutoTVSeriesdeCrimen.us@LatAm",
+          "source_name": "Pluto TV Series de Crimen"
+        },
+        {
+          "score": 0.791,
+          "source_id": "PlutoTVSeriesLatinas.us@LatAm",
+          "source_name": "Pluto TV Series Latinas"
+        },
+        {
+          "score": 0.78,
+          "source_id": "PlutoTVSeriesDrama.us@BR",
+          "source_name": "Pluto TV Séries Drama"
+        },
+        {
+          "score": 0.766,
+          "source_id": "PlutoTVBrigadeCriminelle.de@FR",
+          "source_name": "Pluto TV Brigade Criminelle"
+        },
+        {
+          "score": 0.762,
+          "source_id": "PlutoTVSeriesSciFi.us@BR",
+          "source_name": "Pluto TV Séries Sci-Fi"
+        },
+        {
+          "score": 0.75,
+          "source_id": "PlutoTVSeriesAcao.us@BR",
+          "source_name": "Pluto TV Séries Ação"
+        },
+        {
+          "score": 0.744,
+          "source_id": "PlutoTVSeriesComedia.us@BR",
+          "source_name": "Pluto TV Séries Comédia"
+        }
+      ]
+    },
+    {
+      "target_id": "PlutoTVThrillers.de@ES",
+      "target_name": "Pluto TV Thrillers (Germany)",
+      "normalized": "pluto thrillers germany",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.683,
+          "source_id": "PlutoTVSeriesDrama.us@BR",
+          "source_name": "Pluto TV Séries Drama"
+        },
+        {
+          "score": 0.682,
+          "source_id": "PlutoTVSeriesdeDrama.us@LatAm",
+          "source_name": "Pluto TV Series de Drama"
+        },
+        {
+          "score": 0.667,
+          "source_id": "PlutoTVSeriesdeCrimen.us@LatAm",
+          "source_name": "Pluto TV Series de Crimen"
+        },
+        {
+          "score": 0.651,
+          "source_id": "UK:.Thrillers.-.Rakuten.TV.be",
+          "source_name": "UK: Thrillers - Rakuten TV"
+        },
+        {
+          "score": 0.636,
+          "source_id": "PlutoTVFilmesAventura.us@BR",
+          "source_name": "Pluto TV Filmes Aventura"
+        },
+        {
+          "score": 0.634,
+          "source_id": "PlutoTVSeriesRetro.us@LatAm",
+          "source_name": "Pluto TV Series Retro"
+        },
+        {
+          "score": 0.622,
+          "source_id": "PlutoTVSeriesdeAccion.us@LatAm",
+          "source_name": "Pluto TV Series de Acción"
+        },
+        {
+          "score": 0.622,
+          "source_id": "PlutoTVSeriesCriminais.us@BR",
+          "source_name": "Pluto TV Séries Criminais"
+        }
+      ]
+    },
+    {
+      "target_id": "PlutoTVTrueCrime.de@ES",
+      "target_name": "Pluto TV True Crime (Germany) ES",
+      "normalized": "pluto true crime germany es",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.636,
+          "source_id": "PlutoTVCineCrimen.us@LatAm",
+          "source_name": "Pluto TV Cine Crimen"
+        },
+        {
+          "score": 0.636,
+          "source_id": "NO:.True.Crime.Now.be",
+          "source_name": "NO: True Crime Now"
+        },
+        {
+          "score": 0.636,
+          "source_id": "NL:.True.Crime.Now.be",
+          "source_name": "NL: True Crime Now"
+        },
+        {
+          "score": 0.622,
+          "source_id": "PlutoTVSeriesDrama.us@BR",
+          "source_name": "Pluto TV Séries Drama"
+        },
+        {
+          "score": 0.619,
+          "source_id": "True.Crime.Xtra.uk",
+          "source_name": "True Crime Xtra"
+        },
+        {
+          "score": 0.619,
+          "source_id": "True.Crime.Xtra.be",
+          "source_name": "True Crime Xtra"
+        },
+        {
+          "score": 0.612,
+          "source_id": "PlutoTVSeriesdeCrimen.us@LatAm",
+          "source_name": "Pluto TV Series de Crimen"
+        },
+        {
+          "score": 0.612,
+          "source_id": "PlutoTVSeriesCriminais.us@BR",
+          "source_name": "Pluto TV Séries Criminais"
+        }
+      ]
+    },
+    {
+      "target_id": "PlutoTVWestern.de@ES",
+      "target_name": "Pluto TV Western ES",
+      "normalized": "pluto western es",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.733,
+          "source_id": "PlutoTVEsportes.us@BR",
+          "source_name": "Pluto TV Esportes"
+        },
+        {
+          "score": 0.71,
+          "source_id": "PlutoTVMisterios.us@LatAm",
+          "source_name": "Pluto TV Misterios"
+        },
+        {
+          "score": 0.71,
+          "source_id": "PlutoTVMisterios.us@BR",
+          "source_name": "Pluto TV Mistérios"
+        },
+        {
+          "score": 0.692,
+          "source_id": "PlutoTVTeen.de@FR",
+          "source_name": "Pluto TV Teen"
+        },
+        {
+          "score": 0.688,
+          "source_id": "PlutoTVSuperKids.de@FR",
+          "source_name": "Pluto TV Super Kids"
+        },
+        {
+          "score": 0.667,
+          "source_id": "PlutoTVRetro.us@BR",
+          "source_name": "Pluto TV Retrô"
+        },
+        {
+          "score": 0.667,
+          "source_id": "PlutoTVESports.us@LatAm",
+          "source_name": "Pluto TV E-Sports"
+        },
+        {
+          "score": 0.649,
+          "source_id": "plex.tv.Grjngo.-.Western.Movies.plex",
+          "source_name": "Grjngo - Western Movies"
+        }
+      ]
+    },
+    {
+      "target_id": "QelloConcertsbyStingray.ca@SD",
+      "target_name": "Qello Concerts by Stingray (1080p)",
+      "normalized": "qello concerts by stingray",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.945,
+          "source_id": "UK:.Qello.Concerts.by.Stingray.be",
+          "source_name": "UK: Qello Concerts by Stingray"
+        },
+        {
+          "score": 0.945,
+          "source_id": "SE:.Qello.Concerts.by.Stingray.be",
+          "source_name": "SE: Qello Concerts by Stingray"
+        },
+        {
+          "score": 0.945,
+          "source_id": "PL:.Qello.Concerts.by.Stingray.be",
+          "source_name": "PL: Qello Concerts by Stingray"
+        },
+        {
+          "score": 0.945,
+          "source_id": "NO:.Qello.Concerts.by.Stingray.be",
+          "source_name": "NO: Qello Concerts by Stingray"
+        },
+        {
+          "score": 0.945,
+          "source_id": "NL:.Qello.Concerts.by.Stingray.be",
+          "source_name": "NL: Qello Concerts by Stingray"
+        },
+        {
+          "score": 0.945,
+          "source_id": "IT:.Qello.Concerts.by.Stingray.be",
+          "source_name": "IT: Qello Concerts by Stingray"
+        },
+        {
+          "score": 0.945,
+          "source_id": "FR:.Qello.Concerts.by.Stingray.be",
+          "source_name": "FR: Qello Concerts by Stingray"
+        },
+        {
+          "score": 0.945,
+          "source_id": "FI:.Qello.Concerts.by.Stingray.be",
+          "source_name": "FI: Qello Concerts by Stingray"
+        }
+      ]
+    },
+    {
+      "target_id": "RaiItalia.it@Australia",
+      "target_name": "Rai Italia Australia (1080p)",
+      "normalized": "rai italia australia",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.703,
+          "source_id": "Radio.Italia.Live.be",
+          "source_name": "Radio Italia Live"
+        },
+        {
+          "score": 0.692,
+          "source_id": "Mediaset.Italia.-.Australia.e.Asia.it",
+          "source_name": "Mediaset Italia - Australia e Asia"
+        },
+        {
+          "score": 0.667,
+          "source_id": "[RAIIS].Rai.Italia.uy",
+          "source_name": "[RAIIS] Rai Italia"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Rai.Italia.us2",
+          "source_name": "Rai Italia"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Rai.Italia.pt",
+          "source_name": "Rai Italia"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Rai.Italia.fr",
+          "source_name": "Rai Italia"
+        },
+        {
+          "score": 0.667,
+          "source_id": "RAI.Italia.ch",
+          "source_name": "RAI Italia"
+        },
+        {
+          "score": 0.65,
+          "source_id": "IT:.Radio.Italia.Live.be",
+          "source_name": "IT: Radio Italia Live"
+        }
+      ]
+    },
+    {
+      "target_id": "RaiItalia.it@EuropeAfrica",
+      "target_name": "Rai Italia (1080p)",
+      "normalized": "rai italia",
+      "exact_normalized_matches": [
+        {
+          "source_id": "RAI.Italia.ch",
+          "source_names": [
+            "RAI Italia"
+          ]
+        },
+        {
+          "source_id": "Rai.Italia.fr",
+          "source_names": [
+            "Rai Italia"
+          ]
+        },
+        {
+          "source_id": "Rai.Italia.pt",
+          "source_names": [
+            "Rai Italia"
+          ]
+        },
+        {
+          "source_id": "Rai.Italia.us2",
+          "source_names": [
+            "Rai Italia"
+          ]
+        },
+        {
+          "source_id": "[RAIIS].Rai.Italia.uy",
+          "source_names": [
+            "[RAIIS] Rai Italia"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "RaiItalia.it@NorthAmericas",
+      "target_name": "Rai Italia North Americas (1080p)",
+      "normalized": "rai italia north americas",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.667,
+          "source_id": "Mediaset.Italia.-.America.it",
+          "source_name": "Mediaset Italia - America"
+        },
+        {
+          "score": 0.638,
+          "source_id": "plex.tv.BBC.News.(North.America).plex",
+          "source_name": "BBC News (North America)"
+        },
+        {
+          "score": 0.638,
+          "source_id": "[BBCWDNA].BBC.News.(North.America).uy",
+          "source_name": "[BBCWDNA] BBC News (North America)"
+        },
+        {
+          "score": 0.6,
+          "source_id": "Radio.Italia.TV.HD.it",
+          "source_name": "Radio Italia TV HD"
+        },
+        {
+          "score": 0.6,
+          "source_id": "BBC.News.(North.America).HD.us2",
+          "source_name": "BBC News (North America) HD"
+        }
+      ]
+    },
+    {
+      "target_id": "RaiItalia.it@SouthAmericas",
+      "target_name": "Rai Italia South Americas (1080p)",
+      "normalized": "rai italia south americas",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.667,
+          "source_id": "Mediaset.Italia.-.America.it",
+          "source_name": "Mediaset Italia - America"
+        },
+        {
+          "score": 0.6,
+          "source_id": "Radio.Italia.TV.HD.it",
+          "source_name": "Radio Italia TV HD"
+        }
+      ]
+    },
+    {
+      "target_id": "RaiStoria.it@SD",
+      "target_name": "Rai Storia (1080p)",
+      "normalized": "rai storia",
+      "exact_normalized_matches": [
+        {
+          "source_id": "RAI.STORIA.fr",
+          "source_names": [
+            "RAI STORIA"
+          ]
+        },
+        {
+          "source_id": "Rai.Storia.ch",
+          "source_names": [
+            "Rai Storia"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "RaiSudtirol.it@SD",
+      "target_name": "Rai Sudtirol",
+      "normalized": "rai sudtirol",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.727,
+          "source_id": "Rai.Scuola.ch",
+          "source_name": "Rai Scuola"
+        },
+        {
+          "score": 0.727,
+          "source_id": "RAI.SCUOLA.fr",
+          "source_name": "RAI SCUOLA"
+        },
+        {
+          "score": 0.64,
+          "source_id": "Rai.Scuola.HD.be",
+          "source_name": "Rai Scuola HD"
+        },
+        {
+          "score": 0.636,
+          "source_id": "Rai.Storia.ch",
+          "source_name": "Rai Storia"
+        },
+        {
+          "score": 0.636,
+          "source_id": "RAI.STORIA.fr",
+          "source_name": "RAI STORIA"
+        },
+        {
+          "score": 0.632,
+          "source_id": "Rai.Uno.fr",
+          "source_name": "Rai Uno"
+        },
+        {
+          "score": 0.609,
+          "source_id": "Rai.Radio.1.us2",
+          "source_name": "Rai Radio 1"
+        },
+        {
+          "score": 0.6,
+          "source_id": "Rai.Gulp.ch",
+          "source_name": "Rai Gulp"
+        }
+      ]
+    },
+    {
+      "target_id": "RaiWorldPremium.it@SD",
+      "target_name": "Rai World Premium (1080p)",
+      "normalized": "rai world premium",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.824,
+          "source_id": "[NHKL].NHK.TV.World.Premium.uy",
+          "source_name": "[NHKL] NHK TV World Premium"
+        },
+        {
+          "score": 0.824,
+          "source_id": "NHK.World.Premium.fr",
+          "source_name": "NHK World Premium"
+        },
+        {
+          "score": 0.824,
+          "source_id": "NHK.World.Premium.es",
+          "source_name": "NHK World Premium"
+        },
+        {
+          "score": 0.786,
+          "source_id": "Rai.Premium.us2",
+          "source_name": "Rai Premium"
+        },
+        {
+          "score": 0.786,
+          "source_id": "Rai.Premium.ch",
+          "source_name": "Rai Premium"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Rai.Premium..5025.it",
+          "source_name": "Rai Premium  5025"
+        },
+        {
+          "score": 0.629,
+          "source_id": "FOX.SPORTS.PREMIUM.mx",
+          "source_name": "FOX SPORTS PREMIUM"
+        },
+        {
+          "score": 0.611,
+          "source_id": "IT:.World.Poker.Tour.be",
+          "source_name": "IT: World Poker Tour"
+        }
+      ]
+    },
+    {
+      "target_id": "RealAmericasVoice.us@KPVMLD",
+      "target_name": "Real America's Voice KPVM-LD",
+      "normalized": "real america s voice kpvm ld",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.809,
+          "source_id": "Real.Americas.Voice.us2",
+          "source_name": "Real Americas Voice"
+        }
+      ]
+    },
+    {
+      "target_id": "RealAmericasVoice.us@SD",
+      "target_name": "Real America's Voice (1080p)",
+      "normalized": "real america s voice",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.974,
+          "source_id": "Real.Americas.Voice.us2",
+          "source_name": "Real Americas Voice"
+        }
+      ]
+    },
+    {
+      "target_id": "SensaCineTVxPluto.de@ES",
+      "target_name": "SensaCine TV x Pluto",
+      "normalized": "sensacine x pluto",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.733,
+          "source_id": "CinebyPlutoTV.de@FR",
+          "source_name": "Ciné by Pluto TV"
+        },
+        {
+          "score": 0.647,
+          "source_id": "Cine666byPlutoTV.de@FR",
+          "source_name": "Ciné 666 by Pluto TV"
+        },
+        {
+          "score": 0.625,
+          "source_id": "SeriesbyPlutoTV.de@FR",
+          "source_name": "Series by Pluto TV"
+        },
+        {
+          "score": 0.611,
+          "source_id": "CineRetrobyPlutoTV.de@FR",
+          "source_name": "Ciné Rétro by Pluto TV"
+        }
+      ]
+    },
+    {
+      "target_id": "SonyChannel.ar@SD",
+      "target_name": "Sony Channel (Argentina) (1080p)",
+      "normalized": "sony argentina",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.828,
+          "source_id": "[EPN2HAA].ESPN2.Argentina.uy",
+          "source_name": "[EPN2HAA] ESPN2 Argentina"
+        },
+        {
+          "score": 0.824,
+          "source_id": "Canal.Sony.(Argentina).ar",
+          "source_name": "Canal Sony (Argentina)"
+        },
+        {
+          "score": 0.727,
+          "source_id": "Solidaria.TV.Argentina.es",
+          "source_name": "Solidaria TV Argentina"
+        },
+        {
+          "score": 0.722,
+          "source_id": "Canal.Disney.Channel.(Argentina).ar",
+          "source_name": "Canal Disney Channel (Argentina)"
+        },
+        {
+          "score": 0.706,
+          "source_id": "[SPOARHD].DSports.Argentina.HD.uy",
+          "source_name": "[SPOARHD] DSports Argentina HD"
+        },
+        {
+          "score": 0.706,
+          "source_id": "Canal.ESPN.(Argentina).ar",
+          "source_name": "Canal ESPN (Argentina)"
+        },
+        {
+          "score": 0.696,
+          "source_id": "Sony.TV.Asia.nl",
+          "source_name": "Sony TV Asia"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Canal.TNT.(Argentina).ar",
+          "source_name": "Canal TNT (Argentina)"
+        }
+      ]
+    },
+    {
+      "target_id": "SonyChannel.br@SD",
+      "target_name": "Sony Channel (Brazil) (720p)",
+      "normalized": "sony brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.759,
+          "source_id": "Sony.Movies.Brazil.br",
+          "source_name": "Sony Movies Brazil"
+        },
+        {
+          "score": 0.737,
+          "source_id": "Sony.KAL.us2",
+          "source_name": "Sony KAL"
+        },
+        {
+          "score": 0.7,
+          "source_id": "Sony.TV.Asia.nl",
+          "source_name": "Sony TV Asia"
+        },
+        {
+          "score": 0.632,
+          "source_id": "Sony.Max.nl",
+          "source_name": "Sony Max"
+        },
+        {
+          "score": 0.632,
+          "source_id": "Sony.MIX.us2",
+          "source_name": "Sony MIX"
+        },
+        {
+          "score": 0.632,
+          "source_id": "SONY.SAB.uk",
+          "source_name": "SONY SAB"
+        },
+        {
+          "score": 0.6,
+          "source_id": "Sony.Cine.us2",
+          "source_name": "Sony Cine"
+        }
+      ]
+    },
+    {
+      "target_id": "SonyMovies.br@SD",
+      "target_name": "Sony Movies (720p)",
+      "normalized": "sony movies",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.833,
+          "source_id": "[SONYHD].Sony.Movie.Channel.HD.uy",
+          "source_name": "[SONYHD] Sony Movie Channel HD"
+        },
+        {
+          "score": 0.833,
+          "source_id": "Sony.Movie.Channel.HD.us2",
+          "source_name": "Sony Movie Channel HD"
+        },
+        {
+          "score": 0.783,
+          "source_id": "plex.tv.Shout!.Movies.plex",
+          "source_name": "Shout! Movies"
+        },
+        {
+          "score": 0.762,
+          "source_id": "HBO.Movies.us2",
+          "source_name": "HBO Movies"
+        },
+        {
+          "score": 0.762,
+          "source_id": "AXN.Movies.es",
+          "source_name": "AXN Movies"
+        },
+        {
+          "score": 0.762,
+          "source_id": "ATN.Movies.us2",
+          "source_name": "ATN Movies"
+        },
+        {
+          "score": 0.759,
+          "source_id": "Sony.Movies.Brazil.br",
+          "source_name": "Sony Movies Brazil"
+        },
+        {
+          "score": 0.75,
+          "source_id": "Amazon.Movies.us2",
+          "source_name": "Amazon Movies"
+        }
+      ]
+    },
+    {
+      "target_id": "SonyMoviesLatinAmerica.us@SD",
+      "target_name": "Sony Movies Latin America (1080p)",
+      "normalized": "sony movies latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.809,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.727,
+          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
+          "source_name": "[GOLTVL] GolTV Latin America"
+        },
+        {
+          "score": 0.698,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        },
+        {
+          "score": 0.696,
+          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
+          "source_name": "[PLAYL] Playboy TV Latin America"
+        },
+        {
+          "score": 0.627,
+          "source_id": "pluto.latam.6647c02422494d000804b13a",
+          "source_name": "Sony One Shark Tank México"
+        },
+        {
+          "score": 0.605,
+          "source_id": "Sony.Movies.Brazil.br",
+          "source_name": "Sony Movies Brazil"
+        },
+        {
+          "score": 0.6,
+          "source_id": "Sony.(Costa.Rica).cr",
+          "source_name": "Sony (Costa Rica)"
+        }
+      ]
+    },
+    {
+      "target_id": "SonyOneBlacklist.fr@HD",
+      "target_name": "Sony One Blacklist (1080p)",
+      "normalized": "sony one blacklist",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.629,
+          "source_id": "ES:.Blacklist.TV.Sony.be",
+          "source_name": "ES: Blacklist TV Sony"
+        },
+        {
+          "score": 0.615,
+          "source_id": "FR:.The.Blacklist.Sony.be",
+          "source_name": "FR: The Blacklist Sony"
+        }
+      ]
+    },
+    {
+      "target_id": "SonyOneFavoris.fr@HD",
+      "target_name": "Sony One Favoris (1080p)",
+      "normalized": "sony one favoris",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.774,
+          "source_id": "FR:.Sony.Favoris.be",
+          "source_name": "FR: Sony Favoris"
+        },
+        {
+          "score": 0.621,
+          "source_id": "UK:.Sony.Faves.be",
+          "source_name": "UK: Sony Faves"
+        },
+        {
+          "score": 0.621,
+          "source_id": "SE:.Sony.Faves.be",
+          "source_name": "SE: Sony Faves"
+        },
+        {
+          "score": 0.621,
+          "source_id": "NO:.Sony.Faves.be",
+          "source_name": "NO: Sony Faves"
+        },
+        {
+          "score": 0.621,
+          "source_id": "FI:.Sony.Faves.be",
+          "source_name": "FI: Sony Faves"
+        },
+        {
+          "score": 0.621,
+          "source_id": "DK:.Sony.Faves.be",
+          "source_name": "DK: Sony Faves"
+        },
+        {
+          "score": 0.621,
+          "source_id": "DE:.Sony.Faves.be",
+          "source_name": "DE: Sony Faves"
+        }
+      ]
+    },
+    {
+      "target_id": "SonyOneHitsAction.fr@HD",
+      "target_name": "Sony One Hits Action (1080p)",
+      "normalized": "sony one hits action",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.649,
+          "source_id": "Sky.Cinema.Action.it",
+          "source_name": "Sky Cinema Action"
+        },
+        {
+          "score": 0.636,
+          "source_id": "pluto.latam.662bf39756fc840008f25cb9",
+          "source_name": "Sony One Escape Perfecto"
+        },
+        {
+          "score": 0.625,
+          "source_id": "SkySp.Action.uk",
+          "source_name": "SkySp Action"
+        },
+        {
+          "score": 0.611,
+          "source_id": "Movie.Hub.Action.us2",
+          "source_name": "Movie Hub Action"
+        },
+        {
+          "score": 0.6,
+          "source_id": "Sky.Cinema.Action.HD.de",
+          "source_name": "Sky Cinema Action HD"
+        },
+        {
+          "score": 0.6,
+          "source_id": "Sky.Action.uk",
+          "source_name": "Sky Action"
+        }
+      ]
+    },
+    {
+      "target_id": "SonyOneHitsComedie.fr@HD",
+      "target_name": "Sony One Hits Comedie (1080p)",
+      "normalized": "sony one hits comedie",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.615,
+          "source_id": "Sky.Cinema.Hits.HD.uk",
+          "source_name": "Sky Cinema Hits HD"
+        }
+      ]
+    },
+    {
+      "target_id": "StarCinema.ru@SD",
+      "target_name": "Star Cinema",
+      "normalized": "star cinema",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.857,
+          "source_id": "ART.CINEMA.fr",
+          "source_name": "ART CINEMA"
+        },
+        {
+          "score": 0.846,
+          "source_id": "Starz.Cinema.HD.us2",
+          "source_name": "Starz Cinema HD"
+        },
+        {
+          "score": 0.818,
+          "source_id": "plex.tv.Surf.Cinema.plex",
+          "source_name": "Surf Cinema"
+        },
+        {
+          "score": 0.762,
+          "source_id": "TCM.Cinéma.fr",
+          "source_name": "TCM Cinéma"
+        },
+        {
+          "score": 0.762,
+          "source_id": "LA7.CINEMA.it",
+          "source_name": "LA7 CINEMA"
+        },
+        {
+          "score": 0.75,
+          "source_id": "Rotana.Cinema.fr",
+          "source_name": "Rotana Cinema"
+        },
+        {
+          "score": 0.696,
+          "source_id": "Sky.Cinema.D.ch",
+          "source_name": "Sky Cinema D"
+        },
+        {
+          "score": 0.696,
+          "source_id": "Canal.Cinema.mx",
+          "source_name": "Canal Cinema"
+        }
+      ]
+    },
+    {
+      "target_id": "StudioUniversalLatinAmerica.us@Brazil",
+      "target_name": "Studio Universal Latin America Brazil (720p)",
+      "normalized": "studio universal latin america brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.686,
+          "source_id": "STUDIO.UNIVERSAL.(Studio.Universal).pe",
+          "source_name": "STUDIO UNIVERSAL (Studio Universal)"
+        },
+        {
+          "score": 0.678,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.667,
+          "source_id": "Canal.Studio.Universal.(Panamá).pa",
+          "source_name": "Canal Studio Universal (Panamá)"
+        },
+        {
+          "score": 0.657,
+          "source_id": "Canal.Studio.Universal.(Costa.Rica).cr",
+          "source_name": "Canal Studio Universal (Costa Rica)"
+        },
+        {
+          "score": 0.636,
+          "source_id": "Canal.Studio.Universal.(México).mx",
+          "source_name": "Canal Studio Universal (México)"
+        },
+        {
+          "score": 0.604,
+          "source_id": "[STULM].Studio.Universal.uy",
+          "source_name": "[STULM] Studio Universal"
+        },
+        {
+          "score": 0.604,
+          "source_id": "Studio.Universal.co",
+          "source_name": "Studio Universal"
+        }
+      ]
+    },
+    {
+      "target_id": "StudioUniversalLatinAmerica.us@Panregional",
+      "target_name": "Studio Universal Latin America (1080p)",
+      "normalized": "studio universal latin america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.769,
+          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
+          "source_name": "[PASNLA] Pasiones TV Latin America"
+        },
+        {
+          "score": 0.746,
+          "source_id": "Canal.Studio.Universal.(Panamá).pa",
+          "source_name": "Canal Studio Universal (Panamá)"
+        },
+        {
+          "score": 0.73,
+          "source_id": "STUDIO.UNIVERSAL.(Studio.Universal).pe",
+          "source_name": "STUDIO UNIVERSAL (Studio Universal)"
+        },
+        {
+          "score": 0.73,
+          "source_id": "Canal.Studio.Universal.(Costa.Rica).cr",
+          "source_name": "Canal Studio Universal (Costa Rica)"
+        },
+        {
+          "score": 0.712,
+          "source_id": "Canal.Studio.Universal.(México).mx",
+          "source_name": "Canal Studio Universal (México)"
+        },
+        {
+          "score": 0.696,
+          "source_id": "[STULM].Studio.Universal.uy",
+          "source_name": "[STULM] Studio Universal"
+        },
+        {
+          "score": 0.696,
+          "source_id": "Studio.Universal.co",
+          "source_name": "Studio Universal"
+        },
+        {
+          "score": 0.667,
+          "source_id": "[EWTNL].EWTN.Latin.America.uy",
+          "source_name": "[EWTNL] EWTN Latin America"
+        }
+      ]
+    },
+    {
+      "target_id": "TNTNovelas.us@Brazil",
+      "target_name": "TNT Novelas Brazil (720p)",
+      "normalized": "tnt novelas brazil",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.759,
+          "source_id": "TNT.Novelas.co",
+          "source_name": "TNT Novelas"
+        },
+        {
+          "score": 0.759,
+          "source_id": "TNT.NOVELAS.uy",
+          "source_name": "TNT NOVELAS"
+        },
+        {
+          "score": 0.722,
+          "source_id": "Sony.Movies.Brazil.br",
+          "source_name": "Sony Movies Brazil"
+        },
+        {
+          "score": 0.683,
+          "source_id": "Canal.TNT.Novelas.(Chile).cl",
+          "source_name": "Canal TNT Novelas (Chile)"
+        },
+        {
+          "score": 0.622,
+          "source_id": "Canal.TNT.Novelas.(Argentina).ar",
+          "source_name": "Canal TNT Novelas (Argentina)"
+        },
+        {
+          "score": 0.621,
+          "source_id": "RCN.Novelas.co",
+          "source_name": "RCN Novelas"
+        },
+        {
+          "score": 0.619,
+          "source_id": "Canal.TNT.Novelas.(Panamá).pa",
+          "source_name": "Canal TNT Novelas (Panamá)"
+        },
+        {
+          "score": 0.619,
+          "source_id": "Canal.TNT.Novelas.(México).mx",
+          "source_name": "Canal TNT Novelas (México)"
+        }
+      ]
+    },
+    {
+      "target_id": "TVCamara.py@SD",
+      "target_name": "TV Camara (Paraguay) (1080p)",
+      "normalized": "camara paraguay",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.727,
+          "source_id": "Canal.SNT.(Paraguay).ar",
+          "source_name": "Canal SNT (Paraguay)"
+        },
+        {
+          "score": 0.703,
+          "source_id": "Canal.La.Tele.(Paraguay).ar",
+          "source_name": "Canal La Tele (Paraguay)"
+        }
+      ]
+    },
+    {
+      "target_id": "TVEInternacionalAmerica.es@HD",
+      "target_name": "TVE Internacional America HD (1080p) [Geo-blocked]",
+      "normalized": "tve internacional america hd",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.756,
+          "source_id": "TVE.Internacional.fr",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.756,
+          "source_id": "TVE.Internacional.ch",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.756,
+          "source_id": "TVE.Internacional.be",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.745,
+          "source_id": "TELEFE.INTERNACIONAL.HD.uy",
+          "source_name": "TELEFE INTERNACIONAL HD"
+        },
+        {
+          "score": 0.72,
+          "source_id": "Destination.America.HD.us2",
+          "source_name": "Destination America HD"
+        },
+        {
+          "score": 0.711,
+          "source_id": "tvi.internacional.pt",
+          "source_name": "tvi internacional"
+        },
+        {
+          "score": 0.711,
+          "source_id": "TVR.Internacional.pt",
+          "source_name": "TVR Internacional"
+        },
+        {
+          "score": 0.711,
+          "source_id": "TVI.Internacional.pt",
+          "source_name": "TVI Internacional"
+        }
+      ]
+    },
+    {
+      "target_id": "TVEInternacionalAmerica.es@SD",
+      "target_name": "TVE Internacional America (1080p)",
+      "normalized": "tve internacional america",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.81,
+          "source_id": "TVE.Internacional.fr",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.81,
+          "source_id": "TVE.Internacional.ch",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.81,
+          "source_id": "TVE.Internacional.be",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.762,
+          "source_id": "tvi.internacional.pt",
+          "source_name": "tvi internacional"
+        },
+        {
+          "score": 0.762,
+          "source_id": "TVR.Internacional.pt",
+          "source_name": "TVR Internacional"
+        },
+        {
+          "score": 0.762,
+          "source_id": "TVI.Internacional.pt",
+          "source_name": "TVI Internacional"
+        },
+        {
+          "score": 0.762,
+          "source_id": "TVI.Internacional.ch",
+          "source_name": "TVI Internacional"
+        },
+        {
+          "score": 0.762,
+          "source_id": "TCV.Internacional.pt",
+          "source_name": "TCV Internacional"
+        }
+      ]
+    },
+    {
+      "target_id": "TVEInternacionalAsiaOceania.es@HD",
+      "target_name": "TVE Internacional Asia-Oceania HD (1080p) [Geo-blocked]",
+      "normalized": "tve internacional asia oceania hd",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.68,
+          "source_id": "TVE.Internacional.fr",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.68,
+          "source_id": "TVE.Internacional.ch",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.68,
+          "source_id": "TVE.Internacional.be",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.679,
+          "source_id": "TELEFE.INTERNACIONAL.HD.uy",
+          "source_name": "TELEFE INTERNACIONAL HD"
+        },
+        {
+          "score": 0.658,
+          "source_id": "Canal.TVE.Internacional.(Televisión.Española).pa",
+          "source_name": "Canal TVE Internacional (Televisión Española)"
+        },
+        {
+          "score": 0.658,
+          "source_id": "Canal.TVE.Internacional.(Televisión.Española).mx",
+          "source_name": "Canal TVE Internacional (Televisión Española)"
+        },
+        {
+          "score": 0.658,
+          "source_id": "Canal.TVE.Internacional.(Televisión.Española).ec",
+          "source_name": "Canal TVE Internacional (Televisión Española)"
+        },
+        {
+          "score": 0.658,
+          "source_id": "Canal.TVE.Internacional.(Televisión.Española).cr",
+          "source_name": "Canal TVE Internacional (Televisión Española)"
+        }
+      ]
+    },
+    {
+      "target_id": "TVEInternacionalAsiaOceania.es@SD",
+      "target_name": "TVE Internacional Asia-Oceania",
+      "normalized": "tve internacional asia oceania",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.723,
+          "source_id": "TVE.Internacional.fr",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.723,
+          "source_id": "TVE.Internacional.ch",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.723,
+          "source_id": "TVE.Internacional.be",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.685,
+          "source_id": "Canal.TVE.Internacional.(Televisión.Española).pa",
+          "source_name": "Canal TVE Internacional (Televisión Española)"
+        },
+        {
+          "score": 0.685,
+          "source_id": "Canal.TVE.Internacional.(Televisión.Española).mx",
+          "source_name": "Canal TVE Internacional (Televisión Española)"
+        },
+        {
+          "score": 0.685,
+          "source_id": "Canal.TVE.Internacional.(Televisión.Española).ec",
+          "source_name": "Canal TVE Internacional (Televisión Española)"
+        },
+        {
+          "score": 0.685,
+          "source_id": "Canal.TVE.Internacional.(Televisión.Española).cr",
+          "source_name": "Canal TVE Internacional (Televisión Española)"
+        },
+        {
+          "score": 0.685,
+          "source_id": "Canal.TVE.Internacional.(Televisión.Española).cl",
+          "source_name": "Canal TVE Internacional (Televisión Española)"
+        }
+      ]
+    },
+    {
+      "target_id": "TVEInternacionalEurope.es@HD",
+      "target_name": "TVE Internacional Europe HD (1080p) [Geo-blocked]",
+      "normalized": "tve internacional europe hd",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.773,
+          "source_id": "TVE.Internacional.fr",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.773,
+          "source_id": "TVE.Internacional.ch",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.773,
+          "source_id": "TVE.Internacional.be",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.76,
+          "source_id": "TELEFE.INTERNACIONAL.HD.uy",
+          "source_name": "TELEFE INTERNACIONAL HD"
+        },
+        {
+          "score": 0.727,
+          "source_id": "tvi.internacional.pt",
+          "source_name": "tvi internacional"
+        },
+        {
+          "score": 0.727,
+          "source_id": "TVR.Internacional.pt",
+          "source_name": "TVR Internacional"
+        },
+        {
+          "score": 0.727,
+          "source_id": "TVI.Internacional.pt",
+          "source_name": "TVI Internacional"
+        },
+        {
+          "score": 0.727,
+          "source_id": "TVI.Internacional.ch",
+          "source_name": "TVI Internacional"
+        }
+      ]
+    },
+    {
+      "target_id": "TVEInternacionalEurope.es@SD",
+      "target_name": "TVE Internacional Europe",
+      "normalized": "tve internacional europe",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.829,
+          "source_id": "TVE.Internacional.fr",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.829,
+          "source_id": "TVE.Internacional.ch",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.829,
+          "source_id": "TVE.Internacional.be",
+          "source_name": "TVE Internacional"
+        },
+        {
+          "score": 0.78,
+          "source_id": "tvi.internacional.pt",
+          "source_name": "tvi internacional"
+        },
+        {
+          "score": 0.78,
+          "source_id": "TVR.Internacional.pt",
+          "source_name": "TVR Internacional"
+        },
+        {
+          "score": 0.78,
+          "source_id": "TVI.Internacional.pt",
+          "source_name": "TVI Internacional"
+        },
+        {
+          "score": 0.78,
+          "source_id": "TVI.Internacional.ch",
+          "source_name": "TVI Internacional"
+        },
+        {
+          "score": 0.78,
+          "source_id": "TCV.Internacional.pt",
+          "source_name": "TCV Internacional"
+        }
+      ]
+    },
+    {
+      "target_id": "Telefe.ar@SD",
+      "target_name": "Telefe (1080p)",
+      "normalized": "telefe",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "TelefeBuenosAires.ar@SD",
+      "target_name": "Telefe Buenos Aires (1080p)",
+      "normalized": "telefe buenos aires",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "TelefeInterior.ar@SD",
+      "target_name": "Telefe Interior (720p)",
+      "normalized": "telefe interior",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.8,
+          "source_id": "[TEFEI].Telefe.Internacional.uy",
+          "source_name": "[TEFEI] Telefe Internacional"
+        },
+        {
+          "score": 0.8,
+          "source_id": "Telefe.international.us2",
+          "source_name": "Telefe international"
+        },
+        {
+          "score": 0.8,
+          "source_id": "Telefe.Internacional.us2",
+          "source_name": "Telefe Internacional"
+        },
+        {
+          "score": 0.737,
+          "source_id": "TELEFE.INTERNACIONAL.HD.uy",
+          "source_name": "TELEFE INTERNACIONAL HD"
+        },
+        {
+          "score": 0.683,
+          "source_id": "Canal.Telefe.Internacional.mx",
+          "source_name": "Canal Telefe Internacional"
+        },
+        {
+          "score": 0.683,
+          "source_id": "Canal.Telefe.Internacional.ec",
+          "source_name": "Canal Telefe Internacional"
+        }
+      ]
+    },
+    {
+      "target_id": "TelefeInternacional.ar@SD",
+      "target_name": "Telefe Internacional (1080p)",
+      "normalized": "telefe internacional",
+      "exact_normalized_matches": [
+        {
+          "source_id": "Telefe.Internacional.us2",
+          "source_names": [
+            "Telefe Internacional"
+          ]
+        },
+        {
+          "source_id": "[TEFEI].Telefe.Internacional.uy",
+          "source_names": [
+            "[TEFEI] Telefe Internacional"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "Telefuturo.py@SD",
+      "target_name": "Telefuturo (Paraguay) (1080p)",
+      "normalized": "telefuturo paraguay",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.634,
+          "source_id": "Canal.La.Tele.(Paraguay).ar",
+          "source_name": "Canal La Tele (Paraguay)"
+        }
+      ]
+    },
+    {
+      "target_id": "ThePetCollective.us@Mexico",
+      "target_name": "The Pet Collective Mexico (720p)",
+      "normalized": "the pet collective mexico",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.837,
+          "source_id": "pluto.latam.5ebacbcae43a6d000787b88e",
+          "source_name": "The Pet Collective"
+        },
+        {
+          "score": 0.837,
+          "source_id": "plex.tv.The.Pet.Collective.plex",
+          "source_name": "The Pet Collective"
+        },
+        {
+          "score": 0.837,
+          "source_id": "ThePetCollective.us@Brazil",
+          "source_name": "The Pet Collective"
+        },
+        {
+          "score": 0.837,
+          "source_id": "The.Pet.Collective.es",
+          "source_name": "The Pet Collective"
+        },
+        {
+          "score": 0.783,
+          "source_id": "UK:.The.Pet.Collective.be",
+          "source_name": "UK: The Pet Collective"
+        },
+        {
+          "score": 0.783,
+          "source_id": "SE:.The.Pet.Collective.be",
+          "source_name": "SE: The Pet Collective"
+        },
+        {
+          "score": 0.783,
+          "source_id": "PL:.The.Pet.Collective.be",
+          "source_name": "PL: The Pet Collective"
+        },
+        {
+          "score": 0.783,
+          "source_id": "NO:.The.Pet.Collective.be",
+          "source_name": "NO: The Pet Collective"
+        }
+      ]
+    },
+    {
+      "target_id": "ThePetCollective.us@Spain",
+      "target_name": "The Pet Collective Spain",
+      "normalized": "the pet collective spain",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.857,
+          "source_id": "pluto.latam.5ebacbcae43a6d000787b88e",
+          "source_name": "The Pet Collective"
+        },
+        {
+          "score": 0.857,
+          "source_id": "plex.tv.The.Pet.Collective.plex",
+          "source_name": "The Pet Collective"
+        },
+        {
+          "score": 0.857,
+          "source_id": "ThePetCollective.us@Brazil",
+          "source_name": "The Pet Collective"
+        },
+        {
+          "score": 0.857,
+          "source_id": "The.Pet.Collective.es",
+          "source_name": "The Pet Collective"
+        },
+        {
+          "score": 0.8,
+          "source_id": "UK:.The.Pet.Collective.be",
+          "source_name": "UK: The Pet Collective"
+        },
+        {
+          "score": 0.8,
+          "source_id": "SE:.The.Pet.Collective.be",
+          "source_name": "SE: The Pet Collective"
+        },
+        {
+          "score": 0.8,
+          "source_id": "PL:.The.Pet.Collective.be",
+          "source_name": "PL: The Pet Collective"
+        },
+        {
+          "score": 0.8,
+          "source_id": "NO:.The.Pet.Collective.be",
+          "source_name": "NO: The Pet Collective"
+        }
+      ]
+    },
+    {
+      "target_id": "ThePetCollective.us@UK",
+      "target_name": "The Pet Collective UK (720p)",
+      "normalized": "the pet collective uk",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.923,
+          "source_id": "pluto.latam.5ebacbcae43a6d000787b88e",
+          "source_name": "The Pet Collective"
+        },
+        {
+          "score": 0.923,
+          "source_id": "plex.tv.The.Pet.Collective.plex",
+          "source_name": "The Pet Collective"
+        },
+        {
+          "score": 0.923,
+          "source_id": "ThePetCollective.us@Brazil",
+          "source_name": "The Pet Collective"
+        },
+        {
+          "score": 0.923,
+          "source_id": "The.Pet.Collective.es",
+          "source_name": "The Pet Collective"
+        },
+        {
+          "score": 0.857,
+          "source_id": "UK:.The.Pet.Collective.be",
+          "source_name": "UK: The Pet Collective"
+        },
+        {
+          "score": 0.857,
+          "source_id": "SE:.The.Pet.Collective.be",
+          "source_name": "SE: The Pet Collective"
+        },
+        {
+          "score": 0.857,
+          "source_id": "PL:.The.Pet.Collective.be",
+          "source_name": "PL: The Pet Collective"
+        },
+        {
+          "score": 0.857,
+          "source_id": "NO:.The.Pet.Collective.be",
+          "source_name": "NO: The Pet Collective"
+        }
+      ]
+    },
+    {
+      "target_id": "ThePetCollective.us@US",
+      "target_name": "The Pet Collective (720p)",
+      "normalized": "the pet collective",
+      "exact_normalized_matches": [
+        {
+          "source_id": "The.Pet.Collective.es",
+          "source_names": [
+            "The Pet Collective"
+          ]
+        },
+        {
+          "source_id": "ThePetCollective.us@Brazil",
+          "source_names": [
+            "The Pet Collective"
+          ]
+        },
+        {
+          "source_id": "plex.tv.The.Pet.Collective.plex",
+          "source_names": [
+            "The Pet Collective"
+          ]
+        },
+        {
+          "source_id": "pluto.latam.5ebacbcae43a6d000787b88e",
+          "source_names": [
+            "The Pet Collective"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "TigoSports.py@SD",
+      "target_name": "Tigo Sports (Paraguay) (1080p)",
+      "normalized": "tigo sports paraguay",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.632,
+          "source_id": "FOX.SPORTS.PREMIUM.mx",
+          "source_name": "FOX SPORTS PREMIUM"
+        },
+        {
+          "score": 0.632,
+          "source_id": "Canal.SNT.(Paraguay).ar",
+          "source_name": "Canal SNT (Paraguay)"
+        },
+        {
+          "score": 0.611,
+          "source_id": "plex.tv.beIN.SPORTS.XTRA.plex",
+          "source_name": "beIN SPORTS XTRA"
+        }
+      ]
+    },
+    {
+      "target_id": "TopGear.uk@SD",
+      "target_name": "Top Gear (720p)",
+      "normalized": "top gear",
+      "exact_normalized_matches": [
+        {
+          "source_id": "plex.tv.Top.Gear.plex",
+          "source_names": [
+            "Top Gear"
+          ]
+        },
+        {
+          "source_id": "pluto.fr.64c1093824ade50008bd117f",
+          "source_names": [
+            "Top Gear"
+          ]
+        }
+      ],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "TotalmusicDance.uk@HD",
+      "target_name": "Totalmusic Dance (720p)",
+      "normalized": "totalmusic dance",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "Trece.es@SD",
+      "target_name": "Trece (Spain) (576p)",
+      "normalized": "trece spain",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.625,
+          "source_id": "TRECE.es",
+          "source_name": "TRECE"
+        }
+      ]
+    },
+    {
+      "target_id": "Trece.py@SD",
+      "target_name": "Trece (Paraguay)",
+      "normalized": "trece paraguay",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.667,
+          "source_id": "Canal.La.Tele.(Paraguay).ar",
+          "source_name": "Canal La Tele (Paraguay)"
+        },
+        {
+          "score": 0.625,
+          "source_id": "Canal.SNT.(Paraguay).ar",
+          "source_name": "Canal SNT (Paraguay)"
+        }
+      ]
+    }
+  ]
+}
