@@ -26,6 +26,16 @@ brands={
   "DW":r"\bdw\b",
   "Rai":r"\brai\b",
   "Paraguay":r"paraguay",
+  "E Entertainment":r"(^|[^a-z])e!([^a-z]|$)|e! entertainment|e entertainment",
+  "DreamWorks":r"dreamworks",
+  "Play TV":r"(^|[^a-z])play[ ._-]*tv([^a-z]|$)",
+  "TNT Novelas":r"tnt[ ._-]*novelas",
+  "Atacama":r"atacama",
+  "Canal Plus":r"canal\+|canal plus",
+  "De Pelicula":r"de[ ._-]*pel[ií]cula",
+  "Mar del Plata":r"mar[ ._-]*del[ ._-]*plata",
+  "Telefe Local":r"telefe",
+  "America Paraguay":r"america[ ._-]*paraguay|américa[ ._-]*paraguay",
 }
 compiled={k:re.compile(v,re.I) for k,v in brands.items()}
 channels={}
