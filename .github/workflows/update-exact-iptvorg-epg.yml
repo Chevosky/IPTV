@@ -9,6 +9,7 @@ on:
     paths:
       - "favorites-test.m3u"
       - "scripts/build_iptvorg_channels.py"
+      - "scripts/merge_xmltv.py"
       - "scripts/build_favorites_guide.py"
       - "epg-aliases.json"
       - ".github/workflows/update-exact-iptvorg-epg.yml"
@@ -43,24 +44,40 @@ jobs:
         working-directory: vendor/epg
         run: npm ci
 
-      - name: Grab exact EPG
+      - name: Grab exact EPG in site batches
         shell: bash
+        env:
+          NODE_OPTIONS: --max-old-space-size=6144
         run: |
-          set +e
-          cd vendor/epg
-          npm run grab -- \
-            --channels="$GITHUB_WORKSPACE/iptvorg-missing-selected.channels.xml" \
-            --output="$GITHUB_WORKSPACE/guide-iptvorg-exact.xml" \
-            --days=1 \
-            --maxConnections=6 \
-            --timeout=20000
-          status=$?
-          cd "$GITHUB_WORKSPACE"
-          if [ ! -s guide-iptvorg-exact.xml ]; then
-            echo "No exact EPG output was produced."
-            exit "$status"
+          mkdir -p "$GITHUB_WORKSPACE/guide-batches"
+          shopt -s nullglob
+          files=("$GITHUB_WORKSPACE"/iptvorg-batches/*.channels.xml)
+          if [ "${#files[@]}" -eq 0 ]; then
+            echo "No batch channel files were generated."
+            exit 1
           fi
-          echo "Grab exit status: $status; keeping non-empty partial output."
+          cd vendor/epg
+          for channels in "${files[@]}"; do
+            site="$(basename "$channels" .channels.xml)"
+            output="$GITHUB_WORKSPACE/guide-batches/${site}.xml"
+            echo "=== $site ==="
+            set +e
+            npm run grab -- \
+              --channels="$channels" \
+              --output="$output" \
+              --days=1 \
+              --maxConnections=3 \
+              --timeout=20000
+            status=$?
+            set -e
+            if [ "$status" -ne 0 ]; then
+              echo "Batch $site exited $status; continuing with other sources."
+            fi
+          done
+          cd "$GITHUB_WORKSPACE"
+
+      - name: Merge exact EPG batches
+        run: python scripts/merge_xmltv.py guide-batches guide-iptvorg-exact.xml
 
       - name: Rebuild curated guide with exact EPG
         run: python scripts/build_favorites_guide.py
