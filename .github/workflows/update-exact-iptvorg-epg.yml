@@ -12,14 +12,15 @@ on:
       - "scripts/merge_xmltv.py"
       - "scripts/build_favorites_guide.py"
       - "epg-aliases.json"
+      - "manual-epg-sources.json"
       - ".github/workflows/update-exact-iptvorg-epg.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-exact-iptvorg-epg
-  cancel-in-progress: true
+  group: iptv-publish
+  cancel-in-progress: false
 
 jobs:
   build:
