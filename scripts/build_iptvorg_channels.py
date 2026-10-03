@@ -8,7 +8,9 @@ ROOT=Path(__file__).resolve().parents[1]
 PLAYLIST=ROOT/"favorites-test.m3u"
 EPG_ROOT=Path(sys.argv[1]) if len(sys.argv)>1 else ROOT/"vendor/epg"
 OUT_XML=ROOT/"iptvorg-selected.channels.xml"
+OUT_MISSING_XML=ROOT/"iptvorg-missing-selected.channels.xml"
 OUT_JSON=ROOT/"iptvorg-epg-coverage.json"
+COVERAGE=ROOT/"coverage-favorites.json"
 
 SITE_PRIORITY=[
     "mi.tv",
@@ -81,6 +83,31 @@ for cid in sorted(selected):
 ET.indent(root,space="  ")
 ET.ElementTree(root).write(OUT_XML,encoding="utf-8",xml_declaration=True)
 
+current_missing=set()
+if COVERAGE.exists():
+    try:
+        cov=json.loads(COVERAGE.read_text(encoding="utf-8"))
+        current_missing={x["tvg_id"] for x in cov.get("missing",[])}
+    except Exception:
+        current_missing=set()
+
+missing_root=ET.Element("channels")
+missing_selected={}
+for cid in sorted(selected):
+    if current_missing and cid not in current_missing:
+        continue
+    r=selected[cid]
+    ch=ET.SubElement(missing_root,"channel",{
+        "site":r["site"],
+        "site_id":r["site_id"],
+        "lang":r["lang"],
+        "xmltv_id":cid,
+    })
+    ch.text=r["name"] or wanted[cid]
+    missing_selected[cid]=r
+ET.indent(missing_root,space="  ")
+ET.ElementTree(missing_root).write(OUT_MISSING_XML,encoding="utf-8",xml_declaration=True)
+
 site_counts=Counter(r["site"] for r in selected.values())
 missing=sorted(set(wanted)-set(selected))
 report={
@@ -101,5 +128,6 @@ print(json.dumps({
     "exactly_supported_channels":report["exactly_supported_channels"],
     "support_percent":report["support_percent"],
     "selected_sites":report["selected_sites"],
-    "missing":len(missing)
+    "missing":len(missing),
+    "currently_missing_but_exact_supported":len(missing_selected)
 },ensure_ascii=False,indent=2))
