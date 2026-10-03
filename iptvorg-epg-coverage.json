@@ -1,12 +1,12 @@
 {
   "playlist_channels": 263,
-  "exactly_supported_channels": 187,
-  "support_percent": 71.1,
+  "exactly_supported_channels": 188,
+  "support_percent": 71.5,
   "selected_sites": {
     "pluto.tv": 101,
     "mi.tv": 28,
     "plex.tv": 14,
-    "gatotv.com": 8,
+    "gatotv.com": 9,
     "xumo.tv": 6,
     "chaines-tv.orange.fr": 4,
     "freeview.co.uk": 3,
@@ -669,6 +669,16 @@
       "xmltv_id": "DePeliculaUS.us@SD",
       "name": "De Pelicula",
       "path": "sites/tvtv.us/tvtv.us.channels.xml"
+    },
+    {
+      "tvg_id": "DreamWorksChannelLatinAmerica.us@Panregional",
+      "playlist_name": "DreamWorks Channel Latin America",
+      "site": "gatotv.com",
+      "site_id": "dreamworks_channel_latinoamerica",
+      "lang": "es",
+      "xmltv_id": "DreamWorksChannelLatinAmerica.us@Panregional",
+      "name": "Canal DreamWorks Channel (Latinoamérica)",
+      "path": "manual-epg-sources.json"
     },
     {
       "tvg_id": "DubaiTVInternational.ae@SD",
@@ -2069,10 +2079,6 @@
     {
       "tvg_id": "DePeliculaPlus.mx@SD",
       "name": "De Pelicula Plus (1080p)"
-    },
-    {
-      "tvg_id": "DreamWorksChannelLatinAmerica.us@Panregional",
-      "name": "DreamWorks Channel Latin America"
     },
     {
       "tvg_id": "ELatinAmerica.us@Mexico",
@@ -4470,6 +4476,16 @@
         "xmltv_id": "DePeliculaUS.us@SD",
         "name": "De Pelicula",
         "path": "sites/tvtv.us/tvtv.us.channels.xml"
+      }
+    ],
+    "DreamWorksChannelLatinAmerica.us@Panregional": [
+      {
+        "site": "gatotv.com",
+        "site_id": "dreamworks_channel_latinoamerica",
+        "lang": "es",
+        "xmltv_id": "DreamWorksChannelLatinAmerica.us@Panregional",
+        "name": "Canal DreamWorks Channel (Latinoamérica)",
+        "path": "manual-epg-sources.json"
       }
     ],
     "DubaiTVInternational.ae@SD": [

@@ -64,6 +64,7 @@
   <channel site="programacion.tcc.com.uy" site_id="444" lang="es" xmltv_id="DW.de@Espanol">Deutsche Welle Español HD</channel>
   <channel site="mi.tv" site_id="ar#de-pelicula" lang="es" xmltv_id="DePeliculaLatinAmerica.mx@SD">De Película</channel>
   <channel site="tvtv.us" site_id="35401" lang="en" xmltv_id="DePeliculaUS.us@SD">De Pelicula</channel>
+  <channel site="gatotv.com" site_id="dreamworks_channel_latinoamerica" lang="es" xmltv_id="DreamWorksChannelLatinAmerica.us@Panregional">Canal DreamWorks Channel (Latinoamérica)</channel>
   <channel site="elcinema.com" site_id="1169" lang="en" xmltv_id="DubaiTVInternational.ae@SD">Dubai TV</channel>
   <channel site="mi.tv" site_id="ar#el-trece-satelital" lang="es" xmltv_id="ElTreceInternacionalLatinAmerica.ar@SD">Canal 13 (Satelital)</channel>
   <channel site="plex.tv" site_id="66633339ebeb02ee8bd1597c" lang="es" xmltv_id="FIFAPlus.uk@HispanicAmerica">FIFA+</channel>
