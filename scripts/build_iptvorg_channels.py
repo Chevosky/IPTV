@@ -18,6 +18,7 @@ EXACT_GUIDE=ROOT/"guide-iptvorg-exact.xml"
 SITE_PRIORITY=[
     "mi.tv",
     "meuguia.tv",
+    "guiadetv.com",
     "gatotv.com",
     "programacion.tcc.com.uy",
     "xumo.tv",
