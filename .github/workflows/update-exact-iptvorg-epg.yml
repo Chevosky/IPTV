@@ -1,0 +1,92 @@
+name: Update Exact IPTV-org EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "50 3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "favorites-test.m3u"
+      - "scripts/build_iptvorg_channels.py"
+      - "scripts/build_favorites_guide.py"
+      - "epg-aliases.json"
+      - ".github/workflows/update-exact-iptvorg-epg.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-exact-iptvorg-epg
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout IPTV repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Clone iptv-org EPG
+        run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git vendor/epg
+
+      - name: Select exact sources for currently missing channels
+        run: python scripts/build_iptvorg_channels.py vendor/epg
+
+      - name: Install iptv-org EPG dependencies
+        working-directory: vendor/epg
+        run: npm ci
+
+      - name: Grab exact EPG
+        shell: bash
+        run: |
+          set +e
+          cd vendor/epg
+          npm run grab -- \
+            --channels="$GITHUB_WORKSPACE/iptvorg-missing-selected.channels.xml" \
+            --output="$GITHUB_WORKSPACE/guide-iptvorg-exact.xml" \
+            --days=1 \
+            --maxConnections=6 \
+            --timeout=20000
+          status=$?
+          cd "$GITHUB_WORKSPACE"
+          if [ ! -s guide-iptvorg-exact.xml ]; then
+            echo "No exact EPG output was produced."
+            exit "$status"
+          fi
+          echo "Grab exit status: $status; keeping non-empty partial output."
+
+      - name: Rebuild curated guide with exact EPG
+        run: python scripts/build_favorites_guide.py
+
+      - name: Validate outputs
+        run: |
+          python - <<'PY'
+          import json
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+          for name in ["guide-iptvorg-exact.xml","guide-favorites.xml"]:
+              p=Path(name)
+              root=ET.parse(p).getroot()
+              print(f"{name}: {len(root.findall('channel'))} channels / {len(root.findall('programme'))} programmes / {p.stat().st_size/1024/1024:.2f} MB")
+          cov=json.loads(Path("coverage-favorites.json").read_text())
+          print(f"Curated coverage: {cov['covered_channels']}/{cov['playlist_channels']} = {cov['coverage_percent']}%")
+          PY
+
+      - name: Publish exact and curated guides
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add guide-iptvorg-exact.xml guide-favorites.xml coverage-favorites.json iptvorg-missing-selected.channels.xml iptvorg-selected.channels.xml iptvorg-epg-coverage.json
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+            exit 0
+          fi
+          git commit -m "Update exact and curated EPG"
+          git push
