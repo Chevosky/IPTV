@@ -1,0 +1,92 @@
+{
+  "AtacamaTV.cl@SD": {
+    "country": "cl",
+    "names": [
+      "Atacama TV (Copiapó)",
+      "Atacama TV"
+    ]
+  },
+  "DanceFM.cl@SD": {
+    "country": "cl",
+    "names": [
+      "Dance FM"
+    ]
+  },
+  "ISTV.br@SD": {
+    "country": "br",
+    "names": [
+      "ISTV"
+    ]
+  },
+  "Nickelodeon.br@SD": {
+    "country": "br",
+    "names": [
+      "Nickelodeon"
+    ]
+  },
+  "MegaTV.py@SD": {
+    "country": "py",
+    "names": [
+      "Mega TV"
+    ]
+  },
+  "OasisTV.py@SD": {
+    "country": "py",
+    "names": [
+      "Oasis TV"
+    ]
+  },
+  "TVCamara.py@SD": {
+    "country": "py",
+    "names": [
+      "TV Camara",
+      "TV Cámara"
+    ]
+  },
+  "RaiSudtirol.it@SD": {
+    "country": "it",
+    "names": [
+      "Rai Sudtirol",
+      "Rai Südtirol"
+    ]
+  },
+  "RaiWorldPremium.it@SD": {
+    "country": "it",
+    "names": [
+      "Rai World Premium"
+    ]
+  },
+  "ImpactTVDance.ro@SD": {
+    "country": "ro",
+    "names": [
+      "Impact TV Dance"
+    ]
+  },
+  "ElChavoTV.mx@HD": {
+    "country": "mx",
+    "names": [
+      "El Chavo TV"
+    ]
+  },
+  "FashionTVParisLOriginal.fr@SD": {
+    "country": "fr",
+    "names": [
+      "FashionTV Paris L'Original",
+      "Fashion TV Paris L'Original"
+    ]
+  },
+  "FashionTVSecrets.fr@HD": {
+    "country": "fr",
+    "names": [
+      "FashionTV Secrets",
+      "Fashion TV Secrets"
+    ]
+  },
+  "TotalmusicDance.uk@HD": {
+    "country": "gb",
+    "names": [
+      "Totalmusic Dance",
+      "Total Music Dance"
+    ]
+  }
+}
