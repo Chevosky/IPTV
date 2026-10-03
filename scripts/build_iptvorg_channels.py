@@ -12,6 +12,7 @@ OUT_MISSING_XML=ROOT/"iptvorg-missing-selected.channels.xml"
 BATCH_DIR=ROOT/"iptvorg-batches"
 OUT_JSON=ROOT/"iptvorg-epg-coverage.json"
 COVERAGE=ROOT/"coverage-favorites.json"
+MANUAL=ROOT/"manual-epg-sources.json"
 
 SITE_PRIORITY=[
     "mi.tv",
@@ -64,6 +65,24 @@ for path in EPG_ROOT.glob("sites/**/*.channels.xml"):
             "name":(ch.text or "").strip(),
             "path":str(path.relative_to(EPG_ROOT))
         })
+
+if MANUAL.exists():
+    try:
+        manual=json.loads(MANUAL.read_text(encoding="utf-8"))
+    except Exception:
+        manual={}
+    for cid,rows in manual.items():
+        if cid not in wanted:
+            continue
+        for r in rows:
+            matches[cid].append({
+                "site":r["site"],
+                "site_id":r["site_id"],
+                "lang":r.get("lang",""),
+                "xmltv_id":cid,
+                "name":r.get("name") or wanted[cid],
+                "path":"manual-epg-sources.json"
+            })
 
 selected={}
 for cid,rows in matches.items():
