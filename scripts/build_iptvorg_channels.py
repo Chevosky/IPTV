@@ -9,6 +9,7 @@ PLAYLIST=ROOT/"favorites-test.m3u"
 EPG_ROOT=Path(sys.argv[1]) if len(sys.argv)>1 else ROOT/"vendor/epg"
 OUT_XML=ROOT/"iptvorg-selected.channels.xml"
 OUT_MISSING_XML=ROOT/"iptvorg-missing-selected.channels.xml"
+BATCH_DIR=ROOT/"iptvorg-batches"
 OUT_JSON=ROOT/"iptvorg-epg-coverage.json"
 COVERAGE=ROOT/"coverage-favorites.json"
 
@@ -108,6 +109,45 @@ for cid in sorted(selected):
 ET.indent(missing_root,space="  ")
 ET.ElementTree(missing_root).write(OUT_MISSING_XML,encoding="utf-8",xml_declaration=True)
 
+# Also create per-site batches with up to 3 alternate exact sources per missing channel.
+if BATCH_DIR.exists():
+    for p in BATCH_DIR.glob("*.channels.xml"):
+        p.unlink()
+else:
+    BATCH_DIR.mkdir(parents=True)
+
+site_rows=defaultdict(list)
+for cid in sorted(current_missing):
+    rows=matches.get(cid,[])
+    if not rows:
+        continue
+    ranked=sorted(rows,key=lambda r:(rank(r["site"],r["path"]),r["site"],r["path"],r["site_id"]))
+    seen=set()
+    for r in ranked:
+        key=(r["site"],r["site_id"])
+        if key in seen:
+            continue
+        seen.add(key)
+        site_rows[r["site"]].append(r)
+        if len(seen) >= 3:
+            break
+
+def safe_name(site):
+    return re.sub(r"[^A-Za-z0-9._-]+","_",site)
+
+for site,rows in sorted(site_rows.items()):
+    rroot=ET.Element("channels")
+    for r in rows:
+        ch=ET.SubElement(rroot,"channel",{
+            "site":r["site"],
+            "site_id":r["site_id"],
+            "lang":r["lang"],
+            "xmltv_id":r["xmltv_id"],
+        })
+        ch.text=r["name"] or wanted[r["xmltv_id"]]
+    ET.indent(rroot,space="  ")
+    ET.ElementTree(rroot).write(BATCH_DIR/f"{safe_name(site)}.channels.xml",encoding="utf-8",xml_declaration=True)
+
 site_counts=Counter(r["site"] for r in selected.values())
 missing=sorted(set(wanted)-set(selected))
 report={
@@ -129,5 +169,7 @@ print(json.dumps({
     "support_percent":report["support_percent"],
     "selected_sites":report["selected_sites"],
     "missing":len(missing),
-    "currently_missing_but_exact_supported":len(missing_selected)
+    "currently_missing_but_exact_supported":len(missing_selected),
+    "batch_sites":len(site_rows),
+    "batch_entries":sum(len(v) for v in site_rows.values())
 },ensure_ascii=False,indent=2))
