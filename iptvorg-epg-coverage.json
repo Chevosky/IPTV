@@ -1,10 +1,10 @@
 {
   "playlist_channels": 263,
-  "exactly_supported_channels": 183,
-  "support_percent": 69.6,
+  "exactly_supported_channels": 187,
+  "support_percent": 71.1,
   "selected_sites": {
     "pluto.tv": 101,
-    "mi.tv": 26,
+    "mi.tv": 28,
     "plex.tv": 14,
     "gatotv.com": 8,
     "xumo.tv": 6,
@@ -13,6 +13,7 @@
     "i.mjh.nz": 3,
     "teleboy.ch": 2,
     "programacion.tcc.com.uy": 2,
+    "elcinema.com": 2,
     "canalplus.com": 1,
     "horizon.tv": 1,
     "tvtv.us": 1,
@@ -23,10 +24,10 @@
     "orangetv.orange.es": 1,
     "tataplay.com": 1,
     "tv.dir.bg": 1,
-    "elcinema.com": 1,
     "foxtel.com.au": 1,
     "epg.iptvx.one": 1,
-    "programacion-tv.elpais.com": 1
+    "programacion-tv.elpais.com": 1,
+    "directv.com": 1
   },
   "selected": [
     {
@@ -108,6 +109,16 @@
       "xmltv_id": "AdrenalinaPuraTV.us@Brazil",
       "name": "Adrenalina Pura TV",
       "path": "sites/pluto.tv/pluto.tv_br.channels.xml"
+    },
+    {
+      "tvg_id": "AmericaParaguay.py@SD",
+      "playlist_name": "America Paraguay (720p)",
+      "site": "mi.tv",
+      "site_id": "py#america-television",
+      "lang": "es",
+      "xmltv_id": "AmericaParaguay.py@SD",
+      "name": "AMÉRICA TELEVISION",
+      "path": "manual-epg-sources.json"
     },
     {
       "tvg_id": "AmericaTV.ar@SD",
@@ -658,6 +669,16 @@
       "xmltv_id": "DePeliculaUS.us@SD",
       "name": "De Pelicula",
       "path": "sites/tvtv.us/tvtv.us.channels.xml"
+    },
+    {
+      "tvg_id": "DubaiTVInternational.ae@SD",
+      "playlist_name": "Dubai TV International (1080p)",
+      "site": "elcinema.com",
+      "site_id": "1169",
+      "lang": "en",
+      "xmltv_id": "DubaiTVInternational.ae@SD",
+      "name": "Dubai TV",
+      "path": "manual-epg-sources.json"
     },
     {
       "tvg_id": "ElTreceInternacionalLatinAmerica.ar@SD",
@@ -1620,6 +1641,16 @@
       "path": "sites/chaines-tv.orange.fr/chaines-tv.orange.fr.channels.xml"
     },
     {
+      "tvg_id": "RaiWorldPremium.it@SD",
+      "playlist_name": "Rai World Premium (1080p)",
+      "site": "directv.com",
+      "site_id": "9e1c6135-ac12-439a-a592-48107be0ff96",
+      "lang": "en",
+      "xmltv_id": "RaiWorldPremium.it@SD",
+      "name": "Rai World Premium",
+      "path": "manual-epg-sources.json"
+    },
+    {
       "tvg_id": "RealAmericasVoice.us@SD",
       "playlist_name": "Real America's Voice (1080p)",
       "site": "i.mjh.nz",
@@ -1820,6 +1851,16 @@
       "path": "sites/xumo.tv/xumo.tv.channels.xml"
     },
     {
+      "tvg_id": "TigoSports.py@SD",
+      "playlist_name": "Tigo Sports (Paraguay) (1080p)",
+      "site": "mi.tv",
+      "site_id": "py#tigo-sports",
+      "lang": "es",
+      "xmltv_id": "TigoSports.py@SD",
+      "name": "Tigo Sports",
+      "path": "manual-epg-sources.json"
+    },
+    {
       "tvg_id": "TopGear.uk@SD",
       "playlist_name": "Top Gear (720p)",
       "site": "xumo.tv",
@@ -1880,10 +1921,6 @@
     {
       "tvg_id": "AdultSwimLatinAmerica.us@Panregional",
       "name": "Adult Swim Latin America (1080p) [Geo-blocked]"
-    },
-    {
-      "tvg_id": "AmericaParaguay.py@SD",
-      "name": "America Paraguay (720p)"
     },
     {
       "tvg_id": "AtacamaTV.cl@SD",
@@ -2038,10 +2075,6 @@
       "name": "DreamWorks Channel Latin America"
     },
     {
-      "tvg_id": "DubaiTVInternational.ae@SD",
-      "name": "Dubai TV International (1080p)"
-    },
-    {
       "tvg_id": "ELatinAmerica.us@Mexico",
       "name": "E! Latin America Mexico (720p)"
     },
@@ -2118,10 +2151,6 @@
       "name": "Rai Sudtirol"
     },
     {
-      "tvg_id": "RaiWorldPremium.it@SD",
-      "name": "Rai World Premium (1080p)"
-    },
-    {
       "tvg_id": "RealAmericasVoice.us@KPVMLD",
       "name": "Real America's Voice KPVM-LD"
     },
@@ -2172,10 +2201,6 @@
     {
       "tvg_id": "ThePetCollective.us@Spain",
       "name": "The Pet Collective Spain"
-    },
-    {
-      "tvg_id": "TigoSports.py@SD",
-      "name": "Tigo Sports (Paraguay) (1080p)"
     },
     {
       "tvg_id": "TotalmusicDance.uk@HD",
@@ -2301,6 +2326,16 @@
         "xmltv_id": "AdrenalinaPuraTV.us@Brazil",
         "name": "Adrenalina Pura TV",
         "path": "sites/i.mjh.nz/i.mjh.nz_pluto.channels.xml"
+      }
+    ],
+    "AmericaParaguay.py@SD": [
+      {
+        "site": "mi.tv",
+        "site_id": "py#america-television",
+        "lang": "es",
+        "xmltv_id": "AmericaParaguay.py@SD",
+        "name": "AMÉRICA TELEVISION",
+        "path": "manual-epg-sources.json"
       }
     ],
     "AmericaTV.ar@SD": [
@@ -4437,6 +4472,24 @@
         "path": "sites/tvtv.us/tvtv.us.channels.xml"
       }
     ],
+    "DubaiTVInternational.ae@SD": [
+      {
+        "site": "elcinema.com",
+        "site_id": "1169",
+        "lang": "en",
+        "xmltv_id": "DubaiTVInternational.ae@SD",
+        "name": "Dubai TV",
+        "path": "manual-epg-sources.json"
+      },
+      {
+        "site": "osn.com",
+        "site_id": "6603",
+        "lang": "en",
+        "xmltv_id": "DubaiTVInternational.ae@SD",
+        "name": "Dubai TV HD",
+        "path": "manual-epg-sources.json"
+      }
+    ],
     "ElTreceInternacionalLatinAmerica.ar@SD": [
       {
         "site": "mi.tv",
@@ -5299,6 +5352,22 @@
         "xmltv_id": "Nickelodeon.br@SD",
         "name": "Nickelodeon",
         "path": "sites/meuguia.tv/meuguia.tv.channels.xml"
+      },
+      {
+        "site": "guiadetv.com",
+        "site_id": "nickelodeon",
+        "lang": "pt",
+        "xmltv_id": "Nickelodeon.br@SD",
+        "name": "Nickelodeon",
+        "path": "manual-epg-sources.json"
+      },
+      {
+        "site": "clarotvmais.com.br",
+        "site_id": "3",
+        "lang": "pt",
+        "xmltv_id": "Nickelodeon.br@SD",
+        "name": "NICKELODEON HD",
+        "path": "manual-epg-sources.json"
       }
     ],
     "ParaguayTV.py@SD": [
@@ -7125,6 +7194,24 @@
         "path": "sites/tv.sfr.fr/tv.sfr.fr.channels.xml"
       }
     ],
+    "RaiWorldPremium.it@SD": [
+      {
+        "site": "directv.com",
+        "site_id": "9e1c6135-ac12-439a-a592-48107be0ff96",
+        "lang": "en",
+        "xmltv_id": "RaiWorldPremium.it@SD",
+        "name": "Rai World Premium",
+        "path": "manual-epg-sources.json"
+      },
+      {
+        "site": "streamingtvguides.com",
+        "site_id": "DTV:RAIWP:2023",
+        "lang": "en",
+        "xmltv_id": "RaiWorldPremium.it@SD",
+        "name": "Rai World Premium (99R)",
+        "path": "manual-epg-sources.json"
+      }
+    ],
     "RealAmericasVoice.us@SD": [
       {
         "site": "i.mjh.nz",
@@ -7659,6 +7746,24 @@
         "xmltv_id": "ThePetCollective.us@US",
         "name": "The Pet Collective",
         "path": "sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml"
+      }
+    ],
+    "TigoSports.py@SD": [
+      {
+        "site": "mi.tv",
+        "site_id": "py#tigo-sports",
+        "lang": "es",
+        "xmltv_id": "TigoSports.py@SD",
+        "name": "Tigo Sports",
+        "path": "manual-epg-sources.json"
+      },
+      {
+        "site": "directv.com.ar",
+        "site_id": "4197#TIGO",
+        "lang": "es",
+        "xmltv_id": "TigoSports.py@SD",
+        "name": "TIGO Sports",
+        "path": "manual-epg-sources.json"
       }
     ],
     "TopGear.uk@SD": [
