@@ -12,6 +12,7 @@ PLAYLIST = ROOT / "favorites-test.m3u"
 SOURCE = ROOT / "guide.xml"
 EXACT_SOURCE = ROOT / "guide-iptvorg-exact.xml"
 ALIASES_FILE = ROOT / "epg-aliases.json"
+FORCE_ALIASES_FILE = ROOT / "epg-force-aliases.json"
 OUT = ROOT / "guide-favorites.xml"
 REPORT = ROOT / "coverage-favorites.json"
 WINDOW_HOURS = 24
@@ -71,6 +72,9 @@ wanted = set(playlist)
 aliases = {}
 if ALIASES_FILE.exists():
     aliases = json.loads(ALIASES_FILE.read_text(encoding="utf-8"))
+force_aliases = {}
+if FORCE_ALIASES_FILE.exists():
+    force_aliases = json.loads(FORCE_ALIASES_FILE.read_text(encoding="utf-8"))
 
 if not wanted:
     raise SystemExit("No tvg-id values found in favorites-test.m3u")
@@ -80,7 +84,7 @@ if not SOURCE.exists():
 # Read the consolidated guide plus an optional exact-ID guide generated from iptv-org/epg.
 guide_channels = {}
 guide_programmes = {}
-needed_source_ids = set(wanted) | set(aliases.values())
+needed_source_ids = set(wanted) | set(aliases.values()) | set(force_aliases.values())
 
 def load_guide(path, replace=False):
     local_channels = {}
@@ -113,8 +117,28 @@ out_channels = {}
 out_programmes = []
 coverage_source = {}
 
+# Forced aliases take precedence over exact tvg-id matches when the exact id is
+# known to point at the wrong regional schedule.
+for target_id, source_id in force_aliases.items():
+    if target_id not in wanted:
+        continue
+    ps = guide_programmes.get(source_id, [])
+    if not ps:
+        continue
+    source_ch = guide_channels.get(source_id)
+    ch = ET.fromstring(ET.tostring(source_ch, encoding="utf-8")) if source_ch is not None else ET.Element("channel")
+    ch.set("id", target_id)
+    out_channels[target_id] = ch
+    for source_p in ps:
+        p = ET.fromstring(ET.tostring(source_p, encoding="utf-8"))
+        p.set("channel", target_id)
+        out_programmes.append(p)
+    coverage_source[target_id] = {"type":"forced-alias","source_id":source_id}
+
 # Direct ID matches.
 for target_id in wanted:
+    if target_id in coverage_source:
+        continue
     ps = guide_programmes.get(target_id, [])
     if not ps:
         continue
@@ -244,6 +268,7 @@ REPORT.write_text(json.dumps(report, ensure_ascii=False, indent=2)+"\n", encodin
 
 print(f"Playlist channels: {len(wanted)}")
 print(f"Covered channels: {len(covered)} ({report['coverage_percent']}%)")
+print(f"  forced aliases: {sum(1 for x in coverage_source.values() if x['type']=='forced-alias')}")
 print(f"  direct: {sum(1 for x in coverage_source.values() if x['type']=='direct')}")
 print(f"  aliases: {sum(1 for x in coverage_source.values() if x['type']=='alias')}")
 print(f"  pluto-api: {sum(1 for x in coverage_source.values() if x['type']=='pluto-api')}")
