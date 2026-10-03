@@ -62,5 +62,13 @@
       "lang": "en",
       "name": "Dubai TV HD"
     }
+  ],
+  "DreamWorksChannelLatinAmerica.us@Panregional": [
+    {
+      "site": "gatotv.com",
+      "site_id": "dreamworks_channel_latinoamerica",
+      "lang": "es",
+      "name": "Canal DreamWorks Channel (Latinoamérica)"
+    }
   ]
 }
