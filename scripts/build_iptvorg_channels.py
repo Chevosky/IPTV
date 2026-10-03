@@ -152,7 +152,11 @@ for cid in sorted(batch_targets):
     rows=matches.get(cid,[])
     if not rows:
         continue
-    ranked=sorted(rows,key=lambda r:(rank(r["site"],r["path"]),r["site"],r["path"],r["site_id"]))
+    manual_rows=[r for r in rows if r.get("path")=="manual-epg-sources.json"]
+    regular_rows=[r for r in rows if r.get("path")!="manual-epg-sources.json"]
+    ranked=sorted(manual_rows,key=lambda r:(r["site"],r["site_id"])) + sorted(
+        regular_rows,key=lambda r:(rank(r["site"],r["path"]),r["site"],r["path"],r["site_id"])
+    )
     seen=set()
     for r in ranked:
         key=(r["site"],r["site_id"])
