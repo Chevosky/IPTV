@@ -14,6 +14,7 @@ on:
       - "freeepg-fallbacks.json"
       - "scripts/build_favorites_guide.py"
       - "epg-aliases.json"
+      - "epg-force-aliases.json"
       - "manual-epg-sources.json"
       - ".github/workflows/update-exact-iptvorg-epg.yml"
 
