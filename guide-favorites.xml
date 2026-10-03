@@ -833,7 +833,9 @@
   </channel>
   <channel id="StudioUniversalLatinAmerica.us@Brazil">
     <display-name>Studio Universal Latin America Brazil (720p)</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png" />
+    <url>http://www.movistar.co</url>
   </channel>
   <channel id="StudioUniversalLatinAmerica.us@Panregional">
     <display-name>Studio Universal Latin America (1080p)</display-name>
@@ -877,7 +879,9 @@
   </channel>
   <channel id="Telefe.ar@SD">
     <display-name>Telefe (1080p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" />
+    <icon src="http://dtil.tmsimg.com/assets/s100066_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s100066_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
   </channel>
   <channel id="TelefeBuenosAires.ar@SD">
     <display-name>Telefe Buenos Aires (1080p)</display-name>
@@ -8885,13 +8889,6 @@
     <category>Thriller</category>
     <category>Thriller</category>
   </programme>
-  <programme channel="BestofMTV.se@DK" start="20261003165902 +0000" stop="20261003172402 +0000">
-    <title>My Super Sweet 16: Jazmin</title>
-    <sub-title>Jazmin</sub-title>
-    <desc>Years ago Jazmin lived in foster care. Now she's living large thanks to having been adopted by rich parents, and she's anxious to have a Sweet 16 to make up for all of the birthdays she's missed.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
-  </programme>
   <programme channel="BestofMTV.se@DK" start="20261003172402 +0000" stop="20261003174802 +0000">
     <title>Pimp My Ride</title>
     <sub-title>1990 Mitsubishi Mirage</sub-title>
@@ -10719,13 +10716,6 @@
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261003163300 +0000" stop="20261003172400 +0000">
-    <title>The Drew Barrymore Show: Craft Week with Zooey Deschanel, Dumplings with Wilson Tang</title>
-    <sub-title>Craft Week with Zooey Deschanel, Dumplings with Wilson Tang</sub-title>
-    <desc>Drew is sharing DIY crafts all week-long, kicking it off with actress Zooey Deschanel. Then, Drew learns how to make dumplings with Wilson Tang. Supermodel Karolina Kurkova joins Drew at the Drew’s News desk to discuss her line of sustainable masks.</desc>
-    <category>Talk Show</category>
-    <category>Talk Show</category>
-  </programme>
   <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261003172400 +0000" stop="20261003174700 +0000">
     <title>The Drew Barrymore Show: Whoopi Goldberg, Drew's News with Matt Rogers</title>
     <sub-title>Whoopi Goldberg, Drew's News with Matt Rogers</sub-title>
@@ -11001,13 +10991,6 @@ great 1860 painting cellphone debate.</desc>
     <title>The Drew Barrymore Show: Jimmy Fallon, Cake Week Kick-Of with Molly Yeh, Norah O’Donnell</title>
     <sub-title>Jimmy Fallon, Cake Week Kick-Of with Molly Yeh, Norah O’Donnell</sub-title>
     <desc>Jimmy Fallon stops by to chat about his new book and plays a rousing game of "Drewth or Dare." Drew kicks-off Cake Week with Molly Yeh, who is whipping up a chocolate chili splatter paint cake. Plus, CBS Evening News Anchor Norah O’Donnell joins Drew.</desc>
-    <category>Talk Show</category>
-    <category>Talk Show</category>
-  </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261003165800 +0000" stop="20261003172100 +0000">
-    <title>The Drew Barrymore Show: Drew's News with Taye Diggs, Jamila Norman, Jeralyn Gerba, Nadine Jane</title>
-    <sub-title>Drew's News with Taye Diggs, Jamila Norman, Jeralyn Gerba, Nadine Jane</sub-title>
-    <desc>"All American" star Taye Diggs is joining Drew and Ross Mathews at the news desk to hit the hottest headlines of the day! Jamila Norman is joining Drew and Taye and sharing tips on how to build your own herb garden.</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
@@ -11661,13 +11644,6 @@ great 1860 painting cellphone debate.</desc>
     <desc>Drew and Ross Mathews are serving the news sunny-side up in an all new Drew's News. Then, upcycling expert Sarah Teresinski is transforming items off the street that she found on the Stooping NYC Instagram page.</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
-  </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261003163200 +0000" stop="20261003172200 +0000">
-    <title>The Drew Barrymore Show</title>
-    <sub-title>Patricia Heaton, Design By Drew, Molly Bernard</sub-title>
-    <desc>“Your Second Act” author Patricia Heaton chats. “Younger” star Molly Bernard stops by. In new Design by Drew, Drew makes over the living room for a deserving woman who lost her father to COVID-19 and now helps seniors get appointments for their vaccine.</desc>
-    <category>Variety Show</category>
-    <category>Variety Show</category>
   </programme>
   <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261003172200 +0000" stop="20261003181300 +0000">
     <title>The Drew Barrymore Show</title>
@@ -12781,13 +12757,6 @@ great 1860 painting cellphone debate.</desc>
     <desc>Catherine and Brass investigate when dominatrix Lady Heather is almost strangled to death.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
-  </programme>
-  <programme channel="CSIMiami.us@BR" start="20261003163400 +0000" stop="20261003172400 +0000">
-    <title>CSI: Miami</title>
-    <sub-title>Vendo Vermelho</sub-title>
-    <desc>Horatio luta para salvar Yelina e quando Delko vai contra o apelo de Calleigh e ajuda o pai perigoso dele, sua vida é colocada em perigo.</desc>
-    <category>Action &amp; Adventure</category>
-    <category>Adventures</category>
   </programme>
   <programme channel="CSIMiami.us@BR" start="20261003172400 +0000" stop="20261003181600 +0000">
     <title>CSI: Miami</title>
@@ -21549,32 +21518,80 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261003150500 +0000" stop="20261003153000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
+  <programme start="20261003151000 +0000" stop="20261003153500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Turbo FAST</title>
+  </programme>
   <programme start="20261003153000 +0000" stop="20261003155500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261003153500 +0000" stop="20261003160000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
   </programme>
   <programme start="20261003155500 +0000" stop="20261003162000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261003160000 +0000" stop="20261003162500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
+  </programme>
   <programme start="20261003162000 +0000" stop="20261003164500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261003162500 +0000" stop="20261003165000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las aventuras del Gato con Botas</title>
   </programme>
   <programme start="20261003164500 +0000" stop="20261003171000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261003165000 +0000" stop="20261003171500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las aventuras del Gato con Botas</title>
+  </programme>
   <programme start="20261003171000 +0000" stop="20261003173500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261003171500 +0000" stop="20261003174000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las aventuras del Gato con Botas</title>
   </programme>
   <programme start="20261003173500 +0000" stop="20261003180000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261003174000 +0000" stop="20261003180500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
   <programme start="20261003180000 +0000" stop="20261003192500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls</title>
+  </programme>
+  <programme start="20261003180500 +0000" stop="20261003183000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261003183000 +0000" stop="20261003185500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261003185500 +0000" stop="20261003192000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261003192000 +0000" stop="20261003194500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261003192500 +0000" stop="20261003211000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kubo y la búsqueda samurái</title>
   </programme>
+  <programme start="20261003194500 +0000" stop="20261003201000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261003201000 +0000" stop="20261003203500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261003203500 +0000" stop="20261003210000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261003210000 +0000" stop="20261003222500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Trolls</title>
+  </programme>
   <programme start="20261003211000 +0000" stop="20261003224500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Los Boxtrolls</title>
+  </programme>
+  <programme start="20261003222500 +0000" stop="20261004001000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kubo y la búsqueda samurái</title>
   </programme>
   <programme start="20261003224500 +0000" stop="20261003231000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Glitter Model</title>
@@ -21588,6 +21605,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004000000 +0000" stop="20261004002500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261004001000 +0000" stop="20261004014500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Los Boxtrolls</title>
+  </programme>
   <programme start="20261004002500 +0000" stop="20261004005000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
@@ -21600,26 +21620,50 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004014000 +0000" stop="20261004020500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
+  <programme start="20261004014500 +0000" stop="20261004021000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Glitter Model</title>
+  </programme>
   <programme start="20261004020500 +0000" stop="20261004023000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261004021000 +0000" stop="20261004023500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004025500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
+  <programme start="20261004023500 +0000" stop="20261004030000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261004025500 +0000" stop="20261004032000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
+  </programme>
+  <programme start="20261004030000 +0000" stop="20261004032500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261004032000 +0000" stop="20261004034500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
+  <programme start="20261004032500 +0000" stop="20261004035000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261004034500 +0000" stop="20261004041500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El amanecer de los Croods</title>
+  </programme>
+  <programme start="20261004035000 +0000" stop="20261004041500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261004041500 +0000" stop="20261004044000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El amanecer de los Croods</title>
   </programme>
+  <programme start="20261004041500 +0000" stop="20261004044000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
   <programme start="20261004044000 +0000" stop="20261004051000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El Show de Peabody y Sherman</title>
+  </programme>
+  <programme start="20261004044000 +0000" stop="20261004050500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
   <programme start="20261003150000 +0000" stop="20261003160000 +0000" channel="DubaiTVInternational.ae@SD">
     <title lang="en">Rise of the Raven</title>
@@ -21629,6 +21673,14 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="xmltv_ns">0.6.0/1</episode-num>
     <episode-num system="onscreen">S01E07</episode-num>
     <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR467726438/436b8168ad5373badfce11dae8eea9a7.jpg</image>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003153000 +0000" channel="DubaiTVInternational.ae@SD">
+    <title lang="en">أخبار الإمارات</title>
+    <image>https://media0106.elcinema.com/blank_photos/150x200.jpg</image>
+  </programme>
+  <programme start="20261003153000 +0000" stop="20261003163000 +0000" channel="DubaiTVInternational.ae@SD">
+    <title lang="en">برنامج</title>
+    <image>https://media0106.elcinema.com/blank_photos/150x200.jpg</image>
   </programme>
   <programme start="20261003160000 +0000" stop="20261003161000 +0000" channel="DubaiTVInternational.ae@SD">
     <title lang="en">Qeyam</title>
@@ -21654,6 +21706,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="en">Entertainment</category>
     <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR134095007/d146f5842874f3bac1d168077fd3e430.jpg</image>
   </programme>
+  <programme start="20261003163000 +0000" stop="20261003173000 +0000" channel="DubaiTVInternational.ae@SD">
+    <title lang="en">فيلم أجنبي</title>
+    <image>https://media0106.elcinema.com/blank_photos/150x200.jpg</image>
+  </programme>
   <programme start="20261003170000 +0000" stop="20261003180000 +0000" channel="DubaiTVInternational.ae@SD">
     <title lang="en">Our Father</title>
     <sub-title lang="en">Episode 91</sub-title>
@@ -21662,6 +21718,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="xmltv_ns">0.90.0/1</episode-num>
     <episode-num system="onscreen">S01E91</episode-num>
     <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SN1207174347/fdb1dddc059aee2fbd58f34c26c1757c.jpg</image>
+  </programme>
+  <programme start="20261003173000 +0000" stop="20261003183000 +0000" channel="DubaiTVInternational.ae@SD">
+    <title lang="en">Il paradiso delle signore S5</title>
+    <desc lang="en">In season 5, new events unfold, including Vittorio recalling his memories with Marta and Rocco seeking to leave for Sicily to confront the father of his future wife.</desc>
+    <category lang="en">Series - Normal</category>
+    <image>https://media0106.elcinema.com/uploads/_150x200_ee0b5668f5ed1730f3d0d2ba8fe47689756fe381e5350b1b70de6fbdd576e9bf.jpg</image>
   </programme>
   <programme start="20261003180000 +0000" stop="20261003183000 +0000" channel="DubaiTVInternational.ae@SD">
     <title lang="en">Al Akhbar Al A'alameyyah</title>
@@ -22595,24 +22657,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004161205 +0000" stop="20261004183859 +0000" channel="FIFAPlus.uk@HispanicAmerica">
     <title lang="es">Francia vs Bélgica | Partido por el tercer puesto | Copa Mundial de la FIFA México 1986™ | Partido Completo</title>
     <desc lang="es">Vídeo del partido completo entre Francia y Bélgica jugado en el Estadio Cuauhtémoc, Puebla de Zaragoza el sábado, 28 de junio de 1986 a las 12:00 (hora local).</desc>
-  </programme>
-  <programme start="20261003150600 +0000" stop="20261003152400 +0000" channel="FIFAPlus.uk@Portuguese">
-    <title lang="pt">Copa do Mundo FIFA Brasil 2014™ | A Final</title>
-    <sub-title lang="pt">Episode 1</sub-title>
-    <desc lang="pt">Através das histórias dos presentes no Maracanã, reviva a emocionante final de 2014 entre Alemanha e Argentina.</desc>
-    <date>20250415</date>
-    <category lang="pt">Sports</category>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <rating>
-      <value>UNRATED</value>
-    </rating>
-    <image>https://partner-upload-assets.wurl.com/sysdata_s_p_a/73450.jpg</image>
-  </programme>
-  <programme start="20261003150600 +0000" stop="20261003152400 +0000" channel="FIFAPlus.uk@Portuguese">
-    <title lang="pt">Copa Do Mundo Fifa Brasil 2014™ | A Final</title>
-    <desc lang="pt">Reviva a final de 2014 entre Alemanha e Argentina no Maracanã.</desc>
-    <image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-01/0a60a55970c7f8d7795381c41d754e52.jpg.webp</image>
   </programme>
   <programme start="20261003152400 +0000" stop="20261003160443 +0000" channel="FIFAPlus.uk@Portuguese">
     <title lang="pt">World Champions: Alemanha 2014</title>
@@ -23976,13 +24020,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261003205500 -0500" stop="20261003215000 -0500" channel="History2LatinAmerica.us@Panregional">
     <title lang="es">El Viejo Oeste con Kevin Costner</title>
     <sub-title lang="es">Comanchería</sub-title>
-  </programme>
-  <programme channel="LEGOKidsTV.us@SD" start="20261003165900 +0000" stop="20261003172600 +0000">
-    <title>LEGO Ninjago: Masters of Spinjitzu</title>
-    <sub-title>Curse World, Part I</sub-title>
-    <desc>When Moro uses the Realm Crystal to open a portal to the Cursed Realm, ghosts take over the town - but the Ninja, in disguise, manage to get Lloyd to the center of the town and Lloyd steals the crystal…</desc>
-    <category>Children &amp; Family</category>
-    <category>Family Animation</category>
   </programme>
   <programme channel="LEGOKidsTV.us@SD" start="20261003172600 +0000" stop="20261003175300 +0000">
     <title>LEGO Ninjago: Masters of Spinjitzu</title>
@@ -29156,13 +29193,6 @@ fasttømrede par.</desc>
     <category>Drama</category>
     <category>Romantic Drama</category>
   </programme>
-  <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261003163140 +0000" stop="20261003172640 +0000">
-    <title>José Mota Presenta: Jose Mota Presenta ES</title>
-    <sub-title>Jose Mota Presenta ES</sub-title>
-    <desc>Una entrega que tiene como protagonista al Cid en 'El cuñado histórico' y en la que aparecerá un nuevo personaje: el hombre de los petardos. Además, Jacintus XL presenta su nuevo canal y se muestra el día a día de los periodistas de sucesos.</desc>
-    <category>Comedy</category>
-    <category>African-American Comedies</category>
-  </programme>
   <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261003172640 +0000" stop="20261003182140 +0000">
     <title>José Mota Presenta: Jose Mota Presenta ES</title>
     <sub-title>Jose Mota Presenta ES</sub-title>
@@ -33018,13 +33048,6 @@ fasttømrede par.</desc>
     <category lang="en">Dramedy</category>
     <icon src="https://images.pluto.tv/series/64a2d190fdd8620013ec4b5e/tile_1769549042797.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="PlutoTVSeriesSciFi.de@ES" start="20261003163656 +0000" stop="20261003172556 +0000">
-    <title>The Dresden Files: Mala sangre</title>
-    <sub-title>Mala sangre</sub-title>
-    <desc>Dresden se ve envuelto en una lucha territorial entre bandas de vampiros cuando le presionan para volver a saldar una deuda.</desc>
-    <category>Sci-Fi &amp; Fantasy</category>
-    <category>Supernatural Sci-Fi</category>
-  </programme>
   <programme channel="PlutoTVSeriesSciFi.de@ES" start="20261003172556 +0000" stop="20261003181556 +0000">
     <title>The Dresden Files: Beneficiario esencial</title>
     <sub-title>Beneficiario esencial</sub-title>
@@ -36479,12 +36502,6 @@ fasttømrede par.</desc>
   <programme start="20261003190000 -0500" stop="20261003210500 -0500" channel="SonyChannel.ar@SD">
     <title lang="es">Película</title>
   </programme>
-  <programme start="20261003132000 +0000" stop="20261003152000 +0000" channel="SonyChannel.br@SD">
-    <title lang="pt">Terremoto - A Falha de San Andreas</title>
-    <desc lang="pt">Após um terremoto de grande intensidade destruir a Califórnia, um piloto de helicóptero especializado em resgate inicia uma difícil jornada para encontrar sua filha e ex-esposa.</desc>
-    <category lang="pt">Action / 2015</category>
-    <image>https://cdn.mitvstatic.com/programs/br_terremoto-a-falha-de-san-andreas-2015_l_m.jpg</image>
-  </programme>
   <programme start="20261003152000 +0000" stop="20261003175500 +0000" channel="SonyChannel.br@SD">
     <title lang="pt">007 Contra Spectre</title>
     <desc lang="pt">James Bond chega à Cidade do México e está pronto para eliminar Marco Sciarra sem que o chefe M saiba da missão. O caso leva à suspensão temporária do agente, que passa a ser constantemente vigiado pelo governo britânico graças a uma tecnologia implantada em seu corpo por Q. Na tentativa de despistar os inimigos e até mesmo alguns de seus parceiros de trabalho, ele se responsabiliza por ajudar a filha de um desafeto. Toda a situação o leva ao centro de uma temida organização denominada Spectre.</desc>
@@ -37384,19 +37401,6 @@ fasttømrede par.</desc>
     <title lang="fr">The Blacklist</title>
     <desc lang="fr">Wujing est un criminel chinois qui travaille officieusement pour son gouvernement. Il assassine les agents des services secrets étrangers. Les hommes de Wujing ont tué un agent américain, lui ont volé son ordinateur portable et tentent de déchiffrer le message crypté qu'ils ont intercepté. Wujing fait appel à Reddington pour régler cette question. Accompagné de Liz, censée être madame Givins, une experte en décryptage, Reddington se rend dans la tanière de Wujing. Le message contient le nom d'un agent et dès que Liz l'aura décrypté elle doit transmettre son contenu via satellite à Cooper pour qu'il protège la cible de Wujing.</desc>
   </programme>
-  <programme start="20261003145419 +0000" stop="20261003152440 +0000" channel="SonyOneFavoris.fr@HD">
-    <title lang="fr">Bewitched</title>
-    <sub-title lang="fr">The Warlock In The Gray Flannel Suit</sub-title>
-    <desc lang="fr">Endora découvre que Madison Avenue est le territoire de Jean-Pierre.</desc>
-    <date>20250730</date>
-    <category lang="fr">Classic tv</category>
-    <episode-num system="xmltv_ns">7.238.0/1</episode-num>
-    <episode-num system="onscreen">S08E239</episode-num>
-    <rating>
-      <value>All</value>
-    </rating>
-    <image>https://images.frequency.com/video/originals/7356422521928157995/rectangle/1bfykkbrh51cd137u33qd06vrb.jpg</image>
-  </programme>
   <programme start="20261003152440 +0000" stop="20261003155526 +0000" channel="SonyOneFavoris.fr@HD">
     <title lang="fr">Bewitched</title>
     <sub-title lang="fr">The Eight Year Itch Witch</sub-title>
@@ -37690,10 +37694,6 @@ fasttømrede par.</desc>
     <title lang="fr">Hook Ou La Revanche Du Capitaine Crochet</title>
     <desc lang="fr">Peter Banning alias Peter Pan est devenu un brillant avocat d'affaires qui a tout oublie de ses merveilleuses aventures. Mais le terrible capitaine Crochet, lui, n'a pas oublie. Pour enfin, regler leur compte, il enleve une nuit Jack et Maggie, les enfants de Peter. C'est en compagnie de Tinkerbell que Peter s'envole a nouveau pour le pays de Nulle Part.</desc>
   </programme>
-  <programme start="20261003143000 +0000" stop="20261003152000 +0000" channel="StarCinema.ru@SD">
-    <title lang="ru">Свой чужой сын (2-я серия)</title>
-    <image>https://tv.mail.ru/tvpic/9/46/521824.jpg</image>
-  </programme>
   <programme start="20261003152000 +0000" stop="20261003161000 +0000" channel="StarCinema.ru@SD">
     <title lang="ru">Свой чужой сын (3-я серия)</title>
     <image>https://tv.mail.ru/tvpic/9/46/521824.jpg</image>
@@ -37734,96 +37734,68 @@ fasttømrede par.</desc>
     <title lang="ru">Чужие тайны (47-я серия)</title>
     <image>https://tv.mail.ru/tvpic/3/06/0347528.jpg</image>
   </programme>
-  <programme channel="StudioUniversalLatinAmerica.us@Brazil" start="20261003103000 -0300" stop="20261003121500 -0300">
-    <title lang="pt">Legalmente Loira</title>
-    <title lang="en">Legally Blonde</title>
-    <desc lang="pt">Quando a mimada Elle Woods leva um fora do namorado por ser fútil demais, ela decide estudar direito para provar do que é capaz. Surpreendendo a todos, Elle se torna uma brilhante advogada.</desc>
-    <credits>
-      <actor>Reese Witherspoon</actor>
-      <actor>Jennifer Coolidge</actor>
-      <actor>Luke Wilson</actor>
-      <actor>Matthew Davis</actor>
-      <actor>Selma Blair</actor>
-      <actor>Victor Garber</actor>
-      <director>Robert Luketic</director>
-    </credits>
-    <category lang="pt">Comédia</category>
-    <rating system="BR">
-      <value>5</value>
+  <programme start="20261003131000 +0000" stop="20261003145500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil">
+    <title lang="es">ParaNorman</title>
+    <desc lang="es">Cuando el pequeño pueblo en el que vive Norman se ve asediado por los zombis, sus habitantes solo pueden recurrir al incomprendido Norman, quien sabe hablar con los muertos.</desc>
+    <date>2012</date>
+    <country lang="es">Estados Unidos</country>
+    <rating system="MJColombia">
+      <value>AGE229</value>
     </rating>
   </programme>
-  <programme channel="StudioUniversalLatinAmerica.us@Brazil" start="20261003121500 -0300" stop="20261003135000 -0300">
-    <title lang="pt">Johnny English</title>
-    <desc lang="pt">Após um atentado, o atrapalhado Johnny English se torna o único espião disponível na Inglaterra. Em sua primeira missão, ele é encarregado de recuperar as joias da coroa britânica que foram roubadas.</desc>
-    <credits>
-      <actor>Rowan Atkinson</actor>
-      <actor>Ben Miller</actor>
-      <actor>John Malkovich</actor>
-      <actor>Natalie Imbruglia</actor>
-      <director>Peter Howitt</director>
-    </credits>
-    <category lang="pt">Comédia</category>
-    <rating system="BR">
-      <value>5</value>
+  <programme start="20261003145500 +0000" stop="20261003164500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil">
+    <title lang="es">Kubo y la búsqueda samurái</title>
+    <desc lang="es">Kubo vive tranquilamente en un pueblo, hasta que por error invoca a un espíritu maligno del pasado. A partir de entonces, dioses y monstruos comienzan a perseguirlo. Solo con la armadura mágica de su padre, un guerrero samurái, podrá sobrevivir.</desc>
+    <date>2016</date>
+    <country lang="es">Estados Unidos</country>
+    <rating system="MJColombia">
+      <value>TE</value>
     </rating>
   </programme>
-  <programme channel="StudioUniversalLatinAmerica.us@Brazil" start="20261003135000 -0300" stop="20261003152500 -0300">
-    <title lang="pt">Johnny English 3.0</title>
-    <title lang="en">Johnny English Strikes Again</title>
-    <desc lang="pt">Depois que um ataque cibernético revela a identidade dos agentes secretos da Grã-Bretanha, Johnny English é forçado a sair da aposentadoria para encontrar o hacker idealizador.</desc>
-    <credits>
-      <actor>Rowan Atkinson</actor>
-      <actor>Ben Miller</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Michael Gambon</actor>
-      <actor>Olga Kurylenko</actor>
-      <director>David Kerr</director>
-    </credits>
-    <category lang="pt">Ação</category>
-    <rating system="BR">
-      <value>12</value>
+  <programme start="20261003164500 +0000" stop="20261003182000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil">
+    <title lang="es">Trolls 2: Gira mundial</title>
+    <desc lang="es">Cuando un rey y una reina del rock and roll se disponen a destruir otras formas de música, Poppy y Branch se embarcan en una osada misión de unir a seis tribus de trolls diferentes para salvar las diversas melodías y evitar que se extingan.</desc>
+    <date>2020</date>
+    <country lang="es">Estados Unidos,Japón</country>
+    <rating system="MJColombia">
+      <value>TE</value>
     </rating>
   </programme>
-  <programme channel="StudioUniversalLatinAmerica.us@Brazil" start="20261003152500 -0300" stop="20261003172500 -0300">
-    <title lang="pt">Meu Ex é um Espião</title>
-    <title lang="en">The Spy Who Dumped Me</title>
-    <desc lang="pt">Audrey e Morgan são surpreendidas ao serem perseguidas por criminosos. Logo, elas descobrem que o motivo é o ex-namorado de Audrey, que omitiu ser espião do governo.</desc>
-    <credits>
-      <actor>Mila Kunis</actor>
-      <actor>Justin Theroux</actor>
-      <actor>Kate McKinnon</actor>
-      <actor>Lolly Adefope</actor>
-      <actor>Sam Heughan</actor>
-      <director>Susanna Fogel</director>
-    </credits>
-    <category lang="pt">Comédia</category>
-    <rating system="BR">
-      <value>16</value>
+  <programme start="20261003182000 +0000" stop="20261003202500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil">
+    <title lang="es">Super 8</title>
+    <desc lang="es">Una serie de fenómenos inexplicables empiezan a desencadenarse después del descarrilamiento de un tren, lo que hace sospechar a varios cineastas jóvenes, quienes fueron testigos del hecho, que la catástrofe no fue un accidente.</desc>
+    <date>2011</date>
+    <country lang="es">Estados Unidos</country>
+    <rating system="MJColombia">
+      <value>AGE229</value>
     </rating>
   </programme>
-  <programme channel="StudioUniversalLatinAmerica.us@Brazil" start="20261003172500 -0300" stop="20261003190000 -0300">
-    <title lang="pt">Belas E Perseguidas</title>
-    <title lang="en">Hot Pursuit</title>
-    <desc lang="pt">A atrapalhada policial Cooper precisa proteger Daniella, testemunha no caso de um importante traficante. Mas o que no início era apenas uma escolta acaba se tornando uma divertida e arriscada fuga.</desc>
-    <credits>
-      <actor>Reese Witherspoon</actor>
-      <actor>Matthew Del Negro</actor>
-      <actor>Sofía Vergara</actor>
-      <director>Anne Fletcher</director>
-    </credits>
-    <category lang="pt">Ação</category>
-    <rating system="BR">
-      <value>12</value>
+  <programme start="20261003202500 +0000" stop="20261003222500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil">
+    <title lang="es">La brújula dorada</title>
+    <desc lang="es">En un mundo paralelo, una niña realiza una búsqueda épica para salvar a su mejor amigo y a otros niños secuestrados por los experimentos del malvado Magisterio.</desc>
+    <date>2007</date>
+    <country lang="es">Estados Unidos</country>
+    <rating system="MJColombia">
+      <value>AGE229</value>
     </rating>
   </programme>
-  <programme channel="StudioUniversalLatinAmerica.us@Brazil" start="20261003190000 -0300" stop="20261003210000 -0300">
-    <title lang="pt">Sr. &amp; Sra. Smith</title>
+  <programme start="20261003222500 +0000" stop="20261004010000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil">
+    <title lang="es">Aquaman</title>
+    <desc lang="es">Aquaman debe recuperar el legendario Tridente de Atlan para salvar a la ciudad subacuática de Atlantis, y al mundo de la superficie, de su hermano hambriento de poder.</desc>
+    <date>2018</date>
+    <country lang="es">Australia,Estados Unidos</country>
+    <rating system="MJColombia">
+      <value>AGE227</value>
+    </rating>
   </programme>
-  <programme channel="StudioUniversalLatinAmerica.us@Brazil" start="20261003210000 -0300" stop="20261003224000 -0300">
-    <title lang="pt">A Hora do Pesadelo</title>
-  </programme>
-  <programme channel="StudioUniversalLatinAmerica.us@Brazil" start="20261003224000 -0300" stop="20261004001500 -0300">
-    <title lang="pt">A Hora do Pesadelo 2: A Vingança de Freddy</title>
+  <programme start="20261004010000 +0000" stop="20261004024500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil">
+    <title lang="es">Pesadilla en la calle del infierno</title>
+    <desc lang="es">Un grupo de adolescentes sufre unas pesadillas horribles en las que un ser deforme con garras de acero les persigue. Lo más inquietante es que los hechos sugieren que lo que ocurre mientras sueñan tiene repercusiones en la vida real.</desc>
+    <date>1984</date>
+    <country lang="es">Estados Unidos</country>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
   </programme>
   <programme start="20261003131000 +0000" stop="20261003145500 +0000" channel="StudioUniversalLatinAmerica.us@Panregional">
     <title lang="es">ParaNorman</title>
@@ -38507,143 +38479,161 @@ fasttømrede par.</desc>
     <title lang="es">Cosas nuestras</title>
     <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p34206912ih10aa_Iconic_w1920.webp</image>
   </programme>
-  <programme start="20261003120000 +0000" stop="20261003180000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Los Simpson</title>
+  <programme channel="Telefe.ar@SD" start="20261003123000 +0000" stop="20261003144500 +0000">
+    <title lang="es">Live: A la Barbarossa</title>
+    <desc lang="es">Un magacín que aborda los temas de actualidad con un espacio para el humor y la cocina. Los temas más importantes del día junto a móviles en el lugar de los hechos. Un lugar para comenzar la mañana de la mejor manera.</desc>
+    <credits>
+      <actor>Georgina Barbarossa</actor>
+      <actor>Nancy Pazos</actor>
+      <actor>Paulo Kablan</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Entertainment</category>
+    <category lang="es">Cooking</category>
+    <category lang="es">Newsmagazine</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22336571_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="es" />
   </programme>
-  <programme start="20261003140000 +0000" stop="20261003200000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield.</desc>
-    <category lang="es">Comedia</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_los-simpson_l_m.jpg</image>
+  <programme channel="Telefe.ar@SD" start="20261003144500 +0000" stop="20261003160000 +0000">
+    <title lang="es">Live: Ariel en su salsa</title>
+    <desc lang="es">Un espacio con el talento y la espontaneidad de Ariel, invitados con mucho condimento, un salteado de sabrosas secciones y grandes pizcas de humor. Además, nuevas recetas y platos tradicionales.</desc>
+    <credits>
+      <actor>Ariel Rodríguez Palacios</actor>
+      <actor>Nicolás Peralta</actor>
+      <actor>Micaela Viciconte</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Newsmagazine</category>
+    <category lang="es">Cooking</category>
+    <category lang="es">Interview</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22365482_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="es" />
   </programme>
-  <programme start="20261003150000 +0000" stop="20261003210000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Los Simpson</title>
+  <programme channel="Telefe.ar@SD" start="20261003160000 +0000" stop="20261003173000 +0000">
+    <title lang="es">Live: El noticiero de la gente</title>
+    <desc lang="es">Todas las noticias de la actualidad de Argentina y el mundo, con información en vivo y móviles en los lugares más trascendentes de la jornada.</desc>
+    <credits>
+      <actor>Germán Paoloski</actor>
+      <actor>Milva Castellini</actor>
+      <actor>Mauro Szeta</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14519336_b_h8_ac.jpg?w=960&amp;h=540" />
+    <premiere lang="es" />
   </programme>
-  <programme start="20261003180000 +0000" stop="20261003193000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">El Muro Infernal</title>
+  <programme channel="Telefe.ar@SD" start="20261003173000 +0000" stop="20261003200000 +0000">
+    <title lang="es">Live: Cortá por Lozano</title>
+    <desc lang="es">Se analizan los temas del día junto a un panel de reconocidos especialistas. Entrevistas, divertidos sketches, servicios y una sección de terapia con famosos.</desc>
+    <credits>
+      <actor>Verónica Lozano</actor>
+      <actor>Mauro Szeta</actor>
+      <actor>Paola Juárez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Entertainment</category>
+    <category lang="es">Interview</category>
+    <category lang="es">Newsmagazine</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13736857_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="es" />
   </programme>
-  <programme start="20261003193000 +0000" stop="20261003210000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Pasapalabra</title>
+  <programme channel="Telefe.ar@SD" start="20261003200000 +0000" stop="20261003210000 +0000">
+    <title lang="es">Descubrir América</title>
+    <desc lang="es">Viajando por los atractivos de varios pueblos para descubrir la belleza y cultura del continente.</desc>
+    <credits>
+      <actor>Marcos Altamirano</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Documentary</category>
+    <category lang="es">Travel</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9975670_b_h10_ac.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
   </programme>
-  <programme start="20261003200000 +0000" stop="20261003203000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Escape perfecto</title>
-    <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
-    <category lang="es">Entretenimientos</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
+  <programme channel="Telefe.ar@SD" start="20261003210000 +0000" stop="20261003220000 +0000">
+    <title lang="es">Un año para recordar</title>
+    <desc lang="es">La historia de la supervisora de cajas de Supermercados Grande, que una noche, accidentalmente, en el medio de una discusión mata a su marido quien acaba de descubrir que ella tiene un amante.</desc>
+    <credits>
+      <actor>Carla Peterson</actor>
+      <actor>Gastón Pauls</actor>
+      <actor>Gonzalo Valenzuela</actor>
+      <director>Daniel De Felippo</director>
+      <director>Martin Mariani</director>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16053837_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating>
   </programme>
-  <programme start="20261003203000 +0000" stop="20261003213000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">A confirmar</title>
-    <desc lang="es">Programación a confirmar.</desc>
-    <category lang="es">Variedades</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_a-confirmar_l_m.jpg</image>
+  <programme channel="Telefe.ar@SD" start="20261003220000 +0000" stop="20261003230000 +0000">
+    <title lang="es">Campanas en la noche</title>
+    <desc lang="es">Una historia de romance y misterio en la que únicamente el amor es sinónimo de salvación.</desc>
+    <credits>
+      <actor>Calu Rivero</actor>
+      <actor>Federico Amador</actor>
+      <actor>Esteban Lamothe</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16387586_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20261003210000 +0000" stop="20261003223000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">El Muro Infernal</title>
+  <programme channel="Telefe.ar@SD" start="20261003230000 +0000" stop="20261004003000 +0000">
+    <title lang="es">Live: Telefe noticias</title>
+    <desc lang="es">Un sello de compromiso periodístico con mucha más información, más investigación y logrando una mirada global de cada hecho.</desc>
+    <credits>
+      <actor>Rodolfo Barili</actor>
+    </credits>
+    <category lang="es">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p501042_b_h10_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="es" />
   </programme>
-  <programme start="20261003210000 +0000" stop="20261003211500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Palpitando la previa</title>
+  <programme channel="Telefe.ar@SD" start="20261004003000 +0000" stop="20261004013000 +0000">
+    <title lang="es">La ley del amor</title>
+    <desc lang="es">Una jueza de gran prestigio tiene un pasado oscuro, debido a una sentencia es amenazada de muerte y hace arrestar al hombre equivocado, lo que provoca un drama de amor.</desc>
+    <credits>
+      <actor>Soledad Silveyra</actor>
+      <actor>Raúl Taibo</actor>
+      <actor>Sebastián Estevanez</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Soap</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p421083_b_h11_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20261003211500 +0000" stop="20261003220000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Fútbol: Previa</title>
-  </programme>
-  <programme start="20261003213000 +0000" stop="20261003214500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Escape perfecto</title>
-    <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
-    <category lang="es">Entretenimientos</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
-  </programme>
-  <programme start="20261003214500 +0000" stop="20261003230000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Escape perfecto</title>
-    <desc lang="es">Sergio Gorzy y Leticia Fernández conducen un programa de juegos y desafíos. Mientras uno de los participantes responderá preguntas para sumar tiempo, su compañero ingresará a la icónica jaula para reunir la mayor cantidad de premios.</desc>
-    <category lang="es">Entretenimientos</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_escape-perfecto_l_m.jpg</image>
-  </programme>
-  <programme start="20261003220000 +0000" stop="20261003234500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Argentina vs. Burkina Faso</title>
-  </programme>
-  <programme start="20261003223000 +0000" stop="20261004000000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Pasapalabra</title>
-  </programme>
-  <programme start="20261003230000 +0000" stop="20261004000000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Pasapalabra</title>
-    <desc lang="es">En cada emisión, se enfrentan 2 equipos en diferentes juegos cuyo objetivo es la suma de segundos para el desafío final. Figuras muy conocidas y queridas, se sumarán en cada programa y lo dejarán todo para ser los mejores.</desc>
-    <category lang="es">Entretenimientos</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_pasapalabra_l_m.jpg</image>
-  </programme>
-  <programme start="20261003234500 +0000" stop="20261004003000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Fútbol: Post</title>
-  </programme>
-  <programme start="20261004000000 +0000" stop="20261004001500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Palpitando la previa</title>
-  </programme>
-  <programme start="20261004000000 +0000" stop="20261004020000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Argentina vs. Burkina Faso</title>
-    <desc lang="es">Disfruta de los mejores partidos amistosos internacionales de la Selección Argentina.</desc>
-    <category lang="es">Amistoso internacional</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
-  </programme>
-  <programme start="20261004001500 +0000" stop="20261004010000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Fútbol: Previa</title>
-  </programme>
-  <programme start="20261004003000 +0000" stop="20261004010000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Tierras</title>
-  </programme>
-  <programme start="20261004010000 +0000" stop="20261004024500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Argentina vs. Burkina Faso</title>
-  </programme>
-  <programme start="20261004020000 +0000" stop="20261004024500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">PH: Podemos hablar</title>
-    <desc lang="es">Distintas personalidades visitan a Andy en un encuentro para hablar de todo y escucharse unos a otros, y se sorprenden al descubrir que tienen mucho más en común de lo que piensan.</desc>
-    <category lang="es">Talk Show</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_ph-podemos-hablar-1_l_m.jpg</image>
-  </programme>
-  <programme start="20261004024500 +0000" stop="20261004033000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Fútbol: Post</title>
-  </programme>
-  <programme start="20261004024500 +0000" stop="20261004030000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">DirecTV - DGO Presentan: Espiando la casa</title>
-    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
-    <category lang="es">Reality Show</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
-  </programme>
-  <programme start="20261004024500 +0000" stop="20261004031500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Juego chino</title>
-  </programme>
-  <programme start="20261004030000 +0000" stop="20261004033000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">El álbum</title>
-    <desc lang="es">Cada participante deberá reunir las 20 figuritas necesarias para completar su álbum, enfrentándose a preguntas, desafíos y momentos de tensión que pondrán a prueba su memoria, su pasión y su rapidez.</desc>
-    <category lang="es">Entretenimientos</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
-  </programme>
-  <programme start="20261004031500 +0000" stop="20261004034500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Tierras</title>
-  </programme>
-  <programme start="20261004033000 +0000" stop="20261004040000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Tierras</title>
-  </programme>
-  <programme start="20261004033000 +0000" stop="20261004053000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">PH: Podemos hablar</title>
-    <desc lang="es">Distintas personalidades visitan a Andy en un encuentro para hablar de todo y escucharse unos a otros, y se sorprenden al descubrir que tienen mucho más en común de lo que piensan.</desc>
-    <category lang="es">Talk Show</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_ph-podemos-hablar-1_l_m.jpg</image>
-  </programme>
-  <programme start="20261004034500 +0000" stop="20261004070000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">El Chavo y Chapulín</title>
-  </programme>
-  <programme start="20261004040000 +0000" stop="20261004054500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Argentina vs. Burkina Faso</title>
-  </programme>
-  <programme start="20261004053000 +0000" stop="20261004054500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">DirecTV - DGO Presentan: Espiando la casa</title>
-    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
-    <category lang="es">Reality Show</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
-  </programme>
-  <programme start="20261004054500 +0000" stop="20261004064500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">#JuegoChino</title>
-    <desc lang="es">Guillermo Pelado López desafía a las figuras más reconocidas con sus preguntas desopilantes, el humor ácido que lo caracteriza y situaciones muy divertidas.</desc>
-    <category lang="es">Entretenimientos</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  <programme channel="Telefe.ar@SD" start="20261004013000 +0000" stop="20261004023000 +0000">
+    <title lang="es">Un año para recordar</title>
+    <desc lang="es">La historia de la supervisora de cajas de Supermercados Grande, que una noche, accidentalmente, en el medio de una discusión mata a su marido quien acaba de descubrir que ella tiene un amante.</desc>
+    <credits>
+      <actor>Carla Peterson</actor>
+      <actor>Gastón Pauls</actor>
+      <actor>Gonzalo Valenzuela</actor>
+      <director>Daniel De Felippo</director>
+      <director>Martin Mariani</director>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16053837_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating>
   </programme>
   <programme start="20261003120000 +0000" stop="20261003180000 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Los Simpson</title>
@@ -39552,18 +39542,6 @@ fasttømrede par.</desc>
     <rating>
       <value>+7</value>
     </rating>
-  </programme>
-  <programme start="20261003145411 +0000" stop="20261003152511 +0000" channel="ThePetCollective.us@UK">
-    <title lang="en">The Pet Collective Paws &amp; Unwind</title>
-    <desc lang="en">Take a break and unwind with your furry friends - it's the purrfect way to relax.</desc>
-    <date>20261001</date>
-    <category lang="en">Explore</category>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-    <image>https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https%253A%252F%252Fimages.frequency.com%252Fvideo%252F7308760962480296962%252Fsolid%252Frectangle%252Fw1920_h1080%252Flm0m6obsjrs81a56540tb4d0f.jpeg</image>
   </programme>
   <programme start="20261003152511 +0000" stop="20261003155611 +0000" channel="ThePetCollective.us@UK">
     <title lang="en">The Pet Collective Adorable Animals</title>

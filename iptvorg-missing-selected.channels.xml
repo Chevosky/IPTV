@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <channels>
-  <channel site="gatotv.com" site_id="dreamworks_channel_latinoamerica" lang="es" xmltv_id="DreamWorksChannelLatinAmerica.us@Panregional">Canal DreamWorks Channel (Latinoamérica)</channel>
-  <channel site="elcinema.com" site_id="1169" lang="en" xmltv_id="DubaiTVInternational.ae@SD">Dubai TV</channel>
   <channel site="mi.tv" site_id="br#nickelodeon" lang="pt" xmltv_id="Nickelodeon.br@SD">Nick</channel>
   <channel site="pluto.tv" site_id="5f1ac8f49205650007bc15f1" lang="es" xmltv_id="PlutoTVSeries.de@ES">Pluto TV Series</channel>
 </channels>
