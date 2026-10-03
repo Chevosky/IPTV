@@ -10,6 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PLAYLIST = ROOT / "favorites-test.m3u"
 SOURCE = ROOT / "guide.xml"
+EXACT_SOURCE = ROOT / "guide-iptvorg-exact.xml"
 ALIASES_FILE = ROOT / "epg-aliases.json"
 OUT = ROOT / "guide-favorites.xml"
 REPORT = ROOT / "coverage-favorites.json"
@@ -76,24 +77,37 @@ if not wanted:
 if not SOURCE.exists():
     raise SystemExit("guide.xml is missing")
 
-# First pass: read the large consolidated guide once.
+# Read the consolidated guide plus an optional exact-ID guide generated from iptv-org/epg.
 guide_channels = {}
 guide_programmes = {}
 needed_source_ids = set(wanted) | set(aliases.values())
 
-for _, elem in ET.iterparse(SOURCE, events=("end",)):
-    if elem.tag == "channel":
-        cid = elem.get("id")
-        if cid in needed_source_ids:
-            guide_channels[cid] = ET.fromstring(ET.tostring(elem, encoding="utf-8"))
-        elem.clear()
-    elif elem.tag == "programme":
-        cid = elem.get("channel")
-        if cid in needed_source_ids:
-            guide_programmes.setdefault(cid, []).append(
-                ET.fromstring(ET.tostring(elem, encoding="utf-8"))
-            )
-        elem.clear()
+def load_guide(path, replace=False):
+    local_channels = {}
+    local_programmes = {}
+    for _, elem in ET.iterparse(path, events=("end",)):
+        if elem.tag == "channel":
+            cid = elem.get("id")
+            if cid in needed_source_ids:
+                local_channels[cid] = ET.fromstring(ET.tostring(elem, encoding="utf-8"))
+            elem.clear()
+        elif elem.tag == "programme":
+            cid = elem.get("channel")
+            if cid in needed_source_ids:
+                local_programmes.setdefault(cid, []).append(
+                    ET.fromstring(ET.tostring(elem, encoding="utf-8"))
+                )
+            elem.clear()
+    for cid, ch in local_channels.items():
+        if replace or cid not in guide_channels:
+            guide_channels[cid] = ch
+    for cid, ps in local_programmes.items():
+        if replace or cid not in guide_programmes:
+            guide_programmes[cid] = ps
+
+load_guide(SOURCE, replace=False)
+if EXACT_SOURCE.exists():
+    load_guide(EXACT_SOURCE, replace=True)
 
 out_channels = {}
 out_programmes = []
