@@ -2,104 +2,112 @@
   "playlist_channels": 263,
   "covered_channels": 222,
   "coverage_percent": 84.4,
-  "programmes": 5327,
-  "output_bytes": 2975835,
+  "programmes": 5321,
+  "output_bytes": 2977188,
   "coverage_sources": {
-    "MTVPlutoTV.us@BR": {
-      "type": "direct",
-      "source_id": "MTVPlutoTV.us@BR"
-    },
-    "Telefe.ar@SD": {
-      "type": "direct",
-      "source_id": "Telefe.ar@SD"
-    },
-    "PlutoTVNuestroCine.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVNuestroCine.us@LatAm"
-    },
-    "MTVPlutoTV.us@LatAm": {
-      "type": "direct",
-      "source_id": "MTVPlutoTV.us@LatAm"
-    },
-    "PlutoTV90sClassics.de@FR": {
-      "type": "direct",
-      "source_id": "PlutoTV90sClassics.de@FR"
-    },
-    "FashionTVEurope.fr@SD": {
-      "type": "direct",
-      "source_id": "FashionTVEurope.fr@SD"
-    },
-    "PlutoTVRetroToons.de@FR": {
-      "type": "direct",
-      "source_id": "PlutoTVRetroToons.de@FR"
-    },
-    "FashionTV.ua@SD": {
-      "type": "direct",
-      "source_id": "FashionTV.ua@SD"
-    },
-    "FIFAPlus.uk@HispanicAmerica": {
-      "type": "direct",
-      "source_id": "FIFAPlus.uk@HispanicAmerica"
-    },
-    "TVEInternacionalAsiaOceania.es@SD": {
-      "type": "direct",
-      "source_id": "TVEInternacionalAsiaOceania.es@SD"
-    },
-    "PlutoTVSeriesdeAccion.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesdeAccion.us@LatAm"
-    },
-    "CineRetrobyPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "CineRetrobyPlutoTV.de@FR"
-    },
-    "CineWesternbyPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "CineWesternbyPlutoTV.de@FR"
-    },
-    "PlutoTVCineCrimen.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVCineCrimen.us@LatAm"
-    },
-    "CineWestern.fr@SD": {
-      "type": "direct",
-      "source_id": "CineWestern.fr@SD"
-    },
-    "ComedyCentralPlutoTV.us@BR": {
-      "type": "direct",
-      "source_id": "ComedyCentralPlutoTV.us@BR"
-    },
-    "PlutoTVSeriesSciFi.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesSciFi.us@BR"
-    },
     "SonyOneHitsComedie.fr@HD": {
       "type": "direct",
       "source_id": "SonyOneHitsComedie.fr@HD"
+    },
+    "Canal26.ar@SD": {
+      "type": "direct",
+      "source_id": "Canal26.ar@SD"
     },
     "PlutoTVSeries.us@LatAm": {
       "type": "direct",
       "source_id": "PlutoTVSeries.us@LatAm"
     },
-    "PlutoTVSeriesCriminais.us@BR": {
+    "MyTimeMovieNetworkEast.us@SD": {
       "type": "direct",
-      "source_id": "PlutoTVSeriesCriminais.us@BR"
+      "source_id": "MyTimeMovieNetworkEast.us@SD"
     },
-    "CineWestern.es@SD": {
+    "PlutoTVSeriesRetro.us@LatAm": {
       "type": "direct",
-      "source_id": "CineWestern.es@SD"
+      "source_id": "PlutoTVSeriesRetro.us@LatAm"
     },
-    "ThePetCollective.us@UK": {
+    "AmericasVoice.us@SD": {
       "type": "direct",
-      "source_id": "ThePetCollective.us@UK"
+      "source_id": "AmericasVoice.us@SD"
     },
-    "FashionTVAsia.fr@SD": {
+    "PlutoTVKids.us@BR": {
       "type": "direct",
-      "source_id": "FashionTVAsia.fr@SD"
+      "source_id": "PlutoTVKids.us@BR"
     },
-    "PlutoTVKidsClub.us@BR": {
+    "PlutoTVCineFamilia.us@BR": {
       "type": "direct",
-      "source_id": "PlutoTVKidsClub.us@BR"
+      "source_id": "PlutoTVCineFamilia.us@BR"
+    },
+    "ComedyCentralLatinAmerica.us@Panregional": {
+      "type": "direct",
+      "source_id": "ComedyCentralLatinAmerica.us@Panregional"
+    },
+    "CinedAsiebyPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "CinedAsiebyPlutoTV.de@FR"
+    },
+    "BBCEarth.uk@US": {
+      "type": "direct",
+      "source_id": "BBCEarth.uk@US"
+    },
+    "CineRomancebyPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "CineRomancebyPlutoTV.de@FR"
+    },
+    "PlutoTVCineAccion.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVCineAccion.us@LatAm"
+    },
+    "PlutoTVCineCrime.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVCineCrime.us@BR"
+    },
+    "FashionTV.ua@SD": {
+      "type": "direct",
+      "source_id": "FashionTV.ua@SD"
+    },
+    "PlutoTVRetroToons.de@FR": {
+      "type": "direct",
+      "source_id": "PlutoTVRetroToons.de@FR"
+    },
+    "DePeliculaLatinAmerica.mx@SD": {
+      "type": "direct",
+      "source_id": "DePeliculaLatinAmerica.mx@SD"
+    },
+    "FIFAPlus.uk@HispanicAmerica": {
+      "type": "direct",
+      "source_id": "FIFAPlus.uk@HispanicAmerica"
+    },
+    "PlutoTVCineRomance.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVCineRomance.us@BR"
+    },
+    "PlutoTVSeriesComedia.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesComedia.us@BR"
+    },
+    "PlutoTVSeriesdeOtrosContinentes.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesdeOtrosContinentes.us@LatAm"
+    },
+    "PlutoTVANIMEGO.de@FR": {
+      "type": "direct",
+      "source_id": "PlutoTVANIMEGO.de@FR"
+    },
+    "PlutoTVHistoire.de@FR": {
+      "type": "direct",
+      "source_id": "PlutoTVHistoire.de@FR"
+    },
+    "BBCNews.uk@Europe": {
+      "type": "direct",
+      "source_id": "BBCNews.uk@Europe"
+    },
+    "PlutoTVSeriesdeAccion.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesdeAccion.us@LatAm"
+    },
+    "PlutoTVSeriesAcao.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesAcao.us@BR"
     },
     "Trece.es@SD": {
       "type": "direct",
@@ -109,381 +117,373 @@
       "type": "direct",
       "source_id": "PlutoTVCineEstelar.us@LatAm"
     },
-    "PlutoTVCineInspiracao.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVCineInspiracao.us@BR"
-    },
-    "CineSony.us@SD": {
-      "type": "direct",
-      "source_id": "CineSony.us@SD"
-    },
-    "PlutoTVSeriesLatinas.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesLatinas.us@LatAm"
-    },
-    "CineTerror.us@BR": {
-      "type": "direct",
-      "source_id": "CineTerror.us@BR"
-    },
-    "CodeFashionTV.bg@SD": {
-      "type": "direct",
-      "source_id": "CodeFashionTV.bg@SD"
-    },
-    "PlutoTVCineCrime.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVCineCrime.us@BR"
-    },
-    "Cine666byPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "Cine666byPlutoTV.de@FR"
-    },
-    "PlutoTVSeriesComedia.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesComedia.us@BR"
-    },
-    "MusicBoxBrazil.br@SD": {
-      "type": "direct",
-      "source_id": "MusicBoxBrazil.br@SD"
-    },
-    "PlutoTVSeriesAcao.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesAcao.us@BR"
-    },
-    "SeriesbyPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "SeriesbyPlutoTV.de@FR"
-    },
-    "FashionBox.nl@SD": {
-      "type": "direct",
-      "source_id": "FashionBox.nl@SD"
-    },
-    "PlutoTVAnime.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVAnime.us@LatAm"
-    },
-    "SonyChannel.br@SD": {
-      "type": "direct",
-      "source_id": "SonyChannel.br@SD"
-    },
-    "CineRomantico.us@SD": {
-      "type": "direct",
-      "source_id": "CineRomantico.us@SD"
-    },
-    "PlutoTVSeriesdeDrama.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesdeDrama.us@LatAm"
-    },
-    "PlutoTVCineAccion.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVCineAccion.us@LatAm"
-    },
-    "ThePetCollective.us@Brazil": {
-      "type": "direct",
-      "source_id": "ThePetCollective.us@Brazil"
-    },
-    "LifetimeLatinAmerica.us@Brazil": {
-      "type": "direct",
-      "source_id": "LifetimeLatinAmerica.us@Brazil"
-    },
-    "PlutoTVCineComedia.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVCineComedia.us@BR"
-    },
-    "PlutoTVKidsClassics.de@FR": {
-      "type": "direct",
-      "source_id": "PlutoTVKidsClassics.de@FR"
-    },
-    "SonyMoviesLatinAmerica.us@SD": {
-      "type": "direct",
-      "source_id": "SonyMoviesLatinAmerica.us@SD"
-    },
-    "AELatinAmerica.us@Brazil": {
-      "type": "direct",
-      "source_id": "AELatinAmerica.us@Brazil"
-    },
-    "PlutoTVNetmovies.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVNetmovies.us@BR"
-    },
-    "SonyOneBlacklist.fr@HD": {
-      "type": "direct",
-      "source_id": "SonyOneBlacklist.fr@HD"
-    },
-    "PlutoTVSeriesdeOtrosContinentes.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesdeOtrosContinentes.us@LatAm"
-    },
-    "FashionTV.in@SD": {
-      "type": "direct",
-      "source_id": "FashionTV.in@SD"
-    },
-    "DePeliculaLatinAmerica.mx@SD": {
-      "type": "direct",
-      "source_id": "DePeliculaLatinAmerica.mx@SD"
-    },
-    "PlutoTVCineClasico.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVCineClasico.us@LatAm"
-    },
-    "PlutoTVSeriesdeSciFi.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesdeSciFi.us@LatAm"
-    },
-    "ElTreceInternacionalLatinAmerica.ar@SD": {
-      "type": "direct",
-      "source_id": "ElTreceInternacionalLatinAmerica.ar@SD"
-    },
-    "CineSciFibyPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "CineSciFibyPlutoTV.de@FR"
-    },
-    "PlutoTVCineFamilia.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVCineFamilia.us@LatAm"
-    },
-    "PlutoTVCineSucessos.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVCineSucessos.us@BR"
-    },
-    "BBCNews.uk@LatinAmerica": {
-      "type": "direct",
-      "source_id": "BBCNews.uk@LatinAmerica"
-    },
-    "ThePetCollective.us@US": {
-      "type": "direct",
-      "source_id": "ThePetCollective.us@US"
-    },
-    "FIFAPlus.uk@Portuguese": {
-      "type": "direct",
-      "source_id": "FIFAPlus.uk@Portuguese"
-    },
-    "CineRomancebyPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "CineRomancebyPlutoTV.de@FR"
-    },
-    "Naruto.us@Brazil": {
-      "type": "direct",
-      "source_id": "Naruto.us@Brazil"
-    },
-    "PlutoTVCineComedia.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVCineComedia.us@LatAm"
-    },
-    "PlutoTVSeriesNovelescas.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesNovelescas.us@BR"
-    },
-    "CineActionbyPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "CineActionbyPlutoTV.de@FR"
-    },
-    "PlutoTVCineComediaRomantica.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVCineComediaRomantica.us@BR"
-    },
-    "GarageTVLatinAmerica.ar@SD": {
-      "type": "direct",
-      "source_id": "GarageTVLatinAmerica.ar@SD"
-    },
-    "BETPlutoTV.us@BR": {
-      "type": "direct",
-      "source_id": "BETPlutoTV.us@BR"
-    },
-    "PlutoTVCineSuspenso.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVCineSuspenso.us@LatAm"
-    },
-    "CineTerror.us@LatAm": {
-      "type": "direct",
-      "source_id": "CineTerror.us@LatAm"
-    },
-    "Canal26.ar@SD": {
-      "type": "direct",
-      "source_id": "Canal26.ar@SD"
-    },
-    "SonyOneFavoris.fr@HD": {
-      "type": "direct",
-      "source_id": "SonyOneFavoris.fr@HD"
-    },
-    "BBCEarth.uk@US": {
-      "type": "direct",
-      "source_id": "BBCEarth.uk@US"
-    },
     "PlutoTVKids.us@LatAm": {
       "type": "direct",
       "source_id": "PlutoTVKids.us@LatAm"
-    },
-    "ComedyCentralLatinAmerica.us@Panregional": {
-      "type": "direct",
-      "source_id": "ComedyCentralLatinAmerica.us@Panregional"
-    },
-    "ComedyCentralPlutoTV.us@LatAm": {
-      "type": "direct",
-      "source_id": "ComedyCentralPlutoTV.us@LatAm"
-    },
-    "PlutoTVAnimeAcao.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVAnimeAcao.us@BR"
-    },
-    "CineCatastrophebyPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "CineCatastrophebyPlutoTV.de@FR"
-    },
-    "PlutoTVCineClassicos.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVCineClassicos.us@BR"
-    },
-    "Trece.py@SD": {
-      "type": "direct",
-      "source_id": "Trece.py@SD"
-    },
-    "CinedAsiebyPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "CinedAsiebyPlutoTV.de@FR"
-    },
-    "BBCNews.uk@Europe": {
-      "type": "direct",
-      "source_id": "BBCNews.uk@Europe"
-    },
-    "PlutoTVCineDrama.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVCineDrama.us@LatAm"
-    },
-    "PlutoTVSeriesdeComedia.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesdeComedia.us@LatAm"
     },
     "ParaguayTV.py@SD": {
       "type": "direct",
       "source_id": "ParaguayTV.py@SD"
     },
-    "PlutoTVCineRomance.us@LatAm": {
+    "PlutoTVSeriesCriminais.us@BR": {
       "type": "direct",
-      "source_id": "PlutoTVCineRomance.us@LatAm"
+      "source_id": "PlutoTVSeriesCriminais.us@BR"
     },
-    "TVEInternacionalEurope.es@SD": {
+    "PlutoTVSuperKids.de@FR": {
       "type": "direct",
-      "source_id": "TVEInternacionalEurope.es@SD"
-    },
-    "TrueCrimebyPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "TrueCrimebyPlutoTV.de@FR"
-    },
-    "PlutoTVKids.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVKids.us@BR"
-    },
-    "AdrenalinaPuraTV.us@Brazil": {
-      "type": "direct",
-      "source_id": "AdrenalinaPuraTV.us@Brazil"
-    },
-    "PlutoTVDesenhosClassicos.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVDesenhosClassicos.us@BR"
-    },
-    "PlutoTVCineRomance.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVCineRomance.us@BR"
-    },
-    "SonyOneHitsAction.fr@HD": {
-      "type": "direct",
-      "source_id": "SonyOneHitsAction.fr@HD"
-    },
-    "PlutoTVSciFi.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVSciFi.us@LatAm"
-    },
-    "Telefuturo.py@SD": {
-      "type": "direct",
-      "source_id": "Telefuturo.py@SD"
-    },
-    "PlutoTVANIMEGO.de@FR": {
-      "type": "direct",
-      "source_id": "PlutoTVANIMEGO.de@FR"
-    },
-    "AmericasVoice.us@SD": {
-      "type": "direct",
-      "source_id": "AmericasVoice.us@SD"
-    },
-    "CineThrillersbyPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "CineThrillersbyPlutoTV.de@FR"
-    },
-    "PlutoTVKidsClub.de@FR": {
-      "type": "direct",
-      "source_id": "PlutoTVKidsClub.de@FR"
-    },
-    "PlutoTVCineFamilia.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVCineFamilia.us@BR"
-    },
-    "PlutoTVCineInspirador.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVCineInspirador.us@LatAm"
-    },
-    "PlutoTVSeriesFantastiques.de@FR": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesFantastiques.de@FR"
-    },
-    "PlutoTVSeriesRetro.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesRetro.us@LatAm"
-    },
-    "Arte1.br@SD": {
-      "type": "direct",
-      "source_id": "Arte1.br@SD"
-    },
-    "CinebyPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "CinebyPlutoTV.de@FR"
-    },
-    "PlutoTVSeriesdeCrimen.us@LatAm": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesdeCrimen.us@LatAm"
-    },
-    "BBCDrama.uk@Spain": {
-      "type": "direct",
-      "source_id": "BBCDrama.uk@Spain"
-    },
-    "PlutoTVSeriesDrama.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVSeriesDrama.us@BR"
-    },
-    "CineHorreurbyPlutoTV.de@FR": {
-      "type": "direct",
-      "source_id": "CineHorreurbyPlutoTV.de@FR"
-    },
-    "PlutoTVHistoire.de@FR": {
-      "type": "direct",
-      "source_id": "PlutoTVHistoire.de@FR"
-    },
-    "MBCDrama.ae@SD": {
-      "type": "direct",
-      "source_id": "MBCDrama.ae@SD"
-    },
-    "MyTimeMovieNetworkEast.us@SD": {
-      "type": "direct",
-      "source_id": "MyTimeMovieNetworkEast.us@SD"
-    },
-    "PlutoTVAnime.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVAnime.us@BR"
-    },
-    "PlutoTVRetro.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVRetro.us@BR"
-    },
-    "PlutoTVCineDrama.us@BR": {
-      "type": "direct",
-      "source_id": "PlutoTVCineDrama.us@BR"
+      "source_id": "PlutoTVSuperKids.de@FR"
     },
     "PlutoTVShowsporStingray.us@BR": {
       "type": "direct",
       "source_id": "PlutoTVShowsporStingray.us@BR"
     },
-    "PlutoTVSuperKids.de@FR": {
+    "PlutoTVCineDrama.us@LatAm": {
       "type": "direct",
-      "source_id": "PlutoTVSuperKids.de@FR"
+      "source_id": "PlutoTVCineDrama.us@LatAm"
+    },
+    "CineSony.us@SD": {
+      "type": "direct",
+      "source_id": "CineSony.us@SD"
+    },
+    "CineWesternbyPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "CineWesternbyPlutoTV.de@FR"
+    },
+    "CineActionbyPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "CineActionbyPlutoTV.de@FR"
+    },
+    "CineRetrobyPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "CineRetrobyPlutoTV.de@FR"
+    },
+    "PlutoTVSeriesDrama.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesDrama.us@BR"
+    },
+    "SonyChannel.br@SD": {
+      "type": "direct",
+      "source_id": "SonyChannel.br@SD"
+    },
+    "CineSciFibyPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "CineSciFibyPlutoTV.de@FR"
+    },
+    "ThePetCollective.us@UK": {
+      "type": "direct",
+      "source_id": "ThePetCollective.us@UK"
+    },
+    "Arte1.br@SD": {
+      "type": "direct",
+      "source_id": "Arte1.br@SD"
+    },
+    "PlutoTVCineCrimen.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVCineCrimen.us@LatAm"
+    },
+    "MTVPlutoTV.us@BR": {
+      "type": "direct",
+      "source_id": "MTVPlutoTV.us@BR"
+    },
+    "CineThrillersbyPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "CineThrillersbyPlutoTV.de@FR"
+    },
+    "PlutoTVNuestroCine.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVNuestroCine.us@LatAm"
+    },
+    "Cine666byPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "Cine666byPlutoTV.de@FR"
+    },
+    "PlutoTVCineComedia.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVCineComedia.us@BR"
+    },
+    "PlutoTVDesenhosClassicos.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVDesenhosClassicos.us@BR"
+    },
+    "PlutoTVRetro.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVRetro.us@BR"
+    },
+    "CinebyPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "CinebyPlutoTV.de@FR"
+    },
+    "FashionTVEurope.fr@SD": {
+      "type": "direct",
+      "source_id": "FashionTVEurope.fr@SD"
+    },
+    "BBCDrama.uk@Spain": {
+      "type": "direct",
+      "source_id": "BBCDrama.uk@Spain"
+    },
+    "PlutoTVKidsClub.de@FR": {
+      "type": "direct",
+      "source_id": "PlutoTVKidsClub.de@FR"
+    },
+    "PlutoTVCineComedia.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVCineComedia.us@LatAm"
+    },
+    "PlutoTVCineInspirador.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVCineInspirador.us@LatAm"
+    },
+    "PlutoTVCineDrama.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVCineDrama.us@BR"
+    },
+    "PlutoTVSeriesdeComedia.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesdeComedia.us@LatAm"
+    },
+    "PlutoTVCineSuspenso.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVCineSuspenso.us@LatAm"
+    },
+    "PlutoTVAnime.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVAnime.us@BR"
+    },
+    "ThePetCollective.us@Brazil": {
+      "type": "direct",
+      "source_id": "ThePetCollective.us@Brazil"
+    },
+    "Trece.py@SD": {
+      "type": "direct",
+      "source_id": "Trece.py@SD"
+    },
+    "ThePetCollective.us@US": {
+      "type": "direct",
+      "source_id": "ThePetCollective.us@US"
+    },
+    "PlutoTVAnime.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVAnime.us@LatAm"
+    },
+    "BETPlutoTV.us@BR": {
+      "type": "direct",
+      "source_id": "BETPlutoTV.us@BR"
+    },
+    "ComedyCentralPlutoTV.us@LatAm": {
+      "type": "direct",
+      "source_id": "ComedyCentralPlutoTV.us@LatAm"
+    },
+    "AELatinAmerica.us@Brazil": {
+      "type": "direct",
+      "source_id": "AELatinAmerica.us@Brazil"
+    },
+    "FashionBox.nl@SD": {
+      "type": "direct",
+      "source_id": "FashionBox.nl@SD"
+    },
+    "PlutoTVSeriesLatinas.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesLatinas.us@LatAm"
+    },
+    "PlutoTVCineSucessos.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVCineSucessos.us@BR"
+    },
+    "PlutoTVSeriesNovelescas.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesNovelescas.us@BR"
+    },
+    "PlutoTV90sClassics.de@FR": {
+      "type": "direct",
+      "source_id": "PlutoTV90sClassics.de@FR"
+    },
+    "GarageTVLatinAmerica.ar@SD": {
+      "type": "direct",
+      "source_id": "GarageTVLatinAmerica.ar@SD"
+    },
+    "TVEInternacionalEurope.es@SD": {
+      "type": "direct",
+      "source_id": "TVEInternacionalEurope.es@SD"
+    },
+    "CineHorreurbyPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "CineHorreurbyPlutoTV.de@FR"
+    },
+    "PlutoTVKidsClassics.de@FR": {
+      "type": "direct",
+      "source_id": "PlutoTVKidsClassics.de@FR"
+    },
+    "MBCDrama.ae@SD": {
+      "type": "direct",
+      "source_id": "MBCDrama.ae@SD"
+    },
+    "PlutoTVCineClassicos.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVCineClassicos.us@BR"
+    },
+    "CodeFashionTV.bg@SD": {
+      "type": "direct",
+      "source_id": "CodeFashionTV.bg@SD"
+    },
+    "ElTreceInternacionalLatinAmerica.ar@SD": {
+      "type": "direct",
+      "source_id": "ElTreceInternacionalLatinAmerica.ar@SD"
+    },
+    "TrueCrimebyPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "TrueCrimebyPlutoTV.de@FR"
+    },
+    "PlutoTVCineComediaRomantica.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVCineComediaRomantica.us@BR"
+    },
+    "PlutoTVSeriesFantastiques.de@FR": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesFantastiques.de@FR"
+    },
+    "AdrenalinaPuraTV.us@Brazil": {
+      "type": "direct",
+      "source_id": "AdrenalinaPuraTV.us@Brazil"
+    },
+    "CineCatastrophebyPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "CineCatastrophebyPlutoTV.de@FR"
+    },
+    "PlutoTVCineClasico.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVCineClasico.us@LatAm"
+    },
+    "TVEInternacionalAsiaOceania.es@SD": {
+      "type": "direct",
+      "source_id": "TVEInternacionalAsiaOceania.es@SD"
+    },
+    "SonyOneBlacklist.fr@HD": {
+      "type": "direct",
+      "source_id": "SonyOneBlacklist.fr@HD"
+    },
+    "FashionTV.in@SD": {
+      "type": "direct",
+      "source_id": "FashionTV.in@SD"
+    },
+    "PlutoTVSeriesdeCrimen.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesdeCrimen.us@LatAm"
+    },
+    "SonyOneHitsAction.fr@HD": {
+      "type": "direct",
+      "source_id": "SonyOneHitsAction.fr@HD"
+    },
+    "FIFAPlus.uk@Portuguese": {
+      "type": "direct",
+      "source_id": "FIFAPlus.uk@Portuguese"
+    },
+    "PlutoTVAnimeAcao.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVAnimeAcao.us@BR"
+    },
+    "PlutoTVCineInspiracao.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVCineInspiracao.us@BR"
+    },
+    "PlutoTVSciFi.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVSciFi.us@LatAm"
+    },
+    "CineWestern.fr@SD": {
+      "type": "direct",
+      "source_id": "CineWestern.fr@SD"
+    },
+    "CineWestern.es@SD": {
+      "type": "direct",
+      "source_id": "CineWestern.es@SD"
+    },
+    "CineTerror.us@LatAm": {
+      "type": "direct",
+      "source_id": "CineTerror.us@LatAm"
+    },
+    "CineRomantico.us@SD": {
+      "type": "direct",
+      "source_id": "CineRomantico.us@SD"
+    },
+    "PlutoTVKidsClub.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVKidsClub.us@BR"
+    },
+    "MTVPlutoTV.us@LatAm": {
+      "type": "direct",
+      "source_id": "MTVPlutoTV.us@LatAm"
+    },
+    "PlutoTVSeriesSciFi.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesSciFi.us@BR"
+    },
+    "Telefuturo.py@SD": {
+      "type": "direct",
+      "source_id": "Telefuturo.py@SD"
+    },
+    "SeriesbyPlutoTV.de@FR": {
+      "type": "direct",
+      "source_id": "SeriesbyPlutoTV.de@FR"
+    },
+    "FashionTVAsia.fr@SD": {
+      "type": "direct",
+      "source_id": "FashionTVAsia.fr@SD"
+    },
+    "BBCNews.uk@LatinAmerica": {
+      "type": "direct",
+      "source_id": "BBCNews.uk@LatinAmerica"
+    },
+    "Naruto.us@Brazil": {
+      "type": "direct",
+      "source_id": "Naruto.us@Brazil"
+    },
+    "Telefe.ar@SD": {
+      "type": "direct",
+      "source_id": "Telefe.ar@SD"
+    },
+    "PlutoTVSeriesdeDrama.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesdeDrama.us@LatAm"
+    },
+    "LifetimeLatinAmerica.us@Brazil": {
+      "type": "direct",
+      "source_id": "LifetimeLatinAmerica.us@Brazil"
+    },
+    "PlutoTVNetmovies.us@BR": {
+      "type": "direct",
+      "source_id": "PlutoTVNetmovies.us@BR"
+    },
+    "CineTerror.us@BR": {
+      "type": "direct",
+      "source_id": "CineTerror.us@BR"
+    },
+    "ComedyCentralPlutoTV.us@BR": {
+      "type": "direct",
+      "source_id": "ComedyCentralPlutoTV.us@BR"
+    },
+    "PlutoTVCineRomance.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVCineRomance.us@LatAm"
+    },
+    "PlutoTVSeriesdeSciFi.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVSeriesdeSciFi.us@LatAm"
+    },
+    "SonyMoviesLatinAmerica.us@SD": {
+      "type": "direct",
+      "source_id": "SonyMoviesLatinAmerica.us@SD"
+    },
+    "SonyOneFavoris.fr@HD": {
+      "type": "direct",
+      "source_id": "SonyOneFavoris.fr@HD"
+    },
+    "MusicBoxBrazil.br@SD": {
+      "type": "direct",
+      "source_id": "MusicBoxBrazil.br@SD"
+    },
+    "PlutoTVCineFamilia.us@LatAm": {
+      "type": "direct",
+      "source_id": "PlutoTVCineFamilia.us@LatAm"
     },
     "Antena3Internacional.es@SD": {
       "type": "alias",
@@ -657,17 +657,113 @@
       "type": "alias",
       "source_id": "Canal.TVE.Internacional.(Televisión.Española).ar"
     },
-    "ComedyCentralSouthPark.us@BR": {
+    "BETCinema.us@SD": {
       "type": "pluto-api",
-      "site_id": "609ae66b359b270007869ff1"
+      "site_id": "58af4c093a41ca9d4ecabe96"
     },
-    "ComedyCentralSouthPark.us@LatAm": {
+    "BETComedyMovies.us@SD": {
       "type": "pluto-api",
-      "site_id": "609ae5cd48d3200007b0a98e"
+      "site_id": "68c32d88f56983aba40052bd"
     },
-    "TopGear.uk@SD": {
+    "BETVisionaries.us@SD": {
       "type": "pluto-api",
-      "site_id": "636adc255bcf470007d6e0e2"
+      "site_id": "663946c1b18d700008d9c168"
+    },
+    "Cineaventura.us@SD": {
+      "type": "pluto-api",
+      "site_id": "60fb2f47c133270007327375"
+    },
+    "Cineenespanol.us@SD": {
+      "type": "pluto-api",
+      "site_id": "5cf96b1c4f1ca3f0629f4bf0"
+    },
+    "CineTerror.us@US": {
+      "type": "pluto-api",
+      "site_id": "5d8d180092e97a5e107638d3"
+    },
+    "PlutoTVCineComedia.de@ES": {
+      "type": "pluto-api",
+      "site_id": "5f1ac8099c49f600076579b2"
+    },
+    "PlutoTVCinedeautor.de@ES": {
+      "type": "pluto-api",
+      "site_id": "60cc807324d60a0007708dc8"
+    },
+    "PlutoTVCineRomantico.de@ES": {
+      "type": "pluto-api",
+      "site_id": "5f1ac9a2d3611d0007a844bb"
+    },
+    "PlutoTVComediasRomanticas.de@ES": {
+      "type": "pluto-api",
+      "site_id": "655b5d865812e80008843bd1"
+    },
+    "PlutoTVSciFi.de@ES": {
+      "type": "pluto-api",
+      "site_id": "5f6a38eaa5b68b0007a00e7a"
+    },
+    "PlutoTVThrillers.de@ES": {
+      "type": "pluto-api",
+      "site_id": "5f1ac8a87cd38d000745d7cf"
+    },
+    "PlutoTVWestern.de@ES": {
+      "type": "pluto-api",
+      "site_id": "6385e82900ab2e000768a058"
+    },
+    "SensaCineTVxPluto.de@ES": {
+      "type": "pluto-api",
+      "site_id": "676e7b4a4bd636000819c6a7"
+    },
+    "CSI.se@DK": {
+      "type": "pluto-api",
+      "site_id": "6525419dc52b3600083db9c3"
+    },
+    "CSI.us@SD": {
+      "type": "pluto-api",
+      "site_id": "5efbd29e4aa26700076c0d06"
+    },
+    "CSIenespanol.us@SD": {
+      "type": "pluto-api",
+      "site_id": "604928d54a4f730007ff76bc"
+    },
+    "CSICrimeSceneInvestigation.de@GB": {
+      "type": "pluto-api",
+      "site_id": "6304f8d5ffb61000071ab478"
+    },
+    "CSIMiami.us@SD": {
+      "type": "pluto-api",
+      "site_id": "62f54c11b3af68000702c304"
+    },
+    "CSIMiami.us@BR": {
+      "type": "pluto-api",
+      "site_id": "63eb9c5351f5d000085e8d7e"
+    },
+    "CSIMiamienespanol.us@SD": {
+      "type": "pluto-api",
+      "site_id": "632b5950b515b000079e6b81"
+    },
+    "CSINYenespanol.us@SD": {
+      "type": "pluto-api",
+      "site_id": "632b606e12a67b0007c9e371"
+    },
+    "DatingNakedUK.se@SE": {
+      "type": "pluto-api",
+      "site_id": "692edd6bdb8695f63e14f3b9"
+    },
+    "DatingNakedUK.se@DK": {
+      "type": "pluto-api",
+      "site_id": "692edc78d52ea9e4858cf78f"
+    },
+    "DatingNakedUK.se@NO": {
+      "type": "pluto-api",
+      "site_id": "692edcff77f0147d69f19498"
+    },
+    "PlutoTVSeriescriminales.de@ES": {
+      "type": "pluto-api",
+      "site_id": "65cf6ab58145cb0008129ca8"
+    },
+    "PlutoTVSeriesSciFi.de@ES": {
+      "type": "pluto-api",
+      "site_id": "65ddec1ef7f0af0008be4b65"
     },
     "CCPlutoTV.de@DACH": {
       "type": "pluto-api",
@@ -681,10 +777,6 @@
       "type": "pluto-api",
       "site_id": "68de3db35fc0afe85de0b843"
     },
-    "ComedyCentralAnimation.us@SD": {
-      "type": "pluto-api",
-      "site_id": "64f8a949f5b5e4000862467c"
-    },
     "ComedyCentralenEspanol.us@SD": {
       "type": "pluto-api",
       "site_id": "5cf96dad1652631e36d43320"
@@ -697,17 +789,37 @@
       "type": "pluto-api",
       "site_id": "6641fd41b18d700008e7e2b8"
     },
+    "ComedyCentralSouthPark.us@BR": {
+      "type": "pluto-api",
+      "site_id": "609ae66b359b270007869ff1"
+    },
+    "ComedyCentralSouthPark.us@LatAm": {
+      "type": "pluto-api",
+      "site_id": "609ae5cd48d3200007b0a98e"
+    },
     "PlutoTVComediamadeinSpain.de@ES": {
       "type": "pluto-api",
       "site_id": "5f1abce155a03d0007718834"
     },
-    "PlutoTVComediasRomanticas.de@ES": {
+    "ComedyCentralAnimation.us@SD": {
       "type": "pluto-api",
-      "site_id": "655b5d865812e80008843bd1"
+      "site_id": "64f8a949f5b5e4000862467c"
+    },
+    "LEGOKidsTV.us@SD": {
+      "type": "pluto-api",
+      "site_id": "60fb01a24795a6000762fe83"
+    },
+    "PlutoTVKidsClassics.de@ES": {
+      "type": "pluto-api",
+      "site_id": "609e7e423e9173000706a681"
     },
     "PlutoTVTrueCrime.de@ES": {
       "type": "pluto-api",
       "site_id": "64a3f200f238ce0008d47247"
+    },
+    "AmericasVoiceNews.us@SD": {
+      "type": "pluto-api",
+      "site_id": "5e1f7da4bc7d740009831259"
     },
     "BestofMTV.se@SE": {
       "type": "pluto-api",
@@ -761,22 +873,6 @@
       "type": "pluto-api",
       "site_id": "5ca670f6593a5d78f0e85aed"
     },
-    "Cineaventura.us@SD": {
-      "type": "pluto-api",
-      "site_id": "60fb2f47c133270007327375"
-    },
-    "Cineenespanol.us@SD": {
-      "type": "pluto-api",
-      "site_id": "5cf96b1c4f1ca3f0629f4bf0"
-    },
-    "CSIMiamienespanol.us@SD": {
-      "type": "pluto-api",
-      "site_id": "632b5950b515b000079e6b81"
-    },
-    "CSINYenespanol.us@SD": {
-      "type": "pluto-api",
-      "site_id": "632b606e12a67b0007c9e371"
-    },
     "ParadiseHotel.se@SE": {
       "type": "pluto-api",
       "site_id": "61c18e1e0cd4cc00076bc4b3"
@@ -793,105 +889,9 @@
       "type": "pluto-api",
       "site_id": "662b71658dd8160008fc3abf"
     },
-    "LEGOKidsTV.us@SD": {
+    "TopGear.uk@SD": {
       "type": "pluto-api",
-      "site_id": "60fb01a24795a6000762fe83"
-    },
-    "PlutoTVKidsClassics.de@ES": {
-      "type": "pluto-api",
-      "site_id": "609e7e423e9173000706a681"
-    },
-    "BETCinema.us@SD": {
-      "type": "pluto-api",
-      "site_id": "58af4c093a41ca9d4ecabe96"
-    },
-    "BETComedyMovies.us@SD": {
-      "type": "pluto-api",
-      "site_id": "68c32d88f56983aba40052bd"
-    },
-    "BETVisionaries.us@SD": {
-      "type": "pluto-api",
-      "site_id": "663946c1b18d700008d9c168"
-    },
-    "CineTerror.us@US": {
-      "type": "pluto-api",
-      "site_id": "5d8d180092e97a5e107638d3"
-    },
-    "PlutoTVCineComedia.de@ES": {
-      "type": "pluto-api",
-      "site_id": "5f1ac8099c49f600076579b2"
-    },
-    "PlutoTVCinedeautor.de@ES": {
-      "type": "pluto-api",
-      "site_id": "60cc807324d60a0007708dc8"
-    },
-    "PlutoTVCineRomantico.de@ES": {
-      "type": "pluto-api",
-      "site_id": "5f1ac9a2d3611d0007a844bb"
-    },
-    "PlutoTVSciFi.de@ES": {
-      "type": "pluto-api",
-      "site_id": "5f6a38eaa5b68b0007a00e7a"
-    },
-    "PlutoTVThrillers.de@ES": {
-      "type": "pluto-api",
-      "site_id": "5f1ac8a87cd38d000745d7cf"
-    },
-    "PlutoTVWestern.de@ES": {
-      "type": "pluto-api",
-      "site_id": "6385e82900ab2e000768a058"
-    },
-    "SensaCineTVxPluto.de@ES": {
-      "type": "pluto-api",
-      "site_id": "676e7b4a4bd636000819c6a7"
-    },
-    "AmericasVoiceNews.us@SD": {
-      "type": "pluto-api",
-      "site_id": "5e1f7da4bc7d740009831259"
-    },
-    "CSI.se@DK": {
-      "type": "pluto-api",
-      "site_id": "6525419dc52b3600083db9c3"
-    },
-    "CSI.us@SD": {
-      "type": "pluto-api",
-      "site_id": "5efbd29e4aa26700076c0d06"
-    },
-    "CSICrimeSceneInvestigation.de@GB": {
-      "type": "pluto-api",
-      "site_id": "6304f8d5ffb61000071ab478"
-    },
-    "CSIMiami.us@SD": {
-      "type": "pluto-api",
-      "site_id": "62f54c11b3af68000702c304"
-    },
-    "CSIMiami.us@BR": {
-      "type": "pluto-api",
-      "site_id": "63eb9c5351f5d000085e8d7e"
-    },
-    "DatingNakedUK.se@SE": {
-      "type": "pluto-api",
-      "site_id": "692edd6bdb8695f63e14f3b9"
-    },
-    "DatingNakedUK.se@DK": {
-      "type": "pluto-api",
-      "site_id": "692edc78d52ea9e4858cf78f"
-    },
-    "DatingNakedUK.se@NO": {
-      "type": "pluto-api",
-      "site_id": "692edcff77f0147d69f19498"
-    },
-    "PlutoTVSeriescriminales.de@ES": {
-      "type": "pluto-api",
-      "site_id": "65cf6ab58145cb0008129ca8"
-    },
-    "PlutoTVSeriesSciFi.de@ES": {
-      "type": "pluto-api",
-      "site_id": "65ddec1ef7f0af0008be4b65"
-    },
-    "CSIenespanol.us@SD": {
-      "type": "pluto-api",
-      "site_id": "604928d54a4f730007ff76bc"
+      "site_id": "636adc255bcf470007d6e0e2"
     }
   },
   "missing": [

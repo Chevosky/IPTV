@@ -1,163 +1,163 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Chevosky/IPTV curated guide" generator-info-url="https://github.com/Chevosky/IPTV">
   <channel id="AELatinAmerica.us@Brazil">
-    <display-name>A&amp;E</display-name>
+    <display-name>A&amp;E Latin America Brazil (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" />
   </channel>
   <channel id="AELatinAmerica.us@Panregional">
-    <display-name lang="es">A&amp;E</display-name>
+    <display-name>A&amp;E Latin America (1080p)</display-name>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png" />
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png" />
     <url>http://www.movistar.co</url>
   </channel>
   <channel id="AMCLatinAmerica.us@Brazil">
+    <display-name>AMC Latin America Brazil (720p)</display-name>
     <url>http://www.clarotv.com.br</url>
-    <display-name lang="pt">São Paulo/SP  AMC HD</display-name>
   </channel>
   <channel id="AMCLatinAmerica.us@Panregional">
-    <display-name lang="es">AMC</display-name>
+    <display-name>AMC Latin America (1080p)</display-name>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png" />
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png" />
     <url>http://www.movistar.co</url>
   </channel>
   <channel id="AXN.br@SD">
+    <display-name>AXN (Brazil) (720p)</display-name>
     <url>http://www.clarotv.com.br</url>
-    <display-name lang="pt">São Paulo/SP  AXN</display-name>
   </channel>
   <channel id="AXNLatinAmerica.us@Andes">
-    <display-name lang="es">AXN</display-name>
+    <display-name>AXN Latin America Andes (1080p)</display-name>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png" />
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png" />
     <url>http://www.movistar.co</url>
   </channel>
   <channel id="AXNLatinAmerica.us@CentralAmerica">
-    <display-name lang="es">Canal AXN (Panamá)</display-name>
+    <display-name>AXN Latin America (1080p)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="AXNLatinAmerica.us@Chile">
-    <display-name lang="es">Canal AXN (Chile)</display-name>
+    <display-name>AXN Latin America Chile (1080p)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="AXNLatinAmerica.us@Mexico">
-    <display-name lang="es">Canal AXN (México)</display-name>
+    <display-name>AXN Latin America Mexico</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="AXNLatinAmerica.us@South">
-    <display-name lang="es">Canal AXN (Argentina)</display-name>
+    <display-name>AXN Latin America South (1080p)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="AdrenalinaPuraTV.us@Brazil">
-    <display-name lang="pt">Adrenalina Pura TV</display-name>
+    <display-name>Adrenalina Pura TV Brazil</display-name>
   </channel>
   <channel id="AdultSwimLatinAmerica.us@Brazil">
+    <display-name>Adult Swim Latin America Brazil (720p)</display-name>
     <icon src="https://www.clarotvmais.com.br/img/channels/adult_swim.png" />
     <icon src="https://www.clarotvmais.com.br/img/channels/adult_swim.png" />
     <url>http://www.clarotvmais.com.br</url>
-    <display-name lang="pt">Adult Swim HD</display-name>
   </channel>
   <channel id="AdultSwimLatinAmerica.us@Panregional">
-    <display-name lang="en">[ADSLA] Adult Swim</display-name>
+    <display-name>Adult Swim Latin America (1080p) [Geo-blocked]</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s16496_ll_h15_ad.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s16496_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
   </channel>
   <channel id="AmericaTV.ar@SD">
-    <display-name lang="es">Canal America TV (Argentina)</display-name>
+    <display-name>America TV (720p)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="AmericasVoice.us@SD">
-    <display-name>America's Voice</display-name>
+    <display-name>America's Voice (720p)</display-name>
   </channel>
   <channel id="AmericasVoiceNews.us@SD">
     <display-name>America's Voice News (720p)</display-name>
   </channel>
   <channel id="Antena3Internacional.es@SD">
-    <display-name lang="es">Antena 3 Internacional</display-name>
+    <display-name>Antena 3 Internacional (1080p)</display-name>
     <url>http://www.atresplayer.com</url>
   </channel>
   <channel id="Arte1.br@SD">
-    <display-name>Arte 1</display-name>
+    <display-name>Arte 1 (720p)</display-name>
     <icon src="https://i.imgur.com/Ivnk7A6.png" />
   </channel>
   <channel id="AsianCrush.us@SD">
-    <display-name lang="en">AsianCrush</display-name>
+    <display-name>AsianCrush (1080p)</display-name>
     <icon src="https://metadata-static.plex.tv/7/gracenote/7763231834a6ebe8bd9c03ca4385ef73.jpg" />
     <icon src="https://metadata-static.plex.tv/7/gracenote/7763231834a6ebe8bd9c03ca4385ef73.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
   <channel id="AztecaInternacional.mx@SD">
-    <display-name lang="en">Azteca Internacional</display-name>
+    <display-name>Azteca Internacional (1080p)</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/3f020635-4401-4757-8f61-7f2a168b5317/2000x3000_NI_Internacional.jpg" />
     <icon src="https://provider-static.plex.tv/epg/cms/production/3f020635-4401-4757-8f61-7f2a168b5317/2000x3000_NI_Internacional.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
   <channel id="BBCDrama.uk@Spain">
-    <display-name>BBC Series</display-name>
+    <display-name>BBC Drama (1080p)</display-name>
     <icon src="https://i.imgur.com/HctHhLL.png" />
   </channel>
   <channel id="BBCEarth.uk@US">
-    <display-name>BBC Earth</display-name>
+    <display-name>BBC Earth US (1080p)</display-name>
     <icon src="https://i.imgur.com/nGSsUd4.png" />
   </channel>
   <channel id="BBCFood.us@SD">
-    <display-name lang="es">BBC Food</display-name>
+    <display-name>BBC Food (1080p)</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbfoo.png" />
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/bbfoo.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="BBCFour.uk@UK">
+    <display-name>BBC Four</display-name>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/354b1562-4080-4174-a868-e0a4d2959638_W90.png" />
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/354b1562-4080-4174-a868-e0a4d2959638_W90.png" />
     <url>http://www.tv.blue.ch</url>
-    <display-name lang="de">BBC Four</display-name>
   </channel>
   <channel id="BBCNews.uk@Europe">
-    <display-name>BBC NEWS</display-name>
+    <display-name>BBC News Europe (576p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="BBCNews.uk@LatinAmerica">
-    <display-name>BBC NEWS</display-name>
+    <display-name>BBC News Latin America (720p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="BBCNews.uk@NorthAmerica">
-    <display-name lang="en">BBC News (North America)</display-name>
+    <display-name>BBC News North America (1080p)</display-name>
     <icon src="https://metadata-static.plex.tv/4/gracenote/4109d51eea7d95a05383c5df901ac6ac.jpg" />
     <icon src="https://metadata-static.plex.tv/4/gracenote/4109d51eea7d95a05383c5df901ac6ac.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
   <channel id="BBCNews.uk@UK">
+    <display-name>BBC News (1080p)</display-name>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/9b5cf583-ec61-4688-b47c-8224fc310329_W90.png" />
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/9b5cf583-ec61-4688-b47c-8224fc310329_W90.png" />
     <url>http://www.tv.blue.ch</url>
-    <display-name lang="de">BBC News</display-name>
   </channel>
   <channel id="BBCOne.uk@London">
+    <display-name>BBC One</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s30644_ll_h15_ac.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s30644_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BBC One London</display-name>
   </channel>
   <channel id="BBCOne.uk@LondonHD">
+    <display-name>BBC One London HD (720p)</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">BBC One Lon HD</display-name>
   </channel>
   <channel id="BBCThree.uk@HD">
+    <display-name>BBC Three HD</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">BBC Three HD</display-name>
   </channel>
   <channel id="BETCinema.us@SD">
     <display-name>BET Cinema</display-name>
@@ -169,7 +169,7 @@
     <display-name>BET Comedy Movies</display-name>
   </channel>
   <channel id="BETPlutoTV.us@BR">
-    <display-name lang="pt">BET Pluto TV</display-name>
+    <display-name>BET Pluto TV BR</display-name>
   </channel>
   <channel id="BETPlutoTV.us@US">
     <display-name>BET Pluto TV</display-name>
@@ -238,75 +238,75 @@
     <display-name>CSI en espanol</display-name>
   </channel>
   <channel id="Canal26.ar@SD">
-    <display-name>CANAL 26</display-name>
+    <display-name>Canal 26 (Argentina) (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" />
   </channel>
   <channel id="CanalPlusCinemas.fr@SD">
+    <display-name>Canal+ Cinemas (720p)</display-name>
     <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
     <icon src="https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png" />
     <url>http://www.telerama.fr</url>
-    <display-name lang="fr">Canal+ Cinéma(s)</display-name>
   </channel>
   <channel id="Cine666byPlutoTV.de@FR">
-    <display-name lang="fr">Ciné 666 by Pluto TV</display-name>
+    <display-name>Cine 666 by Pluto TV</display-name>
   </channel>
   <channel id="CineActionbyPlutoTV.de@FR">
-    <display-name lang="fr">Ciné Action by Pluto TV</display-name>
+    <display-name>Cine Action by Pluto TV</display-name>
   </channel>
   <channel id="CineCatastrophebyPlutoTV.de@FR">
-    <display-name lang="fr">Ciné Catastrophe by Pluto TV</display-name>
+    <display-name>Cine Catastrophe by Pluto TV</display-name>
   </channel>
   <channel id="CineHorreurbyPlutoTV.de@FR">
-    <display-name lang="fr">Ciné Horreur by Pluto TV</display-name>
+    <display-name>Cine Horreur by Pluto TV</display-name>
   </channel>
   <channel id="CineRetrobyPlutoTV.de@FR">
-    <display-name lang="fr">Ciné Rétro by Pluto TV</display-name>
+    <display-name>Cine Retro by Pluto TV</display-name>
   </channel>
   <channel id="CineRomancebyPlutoTV.de@FR">
-    <display-name lang="fr">Ciné Romance by Pluto TV</display-name>
+    <display-name>Cine Romance by Pluto TV</display-name>
   </channel>
   <channel id="CineRomantico.us@SD">
-    <display-name>Cine Romántico</display-name>
+    <display-name>Cine Romantico (720p)</display-name>
     <icon src="https://i.imgur.com/FUrrDrb.png" />
   </channel>
   <channel id="CineSciFibyPlutoTV.de@FR">
-    <display-name lang="fr">Ciné Sci-Fi by Pluto TV</display-name>
+    <display-name>Cine Sci-Fi by Pluto TV</display-name>
   </channel>
   <channel id="CineSony.us@SD">
-    <display-name>Canal Cine Sony</display-name>
+    <display-name>Cine Sony (720p)</display-name>
     <icon src="https://i.imgur.com/bZWoDTg.png" />
   </channel>
   <channel id="CineTerror.us@BR">
-    <display-name lang="pt">Pluto TV Cine Terror</display-name>
+    <display-name>Cine Terror BR</display-name>
   </channel>
   <channel id="CineTerror.us@LatAm">
-    <display-name lang="es">Pluto TV Cine Terror</display-name>
+    <display-name>Cine Terror LatAm</display-name>
   </channel>
   <channel id="CineTerror.us@US">
     <display-name>Cine Terror</display-name>
   </channel>
   <channel id="CineThrillersbyPlutoTV.de@FR">
-    <display-name lang="fr">Ciné Thrillers by Pluto TV</display-name>
+    <display-name>Cine Thrillers by Pluto TV</display-name>
   </channel>
   <channel id="CineWestern.es@SD">
-    <display-name>Cine Western</display-name>
+    <display-name>Cine Western (Spain) (1080p)</display-name>
     <icon src="https://i.imgur.com/2UROzSc.png" />
   </channel>
   <channel id="CineWestern.fr@SD">
-    <display-name>Ciné Western</display-name>
+    <display-name>Cine Western (France) (1080p)</display-name>
     <icon src="https://i.imgur.com/tteOFkL.png" />
   </channel>
   <channel id="CineWesternbyPlutoTV.de@FR">
-    <display-name lang="fr">Ciné Western by Pluto TV</display-name>
+    <display-name>Cine Western by Pluto TV</display-name>
   </channel>
   <channel id="Cineaventura.us@SD">
     <display-name>Cine aventura</display-name>
   </channel>
   <channel id="CinebyPlutoTV.de@FR">
-    <display-name lang="fr">Ciné by Pluto TV</display-name>
+    <display-name>Cine by Pluto TV</display-name>
   </channel>
   <channel id="CinedAsiebyPlutoTV.de@FR">
-    <display-name lang="fr">Ciné d'Asie by Pluto TV</display-name>
+    <display-name>Cine d'Asie by Pluto TV</display-name>
   </channel>
   <channel id="Cineenespanol.us@SD">
     <display-name>Cine en espanol</display-name>
@@ -315,7 +315,7 @@
     <display-name>Classic TV Comedy</display-name>
   </channel>
   <channel id="CodeFashionTV.bg@SD">
-    <display-name>Code Fashion TV</display-name>
+    <display-name>Code Fashion TV (1080p)</display-name>
     <icon src="https://i.imgur.com/mVc2g64.png" />
   </channel>
   <channel id="ComediaalobestiadePlutoTV.de@ES">
@@ -325,14 +325,14 @@
     <display-name>Comedy Central Animation</display-name>
   </channel>
   <channel id="ComedyCentralLatinAmerica.us@Panregional">
-    <display-name>Comedy Central</display-name>
+    <display-name>Comedy Central Latin America (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" />
   </channel>
   <channel id="ComedyCentralPlutoTV.us@BR">
-    <display-name lang="pt">Comedy Central Pluto TV</display-name>
+    <display-name>Comedy Central Pluto TV BR</display-name>
   </channel>
   <channel id="ComedyCentralPlutoTV.us@LatAm">
-    <display-name lang="es">Comedy Central Pluto TV</display-name>
+    <display-name>Comedy Central Pluto TV LatAm</display-name>
   </channel>
   <channel id="ComedyCentralPlutoTV.us@US">
     <display-name>Comedy Central Pluto TV</display-name>
@@ -350,13 +350,13 @@
     <display-name>Comedy Central en Espanol</display-name>
   </channel>
   <channel id="DW.de@English">
+    <display-name>DW English (1080p)</display-name>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/790b45c4-3b7b-4349-b3db-3eebad868ce9_W90.png" />
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/790b45c4-3b7b-4349-b3db-3eebad868ce9_W90.png" />
     <url>http://www.tv.blue.ch</url>
-    <display-name lang="de">DW Englisch</display-name>
   </channel>
   <channel id="DW.de@Espanol">
-    <display-name lang="en">[DWLA] DW en español</display-name>
+    <display-name>DW Espanol (1080p)</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s64230_ll_h15_ag.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s64230_ll_h15_ag.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
@@ -371,57 +371,57 @@
     <display-name>Dating Naked UK</display-name>
   </channel>
   <channel id="DePeliculaLatinAmerica.mx@SD">
-    <display-name>Canal De Película</display-name>
+    <display-name>De Pelicula Latin America (1080p)</display-name>
     <icon src="https://i.imgur.com/aksM8pa.png" />
   </channel>
   <channel id="ElTreceInternacionalLatinAmerica.ar@SD">
-    <display-name>Canal 13 (Satelital)</display-name>
+    <display-name>El Trece Internacional Latin America (1080p)</display-name>
     <icon src="https://i.imgur.com/Vo6prbh.png" />
   </channel>
   <channel id="FIFAPlus.uk@HispanicAmerica">
-    <display-name>FIFA+</display-name>
+    <display-name>FIFA+ Hispanic America (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" />
   </channel>
   <channel id="FIFAPlus.uk@Portuguese">
-    <display-name>FIFA+</display-name>
+    <display-name>FIFA+ Portuguese (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" />
   </channel>
   <channel id="FashionBox.nl@SD">
-    <display-name>FashionBox HD</display-name>
+    <display-name>FashionBox</display-name>
     <icon src="https://i.imgur.com/Taqj4yi.png" />
   </channel>
   <channel id="FashionTV.in@SD">
-    <display-name>Fashion TV</display-name>
+    <display-name>FashionTV (India) (1080p)</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" />
   </channel>
   <channel id="FashionTV.ua@SD">
-    <display-name>Fashion TV</display-name>
+    <display-name>Fashion TV (1080p)</display-name>
     <icon src="https://i.imgur.com/Bk7W39G.png" />
   </channel>
   <channel id="FashionTVAsia.fr@SD">
-    <display-name>Fashion TV</display-name>
+    <display-name>FashionTV Asia (720p)</display-name>
     <icon src="https://i.imgur.com/ucTh9tO.png" />
   </channel>
   <channel id="FashionTVEurope.fr@SD">
-    <display-name>FashionTV</display-name>
+    <display-name>FashionTV Europe (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" />
   </channel>
   <channel id="GarageTVLatinAmerica.ar@SD">
-    <display-name>El Garage Tv</display-name>
+    <display-name>Garage TV Latin America</display-name>
     <icon src="https://i.imgur.com/FqFxog1.png" />
   </channel>
   <channel id="History.br@SD">
+    <display-name>History (Brazil) (720p)</display-name>
     <url>http://www.clarotv.com.br</url>
-    <display-name lang="pt">São Paulo/SP  History Hd</display-name>
   </channel>
   <channel id="History2LatinAmerica.us@Brazil">
+    <display-name>History 2 Latin America Brazil (720p)</display-name>
     <icon src="https://www.clarotvmais.com.br/img/channels/history_2.png" />
     <icon src="https://www.clarotvmais.com.br/img/channels/history_2.png" />
     <url>http://www.clarotvmais.com.br</url>
-    <display-name lang="pt">São Paulo/SP  History 2 HD</display-name>
   </channel>
   <channel id="History2LatinAmerica.us@Panregional">
-    <display-name lang="es">Canal History 2 (Panregional)</display-name>
+    <display-name>History 2 Latin America (1080p)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" />
     <url>http://www.gatotv.com</url>
@@ -430,41 +430,41 @@
     <display-name>LEGO Kids TV</display-name>
   </channel>
   <channel id="LifetimeLatinAmerica.us@Brazil">
-    <display-name>Lifetime</display-name>
+    <display-name>Lifetime Latin America Brazil (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" />
   </channel>
   <channel id="LifetimeLatinAmerica.us@Panregional">
-    <display-name lang="es">Canal Lifetime (Panamá)</display-name>
+    <display-name>Lifetime Latin America (1080p)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="MBCDrama.ae@SD">
-    <display-name>إم بي سي دراما</display-name>
+    <display-name>MBC Drama (United Arab Emirates) (1080p)</display-name>
     <icon src="https://i.imgur.com/g5PWnqp.png" />
   </channel>
   <channel id="MTVPlutoTV.us@BR">
-    <display-name lang="pt">MTV Pluto TV</display-name>
+    <display-name>MTV Pluto TV BR</display-name>
   </channel>
   <channel id="MTVPlutoTV.us@LatAm">
-    <display-name lang="es">MTV Pluto TV</display-name>
+    <display-name>MTV Pluto TV LatAm (720p)</display-name>
   </channel>
   <channel id="MusicBoxBrazil.br@SD">
-    <display-name>Music Box Brasil</display-name>
+    <display-name>Music Box Brazil (720p)</display-name>
     <icon src="https://i.imgur.com/CDPCF2X.png" />
   </channel>
   <channel id="MyTimeMovieNetworkEast.us@SD">
-    <display-name>MyTime Movie Network</display-name>
+    <display-name>MyTime Movie Network East (1080p)</display-name>
     <icon src="https://i.imgur.com/HYgxPVQ.png" />
   </channel>
   <channel id="NBCComedyVault.us@SD">
+    <display-name>NBC Comedy Vault (1080p)</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99951244/56x56.webp?type=color_onBlack" />
     <icon src="https://image.xumo.com/v1/channels/channel/99951244/56x56.webp?type=color_onBlack" />
     <url>http://www.xumo.com</url>
-    <display-name lang="en">NBC Comedy Vault</display-name>
   </channel>
   <channel id="Naruto.us@Brazil">
-    <display-name lang="pt">Naruto</display-name>
+    <display-name>Naruto Brazil</display-name>
   </channel>
   <channel id="ParadiseHotel.se@DK">
     <display-name>Paradise Hotel DK</display-name>
@@ -479,86 +479,86 @@
     <display-name>Paradise Hotel: Under lagnerne</display-name>
   </channel>
   <channel id="ParaguayTV.py@SD">
-    <display-name>Canal Paraguay TV</display-name>
+    <display-name>Paraguay TV (1080p)</display-name>
     <icon src="https://i.imgur.com/fkK7i8g.png" />
   </channel>
   <channel id="PlutoTV90sClassics.de@FR">
-    <display-name lang="fr">Pluto TV 90's Classics</display-name>
+    <display-name>Pluto TV 90's Classics</display-name>
   </channel>
   <channel id="PlutoTVANIMEGO.de@FR">
-    <display-name lang="fr">Pluto TV ANIME GO!</display-name>
+    <display-name>Pluto TV ANIME GO!</display-name>
   </channel>
   <channel id="PlutoTVAnime.us@BR">
-    <display-name lang="pt">Pluto TV Anime</display-name>
+    <display-name>Pluto TV Anime BR</display-name>
   </channel>
   <channel id="PlutoTVAnime.us@LatAm">
-    <display-name lang="es">Pluto TV Anime</display-name>
+    <display-name>Pluto TV Anime LatAm</display-name>
   </channel>
   <channel id="PlutoTVAnimeAcao.us@BR">
-    <display-name lang="pt">Pluto TV Anime Ação</display-name>
+    <display-name>Pluto TV Anime Acao</display-name>
   </channel>
   <channel id="PlutoTVCineAccion.us@LatAm">
-    <display-name lang="es">Pluto TV Cine Acción</display-name>
+    <display-name>Pluto TV Cine Accion</display-name>
   </channel>
   <channel id="PlutoTVCineClasico.us@LatAm">
-    <display-name lang="es">Pluto TV Cine Clásico</display-name>
+    <display-name>Pluto TV Cine Clasico</display-name>
   </channel>
   <channel id="PlutoTVCineClassicos.us@BR">
-    <display-name lang="pt">Pluto TV Cine Clássicos</display-name>
+    <display-name>Pluto TV Cine Classicos</display-name>
   </channel>
   <channel id="PlutoTVCineComedia.de@ES">
     <display-name>Pluto TV Cine Comedia (Germany)</display-name>
   </channel>
   <channel id="PlutoTVCineComedia.us@BR">
-    <display-name lang="pt">Pluto TV Cine Comédia</display-name>
+    <display-name>Pluto TV Cine Comedia (United States) BR</display-name>
   </channel>
   <channel id="PlutoTVCineComedia.us@LatAm">
-    <display-name lang="es">Pluto TV Cine Comedia</display-name>
+    <display-name>Pluto TV Cine Comedia (United States) LatAm</display-name>
   </channel>
   <channel id="PlutoTVCineComediaRomantica.us@BR">
-    <display-name lang="pt">Pluto TV Cine Comédia Romântica</display-name>
+    <display-name>Pluto TV Cine Comedia Romantica</display-name>
   </channel>
   <channel id="PlutoTVCineCrime.us@BR">
-    <display-name lang="pt">Pluto TV Cine Crime</display-name>
+    <display-name>Pluto TV Cine Crime</display-name>
   </channel>
   <channel id="PlutoTVCineCrimen.us@LatAm">
-    <display-name lang="es">Pluto TV Cine Crimen</display-name>
+    <display-name>Pluto TV Cine Crimen</display-name>
   </channel>
   <channel id="PlutoTVCineDrama.us@BR">
-    <display-name lang="pt">Pluto TV Cine Drama</display-name>
+    <display-name>Pluto TV Cine Drama</display-name>
   </channel>
   <channel id="PlutoTVCineDrama.us@LatAm">
-    <display-name lang="es">Pluto TV Cine Drama</display-name>
+    <display-name>Pluto TV Cine Drama LatAm</display-name>
   </channel>
   <channel id="PlutoTVCineEstelar.us@LatAm">
-    <display-name lang="es">Pluto TV Cine Estelar</display-name>
+    <display-name>Pluto TV Cine Estelar</display-name>
   </channel>
   <channel id="PlutoTVCineFamilia.us@BR">
-    <display-name lang="pt">Pluto TV Cine Família</display-name>
+    <display-name>Pluto TV Cine Familia</display-name>
   </channel>
   <channel id="PlutoTVCineFamilia.us@LatAm">
-    <display-name lang="es">Pluto TV Cine Familia</display-name>
+    <display-name>Pluto TV Cine Familia LatAm</display-name>
   </channel>
   <channel id="PlutoTVCineInspiracao.us@BR">
-    <display-name lang="pt">Pluto TV Cine Inspiração</display-name>
+    <display-name>Pluto TV Cine Inspiracao</display-name>
   </channel>
   <channel id="PlutoTVCineInspirador.us@LatAm">
-    <display-name lang="es">Pluto TV Cine Inspirador</display-name>
+    <display-name>Pluto TV Cine Inspirador</display-name>
   </channel>
   <channel id="PlutoTVCineRomance.us@BR">
-    <display-name lang="pt">Pluto TV Cine Romance</display-name>
+    <display-name>Pluto TV Cine Romance</display-name>
   </channel>
   <channel id="PlutoTVCineRomance.us@LatAm">
-    <display-name lang="es">Pluto TV Cine Romance</display-name>
+    <display-name>Pluto TV Cine Romance LatAm</display-name>
   </channel>
   <channel id="PlutoTVCineRomantico.de@ES">
     <display-name>Pluto TV Cine Romantico</display-name>
   </channel>
   <channel id="PlutoTVCineSucessos.us@BR">
-    <display-name lang="pt">Pluto TV Cine Sucessos</display-name>
+    <display-name>Pluto TV Cine Sucessos</display-name>
   </channel>
   <channel id="PlutoTVCineSuspenso.us@LatAm">
-    <display-name lang="es">Pluto TV Cine Suspenso</display-name>
+    <display-name>Pluto TV Cine Suspenso</display-name>
   </channel>
   <channel id="PlutoTVCinedeautor.de@ES">
     <display-name>Pluto TV Cine de autor</display-name>
@@ -570,106 +570,106 @@
     <display-name>Pluto TV Comedias Romanticas</display-name>
   </channel>
   <channel id="PlutoTVDesenhosClassicos.us@BR">
-    <display-name lang="pt">Pluto TV Desenhos Clássicos</display-name>
+    <display-name>Pluto TV Desenhos Classicos</display-name>
   </channel>
   <channel id="PlutoTVHistoire.de@FR">
-    <display-name lang="fr">Pluto TV Histoire</display-name>
+    <display-name>Pluto TV Histoire (720p)</display-name>
   </channel>
   <channel id="PlutoTVKids.us@BR">
-    <display-name lang="pt">Pluto TV Kids</display-name>
+    <display-name>Pluto TV Kids</display-name>
   </channel>
   <channel id="PlutoTVKids.us@LatAm">
-    <display-name lang="es">Pluto TV Kids</display-name>
+    <display-name>Pluto TV Kids LatAm</display-name>
   </channel>
   <channel id="PlutoTVKidsClassics.de@ES">
     <display-name>Pluto TV Kids Classics (720p)</display-name>
   </channel>
   <channel id="PlutoTVKidsClassics.de@FR">
-    <display-name lang="fr">Pluto TV Kids Classics</display-name>
+    <display-name>Pluto TV Kids Classics FR (720p)</display-name>
   </channel>
   <channel id="PlutoTVKidsClub.de@FR">
-    <display-name lang="fr">Pluto TV Kids Club</display-name>
+    <display-name>Pluto TV Kids Club (Germany)</display-name>
   </channel>
   <channel id="PlutoTVKidsClub.us@BR">
-    <display-name lang="pt">Pluto TV Kids Club</display-name>
+    <display-name>Pluto TV Kids Club (United States)</display-name>
   </channel>
   <channel id="PlutoTVNetmovies.us@BR">
-    <display-name lang="pt">Pluto TV Netmovies</display-name>
+    <display-name>Pluto TV Netmovies</display-name>
   </channel>
   <channel id="PlutoTVNuestroCine.us@LatAm">
-    <display-name lang="es">Pluto TV Nuestro Cine</display-name>
+    <display-name>Pluto TV Nuestro Cine</display-name>
   </channel>
   <channel id="PlutoTVRetro.us@BR">
-    <display-name lang="pt">Pluto TV Retrô</display-name>
+    <display-name>Pluto TV Retro</display-name>
   </channel>
   <channel id="PlutoTVRetroToons.de@FR">
-    <display-name lang="fr">Pluto TV Retro Toons</display-name>
+    <display-name>Pluto TV Retro Toons</display-name>
   </channel>
   <channel id="PlutoTVSciFi.de@ES">
     <display-name>Pluto TV Sci-Fi (Germany) ES</display-name>
   </channel>
   <channel id="PlutoTVSciFi.us@LatAm">
-    <display-name lang="es">Pluto TV Sci-Fi</display-name>
+    <display-name>Pluto TV Sci-Fi (United States) LatAm</display-name>
   </channel>
   <channel id="PlutoTVSeries.us@LatAm">
-    <display-name lang="es">Pluto TV Series</display-name>
+    <display-name>Pluto TV Series (United States)</display-name>
   </channel>
   <channel id="PlutoTVSeriesAcao.us@BR">
-    <display-name lang="pt">Pluto TV Séries Ação</display-name>
+    <display-name>Pluto TV Series Acao</display-name>
   </channel>
   <channel id="PlutoTVSeriesComedia.us@BR">
-    <display-name lang="pt">Pluto TV Séries Comédia</display-name>
+    <display-name>Pluto TV Series Comedia</display-name>
   </channel>
   <channel id="PlutoTVSeriesCriminais.us@BR">
-    <display-name lang="pt">Pluto TV Séries Criminais</display-name>
+    <display-name>Pluto TV Series Criminais</display-name>
   </channel>
   <channel id="PlutoTVSeriesDrama.us@BR">
-    <display-name lang="pt">Pluto TV Séries Drama</display-name>
+    <display-name>Pluto TV Series Drama</display-name>
   </channel>
   <channel id="PlutoTVSeriesFantastiques.de@FR">
-    <display-name lang="fr">Pluto TV Séries Fantastiques</display-name>
+    <display-name>Pluto TV Series Fantastiques</display-name>
   </channel>
   <channel id="PlutoTVSeriesLatinas.us@LatAm">
-    <display-name lang="es">Pluto TV Series Latinas</display-name>
+    <display-name>Pluto TV Series Latinas</display-name>
   </channel>
   <channel id="PlutoTVSeriesNovelescas.us@BR">
-    <display-name lang="pt">Pluto TV Séries Novelescas</display-name>
+    <display-name>Pluto TV Series Novelescas</display-name>
   </channel>
   <channel id="PlutoTVSeriesRetro.us@LatAm">
-    <display-name lang="en">Pluto TV Series Retro</display-name>
+    <display-name>Pluto TV Series Retro</display-name>
   </channel>
   <channel id="PlutoTVSeriesSciFi.de@ES">
     <display-name>Pluto TV Series Sci-Fi (Germany)</display-name>
   </channel>
   <channel id="PlutoTVSeriesSciFi.us@BR">
-    <display-name lang="pt">Pluto TV Séries Sci-Fi</display-name>
+    <display-name>Pluto TV Series Sci-Fi (United States)</display-name>
   </channel>
   <channel id="PlutoTVSeriescriminales.de@ES">
     <display-name>Pluto TV Series criminales</display-name>
   </channel>
   <channel id="PlutoTVSeriesdeAccion.us@LatAm">
-    <display-name lang="es">Pluto TV Series de Acción</display-name>
+    <display-name>Pluto TV Series de Accion</display-name>
   </channel>
   <channel id="PlutoTVSeriesdeComedia.us@LatAm">
-    <display-name lang="es">Pluto TV Series de Comedia</display-name>
+    <display-name>Pluto TV Series de Comedia</display-name>
   </channel>
   <channel id="PlutoTVSeriesdeCrimen.us@LatAm">
-    <display-name lang="es">Pluto TV Series de Crimen</display-name>
+    <display-name>Pluto TV Series de Crimen</display-name>
   </channel>
   <channel id="PlutoTVSeriesdeDrama.us@LatAm">
-    <display-name lang="es">Pluto TV Series de Drama</display-name>
+    <display-name>Pluto TV Series de Drama</display-name>
   </channel>
   <channel id="PlutoTVSeriesdeOtrosContinentes.us@LatAm">
-    <display-name lang="es">Pluto TV Series de Otros Continentes</display-name>
+    <display-name>Pluto TV Series de Otros Continentes</display-name>
   </channel>
   <channel id="PlutoTVSeriesdeSciFi.us@LatAm">
-    <display-name lang="es">Pluto TV Series de Sci-Fi</display-name>
+    <display-name>Pluto TV Series de Sci-Fi</display-name>
   </channel>
   <channel id="PlutoTVShowsporStingray.us@BR">
-    <display-name lang="pt">Pluto TV Shows por Stingray</display-name>
+    <display-name>Pluto TV Shows por Stingray (720p)</display-name>
   </channel>
   <channel id="PlutoTVSuperKids.de@FR">
-    <display-name lang="fr">Pluto TV Super Kids</display-name>
+    <display-name>Pluto TV Super Kids</display-name>
   </channel>
   <channel id="PlutoTVThrillers.de@ES">
     <display-name>Pluto TV Thrillers (Germany)</display-name>
@@ -681,147 +681,147 @@
     <display-name>Pluto TV Western ES</display-name>
   </channel>
   <channel id="QelloConcertsbyStingray.ca@SD">
+    <display-name>Qello Concerts by Stingray (1080p)</display-name>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg" />
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg" />
     <url>http://www.rakuten.tv</url>
-    <display-name lang="en">UK: Qello Concerts by Stingray</display-name>
   </channel>
   <channel id="RaiItalia.it@EuropeAfrica">
+    <display-name>Rai Italia (1080p)</display-name>
     <url>http://www.tv.sfr.fr</url>
-    <display-name lang="fr">Rai Italia</display-name>
   </channel>
   <channel id="RaiItalia.it@NorthAmericas">
+    <display-name>Rai Italia North Americas (1080p)</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s75785_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s75785_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Rai Italia</display-name>
   </channel>
   <channel id="RaiItalia.it@SouthAmericas">
-    <display-name lang="en">[RAIIS] Rai Italia</display-name>
+    <display-name>Rai Italia South Americas (1080p)</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s75785_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s75785_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
   </channel>
   <channel id="RaiStoria.it@SD">
+    <display-name>Rai Storia (1080p)</display-name>
     <url>http://www.tv.sfr.fr</url>
-    <display-name lang="fr">RAI STORIA</display-name>
   </channel>
   <channel id="RealAmericasVoice.us@SD">
+    <display-name>Real America's Voice (1080p)</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s117378_h15_aa.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s117378_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Real Americas Voice</display-name>
   </channel>
   <channel id="SensaCineTVxPluto.de@ES">
     <display-name>SensaCine TV x Pluto</display-name>
   </channel>
   <channel id="SeriesbyPlutoTV.de@FR">
-    <display-name lang="fr">Series by Pluto TV</display-name>
+    <display-name>Series by Pluto TV</display-name>
   </channel>
   <channel id="SonyChannel.ar@SD">
-    <display-name lang="es">Canal Sony (Argentina)</display-name>
+    <display-name>Sony Channel (Argentina) (1080p)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="SonyChannel.br@SD">
-    <display-name>Sony</display-name>
+    <display-name>Sony Channel (Brazil) (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" />
   </channel>
   <channel id="SonyMovies.br@SD">
+    <display-name>Sony Movies (720p)</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s124605_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s124605_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Sony Movies Brazil</display-name>
   </channel>
   <channel id="SonyMoviesLatinAmerica.us@SD">
-    <display-name>Sony Movies</display-name>
+    <display-name>Sony Movies Latin America (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" />
   </channel>
   <channel id="SonyOneBlacklist.fr@HD">
-    <display-name>Blacklist</display-name>
+    <display-name>Sony One Blacklist (1080p)</display-name>
     <icon src="https://i.imgur.com/uJC8rXr.png" />
   </channel>
   <channel id="SonyOneFavoris.fr@HD">
-    <display-name>Sony One | Favoris</display-name>
+    <display-name>Sony One Favoris (1080p)</display-name>
     <icon src="https://i.imgur.com/RO4AM4b.png" />
   </channel>
   <channel id="SonyOneHitsAction.fr@HD">
-    <display-name>Sony One | Hits Action</display-name>
+    <display-name>Sony One Hits Action (1080p)</display-name>
     <icon src="https://i.imgur.com/pXsZEsR.png" />
   </channel>
   <channel id="SonyOneHitsComedie.fr@HD">
-    <display-name>Sony One | Hits Comédie</display-name>
+    <display-name>Sony One Hits Comedie (1080p)</display-name>
     <icon src="https://i.imgur.com/8sHuxxS.png" />
   </channel>
   <channel id="StudioUniversalLatinAmerica.us@Brazil">
+    <display-name>Studio Universal Latin America Brazil (720p)</display-name>
     <url>http://www.clarotv.com.br</url>
-    <display-name lang="pt">São Paulo/SP  Studio Universal HD</display-name>
   </channel>
   <channel id="StudioUniversalLatinAmerica.us@Panregional">
-    <display-name lang="es">Studio Universal</display-name>
+    <display-name>Studio Universal Latin America (1080p)</display-name>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png" />
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png" />
     <url>http://www.movistar.co</url>
   </channel>
   <channel id="TVEInternacionalAmerica.es@HD">
-    <display-name lang="es">Canal TVE Internacional (Televisión Española)</display-name>
+    <display-name>TVE Internacional America HD (1080p) [Geo-blocked]</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="TVEInternacionalAmerica.es@SD">
-    <display-name lang="es">Canal TVE Internacional (Televisión Española)</display-name>
+    <display-name>TVE Internacional America (1080p)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="TVEInternacionalAsiaOceania.es@SD">
-    <display-name>TVE Internacional Asia</display-name>
+    <display-name>TVE Internacional Asia-Oceania</display-name>
     <icon src="https://i.ibb.co/RpKLCMvp/tve.png" />
   </channel>
   <channel id="TVEInternacionalEurope.es@SD">
-    <display-name>TVEi</display-name>
+    <display-name>TVE Internacional Europe</display-name>
     <icon src="https://i.ibb.co/RpKLCMvp/tve.png" />
   </channel>
   <channel id="Telefe.ar@SD">
-    <display-name>Canal Telefé (Argentina)</display-name>
+    <display-name>Telefe (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" />
   </channel>
   <channel id="TelefeInternacional.ar@SD">
+    <display-name>Telefe Internacional (1080p)</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s100066_ll_h15_ad.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s100066_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Telefe Internacional</display-name>
   </channel>
   <channel id="Telefuturo.py@SD">
-    <display-name>Canal Telefuturo</display-name>
+    <display-name>Telefuturo (Paraguay) (1080p)</display-name>
     <icon src="https://i.imgur.com/6lVrFvb.png" />
   </channel>
   <channel id="ThePetCollective.us@Brazil">
-    <display-name lang="pt">The Pet Collective</display-name>
+    <display-name>The Pet Collective Brazil (720p)</display-name>
   </channel>
   <channel id="ThePetCollective.us@UK">
-    <display-name>The Pet Collective</display-name>
+    <display-name>The Pet Collective UK (720p)</display-name>
     <icon src="https://i.imgur.com/yH7n2dF.png" />
   </channel>
   <channel id="ThePetCollective.us@US">
-    <display-name>The Pet Collective</display-name>
+    <display-name>The Pet Collective (720p)</display-name>
     <icon src="https://i.imgur.com/yH7n2dF.png" />
   </channel>
   <channel id="TopGear.uk@SD">
     <display-name>Top Gear (720p)</display-name>
   </channel>
   <channel id="Trece.es@SD">
-    <display-name>TR3CE</display-name>
+    <display-name>Trece (Spain) (576p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png" />
   </channel>
   <channel id="Trece.py@SD">
-    <display-name>Canal 13 de Paraguay (Trece)</display-name>
+    <display-name>Trece (Paraguay)</display-name>
     <icon src="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp" />
   </channel>
   <channel id="TrueCrimebyPlutoTV.de@FR">
-    <display-name lang="fr">True Crime by Pluto TV</display-name>
+    <display-name>True Crime by Pluto TV</display-name>
   </channel>
   <programme start="20261003055000 +0000" stop="20261003064000 +0000" channel="AELatinAmerica.us@Brazil">
     <title lang="pt">As Primeiras 48 Horas - Minutos Críticos</title>
@@ -4490,13 +4490,6 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="AmericasVoiceNews.us@SD" start="20261003140000 +0000" stop="20261003160000 +0000">
-    <title>The War Room</title>
-    <sub-title>The War Room</sub-title>
-    <desc>Steve Bannon and the team brings important news from around the world.</desc>
-    <category>News &amp; Information</category>
-    <category>News &amp; Information</category>
-  </programme>
   <programme channel="AmericasVoiceNews.us@SD" start="20261003160000 +0000" stop="20261003170000 +0000">
     <title>America's Top 10 With Wayne Allyn Root</title>
     <sub-title>America's Top 10 With Wayne Allyn Root</sub-title>
@@ -4648,6 +4641,13 @@
     <title>TPUSA Faith MHC</title>
     <sub-title>TPUSA Faith MHC</sub-title>
     <desc>TPUSA Faith's Make Heaven Crowded with special guests.</desc>
+    <category>News &amp; Information</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="AmericasVoiceNews.us@SD" start="20261004160000 +0000" stop="20261004170000 +0000">
+    <title>Jentezen Live</title>
+    <sub-title>Jentezen Live</sub-title>
+    <desc>Your news, your opinions and your voice – its Americas Voice News</desc>
     <category>News &amp; Information</category>
     <category>News &amp; Information</category>
   </programme>
@@ -8339,13 +8339,6 @@
     <category>Romance</category>
     <category>African-American Romance</category>
   </programme>
-  <programme channel="BETClassicsPlutoTV.us@SD" start="20261003153000 +0000" stop="20261003160000 +0000">
-    <title>Sister, Sister</title>
-    <sub-title>You Are So Beautiful</sub-title>
-    <desc>Curiosity about their birth parents leads the twins, Ray, and Lisa on a quest to learn more about the girls' past.</desc>
-    <category>Comedy</category>
-    <category>African-American Comedies</category>
-  </programme>
   <programme channel="BETClassicsPlutoTV.us@SD" start="20261003160000 +0000" stop="20261003163000 +0000">
     <title>Webster</title>
     <sub-title>Nerds Are People Too</sub-title>
@@ -8633,10 +8626,17 @@
     <category>Variety Show</category>
     <category>Variety Show</category>
   </programme>
-  <programme channel="BETComedyMovies.us@SD" start="20261003140000 +0000" stop="20261003160000 +0000">
-    <title>Good Burger</title>
-    <sub-title>Good Burger</sub-title>
-    <desc>Kel are serving up laughs! They're the good guys in Good Burger, a zany comedy inspired by the popular Kel routine from Nickelodeon's hit series All That.</desc>
+  <programme channel="BETClassicsPlutoTV.us@SD" start="20261004153000 +0000" stop="20261004160000 +0000">
+    <title>The Best Of Flip Wilson</title>
+    <sub-title>Robert Klein, Lola Falana, Dean Martin</sub-title>
+    <desc>Flip visits Lola at the unemployment office; Klein does his classic Broadway audition routine and Dean Martin drops by.</desc>
+    <category>Variety Show</category>
+    <category>Variety Show</category>
+  </programme>
+  <programme channel="BETClassicsPlutoTV.us@SD" start="20261004160000 +0000" stop="20261004163000 +0000">
+    <title>Moesha</title>
+    <sub-title>To Sleep, Perchance To Dream</sub-title>
+    <desc>Moesha starts having recurring romantic dreams about Hakeem, giving her second thoughts about their friendship and about sharing a room with him and Niecy on an upcoming ski trip.</desc>
     <category>Comedy</category>
     <category>African-American Comedies</category>
   </programme>
@@ -8859,13 +8859,6 @@
     <category lang="pt">Romantic Drama</category>
     <icon src="https://images.pluto.tv/series/6009e0df2a97380013436ff4/tile_1781879041394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="BETPlutoTV.us@US" start="20261003153000 +0000" stop="20261003160000 +0000">
-    <title>Ms. Pat Settles It</title>
-    <sub-title>Livin' Aint Free</sub-title>
-    <desc>Judge Ms. Pat settles cases that include an employee working for free but the boss says she owes HER, a mentor looking for his rent money but needs to clean up a messy lease agreement, &amp; two sisters battle bling to bring back their bond.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
-  </programme>
   <programme channel="BETPlutoTV.us@US" start="20261003160000 +0000" stop="20261003163000 +0000">
     <title>The Game</title>
     <sub-title>Intervention, My Ass</sub-title>
@@ -9076,6 +9069,20 @@
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
+  <programme channel="BETPlutoTV.us@US" start="20261004153000 +0000" stop="20261004160000 +0000">
+    <title>Ms. Pat Settles It</title>
+    <sub-title>Shady Sister Swipe</sub-title>
+    <desc>Judge Ms. Pat settles cases that include a roommate more focused on romance than bromance, a little sister stiffed by her credit card swiping big sis and a couple clashing over a lost social media opportunity.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
+  </programme>
+  <programme channel="BETPlutoTV.us@US" start="20261004160000 +0000" stop="20261004163000 +0000">
+    <title>The Game</title>
+    <sub-title>This Is Happening</sub-title>
+    <desc>Kelly and Chardonnay have a heart-to-heart after Tasha's baby shower.</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
+  </programme>
   <programme channel="BETVisionaries.us@SD" start="20261003151500 +0000" stop="20261003171500 +0000">
     <title>Head of State</title>
     <sub-title>Head of State</sub-title>
@@ -9153,26 +9160,12 @@
     <category>Action &amp; Adventure</category>
     <category>African-American Action</category>
   </programme>
-  <programme channel="BETVisionaries.us@SD" start="20261004151500 +0000" stop="20261004153000 +0000">
-    <title>BET Visionaries</title>
-    <sub-title>BET Visionaries</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="BestofMTV.se@DK" start="20261003145502 +0000" stop="20261003154402 +0000">
-    <title>Made: Prom Queen - Kristy</title>
-    <sub-title>Prom Queen - Kristy</sub-title>
-    <desc>Kristy McCallan wants to break out of her shy shell and dazzle her doubters by being MADE into a cool and confident Prom Queen.</desc>
-    <category>Reality</category>
-    <category>Occupational Reality</category>
-  </programme>
-  <programme channel="BestofMTV.se@DK" start="20261003154402 +0000" stop="20261003160902 +0000">
-    <title>My Super Sweet 16: Sierra</title>
-    <sub-title>Sierra</sub-title>
-    <desc>Sierra (daughter singer/producer of Cee-Lo) is a little diva who wants what she wants, which includes having a Sweet 15 party so she can be the first among her friends to celebrate their coming of age.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
+  <programme channel="BETVisionaries.us@SD" start="20261004151500 +0000" stop="20261004171500 +0000">
+    <title>Juice</title>
+    <sub-title>Juice</sub-title>
+    <desc>Q. Raheem. Bishop. Steel. They're four Harlem friends who spend their days hanging out and looking for a way to get the power and respect they call Juice. Q hopes to earn respect by becoming a scratch 'n' mix DJ.</desc>
+    <category>Thriller</category>
+    <category>Thriller</category>
   </programme>
   <programme channel="BestofMTV.se@DK" start="20261003160902 +0000" stop="20261003163402 +0000">
     <title>My Super Sweet 16: The Triplets</title>
@@ -9489,12 +9482,19 @@
     <category>Comedy</category>
     <category>Fails &amp; Pranks</category>
   </programme>
-  <programme channel="BestofMTV.se@DK" start="20261004152031 +0000" stop="20261004153000 +0000">
-    <title>Best of MTV</title>
-    <sub-title>Best of MTV</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="BestofMTV.se@DK" start="20261004152031 +0000" stop="20261004154331 +0000">
+    <title>Ridiculousness: 50 Cent</title>
+    <sub-title>50 Cent</sub-title>
+    <desc>I dette splinternye afsnit af "Ridiculousness" kommer 50 Cent til Rob, Steelo og Chanel for at diskutere skidedårlige fødselsdage, folk som er "Bygget som 50" og dem der - ligesom 50 - altid er "I rampelyset.</desc>
+    <category>Comedy</category>
+    <category>Fails &amp; Pranks</category>
+  </programme>
+  <programme channel="BestofMTV.se@DK" start="20261004154331 +0000" stop="20261004160631 +0000">
+    <title>Ridiculousness: Action Bronson</title>
+    <sub-title>Action Bronson</sub-title>
+    <desc>I dette nye afsnit af "Ridiculousness" kommer rapperen Action Bronson på besøg hos Rob, Sterling og Chanel for at vise sine brydergreb i "Bronsonmani" og ser nogle "Hvide der danser".</desc>
+    <category>Comedy</category>
+    <category>Fails &amp; Pranks</category>
   </programme>
   <programme channel="BestofMTV.se@NO" start="20261003153221 +0000" stop="20261003161721 +0000">
     <title>Jersey Shore: Boardwalk Blowups</title>
@@ -9804,26 +9804,26 @@
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="BestofMTV.se@NO" start="20261004150927 +0000" stop="20261004153000 +0000">
-    <title>Best of MTV</title>
-    <sub-title>Best of MTV</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="BestofMTV.se@NO" start="20261004150927 +0000" stop="20261004153327 +0000">
+    <title>Pimp My Ride: 1987 Honda CRX</title>
+    <sub-title>1987 Honda CRX</sub-title>
+    <desc>I dette avsnittet pimper teamet fra West Coast Customs Brians Honda CRX. Det er den første bilen som får en splitter ny motor, ettersom den gamle dør innen Xzibit får den inn på verkstedet.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
   </programme>
-  <programme channel="BestofMTV.se@SE" start="20261003152022 +0000" stop="20261003154522 +0000">
-    <title>Punk'd: Mya, Katie Holmes, Tracy Morgan</title>
-    <sub-title>Mya, Katie Holmes, Tracy Morgan</sub-title>
-    <desc>Mya gets up close and personal with her biggest fan, Katie Holmes (Dawson's Creek) gets involved in a torrid love triangle and Tracy Morgan (The Tracy Morgan Show) gets his car towed when the Punk'd valet crew parks his ride in the red zone.</desc>
+  <programme channel="BestofMTV.se@NO" start="20261004153327 +0000" stop="20261004155827 +0000">
+    <title>Punk'd (MTV): Lara Flynn Boyle, Ashanti, Omarion (from B2K)</title>
+    <sub-title>Lara Flynn Boyle, Ashanti, Omarion (from B2K)</sub-title>
+    <desc>Lara Flynn Boyle (The Practice) gets the anti-Hollywood treatment, Ashanti rides the tour bus from hell and Omarion (B2K, You Got Served) makes every father's nightmare come true.</desc>
     <category>Comedy</category>
     <category>Fails &amp; Pranks</category>
   </programme>
-  <programme channel="BestofMTV.se@SE" start="20261003154522 +0000" stop="20261003161202 +0000">
-    <title>MTV Cribs SV: Jonathan Bennett / Nicole Sullivan / DaniLeigh</title>
-    <sub-title>Jonathan Bennett / Nicole Sullivan / DaniLeigh</sub-title>
-    <desc>Skådespelaren Jonathan Bennett visar sin retrooas i Palm Springs. Skådespelaren och komikern Nicole Sullivan visar oss runt i familjens Los Angeles-hem. R&amp;B-artisten DaniLeigh ger oss backstagepass till sin Miamilya.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
+  <programme channel="BestofMTV.se@NO" start="20261004155827 +0000" stop="20261004162327 +0000">
+    <title>Punk'd (MTV): Taye Diggs, Rachael Leigh Cook, Halle Berry</title>
+    <sub-title>Taye Diggs, Rachael Leigh Cook, Halle Berry</sub-title>
+    <desc>Rachael Leigh Cook (She's all That) blows the whistle on an old man beat-down, Halle Berry (Gothika, Catwoman) is denied entrance into her own movie premiere and Taye Diggs (Brown Sugar) gets a touchy-feely examination from Dr. Punk'd.</desc>
+    <category>Comedy</category>
+    <category>Fails &amp; Pranks</category>
   </programme>
   <programme channel="BestofMTV.se@SE" start="20261003161202 +0000" stop="20261003163702 +0000">
     <title>Ridiculousness: Sterling and Nina Agdal VI</title>
@@ -10112,19 +10112,12 @@
     <category>Reality</category>
     <category>Celebrity Reality</category>
   </programme>
-  <programme channel="BestofMTV.se@SE" start="20261004152420 +0000" stop="20261004153000 +0000">
-    <title>Best of MTV</title>
-    <sub-title>Best of MTV</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="BestofParadiseHotelFinalveckan.se@SE" start="20261003151432 +0000" stop="20261003155942 +0000">
-    <title>Paradise Hotel, säsong 16</title>
-    <sub-title>Avsnitt 1634</sub-title>
-    <desc>Det är återigen dags att se vem som finns under kupan och åtta gäster kommer att bli sju. Ytterligare två försvinner när gästerna får rösta ut en person, som i sin tur får dra med sig en i fallet.</desc>
+  <programme channel="BestofMTV.se@SE" start="20261004152420 +0000" stop="20261004161120 +0000">
+    <title>Teen Mom OG: All the Times Teen Mom Broke the Internet</title>
+    <sub-title>All the Times Teen Mom Broke the Internet</sub-title>
+    <desc>De medverkande i Teen Mom OG och Teen Mom 2 minns de mest omtalade skvallernyheterna, internetgrälen och parodierna från de senaste tio åren.</desc>
     <category>Reality</category>
-    <category>Human Interest</category>
+    <category>Celebrity Reality</category>
   </programme>
   <programme channel="BestofParadiseHotelFinalveckan.se@SE" start="20261003155942 +0000" stop="20261003164437 +0000">
     <title>Paradise Hotel, säsong 16</title>
@@ -10322,19 +10315,12 @@
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="BestofParadiseHotelFinalveckan.se@SE" start="20261004151553 +0000" stop="20261004153000 +0000">
-    <title>Best of Paradise Hotel: Finalveckan</title>
-    <sub-title>Best of Paradise Hotel: Finalveckan</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="BestofParadiseHotelKyssarkarlek.se@SE" start="20261003151835 +0000" stop="20261003161413 +0000">
-    <title>Paradise Hotel, säsong 8</title>
-    <sub-title>Avsnitt 805</sub-title>
-    <desc>Kärleksveckan fortsätter, och nu är det dags för den första vinnaren från Paradise Motel att äntra det "riktiga" hotellet. Gänget välkomnar PH-veteranen Smail tillbaka som hotellets kärleksgud Amor.</desc>
+  <programme channel="BestofParadiseHotelFinalveckan.se@SE" start="20261004151553 +0000" stop="20261004160103 +0000">
+    <title>Paradise Hotel, säsong 16</title>
+    <sub-title>Avsnitt 1634</sub-title>
+    <desc>Det är återigen dags att se vem som finns under kupan och åtta gäster kommer att bli sju. Ytterligare två försvinner när gästerna får rösta ut en person, som i sin tur får dra med sig en i fallet.</desc>
     <category>Reality</category>
-    <category>Competition Reality</category>
+    <category>Human Interest</category>
   </programme>
   <programme channel="BestofParadiseHotelKyssarkarlek.se@SE" start="20261003161413 +0000" stop="20261003170905 +0000">
     <title>Paradise Hotel, säsong 8</title>
@@ -10546,10 +10532,10 @@
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="BestofParadiseHotelPandorasAsk.se@SE" start="20261003150711 +0000" stop="20261003160121 +0000">
-    <title>Paradise Hotel, säsong 8</title>
-    <sub-title>Avsnitt 820</sub-title>
-    <desc>Skolveckan fortsätter och nu är det killarnas tur att gnugga geniknölarna inför ett klurigt prov. Det blir även roliga timmen i klass PH – där eleverna får visa vem som är klassens främsta clown.</desc>
+  <programme channel="BestofParadiseHotelKyssarkarlek.se@SE" start="20261004154741 +0000" stop="20261004162929 +0000">
+    <title>Paradise Hotel, säsong 6</title>
+    <sub-title>Avsnitt 605</sub-title>
+    <desc>Ett välkänt ansikte gör comeback i paradiset till tjejernas förtjusning. Killarna är inte alls lika roade och ser bara ett stort hot.</desc>
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
@@ -10763,19 +10749,12 @@
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="BestofParadiseHotelPandorasAsk.se@SE" start="20261004151104 +0000" stop="20261004153000 +0000">
-    <title>Best of Paradise Hotel: Pandoras Ask</title>
-    <sub-title>Best of Paradise Hotel: Pandoras Ask</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261003151130 +0000" stop="20261003160216 +0000">
-    <title>Paradise Hotel, säsong 9: Avsnitt 917</title>
-    <sub-title>Avsnitt 917</sub-title>
-    <desc>Skolbalens drottning och kung ska koras. Men allt pluggande får bägaren att rinna över för några av studenterna. Disharmonin når sitt crescendo under de nattliga utsvävningarna.</desc>
+  <programme channel="BestofParadiseHotelPandorasAsk.se@SE" start="20261004151104 +0000" stop="20261004160327 +0000">
+    <title>Paradise Hotel, säsong 5</title>
+    <sub-title>Avsnitt 517</sub-title>
+    <desc>I sann flower power-anda bjuds deltagarna på nyckelparty. Kärleken är fri och nya par ska bildas.</desc>
     <category>Reality</category>
-    <category>Human Interest</category>
+    <category>Competition Reality</category>
   </programme>
   <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261003160216 +0000" stop="20261003165422 +0000">
     <title>Paradise Hotel, säsong 9: Avsnitt 918</title>
@@ -10994,19 +10973,12 @@
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261004152954 +0000" stop="20261004153000 +0000">
-    <title>Best of Paradise Hotel: Skolveckan</title>
-    <sub-title>Best of Paradise Hotel: Skolveckan</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261003152000 +0000" stop="20261003154300 +0000">
-    <title>The Drew Barrymore Show: Drew's News with Kevin Frazier and Nischelle Turner</title>
-    <sub-title>Drew's News with Kevin Frazier and Nischelle Turner</sub-title>
-    <desc>Entertainment Tonight's Kevin Frazier and Nischelle Turner are joining Drew and Ross Mathews at the Drew's News desk for a special Oscars themed Drew's News, sharing their predictions for the awards show.</desc>
-    <category>Talk Show</category>
-    <category>Talk Show</category>
+  <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261004152954 +0000" stop="20261004161617 +0000">
+    <title>Paradise Hotel, säsong 17</title>
+    <sub-title>Avsnitt 1715</sub-title>
+    <desc>Den berömda skolveckan är kommen och guldstjärnor ska delas ut till de elever som presterar bäst. Men redan inför det första provet checkar en plugghäst in på hotellet.</desc>
+    <category>Reality</category>
+    <category>Competition Reality</category>
   </programme>
   <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261003154300 +0000" stop="20261003163300 +0000">
     <title>The Drew Barrymore Show: Money Savings Mania Hour with Mikel Welch, TikTok Coupon Hacks, Ross-ipe Under $10</title>
@@ -11279,24 +11251,17 @@ great 1860 painting cellphone debate.</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261004150100 +0000" stop="20261004153000 +0000">
-    <title>Best of The Drew Barrymore Show</title>
-    <sub-title>Best of The Drew Barrymore Show</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261003152600 +0000" stop="20261003154900 +0000">
-    <title>The Drew Barrymore Show: Pilar Valdes, Danny Seo, Mikel Welch, Drew's News with Rachel Dratch</title>
-    <sub-title>Pilar Valdes, Danny Seo, Mikel Welch, Drew's News with Rachel Dratch</sub-title>
-    <desc>The celebration continues, and Drew's birthday twin Rachel Dratch has a delicious surprise for her when she joinsDrew and Ross Mathews at the Drew's News desk.</desc>
+  <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261004150100 +0000" stop="20261004152400 +0000">
+    <title>The Drew Barrymore Show: Drew &amp; A with Cast of "Emily in Paris," Pilar Valdes</title>
+    <sub-title>Drew &amp; A with Cast of "Emily in Paris," Pilar Valdes</sub-title>
+    <desc>"Emily in Paris" stars Lily Collins, Ashley Park, Philippine Leroy-Beaulieu and Lucas Bravo are joining Drew for a round of Drew &amp; A. Pilar Valdes is joining Drew in the kitchen to whip up some yummy crepes.</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261003154900 +0000" stop="20261003161200 +0000">
-    <title>The Drew Barrymore Show: William Jackson Harper, Drew's News, Andrew Rea</title>
-    <sub-title>William Jackson Harper, Drew's News, Andrew Rea</sub-title>
-    <desc>"Ant-Man and the Wasp: Quantumania" star William Jackson Harper is telling Drew about his role in the new Marvel film, why he took his dog to a pet psychic and how he met his girlfriend.</desc>
+  <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261004152400 +0000" stop="20261004161500 +0000">
+    <title>The Drew Barrymore Show: Beauty Week, Andy Cohen, Zazie Beetz</title>
+    <sub-title>Beauty Week, Andy Cohen, Zazie Beetz</sub-title>
+    <desc>Beauty Week continues with Drew revealing 100 beauty tips and giving head-to-toe makeovers to deserving viewers all week long! Andy Cohen joins Drew to share his favorite tips and discuss his new book, "Glitter Every Day: 365 Quotes from Women I Love."</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
@@ -11643,14 +11608,7 @@ great 1860 painting cellphone debate.</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261004151100 +0000" stop="20261004153000 +0000">
-    <title>Best of The Drew Barrymore Show</title>
-    <sub-title>Best of The Drew Barrymore Show</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261003151100 +0000" stop="20261003160200 +0000">
+  <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261004151100 +0000" stop="20261004160200 +0000">
     <title>The Drew Barrymore Show</title>
     <sub-title>Henry Winkler, Nico Santos, Drew Gooder, Cooking with Chef Aaron Sanchez</sub-title>
     <desc>Henry Winkler on his latest children’s book, "Lights, Camera, Danger!" "Superstore" star Nico Santos joins Drew. Drew shines a spotlight on 18-year-old hero Justin Galvin." Plus, Drew celebrates Hispanic Heritage Month cooking with Aaron Sanchez.</desc>
@@ -11937,12 +11895,19 @@ great 1860 painting cellphone debate.</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261004151800 +0000" stop="20261004153000 +0000">
-    <title>Best of The Drew Barrymore Show</title>
-    <sub-title>Best of The Drew Barrymore Show</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261004151800 +0000" stop="20261004154100 +0000">
+    <title>The Drew Barrymore Show: Drew's News, Bridesmaid Who Went Viral For Eating Wrong Cake</title>
+    <sub-title>Drew's News, Bridesmaid Who Went Viral For Eating Wrong Cake</sub-title>
+    <desc>Drew and Ross Mathews are serving the news sunny side up in an all-new Drew's News. Plus, Drew helps the bridesmaid who went viral for accidentally eating a special cake for the bride and groom make her wedding wrong right.</desc>
+    <category>Talk Show</category>
+    <category>Talk Show</category>
+  </programme>
+  <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261004154100 +0000" stop="20261004160400 +0000">
+    <title>The Drew Barrymore Show: Nicole Richie, Super-Sized Drew's News with CBS Mornings Co-Hosts Gayle King, Tony Dokoupil, Nate Burleson</title>
+    <sub-title>Nicole Richie, Super-Sized Drew's News with CBS Mornings Co-Hosts Gayle King, Tony Dokoupil, Nate Burleson</sub-title>
+    <desc>"Making The Cut" Judge Nicole Richie updates Drew on her bearded dragon Speedy, the birthday trauma they've both experienced and what it's really like working with Heidi Klum.</desc>
+    <category>Talk Show</category>
+    <category>Talk Show</category>
   </programme>
   <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261003154100 +0000" stop="20261003163200 +0000">
     <title>The Drew Barrymore Show</title>
@@ -12140,19 +12105,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Variety Show</category>
     <category>Variety Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261004152100 +0000" stop="20261004153000 +0000">
-    <title>Best of The Drew Barrymore Show</title>
-    <sub-title>Best of The Drew Barrymore Show</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="CCPlutoTV.de@DACH" start="20261003153824 +0000" stop="20261003160824 +0000">
-    <title>Comedy Central Pluto TV</title>
-    <sub-title>Comedy Central Pluto TV</sub-title>
-    <desc>Bitte lächeln! Comedy Central Pluto TV ist der Sender mit den besten Comedyserien, kultigsten Stand-up-Shows, verrücktesten Cartoons und vielem mehr.</desc>
-    <category>Comedy</category>
-    <category>African-American Comedies</category>
+  <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261004152100 +0000" stop="20261004161200 +0000">
+    <title>The Drew Barrymore Show</title>
+    <sub-title>Time Management Hour, 5-Min Meals with Chef Rocco DiSpirito</sub-title>
+    <desc>It’s Drew’s time management hour! Time management expert Laura Vanderkam shares tips. A five-min meal with Chef Rocco DiSpirito. "The People’s Court" Judge Marilyn Milian and husband Judge John Schlesinger on balancing work and relationships effectively.</desc>
+    <category>Variety Show</category>
+    <category>Variety Show</category>
   </programme>
   <programme channel="CCPlutoTV.de@DACH" start="20261003160824 +0000" stop="20261003163824 +0000">
     <title>Comedy Central Pluto TV</title>
@@ -12476,19 +12434,19 @@ great 1860 painting cellphone debate.</desc>
     <category>Comedy</category>
     <category>African-American Comedies</category>
   </programme>
-  <programme channel="CCPlutoTV.de@DACH" start="20261004150824 +0000" stop="20261004153000 +0000">
+  <programme channel="CCPlutoTV.de@DACH" start="20261004150824 +0000" stop="20261004153824 +0000">
     <title>Comedy Central Pluto TV</title>
     <sub-title>Comedy Central Pluto TV</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+    <desc>Bitte lächeln! Comedy Central Pluto TV ist der Sender mit den besten Comedyserien, kultigsten Stand-up-Shows, verrücktesten Cartoons und vielem mehr.</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
   </programme>
-  <programme channel="CSI.se@DK" start="20261003152132 +0000" stop="20261003161620 +0000">
-    <title>CSI: Crime Scene Investigation: Cross-Jurisdictions</title>
-    <sub-title>Cross-Jurisdictions</sub-title>
-    <desc>Da et højt anset medlem af politiet bliver myrdet, leder jagten på morderen efterforskningen til Miami.</desc>
-    <category>Crime</category>
-    <category>Crime</category>
+  <programme channel="CCPlutoTV.de@DACH" start="20261004153824 +0000" stop="20261004160824 +0000">
+    <title>Comedy Central Pluto TV</title>
+    <sub-title>Comedy Central Pluto TV</sub-title>
+    <desc>Bitte lächeln! Comedy Central Pluto TV ist der Sender mit den besten Comedyserien, kultigsten Stand-up-Shows, verrücktesten Cartoons und vielem mehr.</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
   </programme>
   <programme channel="CSI.se@DK" start="20261003161620 +0000" stop="20261003171039 +0000">
     <title>CSI: Crime Scene Investigation: Friends &amp; Lovers</title>
@@ -12679,12 +12637,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Crime</category>
     <category>Crime</category>
   </programme>
-  <programme channel="CSI.us@SD" start="20261003150000 +0000" stop="20261003160000 +0000">
-    <title>CSI</title>
-    <sub-title>Loco Motives</sub-title>
-    <desc>When the CSIs process clues after a murder at a poultry manufacturing plant, the evidence leads them to the home of a man who collects miniature trains and other miniature paraphernalia.</desc>
-    <category>Drama</category>
-    <category>Crime Drama</category>
+  <programme channel="CSI.se@DK" start="20261004154404 +0000" stop="20261004163350 +0000">
+    <title>CSI: Crime Scene Investigation: Snuff</title>
+    <sub-title>Snuff</sub-title>
+    <desc>Catherine bliver tilkaldt af en pornofilmudvikler for at se grafiske optagelser, hvor en kvinde bliver brutalt dræbt.</desc>
+    <category>Crime</category>
+    <category>Crime</category>
   </programme>
   <programme channel="CSI.us@SD" start="20261003160000 +0000" stop="20261003170000 +0000">
     <title>CSI</title>
@@ -12847,17 +12805,10 @@ great 1860 painting cellphone debate.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
-  <programme channel="CSI.us@SD" start="20261004151500 +0000" stop="20261004153000 +0000">
+  <programme channel="CSI.us@SD" start="20261004151500 +0000" stop="20261004161500 +0000">
     <title>CSI</title>
-    <sub-title>CSI</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="CSICrimeSceneInvestigation.de@GB" start="20261003152108 +0000" stop="20261003160620 +0000">
-    <title>CSI: Crime Scene Investigation</title>
-    <sub-title>Big Shots</sub-title>
-    <desc>Grissom and Greg investigate a drive-by shooting on a limo.</desc>
+    <sub-title>Still Life</sub-title>
+    <desc>A widowed mother's six-year-old son is reported kidnapped from a local park.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
@@ -13064,19 +13015,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
-  <programme channel="CSICrimeSceneInvestigation.de@GB" start="20261004152154 +0000" stop="20261004153000 +0000">
+  <programme channel="CSICrimeSceneInvestigation.de@GB" start="20261004152154 +0000" stop="20261004160452 +0000">
     <title>CSI: Crime Scene Investigation</title>
-    <sub-title>CSI: Crime Scene Investigation</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="CSIMiami.us@BR" start="20261003145000 +0000" stop="20261003154200 +0000">
-    <title>CSI: Miami</title>
-    <sub-title>Danos Colaterais</sub-title>
-    <desc>Horatio e a equipe trabalham para descobrir por que uma família aparentemente normal foi alvo de um ataque brutal de granada.</desc>
-    <category>Action &amp; Adventure</category>
-    <category>Adventures</category>
+    <sub-title>Ending Happy</sub-title>
+    <desc>The CSIs investigate the death of a washed-up boxer who is found floating in a pool.</desc>
+    <category>Drama</category>
+    <category>Crime Drama</category>
   </programme>
   <programme channel="CSIMiami.us@BR" start="20261003154200 +0000" stop="20261003163400 +0000">
     <title>CSI: Miami</title>
@@ -13274,19 +13218,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Action &amp; Adventure</category>
     <category>Crime Action</category>
   </programme>
-  <programme channel="CSIMiami.us@BR" start="20261004152900 +0000" stop="20261004153000 +0000">
+  <programme channel="CSIMiami.us@BR" start="20261004152900 +0000" stop="20261004162000 +0000">
     <title>CSI: Miami</title>
-    <sub-title>CSI: Miami</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="CSIMiami.us@SD" start="20261003150000 +0000" stop="20261003160000 +0000">
-    <title>CSI: Miami</title>
-    <sub-title>Going , Going, Gone</sub-title>
-    <desc>Horatio uncovers a deadly plot against the City of Miami after a young woman is murdered at a charity event.  He and the CSI team investigate.</desc>
-    <category>Thriller</category>
-    <category>Thriller</category>
+    <sub-title>Tempo Difícil</sub-title>
+    <desc>Horatio caça a pessoa responsável por um ataque perverso a uma mulher que foi atraída até um condomínio vago e espancada com um pedaço de madeira.</desc>
+    <category>Action &amp; Adventure</category>
+    <category>Crime Action</category>
   </programme>
   <programme channel="CSIMiami.us@SD" start="20261003160000 +0000" stop="20261003170000 +0000">
     <title>CSI: Miami</title>
@@ -13453,6 +13390,13 @@ great 1860 painting cellphone debate.</desc>
     <title>CSI: Miami</title>
     <sub-title>Happy Birthday</sub-title>
     <desc>When a pregnant woman is assaulted, Horatio and the team fight for her and her baby's life while tracking down her attacker.</desc>
+    <category>Drama</category>
+    <category>Crime Drama</category>
+  </programme>
+  <programme channel="CSIMiami.us@SD" start="20261004160000 +0000" stop="20261004170000 +0000">
+    <title>CSI: Miami</title>
+    <sub-title>Match Made In Hell</sub-title>
+    <desc>When the investigation of a dead millionaire leads the CSIs to an elite dating service, Ryan poses as a businessman to expose the matchmaker's lies.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
@@ -13624,10 +13568,10 @@ great 1860 painting cellphone debate.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
-  <programme channel="CSINYenespanol.us@SD" start="20261003150000 +0000" stop="20261003160000 +0000">
-    <title>CSI: New York en español</title>
-    <sub-title>El juego de las mentiras</sub-title>
-    <desc>Danny y Mac encuentran un cadáver en un camión de sal que luego identifican como un ejecutivo de deportes extremos de alto poder.</desc>
+  <programme channel="CSIMiamienespanol.us@SD" start="20261004153000 +0000" stop="20261004163000 +0000">
+    <title>CSI: Miami en español</title>
+    <sub-title>Hundiéndose</sub-title>
+    <desc>El equipo debe investigar cuando Calleigh se sale de la carretera y cae a un canal, lo que compromete la evidencia de la escena del crimen que ella acaba de encontrar.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
@@ -13799,6 +13743,13 @@ great 1860 painting cellphone debate.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
+  <programme channel="CSINYenespanol.us@SD" start="20261004160000 +0000" stop="20261004170000 +0000">
+    <title>CSI: New York en español</title>
+    <sub-title>Muerta por un día</sub-title>
+    <desc>Cuando una asesina entrenada llega a la ciudad de Nueva York, realmente pone a prueba las habilidades de los miembros del equipo de CSI de Nueva York.</desc>
+    <category>Drama</category>
+    <category>Crime Drama</category>
+  </programme>
   <programme channel="CSIenespanol.us@SD" start="20261003153000 +0000" stop="20261003163000 +0000">
     <title>CSI en español</title>
     <sub-title>Monje perverso</sub-title>
@@ -13964,6 +13915,13 @@ great 1860 painting cellphone debate.</desc>
     <title>CSI en español</title>
     <sub-title>Chocar y arder</sub-title>
     <desc>Una anciana choca con su coche en un restaurante lleno de gente. Uno de los clientes es el novio paramédico de Sara. Grissom y Nick investigan el posible asesinato por monóxido de carbono de una mujer en su casa.</desc>
+    <category>Drama</category>
+    <category>Crime Drama</category>
+  </programme>
+  <programme channel="CSIenespanol.us@SD" start="20261004160000 +0000" stop="20261004170000 +0000">
+    <title>CSI en español</title>
+    <sub-title>Metal precioso</sub-title>
+    <desc>Catherine, Nick y Sara investigan un cadáver aparentemente de hace meses encontrado en las montañas.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
@@ -15838,12 +15796,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Action &amp; Adventure</category>
     <category>Foreign Action &amp; Adventure</category>
   </programme>
-  <programme channel="Cineaventura.us@SD" start="20261004151500 +0000" stop="20261004153000 +0000">
-    <title>Cine aventura</title>
-    <sub-title>Cine aventura</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="Cineaventura.us@SD" start="20261004151500 +0000" stop="20261004173000 +0000">
+    <title>Mini espías 2:  La isla de los sueños perdidos</title>
+    <sub-title>Mini espías 2:  La isla de los sueños perdidos</sub-title>
+    <desc>En la secuela, la OSS tiene una sección de niños espías y nuestros hermanos héroes Carmen y Juni Cortez se transformaron en agentes. En una misión para recuperar un peligroso artefacto que amenaza al mundo, emplean las habilidades de toda la familia.</desc>
+    <category>Action &amp; Adventure</category>
+    <category>Foreign Action &amp; Adventure</category>
   </programme>
   <programme channel="CinebyPlutoTV.de@FR" start="20261003131258 +0000" stop="20261003150558 +0000">
     <title lang="fr">Consumed</title>
@@ -16063,12 +16021,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Crime</category>
     <category>Crime</category>
   </programme>
-  <programme channel="ClassicTVComedy.us@SD" start="20261003153048 +0000" stop="20261003160048 +0000">
-    <title>The Dick Van Dyke Show</title>
-    <sub-title>The Meershaltz Pipe</sub-title>
-    <desc>Rob fears he is no longer needed when his co-writers do a show without his help.</desc>
-    <category>Comedy</category>
-    <category>Cult Comedies</category>
+  <programme channel="Cineenespanol.us@SD" start="20261004153000 +0000" stop="20261004163000 +0000">
+    <title>Atrapa a un ladrón</title>
+    <sub-title>Gato por liebre</sub-title>
+    <desc>La policía descubre algunas pinturas falsificadas pertenecientes a un lote de cuadros robados en Barcelona. Mientras busca pistas, Juan encuentra el cadáver de un antiguo socio en su galería. Roman se pierde en el estadio de fútbol del Racing.</desc>
+    <category>Crime</category>
+    <category>Crime</category>
   </programme>
   <programme channel="ClassicTVComedy.us@SD" start="20261003160048 +0000" stop="20261003163048 +0000">
     <title>The Dick Van Dyke Show</title>
@@ -16392,12 +16350,19 @@ great 1860 painting cellphone debate.</desc>
     <category>Comedy</category>
     <category>Screwball</category>
   </programme>
-  <programme channel="ClassicTVComedy.us@SD" start="20261004150048 +0000" stop="20261004153000 +0000">
-    <title>Classic TV Comedy</title>
-    <sub-title>Classic TV Comedy</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="ClassicTVComedy.us@SD" start="20261004150048 +0000" stop="20261004153048 +0000">
+    <title>My Three Sons</title>
+    <sub-title>Going Steady</sub-title>
+    <desc>Robbie's girlfriend has an attractive, single mother.</desc>
+    <category>Comedy</category>
+    <category>Screwball</category>
+  </programme>
+  <programme channel="ClassicTVComedy.us@SD" start="20261004153048 +0000" stop="20261004160048 +0000">
+    <title>My Three Sons</title>
+    <sub-title>Mother Bub</sub-title>
+    <desc>Chip mopes over being motherless.</desc>
+    <category>Comedy</category>
+    <category>Screwball</category>
   </programme>
   <programme start="20261003040000 +0000" stop="20261003060000 +0000" channel="CodeFashionTV.bg@SD">
     <title lang="bg">Fashion Catwalk</title>
@@ -16533,20 +16498,6 @@ great 1860 painting cellphone debate.</desc>
   </programme>
   <programme start="20261004203000 +0000" stop="20261003210000 +0000" channel="CodeFashionTV.bg@SD">
     <title lang="bg">Fashion Films Night</title>
-  </programme>
-  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261003152724 +0000" stop="20261003155124 +0000">
-    <title>Adorableness</title>
-    <sub-title>No me llames bonito</sub-title>
-    <desc>En el nuevo Adorableness, Alyson Hannigan, Ross Mathews y Dulcé Sloan, acompañados de James Davis, conocen a animales adorables con mal genio en NO ME LLAMES MONO, inventan trucos paternos en EL PADRE DEL INGENIO y bailan por todas partes.</desc>
-    <category>Comedy</category>
-    <category>Fails &amp; Pranks</category>
-  </programme>
-  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261003155124 +0000" stop="20261003161524 +0000">
-    <title>Adorableness</title>
-    <sub-title>Camadas de niños</sub-title>
-    <desc>En el nuevo Adorableness, Alyson Hannigan, Ross Mathews y Dulcé Sloan, acompañados de James Davis, acaban SÚPERCASTIGADOS, descubren a animales con el corazón roto en RECHA-ZOOLÓGICO y se agobian con los niños de CAMADAS HUMANAS.</desc>
-    <category>Comedy</category>
-    <category>Fails &amp; Pranks</category>
   </programme>
   <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261003161524 +0000" stop="20261003164224 +0000">
     <title>Vergüenza Ajena</title>
@@ -16926,26 +16877,26 @@ great 1860 painting cellphone debate.</desc>
     <category>Comedy</category>
     <category>Stand-Up</category>
   </programme>
-  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261004151021 +0000" stop="20261004153000 +0000">
-    <title>Comedia a lo bestia de Pluto TV</title>
-    <sub-title>Comedia a lo bestia de Pluto TV</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="ComedyCentralAnimation.us@SD" start="20261003153800 +0000" stop="20261003154700 +0000">
-    <title>Beavis and Butt-Head</title>
-    <sub-title>Follow Me</sub-title>
-    <desc>Butt-head tries to stop Beavis from copying his every move, and nearly gets killed in the process.</desc>
+  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261004151021 +0000" stop="20261004153421 +0000">
+    <title>MTV ¡Alucinantes!: Episodio 106</title>
+    <sub-title>Episodio 106</sub-title>
+    <desc>Un talent show nunca antes visto. Seis talentos increíbles compiten por 10 000$, entre ellos se encuentran: un mago del hip hop y el clapper más rápido del mundo.</desc>
     <category>Comedy</category>
-    <category>Cult Comedies</category>
+    <category>African-American Comedies</category>
   </programme>
-  <programme channel="ComedyCentralAnimation.us@SD" start="20261003154700 +0000" stop="20261003155900 +0000">
-    <title>Beavis and Butt-Head</title>
-    <sub-title>Beaverly Buttbillies</sub-title>
-    <desc>Beavis and Butt-head try to strike it rich in their backyard, just like Jed Clampett. But this oil sure has a strong sewage-like smell.</desc>
+  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261004153421 +0000" stop="20261004155721 +0000">
+    <title>MTV ¡Alucinantes!: Episodio 107</title>
+    <sub-title>Episodio 107</sub-title>
+    <desc>Un talent show nunca antes visto. Seis talentos increíbles compiten por 10 000$, entre ellos se encuentran: saltadores de pogos extremos, un maestro del hula hoop y pole dancers.</desc>
     <category>Comedy</category>
-    <category>Cult Comedies</category>
+    <category>African-American Comedies</category>
+  </programme>
+  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261004155721 +0000" stop="20261004162421 +0000">
+    <title>Vergüenza Ajena</title>
+    <sub-title>Chanel y Sterling CCCLXX</sub-title>
+    <desc>En un episodio nuevo de Vergüenza ajena, Rob, Chanel y Steelo aprenderán a no ser rácanos en CONSTRÚYELO TÚ, desearán CUMPLEAÑOS FATAL a algunos desafortunados y reconocerán cuándo es mejor BUSCARSE SU PROPIA CASA.</desc>
+    <category>Comedy</category>
+    <category>Fails &amp; Pranks</category>
   </programme>
   <programme channel="ComedyCentralAnimation.us@SD" start="20261003155900 +0000" stop="20261003162400 +0000">
     <title>Ugly Americans</title>
@@ -17445,11 +17396,32 @@ great 1860 painting cellphone debate.</desc>
     <category>Cult Comedies</category>
   </programme>
   <programme channel="ComedyCentralAnimation.us@SD" start="20261004151800 +0000" stop="20261004153000 +0000">
-    <title>Comedy Central Animation</title>
-    <sub-title>Comedy Central Animation</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+    <title>Beavis and Butt-Head</title>
+    <sub-title>Yogurt's Cool (aka Try Yogurt)</sub-title>
+    <desc>A suggestive commercial convinces Beavis &amp; Butt-head it's time to try frozen yogurt.</desc>
+    <category>Comedy</category>
+    <category>Cult Comedies</category>
+  </programme>
+  <programme channel="ComedyCentralAnimation.us@SD" start="20261004153000 +0000" stop="20261004154100 +0000">
+    <title>Beavis and Butt-Head</title>
+    <sub-title>For Better or Verse (aka Haiku)</sub-title>
+    <desc>Beavis &amp; Butt-head's school assignment is to write a poem in the venerated Haiku format.</desc>
+    <category>Comedy</category>
+    <category>Cult Comedies</category>
+  </programme>
+  <programme channel="ComedyCentralAnimation.us@SD" start="20261004154100 +0000" stop="20261004155200 +0000">
+    <title>Beavis and Butt-Head</title>
+    <sub-title>Doomsday</sub-title>
+    <desc>It's the end of the world as they know it, and Beavis and Butt-head feel fine. When the apocalypse leaves them behind, Highland's biggest idiots have run of the town. Will they finally score? Not even when they're the last men on earth.</desc>
+    <category>Comedy</category>
+    <category>Cult Comedies</category>
+  </programme>
+  <programme channel="ComedyCentralAnimation.us@SD" start="20261004155200 +0000" stop="20261004160400 +0000">
+    <title>Beavis and Butt-Head</title>
+    <sub-title>Late Night with Butt-Head</sub-title>
+    <desc>Beavis &amp; Butt-head join the late night talk show wars.</desc>
+    <category>Comedy</category>
+    <category>Cult Comedies</category>
   </programme>
   <programme start="20261003025000 +0000" stop="20261003031000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
     <title lang="es">Profesor caos</title>
@@ -18638,13 +18610,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">African-American Comedies</category>
     <icon src="https://images.pluto.tv/series/6aa0142faf45eb18dbf62fa9/tile_1788875824440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="ComedyCentralPlutoTV.us@US" start="20261003153000 +0000" stop="20261003160000 +0000">
-    <title>Nathan For You</title>
-    <sub-title>Private Investigator/Taxi Company</sub-title>
-    <desc>Nathan challenges a private investigator to track him for a day and devises a way to improve taxicab conversations.</desc>
-    <category>Comedy</category>
-    <category>Sketch Comedies</category>
-  </programme>
   <programme channel="ComedyCentralPlutoTV.us@US" start="20261003160000 +0000" stop="20261003163000 +0000">
     <title>Nathan For You</title>
     <sub-title>Mechanic/Realtor</sub-title>
@@ -18974,12 +18939,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Late Night Comedies</category>
   </programme>
-  <programme channel="ComedyCentralRoast.se@DK" start="20261003150047 +0000" stop="20261003161347 +0000">
-    <title>The Roast of Donald Trump</title>
-    <sub-title>The Roast of Donald Trump</sub-title>
-    <desc>Milliardæren Donald Trump bliver heglet igennem på Comedy Central af Jeffrey Ross, Seth MacFarlane, Gilbert Gottfried, Whitney Cummings, Snoop Dogg, Larry King, Marlee Matlin, Mike 'The Situation' Sorrentino, Lisa Lampanelli og Anthony Jeselnic.</desc>
+  <programme channel="ComedyCentralPlutoTV.us@US" start="20261004153000 +0000" stop="20261004160000 +0000">
+    <title>Workaholics</title>
+    <sub-title>Menergy Crisis</sub-title>
+    <desc>Blake declares war on Adam and Ders after they kick him out of their new band.</desc>
     <category>Comedy</category>
-    <category>Stand-Up</category>
+    <category>Late Night Comedies</category>
+  </programme>
+  <programme channel="ComedyCentralPlutoTV.us@US" start="20261004160000 +0000" stop="20261004163000 +0000">
+    <title>Workaholics</title>
+    <sub-title>Gayborhood</sub-title>
+    <desc>A wild night at a neighbor's house leads the guys to question the nature of their relationship.</desc>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
   </programme>
   <programme channel="ComedyCentralRoast.se@DK" start="20261003161347 +0000" stop="20261003174847 +0000">
     <title>The Roast of Justin Bieber</title>
@@ -19121,12 +19093,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Stand-Up</category>
   </programme>
-  <programme channel="ComedyCentralSouthPark.us@BR" start="20261003153000 +0000" stop="20261003155700 +0000">
-    <title>South Park</title>
-    <sub-title>Canadá em greve</sub-title>
-    <desc>O chefe do Governo canadense leva o país a uma longa e dolorosa greve e a responsabilidade pela intermediação de uma solução está com os garotos.</desc>
+  <programme channel="ComedyCentralRoast.se@DK" start="20261004153405 +0000" stop="20261004162620 +0000">
+    <title>Jeff Ross Presents: Roast Battle II</title>
+    <sub-title>War of the Words Day 3</sub-title>
+    <desc>Jeff Ross tager på turné som vært for Roast Battle i amerikanske byer. Der er kendte gæstedommere, deltagerne går på scenen og prøver at overgå hinanden i grovheder for at vinde mesterskabsbæltet.</desc>
     <category>Comedy</category>
-    <category>Spoofs and Satire</category>
+    <category>Stand-Up</category>
   </programme>
   <programme channel="ComedyCentralSouthPark.us@BR" start="20261003155700 +0000" stop="20261003162400 +0000">
     <title>South Park</title>
@@ -19492,26 +19464,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Spoofs and Satire</category>
   </programme>
-  <programme channel="ComedyCentralSouthPark.us@BR" start="20261004152100 +0000" stop="20261004153000 +0000">
-    <title>Comedy Central South Park</title>
-    <sub-title>Comedy Central South Park</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261003152000 +0000" stop="20261003154700 +0000">
+  <programme channel="ComedyCentralSouthPark.us@BR" start="20261004152100 +0000" stop="20261004154800 +0000">
     <title>South Park</title>
-    <sub-title>Tardígrados danzarines</sub-title>
-    <desc>El proyecto de Jimmy y Timmy puede ganar el primer premio en la feria anual de ciencias, y Nathan y Mimsy quieren sabotearlos. Mientras tanto, la relación de Heidi y Cartman es cada vez más abusiva.</desc>
+    <sub-title>Bullying</sub-title>
+    <desc>Butters é vítima de um bullying improvável. Agora ele quer conscientizar os demais alunos sobre os perigos do bullying e, para isso, ele faz um grande vídeo de dança.</desc>
     <category>Comedy</category>
-    <category>Dark Humor &amp; Black Comedies</category>
+    <category>Spoofs and Satire</category>
   </programme>
-  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261003154700 +0000" stop="20261003161400 +0000">
+  <programme channel="ComedyCentralSouthPark.us@BR" start="20261004154800 +0000" stop="20261004161500 +0000">
     <title>South Park</title>
-    <sub-title>Dirección super dura</sub-title>
-    <desc>El director PC se enamora de la nueva vice-directora de la escuela. Mientras tanto, Terrance y Phillip quieren firmar un contrato con Netflix, y Kyle está cansado de ser humillado por Heidi y Cartman.</desc>
+    <sub-title>Tirolesa</sub-title>
+    <desc>Neste novo episódio, a aventura na tirolesa dos garotos se transforma em um aterrorizante teste de sobrevivência.</desc>
     <category>Comedy</category>
-    <category>Dark Humor &amp; Black Comedies</category>
+    <category>Spoofs and Satire</category>
   </programme>
   <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261003161400 +0000" stop="20261003164100 +0000">
     <title>South Park</title>
@@ -19856,19 +19821,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Dark Humor &amp; Black Comedies</category>
   </programme>
-  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261004151700 +0000" stop="20261004153000 +0000">
-    <title>Comedy Central South Park</title>
-    <sub-title>Comedy Central South Park</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="ComedyCentralenEspanol.us@SD" start="20261003153000 +0000" stop="20261003160000 +0000">
-    <title>Enchufe.TV: Enchufe.TV S4 E.04</title>
-    <sub-title>Enchufe.TV S4 E.04</sub-title>
-    <desc>20 Viñetas de una adolescente. Terapia de redes sociales. Noche de insomnio. La vida como FB 2. Tipos de alumnos en examen</desc>
+  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261004151700 +0000" stop="20261004154400 +0000">
+    <title>South Park</title>
+    <sub-title>El verano apesta</sub-title>
+    <desc>Una prohibición de fuegos artificiales amenaza las festividades del 4 de Julio hasta que el alcalde idea un plan poner a South Park nuevamente en el mapa.</desc>
     <category>Comedy</category>
-    <category>Sketch Comedies</category>
+    <category>Dark Humor &amp; Black Comedies</category>
+  </programme>
+  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261004154400 +0000" stop="20261004161100 +0000">
+    <title>South Park</title>
+    <sub-title>Las bolas de chocolate saladas del Chef</sub-title>
+    <desc>El festival de cine independiente, Sundance, se translada a South Park atrayendo a mucha gente al pequeño pueblo y al parecer, todo esto afecta el medio ambiente, y el Señor Mojón cada vez se encuentra peor.</desc>
+    <category>Comedy</category>
+    <category>Dark Humor &amp; Black Comedies</category>
   </programme>
   <programme channel="ComedyCentralenEspanol.us@SD" start="20261003160000 +0000" stop="20261003163000 +0000">
     <title>Enchufe.TV: Enchufe.TV S4 E.05</title>
@@ -20056,6 +20021,20 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title>Enchufe.TV: Enchufe.TV S4 E.11</title>
     <sub-title>Enchufe.TV S4 E.11</sub-title>
     <desc>Tipos de amigos. Se arreglan mamás. Noche de Ligue. Hacks para San Valentín. Me recuerda a mi ex. Terapeuta cizañoso: Las buenas nuevas</desc>
+    <category>Comedy</category>
+    <category>Sketch Comedies</category>
+  </programme>
+  <programme channel="ComedyCentralenEspanol.us@SD" start="20261004153000 +0000" stop="20261004160000 +0000">
+    <title>Enchufe.TV: Enchufe.TV S4 E.12</title>
+    <sub-title>Enchufe.TV S4 E.12</sub-title>
+    <desc>En un mundo sincero III. El big vlogger: El reality. Exorcismo. Gente de Carnaval. Anunciación en tiempos modernos.  Un día sin celular</desc>
+    <category>Comedy</category>
+    <category>Sketch Comedies</category>
+  </programme>
+  <programme channel="ComedyCentralenEspanol.us@SD" start="20261004160000 +0000" stop="20261004163000 +0000">
+    <title>Enchufe.TV: Enchufe.TV S4 E.13</title>
+    <sub-title>Enchufe.TV S4 E.13</sub-title>
+    <desc>Un clavo saca otro clavo. La casita del terror. Tecnología antes y ahora. Forknite entre padre e hijo.  Tío borracho cuenta: El Grinch</desc>
     <category>Comedy</category>
     <category>Sketch Comedies</category>
   </programme>
@@ -20937,13 +20916,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="DatingNakedUK.se@DK" start="20261003145524 +0000" stop="20261003154933 +0000">
-    <title>Dating Naked UK</title>
-    <sub-title>Ægte forbindelser.</sub-title>
-    <desc>Oplevelsen nærmer sig enden, og store, chokerende beslutninger skal træffes.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
-  </programme>
   <programme channel="DatingNakedUK.se@DK" start="20261003154933 +0000" stop="20261003164514 +0000">
     <title>Dating Naked UK</title>
     <sub-title>Vindende forbindelser</sub-title>
@@ -21133,17 +21105,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="DatingNakedUK.se@DK" start="20261004150714 +0000" stop="20261004153000 +0000">
+  <programme channel="DatingNakedUK.se@DK" start="20261004150714 +0000" stop="20261004155902 +0000">
     <title>Dating Naked UK</title>
-    <sub-title>Dating Naked UK</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+    <sub-title>En djævelsk drejning.</sub-title>
+    <desc>Pigerne spekulerer over, hvem der bliver såret. Dom &amp; Mike lægger fortiden bag sig. En himmelsk fest ender med en helvedes overraskelse.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
   </programme>
-  <programme channel="DatingNakedUK.se@NO" start="20261003151600 +0000" stop="20261003160946 +0000">
+  <programme channel="DatingNakedUK.se@DK" start="20261004155902 +0000" stop="20261004165300 +0000">
     <title>Dating Naked UK</title>
-    <sub-title>Cocktail og snurrebasshistorier</sub-title>
-    <desc>Det slår gnister når sjalusi og konkurranse tilspisser seg. Et par tar forbindelsen til et nytt nivå, mens tvilens skjær sprer seg over det andre. Før en dramatisk vri på avfallsplassen.</desc>
+    <sub-title>Alle ekserne er retur</sub-title>
+    <desc>To af deltagerne vil have deres forbindelse igen, men kan de fortsætte, hvor de slap? Daterne laver omvendt striptease, hvilket styrker nogle og svækker andre.</desc>
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
@@ -21322,17 +21294,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="DatingNakedUK.se@NO" start="20261004150408 +0000" stop="20261004153000 +0000">
+  <programme channel="DatingNakedUK.se@NO" start="20261004150408 +0000" stop="20261004160049 +0000">
     <title>Dating Naked UK</title>
-    <sub-title>Dating Naked UK</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="DatingNakedUK.se@SE" start="20261003145803 +0000" stop="20261003155301 +0000">
-    <title>Dating Naked UK</title>
-    <sub-title>Exens återkomst</sub-title>
-    <desc>Två bekanta ansikten vill återuppta sina kontakter, men kommer de att kunna ta vid där de slutade? Dejtarna ägnar sig åt en omvänd striptease vilket stärker vissa, försvagar andra, och lägger en relation på is.</desc>
+    <sub-title>Vinnende forbindelser</sub-title>
+    <desc>De siste tre parene må vise at de har den sterkeste forbindelsen for å krones til vinnere. Viser de sitt rette jeg når 50 000 pund står på spill?</desc>
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
@@ -21511,12 +21476,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="DatingNakedUK.se@SE" start="20261004150702 +0000" stop="20261004153000 +0000">
+  <programme channel="DatingNakedUK.se@SE" start="20261004150702 +0000" stop="20261004160148 +0000">
     <title>Dating Naked UK</title>
-    <sub-title>Dating Naked UK</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+    <sub-title>Dricka &amp; pickar</sub-title>
+    <desc>Det slår gnistor när svartsjuka och konkurrens ökar. Ett par tar nästa steg, medan det råder tveksamhet kring ett annat. Det blir en överraskning i dumpningen.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
   </programme>
   <programme start="20261003042300 +0000" stop="20261003055800 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Chile picante</title>
@@ -24408,13 +24373,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="es">El Viejo Oeste con Kevin Costner</title>
     <sub-title lang="es">Comanchería</sub-title>
   </programme>
-  <programme channel="LEGOKidsTV.us@SD" start="20261003153900 +0000" stop="20261003160500 +0000">
-    <title>LEGO Ninjago: Dragons Rising: Elements of Betrayal</title>
-    <sub-title>Elements of Betrayal</sub-title>
-    <desc>Arin, Zane, and Cole make a shocking discovery in the Monastery of Gates as they defend the Dragon Horns; the depowered Elemental Masters clash with the Wolf Mask army.</desc>
-    <category>Children &amp; Family</category>
-    <category>Family Animation</category>
-  </programme>
   <programme channel="LEGOKidsTV.us@SD" start="20261003160500 +0000" stop="20261003163200 +0000">
     <title>LEGO Ninjago: Masters of Spinjitzu</title>
     <sub-title>The Crooked Path</sub-title>
@@ -24772,12 +24730,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Children &amp; Family</category>
     <category>Family Animation</category>
   </programme>
-  <programme channel="LEGOKidsTV.us@SD" start="20261004150900 +0000" stop="20261004153000 +0000">
-    <title>LEGO Kids TV</title>
-    <sub-title>LEGO Kids TV</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="LEGOKidsTV.us@SD" start="20261004150900 +0000" stop="20261004153600 +0000">
+    <title>LEGO Marvel: Avengers Reassembled</title>
+    <sub-title>LEGO Marvel: Avengers Reassembled</sub-title>
+    <desc>The Avengers are forced to "party" with Ultron when he seeks to disassemble the team by taking control of Iron Man's armor and enacting a nefarious scheme to take over the world.</desc>
+    <category>Children &amp; Family</category>
+    <category>Family Animation</category>
+  </programme>
+  <programme channel="LEGOKidsTV.us@SD" start="20261004153600 +0000" stop="20261004160300 +0000">
+    <title>LEGO Marvel: Avengers Reassembled</title>
+    <sub-title>LEGO Marvel: Avengers Reassembled</sub-title>
+    <desc>The Avengers are forced to "party" with Ultron when he seeks to disassemble the team by taking control of Iron Man's armor and enacting a nefarious scheme to take over the world.</desc>
+    <category>Children &amp; Family</category>
+    <category>Family Animation</category>
   </programme>
   <programme start="20261003054000 +0000" stop="20261003071000 +0000" channel="LifetimeLatinAmerica.us@Brazil">
     <title lang="pt">Britney para Sempre</title>
@@ -26774,13 +26739,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="pt">Anime Series</category>
     <icon src="https://images.pluto.tv/series/5f89ec9e7ecf48001a34156c/tile_1778519162660.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="ParadiseHotel.se@DK" start="20261003150101 +0000" stop="20261003154526 +0000">
-    <title>Paradise Hotel - Sæson 22</title>
-    <sub-title>Episode 2233</sub-title>
-    <desc>En gammel kending vender tilbage og deler hotellet i to. Samtidig spirer kærligheden mellem flere gæster – men ikke alle følelser er gengældt, og dramaet ulmer.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
-  </programme>
   <programme channel="ParadiseHotel.se@DK" start="20261003154526 +0000" stop="20261003163001 +0000">
     <title>Paradise Hotel - Sæson 22</title>
     <sub-title>Episode 2234</sub-title>
@@ -27007,12 +26965,12 @@ fasttømrede par.</desc>
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="ParadiseHotel.se@DK" start="20261004152727 +0000" stop="20261004153000 +0000">
-    <title>Paradise Hotel</title>
-    <sub-title>Paradise Hotel</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="ParadiseHotel.se@DK" start="20261004152727 +0000" stop="20261004160846 +0000">
+    <title>Paradise Hotel - Sæson 22</title>
+    <sub-title>Episode 2223</sub-title>
+    <desc>Det er blevet tid til Mr. Paradise finale, og drengene er helt oppe og køre over at skulle lave et fedt show for pigerne. En ekstra opgave udfordrer drengenes romatiske evner.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
   </programme>
   <programme channel="ParadiseHotel.se@NO" start="20261003153704 +0000" stop="20261003162152 +0000">
     <title>Paradise Hotel: Episode 1611</title>
@@ -27224,17 +27182,17 @@ fasttømrede par.</desc>
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="ParadiseHotel.se@NO" start="20261004150617 +0000" stop="20261004153000 +0000">
-    <title>Paradise Hotel</title>
-    <sub-title>Paradise Hotel</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="ParadiseHotel.se@NO" start="20261004150617 +0000" stop="20261004155556 +0000">
+    <title>Paradise Hotel Norge - Sesong 17</title>
+    <sub-title>Episode 1714</sub-title>
+    <desc>Huldra Lene Angelica har trollbundet flere av guttene på hotellet. Maiken lar sjalusien ta overhånd og gjør ting hun ikke burde.</desc>
+    <category>Reality</category>
+    <category>Competition Reality</category>
   </programme>
-  <programme channel="ParadiseHotel.se@SE" start="20261003150343 +0000" stop="20261003154511 +0000">
-    <title>Paradise Hotel, säsong 17</title>
-    <sub-title>Avsnitt 1726</sub-title>
-    <desc>En dressyrtävling mellan hästskötarna kommer avgöra vem som tvingas checka ut från hotellet. En immunitet ska delas ut precis innan parceremoni, något som rör om i den berömda grytan.</desc>
+  <programme channel="ParadiseHotel.se@NO" start="20261004155556 +0000" stop="20261004164457 +0000">
+    <title>Paradise Hotel Norge - Sesong 17</title>
+    <sub-title>Episode 1715</sub-title>
+    <desc>Et viktig valg skal tas og gruppepresset på hotellet har aldri vært større. Det blir temperatur på kveldens parseremoni når sannheter kommer fram i lyset.</desc>
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
@@ -27476,19 +27434,19 @@ fasttømrede par.</desc>
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="ParadiseHotel.se@SE" start="20261004150707 +0000" stop="20261004153000 +0000">
-    <title>Paradise Hotel</title>
-    <sub-title>Paradise Hotel</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="ParadiseHotelUnderlagnerne.se@DK" start="20261003152203 +0000" stop="20261003160354 +0000">
-    <title>Paradise Hotel - Sæson 21: Episode 2109</title>
-    <sub-title>Episode 2109</sub-title>
-    <desc>Der bliver givet en magt til to på hotellet, der kan få drabelige konsekvenser, og paranoiaen er for alvor flyttet ind. For hvem kan man egentlig stole på, når alt kommer til alt?</desc>
+  <programme channel="ParadiseHotel.se@SE" start="20261004150707 +0000" stop="20261004153346 +0000">
+    <title>Paradise Hotel, säsong 18</title>
+    <sub-title>Avsnitt 1831</sub-title>
+    <desc>I det första avsnittet av Utcheckningen får vi äntligen veta varför Johannes kastade kulan och det hettar till i studion när Tindra och Mika berättar om hur deras relation egentligen var på hotellet.</desc>
     <category>Reality</category>
-    <category>Competition Reality</category>
+    <category>Human Interest</category>
+  </programme>
+  <programme channel="ParadiseHotel.se@SE" start="20261004153346 +0000" stop="20261004160030 +0000">
+    <title>Paradise Hotel, säsong 18</title>
+    <sub-title>Avsnitt 1832</sub-title>
+    <desc>Stefan berättar om sin tuffa tid inne på hotellet och Tone avslöjar om hon fortfarande har blockat Clara.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
   </programme>
   <programme channel="ParadiseHotelUnderlagnerne.se@DK" start="20261003160354 +0000" stop="20261003164914 +0000">
     <title>Paradise Hotel - Sæson 21: Episode 2114</title>
@@ -27721,12 +27679,19 @@ fasttømrede par.</desc>
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="ParadiseHotelUnderlagnerne.se@DK" start="20261004151015 +0000" stop="20261004153000 +0000">
-    <title>Paradise Hotel: Under lagnerne</title>
-    <sub-title>Paradise Hotel: Under lagnerne</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="ParadiseHotelUnderlagnerne.se@DK" start="20261004151015 +0000" stop="20261004154915 +0000">
+    <title>Paradise Hotel: Episode 1806</title>
+    <sub-title>Episode 1806</sub-title>
+    <desc>Den nye pige checker ind på hotellet. Med sig har hun en fredning, som hun skal uddele til den pige, hun synes, har taget bedst imod hende. Til aftenens fest giver et enkelt par efter for fristelserne.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
+  </programme>
+  <programme channel="ParadiseHotelUnderlagnerne.se@DK" start="20261004154915 +0000" stop="20261004163015 +0000">
+    <title>Paradise Hotel: Episode 1810</title>
+    <sub-title>Episode 1810</sub-title>
+    <desc>Kongen og dronningen holder storslået hofbal, men kongens interesse i en af pigerne skaber utryghed hos flere af de andre gæster.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
   </programme>
   <programme start="20261003040000 +0000" stop="20261003060000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Duplex nacional</title>
@@ -29009,12 +28974,12 @@ fasttømrede par.</desc>
     <category>Comedy</category>
     <category>Cult Comedies</category>
   </programme>
-  <programme channel="PlutoTVCineComedia.de@ES" start="20261004151416 +0000" stop="20261004153000 +0000">
-    <title>Pluto TV Cine Comedia</title>
-    <sub-title>Pluto TV Cine Comedia</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVCineComedia.de@ES" start="20261004151416 +0000" stop="20261004165700 +0000">
+    <title>Life of Brian</title>
+    <sub-title>La vida de Brian</sub-title>
+    <desc>Brian nace en un pesebre de Belén el mismo día que Jesucristo. Un cúmulo de desgraciados y tronchantes equívocos le harán llevar una vida paralela a la del verdadero Hijo de Dios.</desc>
+    <category>Comedy</category>
+    <category>Best of British Humor</category>
   </programme>
   <programme channel="PlutoTVCineComedia.us@BR" start="20261003122900 +0000" stop="20261003140700 +0000">
     <title lang="pt">Arrume Um Emprego</title>
@@ -29979,12 +29944,12 @@ fasttømrede par.</desc>
     <category>Comedy</category>
     <category>Cult Comedies</category>
   </programme>
-  <programme channel="PlutoTVCineRomantico.de@ES" start="20261004151557 +0000" stop="20261004153000 +0000">
-    <title>Pluto TV Cine Romántico</title>
-    <sub-title>Pluto TV Cine Romántico</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVCineRomantico.de@ES" start="20261004151557 +0000" stop="20261004165903 +0000">
+    <title>Con la magia en los zapatos</title>
+    <sub-title>Con la magia en los zapatos</sub-title>
+    <desc>Un zapatero, aburrido de su vida cotidiana, tropieza con una reliquia mágica que le permite convertirse en otras personas y ver el mundo de otra manera.</desc>
+    <category>Comedy</category>
+    <category>Cult Comedies</category>
   </programme>
   <programme channel="PlutoTVCineSucessos.us@BR" start="20261003124830 +0000" stop="20261003145730 +0000">
     <title lang="pt">Os Reis da Rua</title>
@@ -30097,13 +30062,6 @@ fasttømrede par.</desc>
     <category lang="es">Action &amp; Adventure</category>
     <category lang="es">Action Thrillers</category>
     <icon src="https://images.pluto.tv/series/5eea35c2973712001a5b77aa/tile_1769639401996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-  </programme>
-  <programme channel="PlutoTVCinedeautor.de@ES" start="20261003135609 +0000" stop="20261003161209 +0000">
-    <title>Pride</title>
-    <sub-title>Pride</sub-title>
-    <desc>Verano de 1984. Thatcher gobierna y el Sindicato Nacional de Mineros (NUM) ha convocado una huelga. Durante la manifestación del Orgullo Gay en Londres, un grupo de lesbianas y gays se dedica a recaudar fondos para ayudar a las familias de los mineros.</desc>
-    <category>Drama</category>
-    <category>Biographical Drama</category>
   </programme>
   <programme channel="PlutoTVCinedeautor.de@ES" start="20261003161209 +0000" stop="20261003180709 +0000">
     <title>Siempre Alice</title>
@@ -30371,19 +30329,19 @@ fasttømrede par.</desc>
     <category>Comedy</category>
     <category>African-American Comedies</category>
   </programme>
-  <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261004150640 +0000" stop="20261004153000 +0000">
-    <title>Pluto TV Comedia made in Spain</title>
-    <sub-title>Pluto TV Comedia made in Spain</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261004150640 +0000" stop="20261004154640 +0000">
+    <title>La hora de José Mota: Amores y odios</title>
+    <sub-title>Amores y odios</sub-title>
+    <desc>El programa íntegro de "La hora de José Mota"</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
   </programme>
-  <programme channel="PlutoTVComediasRomanticas.de@ES" start="20261003142309 +0000" stop="20261003155427 +0000">
-    <title>Memoria Perdida</title>
-    <sub-title>Memoria Perdida</sub-title>
-    <desc>Un periodista con pérdida de memoria regresa a su pueblo natal y se reencuentra con su tío y antiguo amor.</desc>
-    <category>Drama</category>
-    <category>Romantic Drama</category>
+  <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261004154640 +0000" stop="20261004162940 +0000">
+    <title>La hora de José Mota: Excesos y defectos</title>
+    <sub-title>Excesos y defectos</sub-title>
+    <desc>Excesos y defectos, con el humor de José Mota.</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
   </programme>
   <programme channel="PlutoTVComediasRomanticas.de@ES" start="20261003155427 +0000" stop="20261003172751 +0000">
     <title>Encuentra el amor en Valentine</title>
@@ -31234,13 +31192,6 @@ fasttømrede par.</desc>
     <category lang="es">Family Comedies</category>
     <icon src="https://images.pluto.tv/series/5f3587e0bbff270013bb0a63/tile_1769624281505.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="PlutoTVKidsClassics.de@ES" start="20261003152000 +0000" stop="20261003155000 +0000">
-    <title>Pluto TV Kids Classics</title>
-    <sub-title>Pluto TV Kids Classics</sub-title>
-    <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-    <category>Children &amp; Family</category>
-    <category>Cartoons</category>
-  </programme>
   <programme channel="PlutoTVKidsClassics.de@ES" start="20261003155000 +0000" stop="20261003162000 +0000">
     <title>Pluto TV Kids Classics</title>
     <sub-title>Pluto TV Kids Classics</sub-title>
@@ -31570,12 +31521,19 @@ fasttømrede par.</desc>
     <category>Children &amp; Family</category>
     <category>Cartoons</category>
   </programme>
-  <programme channel="PlutoTVKidsClassics.de@ES" start="20261004152000 +0000" stop="20261004153000 +0000">
+  <programme channel="PlutoTVKidsClassics.de@ES" start="20261004152000 +0000" stop="20261004155000 +0000">
     <title>Pluto TV Kids Classics</title>
     <sub-title>Pluto TV Kids Classics</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+    <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
+    <category>Children &amp; Family</category>
+    <category>Cartoons</category>
+  </programme>
+  <programme channel="PlutoTVKidsClassics.de@ES" start="20261004155000 +0000" stop="20261004162000 +0000">
+    <title>Pluto TV Kids Classics</title>
+    <sub-title>Pluto TV Kids Classics</sub-title>
+    <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
+    <category>Children &amp; Family</category>
+    <category>Cartoons</category>
   </programme>
   <programme channel="PlutoTVKidsClassics.de@FR" start="20261003134721 +0000" stop="20261003141721 +0000">
     <title lang="fr">Pluto TV Kids Classics</title>
@@ -34051,13 +34009,6 @@ fasttømrede par.</desc>
     <category lang="en">Dramedy</category>
     <icon src="https://images.pluto.tv/series/64a2d190fdd8620013ec4b5e/tile_1769549042797.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="PlutoTVSeriesSciFi.de@ES" start="20261003145756 +0000" stop="20261003154656 +0000">
-    <title>The Dresden Files: Un trago para la resaca</title>
-    <sub-title>Un trago para la resaca</sub-title>
-    <desc>El FBI investiga el caso de Murphy, en el que un asesino en serie le quita el pelo y los dientes a la víctima, pero la razón podría ir más allá de coger al asesino.</desc>
-    <category>Sci-Fi &amp; Fantasy</category>
-    <category>Supernatural Sci-Fi</category>
-  </programme>
   <programme channel="PlutoTVSeriesSciFi.de@ES" start="20261003154656 +0000" stop="20261003163656 +0000">
     <title>The Dresden Files: Las reglas del compromiso</title>
     <sub-title>Las reglas del compromiso</sub-title>
@@ -34254,12 +34205,19 @@ fasttømrede par.</desc>
     <category>Sci-Fi &amp; Fantasy</category>
     <category>Supernatural Sci-Fi</category>
   </programme>
-  <programme channel="PlutoTVSeriesSciFi.de@ES" start="20261004150943 +0000" stop="20261004153000 +0000">
-    <title>Pluto TV Series Sci-Fi</title>
-    <sub-title>Pluto TV Series Sci-Fi</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVSeriesSciFi.de@ES" start="20261004150943 +0000" stop="20261004155943 +0000">
+    <title>The Dresden Files: El otro Dick</title>
+    <sub-title>El otro Dick</sub-title>
+    <desc>Harry debe obtener una licencia para seguir trabajando con la policía, pero cuando su profesor muere a causa de la magia negra, se alía con su ayudante en un caso que da un giro productivo.</desc>
+    <category>Sci-Fi &amp; Fantasy</category>
+    <category>Supernatural Sci-Fi</category>
+  </programme>
+  <programme channel="PlutoTVSeriesSciFi.de@ES" start="20261004155943 +0000" stop="20261004164943 +0000">
+    <title>The Dresden Files: ¿Qué pasa con Bob?</title>
+    <sub-title>¿Qué pasa con Bob?</sub-title>
+    <desc>Un ligue de una noche se vuelve letal cuando un viejo enemigo de Harry reaparece.</desc>
+    <category>Sci-Fi &amp; Fantasy</category>
+    <category>Supernatural Sci-Fi</category>
   </programme>
   <programme channel="PlutoTVSeriesSciFi.us@BR" start="20261003132600 +0000" stop="20261003141700 +0000">
     <title lang="pt">Os 4400</title>
@@ -34380,13 +34338,6 @@ fasttømrede par.</desc>
     <category lang="pt">Sci-Fi &amp; Fantasy</category>
     <category lang="pt">Sci-Fi Dramas</category>
     <icon src="https://images.pluto.tv/series/693c1bab6a5d6e3860947ceb/tile_1771016404054.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-  </programme>
-  <programme channel="PlutoTVSeriescriminales.de@ES" start="20261003152119 +0000" stop="20261003161101 +0000">
-    <title>Rush</title>
-    <sub-title>Capítulo 13</sub-title>
-    <desc>Cuando un taxista asalta a Shannon, 'Tactical Response' vincula el incidente con una serie de ataques contra mujeres. Mientras el equipo busca al conductor, Josh lucha por contener su ira.</desc>
-    <category>Thriller</category>
-    <category>Thriller</category>
   </programme>
   <programme channel="PlutoTVSeriescriminales.de@ES" start="20261003161101 +0000" stop="20261003170054 +0000">
     <title>Rush</title>
@@ -34570,12 +34521,12 @@ fasttømrede par.</desc>
     <category>Thriller</category>
     <category>Thriller</category>
   </programme>
-  <programme channel="PlutoTVSeriescriminales.de@ES" start="20261004151826 +0000" stop="20261004153000 +0000">
-    <title>Pluto TV Series criminales</title>
-    <sub-title>Pluto TV Series criminales</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVSeriescriminales.de@ES" start="20261004151826 +0000" stop="20261004161307 +0000">
+    <title>Rush</title>
+    <sub-title>Capítulo 16</sub-title>
+    <desc>Stella queda atrapada en el fuego cruzado cuando un informante es retirado de la protección de testigos contra su voluntad.</desc>
+    <category>Thriller</category>
+    <category>Thriller</category>
   </programme>
   <programme channel="PlutoTVSeriesdeAccion.us@LatAm" start="20261003133200 +0000" stop="20261003143200 +0000">
     <title lang="es">Berlin Station</title>
@@ -35617,13 +35568,6 @@ fasttømrede par.</desc>
     <category lang="fr">Cartoons</category>
     <icon src="https://images.pluto.tv/series/652770a8a61c2a001bded469/tile_1776241801471.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="PlutoTVThrillers.de@ES" start="20261003141036 +0000" stop="20261003154536 +0000">
-    <title>Acoso perfecto</title>
-    <sub-title>Acoso perfecto</sub-title>
-    <desc>Cuando una mujer (Danielle Savre) que sufre un trastorno histriónico de la personalidad se obsesiona con su nuevo vecino, se inventa un acosador imaginario.</desc>
-    <category>Thriller</category>
-    <category>Thriller</category>
-  </programme>
   <programme channel="PlutoTVThrillers.de@ES" start="20261003154536 +0000" stop="20261003173236 +0000">
     <title>Cut Bank</title>
     <sub-title>Cut Bank</sub-title>
@@ -35712,6 +35656,13 @@ fasttømrede par.</desc>
     <title>El detective de Arthur Hailey</title>
     <sub-title>El detective de Arthur Hailey</sub-title>
     <desc>Un asesino en serie accede a confesarlo todo, pero sólo si es al detective, antiguo cura, que lo arrestó.</desc>
+    <category>Thriller</category>
+    <category>Thriller</category>
+  </programme>
+  <programme channel="PlutoTVThrillers.de@ES" start="20261004154120 +0000" stop="20261004172620 +0000">
+    <title>Cuatro vidas</title>
+    <sub-title>Cuatro vidas</sub-title>
+    <desc>La película se Basa en un proverbio chino según el cual la existencia humana se divide en cuatro emociones: felicidad, placer, pena y amor. Estas emociones acaban cruzándose a través de cuatro personajes.</desc>
     <category>Thriller</category>
     <category>Thriller</category>
   </programme>
@@ -35904,6 +35855,13 @@ fasttømrede par.</desc>
     <category>Crime</category>
     <category>Crime</category>
   </programme>
+  <programme channel="PlutoTVTrueCrime.de@ES" start="20261004153709 +0000" stop="20261004164409 +0000">
+    <title>Evidencias del Crimen: Estuche Jean-Jacques Le Page</title>
+    <sub-title>Estuche Jean-Jacques Le Page</sub-title>
+    <desc>En la mañana del 24 de julio de 2009, se produce un incendio en una casa de Plougonvelin.</desc>
+    <category>Crime</category>
+    <category>Crime</category>
+  </programme>
   <programme channel="PlutoTVWestern.de@ES" start="20261003142631 +0000" stop="20261003171731 +0000">
     <title>¡Agáchate, maldito!</title>
     <sub-title>¡Agáchate, maldito!</sub-title>
@@ -35995,12 +35953,12 @@ fasttømrede par.</desc>
     <category>Western</category>
     <category>Western</category>
   </programme>
-  <programme channel="PlutoTVWestern.de@ES" start="20261004152825 +0000" stop="20261004153000 +0000">
-    <title>Pluto TV Western</title>
-    <sub-title>Pluto TV Western</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVWestern.de@ES" start="20261004152825 +0000" stop="20261004171458 +0000">
+    <title>El pastor de las colinas</title>
+    <sub-title>El pastor de las colinas</sub-title>
+    <desc>Un forastero se establece en un pueblo de las montañas de Ozark. Su presencia resulta beneficiosa para la vida de sus vecinos.</desc>
+    <category>Western</category>
+    <category>Western</category>
   </programme>
   <programme channel="QelloConcertsbyStingray.ca@SD" start="20261003110001 -0300" stop="20261003120000 -0300">
     <title lang="uk">Qello Concerts by Stingray - DE</title>
@@ -36866,12 +36824,12 @@ fasttømrede par.</desc>
     <category>Drama</category>
     <category>War Drama</category>
   </programme>
-  <programme channel="SensaCineTVxPluto.de@ES" start="20261004151127 +0000" stop="20261004153000 +0000">
-    <title>SensaCine TV x Pluto</title>
-    <sub-title>SensaCine TV x Pluto</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="SensaCineTVxPluto.de@ES" start="20261004151127 +0000" stop="20261004174727 +0000">
+    <title>Duelo al sol</title>
+    <sub-title>Duelo al sol</sub-title>
+    <desc>La hermosa mestiza Pearl Chavez se convierte en pupila del primer amor de su padre muerto.</desc>
+    <category>Action &amp; Adventure</category>
+    <category>Adventures</category>
   </programme>
   <programme channel="SeriesbyPlutoTV.de@FR" start="20261003133014 +0000" stop="20261003142714 +0000">
     <title lang="fr">La Famille Katz: Bonne Année</title>
