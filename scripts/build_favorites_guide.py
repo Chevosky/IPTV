@@ -212,7 +212,16 @@ for cid in sorted(covered):
     ch = out_channels.get(cid)
     if ch is None:
         ch = ET.Element("channel", {"id":cid})
-        ET.SubElement(ch, "display-name").text = playlist[cid]["name"]
+    else:
+        ch = ET.fromstring(ET.tostring(ch, encoding="utf-8"))
+        ch.set("id", cid)
+    # Flex IPTV can be picky about XMLTV channel-name matching even when ids match.
+    # Force the XMLTV display name to be exactly the M3U channel name.
+    for dn in list(ch.findall("display-name")):
+        ch.remove(dn)
+    dn = ET.Element("display-name")
+    dn.text = playlist[cid]["name"]
+    ch.insert(0, dn)
     root.append(ch)
 
 out_programmes.sort(key=lambda p: (p.get("channel") or "", p.get("start") or ""))
