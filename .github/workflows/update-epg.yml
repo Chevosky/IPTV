@@ -15,8 +15,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-epg
-  cancel-in-progress: true
+  group: iptv-publish
+  cancel-in-progress: false
 
 jobs:
   build:
