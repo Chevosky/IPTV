@@ -1,8 +1,8 @@
 {
   "summary": {
-    "missing_targets": 41,
+    "missing_targets": 26,
     "with_exact_normalized_match": 0,
-    "with_fuzzy_090_plus": 1
+    "with_fuzzy_090_plus": 0
   },
   "candidates": [
     {
@@ -94,120 +94,6 @@
       ]
     },
     {
-      "target_id": "Canal8MardelPlata.ar@SD",
-      "target_name": "Canal 8 Mar del Plata (720p) [Not 24/7]",
-      "normalized": "canal 8 mar del plata",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.638,
-          "source_id": "Canal.Animal.Planet.(Panamá).pa",
-          "source_name": "Canal Animal Planet (Panamá)"
-        },
-        {
-          "score": 0.636,
-          "source_id": "Canal.9.de.Panamá.(TVMax).pa",
-          "source_name": "Canal 9 de Panamá (TVMax)"
-        },
-        {
-          "score": 0.634,
-          "source_id": "Canal.Cinema.Platino.mx",
-          "source_name": "Canal Cinema Platino"
-        },
-        {
-          "score": 0.632,
-          "source_id": "Canal.Star.Channel.(Panamá).pa",
-          "source_name": "Canal Star Channel (Panamá)"
-        },
-        {
-          "score": 0.632,
-          "source_id": "Canal.De.Película.mx",
-          "source_name": "Canal De Película"
-        },
-        {
-          "score": 0.632,
-          "source_id": "Canal.De.Película.ec",
-          "source_name": "Canal De Película"
-        },
-        {
-          "score": 0.632,
-          "source_id": "Canal.De.Película.cr",
-          "source_name": "Canal De Película"
-        },
-        {
-          "score": 0.632,
-          "source_id": "Canal.De.Película.cl",
-          "source_name": "Canal De Película"
-        }
-      ]
-    },
-    {
-      "target_id": "CanalPlusActionEurope.nl@Czechia",
-      "target_name": "Canal+ Action Europe Czechia",
-      "normalized": "canal action europe czechia",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.655,
-          "source_id": "Canal.National.Geographic.(Chile).cl",
-          "source_name": "Canal National Geographic (Chile)"
-        },
-        {
-          "score": 0.63,
-          "source_id": "Canal.Cartoon.Network.(Chile).cl",
-          "source_name": "Canal Cartoon Network (Chile)"
-        },
-        {
-          "score": 0.615,
-          "source_id": "Canal+.Action.nl",
-          "source_name": "Canal+ Action"
-        },
-        {
-          "score": 0.61,
-          "source_id": "Canal.National.Geographic.(Panamá).pa",
-          "source_name": "Canal National Geographic (Panamá)"
-        },
-        {
-          "score": 0.609,
-          "source_id": "Canal.Europa.Europa.mx",
-          "source_name": "Canal Europa Europa"
-        },
-        {
-          "score": 0.609,
-          "source_id": "Canal.Europa.Europa.ec",
-          "source_name": "Canal Europa Europa"
-        },
-        {
-          "score": 0.609,
-          "source_id": "Canal.Europa.Europa.ar",
-          "source_name": "Canal Europa Europa"
-        },
-        {
-          "score": 0.609,
-          "source_id": "Canal.A&E.(Chile).cl",
-          "source_name": "Canal A&E (Chile)"
-        }
-      ]
-    },
-    {
-      "target_id": "CanalPlusActionEurope.nl@Slovakia",
-      "target_name": "Canal+ Action Europe Slovakia (720p)",
-      "normalized": "canal action europe slovakia",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.6,
-          "source_id": "Canal.National.Geographic.(Panamá).pa",
-          "source_name": "Canal National Geographic (Panamá)"
-        },
-        {
-          "score": 0.6,
-          "source_id": "Canal+.Action.nl",
-          "source_name": "Canal+ Action"
-        }
-      ]
-    },
-    {
       "target_id": "DanceFM.cl@SD",
       "target_name": "Dance FM (720p)",
       "normalized": "dance fm",
@@ -237,102 +123,6 @@
           "score": 0.667,
           "source_id": "DK:.Dance.Moms.be",
           "source_name": "DK: Dance Moms"
-        }
-      ]
-    },
-    {
-      "target_id": "DePeliculaPlus.mx@SD",
-      "target_name": "De Pelicula Plus (1080p)",
-      "normalized": "de pelicula plus",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.815,
-          "source_id": "[DEPEL].De.Película.uy",
-          "source_name": "[DEPEL] De Película"
-        },
-        {
-          "score": 0.815,
-          "source_id": "De.Pelicula.us2",
-          "source_name": "De Pelicula"
-        },
-        {
-          "score": 0.815,
-          "source_id": "De.Pelicula.ch",
-          "source_name": "De Pelicula"
-        },
-        {
-          "score": 0.8,
-          "source_id": "De.Pelicula.Clasico.us2",
-          "source_name": "De Pelicula Clasico"
-        },
-        {
-          "score": 0.667,
-          "source_id": "Canal.De.Película.mx",
-          "source_name": "Canal De Película"
-        },
-        {
-          "score": 0.667,
-          "source_id": "Canal.De.Película.ec",
-          "source_name": "Canal De Película"
-        },
-        {
-          "score": 0.667,
-          "source_id": "Canal.De.Película.cr",
-          "source_name": "Canal De Película"
-        },
-        {
-          "score": 0.667,
-          "source_id": "Canal.De.Película.cl",
-          "source_name": "Canal De Película"
-        }
-      ]
-    },
-    {
-      "target_id": "DePeliculaUS.us@SD",
-      "target_name": "De Pelicula US (720p)",
-      "normalized": "de pelicula us",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.88,
-          "source_id": "[DEPEL].De.Película.uy",
-          "source_name": "[DEPEL] De Película"
-        },
-        {
-          "score": 0.88,
-          "source_id": "De.Pelicula.us2",
-          "source_name": "De Pelicula"
-        },
-        {
-          "score": 0.88,
-          "source_id": "De.Pelicula.ch",
-          "source_name": "De Pelicula"
-        },
-        {
-          "score": 0.788,
-          "source_id": "De.Pelicula.Clasico.us2",
-          "source_name": "De Pelicula Clasico"
-        },
-        {
-          "score": 0.71,
-          "source_id": "Canal.De.Película.mx",
-          "source_name": "Canal De Película"
-        },
-        {
-          "score": 0.71,
-          "source_id": "Canal.De.Película.ec",
-          "source_name": "Canal De Película"
-        },
-        {
-          "score": 0.71,
-          "source_id": "Canal.De.Película.cr",
-          "source_name": "Canal De Película"
-        },
-        {
-          "score": 0.71,
-          "source_id": "Canal.De.Película.cl",
-          "source_name": "Canal De Película"
         }
       ]
     },
@@ -419,102 +209,6 @@
           "score": 0.78,
           "source_id": "DE:.RACER.International.be",
           "source_name": "DE: RACER International"
-        }
-      ]
-    },
-    {
-      "target_id": "ELatinAmerica.us@Mexico",
-      "target_name": "E! Latin America Mexico (720p)",
-      "normalized": "e latin america mexico",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.75,
-          "source_id": "[EWTNL].EWTN.Latin.America.uy",
-          "source_name": "[EWTNL] EWTN Latin America"
-        },
-        {
-          "score": 0.683,
-          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
-          "source_name": "[GOLTVL] GolTV Latin America"
-        },
-        {
-          "score": 0.682,
-          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
-          "source_name": "[PASNLA] Pasiones TV Latin America"
-        },
-        {
-          "score": 0.651,
-          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
-          "source_name": "[PLAYL] Playboy TV Latin America"
-        },
-        {
-          "score": 0.636,
-          "source_id": "Destination.America.HD.us2",
-          "source_name": "Destination America HD"
-        },
-        {
-          "score": 0.632,
-          "source_id": "Canal.AMC.(México).mx",
-          "source_name": "Canal AMC (México)"
-        },
-        {
-          "score": 0.622,
-          "source_id": "Canal.TNT.Series.(México).mx",
-          "source_name": "Canal TNT Series (México)"
-        },
-        {
-          "score": 0.622,
-          "source_id": "Canal.AMC.Series.(México).mx",
-          "source_name": "Canal AMC Series (México)"
-        }
-      ]
-    },
-    {
-      "target_id": "ELatinAmerica.us@South",
-      "target_name": "E! Latin America (1080p)",
-      "normalized": "e latin america",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.909,
-          "source_id": "[EWTNL].EWTN.Latin.America.uy",
-          "source_name": "[EWTNL] EWTN Latin America"
-        },
-        {
-          "score": 0.824,
-          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
-          "source_name": "[GOLTVL] GolTV Latin America"
-        },
-        {
-          "score": 0.811,
-          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
-          "source_name": "[PASNLA] Pasiones TV Latin America"
-        },
-        {
-          "score": 0.778,
-          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
-          "source_name": "[PLAYL] Playboy TV Latin America"
-        },
-        {
-          "score": 0.759,
-          "source_id": "plex.tv.Racing.America.plex",
-          "source_name": "Racing America"
-        },
-        {
-          "score": 0.71,
-          "source_id": "plex.tv.Teleonce.America.plex",
-          "source_name": "Teleonce America"
-        },
-        {
-          "score": 0.703,
-          "source_id": "Destination.America.HD.us2",
-          "source_name": "Destination America HD"
-        },
-        {
-          "score": 0.692,
-          "source_id": "EBS.America.us2",
-          "source_name": "EBS America"
         }
       ]
     },
@@ -719,24 +413,6 @@
       ]
     },
     {
-      "target_id": "PlayTV.br@SD",
-      "target_name": "Play TV (Brazil) (720p)",
-      "normalized": "play brazil",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.696,
-          "source_id": "Play.Reality.be",
-          "source_name": "Play Reality"
-        },
-        {
-          "score": 0.667,
-          "source_id": "Play.Actie.be",
-          "source_name": "Play Actie"
-        }
-      ]
-    },
-    {
       "target_id": "PlutoTVSeries.de@ES",
       "target_name": "Pluto TV Series (Germany)",
       "normalized": "pluto series germany",
@@ -929,19 +605,6 @@
       ]
     },
     {
-      "target_id": "RealAmericasVoice.us@KPVMLD",
-      "target_name": "Real America's Voice KPVM-LD",
-      "normalized": "real america s voice kpvm ld",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.809,
-          "source_id": "Real.Americas.Voice.us2",
-          "source_name": "Real Americas Voice"
-        }
-      ]
-    },
-    {
       "target_id": "StarCinema.ru@SD",
       "target_name": "Star Cinema",
       "normalized": "star cinema",
@@ -990,54 +653,6 @@
       ]
     },
     {
-      "target_id": "TNTNovelas.us@Brazil",
-      "target_name": "TNT Novelas Brazil (720p)",
-      "normalized": "tnt novelas brazil",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.759,
-          "source_id": "TNT.Novelas.co",
-          "source_name": "TNT Novelas"
-        },
-        {
-          "score": 0.759,
-          "source_id": "TNT.NOVELAS.uy",
-          "source_name": "TNT NOVELAS"
-        },
-        {
-          "score": 0.722,
-          "source_id": "Sony.Movies.Brazil.br",
-          "source_name": "Sony Movies Brazil"
-        },
-        {
-          "score": 0.683,
-          "source_id": "Canal.TNT.Novelas.(Chile).cl",
-          "source_name": "Canal TNT Novelas (Chile)"
-        },
-        {
-          "score": 0.622,
-          "source_id": "Canal.TNT.Novelas.(Argentina).ar",
-          "source_name": "Canal TNT Novelas (Argentina)"
-        },
-        {
-          "score": 0.621,
-          "source_id": "RCN.Novelas.co",
-          "source_name": "RCN Novelas"
-        },
-        {
-          "score": 0.619,
-          "source_id": "Canal.TNT.Novelas.(Panamá).pa",
-          "source_name": "Canal TNT Novelas (Panamá)"
-        },
-        {
-          "score": 0.619,
-          "source_id": "Canal.TNT.Novelas.(México).mx",
-          "source_name": "Canal TNT Novelas (México)"
-        }
-      ]
-    },
-    {
       "target_id": "TVCamara.py@SD",
       "target_name": "TV Camara (Paraguay) (1080p)",
       "normalized": "camara paraguay",
@@ -1052,147 +667,6 @@
           "score": 0.703,
           "source_id": "Canal.La.Tele.(Paraguay).ar",
           "source_name": "Canal La Tele (Paraguay)"
-        }
-      ]
-    },
-    {
-      "target_id": "TVEInternacionalAsiaOceania.es@HD",
-      "target_name": "TVE Internacional Asia-Oceania HD (1080p) [Geo-blocked]",
-      "normalized": "tve internacional asia oceania hd",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.68,
-          "source_id": "TVE.Internacional.fr",
-          "source_name": "TVE Internacional"
-        },
-        {
-          "score": 0.68,
-          "source_id": "TVE.Internacional.ch",
-          "source_name": "TVE Internacional"
-        },
-        {
-          "score": 0.68,
-          "source_id": "TVE.Internacional.be",
-          "source_name": "TVE Internacional"
-        },
-        {
-          "score": 0.679,
-          "source_id": "TELEFE.INTERNACIONAL.HD.uy",
-          "source_name": "TELEFE INTERNACIONAL HD"
-        },
-        {
-          "score": 0.658,
-          "source_id": "Canal.TVE.Internacional.(Televisión.Española).pa",
-          "source_name": "Canal TVE Internacional (Televisión Española)"
-        },
-        {
-          "score": 0.658,
-          "source_id": "Canal.TVE.Internacional.(Televisión.Española).mx",
-          "source_name": "Canal TVE Internacional (Televisión Española)"
-        },
-        {
-          "score": 0.658,
-          "source_id": "Canal.TVE.Internacional.(Televisión.Española).ec",
-          "source_name": "Canal TVE Internacional (Televisión Española)"
-        },
-        {
-          "score": 0.658,
-          "source_id": "Canal.TVE.Internacional.(Televisión.Española).cr",
-          "source_name": "Canal TVE Internacional (Televisión Española)"
-        }
-      ]
-    },
-    {
-      "target_id": "TVEInternacionalEurope.es@HD",
-      "target_name": "TVE Internacional Europe HD (1080p) [Geo-blocked]",
-      "normalized": "tve internacional europe hd",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.773,
-          "source_id": "TVE.Internacional.fr",
-          "source_name": "TVE Internacional"
-        },
-        {
-          "score": 0.773,
-          "source_id": "TVE.Internacional.ch",
-          "source_name": "TVE Internacional"
-        },
-        {
-          "score": 0.773,
-          "source_id": "TVE.Internacional.be",
-          "source_name": "TVE Internacional"
-        },
-        {
-          "score": 0.76,
-          "source_id": "TELEFE.INTERNACIONAL.HD.uy",
-          "source_name": "TELEFE INTERNACIONAL HD"
-        },
-        {
-          "score": 0.727,
-          "source_id": "tvi.internacional.pt",
-          "source_name": "tvi internacional"
-        },
-        {
-          "score": 0.727,
-          "source_id": "TVR.Internacional.pt",
-          "source_name": "TVR Internacional"
-        },
-        {
-          "score": 0.727,
-          "source_id": "TVI.Internacional.pt",
-          "source_name": "TVI Internacional"
-        },
-        {
-          "score": 0.727,
-          "source_id": "TVI.Internacional.ch",
-          "source_name": "TVI Internacional"
-        }
-      ]
-    },
-    {
-      "target_id": "TelefeBuenosAires.ar@SD",
-      "target_name": "Telefe Buenos Aires (1080p)",
-      "normalized": "telefe buenos aires",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": []
-    },
-    {
-      "target_id": "TelefeInterior.ar@SD",
-      "target_name": "Telefe Interior (720p)",
-      "normalized": "telefe interior",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.8,
-          "source_id": "[TEFEI].Telefe.Internacional.uy",
-          "source_name": "[TEFEI] Telefe Internacional"
-        },
-        {
-          "score": 0.8,
-          "source_id": "Telefe.international.us2",
-          "source_name": "Telefe international"
-        },
-        {
-          "score": 0.8,
-          "source_id": "Telefe.Internacional.us2",
-          "source_name": "Telefe Internacional"
-        },
-        {
-          "score": 0.737,
-          "source_id": "TELEFE.INTERNACIONAL.HD.uy",
-          "source_name": "TELEFE INTERNACIONAL HD"
-        },
-        {
-          "score": 0.683,
-          "source_id": "Canal.Telefe.Internacional.mx",
-          "source_name": "Canal Telefe Internacional"
-        },
-        {
-          "score": 0.683,
-          "source_id": "Canal.Telefe.Internacional.ec",
-          "source_name": "Canal Telefe Internacional"
         }
       ]
     },
@@ -1239,54 +713,6 @@
         },
         {
           "score": 0.783,
-          "source_id": "NO:.The.Pet.Collective.be",
-          "source_name": "NO: The Pet Collective"
-        }
-      ]
-    },
-    {
-      "target_id": "ThePetCollective.us@Spain",
-      "target_name": "The Pet Collective Spain",
-      "normalized": "the pet collective spain",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.857,
-          "source_id": "pluto.latam.5ebacbcae43a6d000787b88e",
-          "source_name": "The Pet Collective"
-        },
-        {
-          "score": 0.857,
-          "source_id": "plex.tv.The.Pet.Collective.plex",
-          "source_name": "The Pet Collective"
-        },
-        {
-          "score": 0.857,
-          "source_id": "ThePetCollective.us@Brazil",
-          "source_name": "The Pet Collective"
-        },
-        {
-          "score": 0.857,
-          "source_id": "The.Pet.Collective.es",
-          "source_name": "The Pet Collective"
-        },
-        {
-          "score": 0.8,
-          "source_id": "UK:.The.Pet.Collective.be",
-          "source_name": "UK: The Pet Collective"
-        },
-        {
-          "score": 0.8,
-          "source_id": "SE:.The.Pet.Collective.be",
-          "source_name": "SE: The Pet Collective"
-        },
-        {
-          "score": 0.8,
-          "source_id": "PL:.The.Pet.Collective.be",
-          "source_name": "PL: The Pet Collective"
-        },
-        {
-          "score": 0.8,
           "source_id": "NO:.The.Pet.Collective.be",
           "source_name": "NO: The Pet Collective"
         }
