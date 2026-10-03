@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import sys
 import xml.etree.ElementTree as ET
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 if len(sys.argv) != 3:
@@ -10,6 +11,25 @@ indir=Path(sys.argv[1])
 out=Path(sys.argv[2])
 channels={}
 programmes={}
+now=datetime.now(timezone.utc)
+window_end=now+timedelta(hours=36)
+grace_start=now-timedelta(hours=2)
+
+def parse_xmltv_dt(value):
+    if not value:
+        return None
+    value=value.strip()
+    main=value[:14]
+    tz=value[14:].strip()
+    try:
+        dt=datetime.strptime(main,"%Y%m%d%H%M%S")
+    except ValueError:
+        return None
+    if tz and len(tz)>=5 and tz[0] in "+-" and tz[1:5].isdigit():
+        sign=1 if tz[0]=="+" else -1
+        off=timedelta(hours=int(tz[1:3]),minutes=int(tz[3:5]))*sign
+        return dt.replace(tzinfo=timezone(off)).astimezone(timezone.utc)
+    return dt.replace(tzinfo=timezone.utc)
 
 for path in sorted(indir.glob("*.xml")):
     if not path.is_file() or path.stat().st_size == 0:
@@ -25,8 +45,16 @@ for path in sorted(indir.glob("*.xml")):
             channels[cid]=ET.fromstring(ET.tostring(ch,encoding="utf-8"))
     for p in root.findall("programme"):
         cid=p.get("channel")
+        start=parse_xmltv_dt(p.get("start"))
+        stop=parse_xmltv_dt(p.get("stop"))
+        if not cid or start is None:
+            continue
+        if stop is not None and stop < grace_start:
+            continue
+        if start > window_end:
+            continue
         key=(cid,p.get("start"),p.get("stop"),(p.findtext("title") or "").strip())
-        if cid and key not in programmes:
+        if key not in programmes:
             programmes[key]=ET.fromstring(ET.tostring(p,encoding="utf-8"))
 
 root=ET.Element("tv",{
