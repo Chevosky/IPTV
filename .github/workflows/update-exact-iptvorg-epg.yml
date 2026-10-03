@@ -51,6 +51,9 @@ jobs:
           NODE_OPTIONS: --max-old-space-size=6144
         run: |
           mkdir -p "$GITHUB_WORKSPACE/guide-batches"
+          if [ -s "$GITHUB_WORKSPACE/guide-iptvorg-exact.xml" ]; then
+            cp "$GITHUB_WORKSPACE/guide-iptvorg-exact.xml" "$GITHUB_WORKSPACE/guide-batches/_previous.xml"
+          fi
           shopt -s nullglob
           files=("$GITHUB_WORKSPACE"/iptvorg-batches/*.channels.xml)
           if [ "${#files[@]}" -eq 0 ]; then
@@ -107,4 +110,5 @@ jobs:
             exit 0
           fi
           git commit -m "Update exact and curated EPG"
+          git pull --rebase origin main
           git push
