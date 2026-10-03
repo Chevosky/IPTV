@@ -1,0 +1,43 @@
+name: Audit Exact IPTV-org EPG Coverage
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "favorites-test.m3u"
+      - "scripts/build_iptvorg_channels.py"
+      - ".github/workflows/audit-iptvorg-epg.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: audit-iptvorg-epg
+  cancel-in-progress: true
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout IPTV repo
+        uses: actions/checkout@v4
+
+      - name: Clone iptv-org EPG
+        run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git vendor/epg
+
+      - name: Build exact channel selection
+        run: python scripts/build_iptvorg_channels.py vendor/epg
+
+      - name: Publish coverage files
+        run: |
+          if git diff --quiet -- iptvorg-selected.channels.xml iptvorg-epg-coverage.json && git ls-files --error-unmatch iptvorg-selected.channels.xml >/dev/null 2>&1; then
+            echo "No coverage changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add iptvorg-selected.channels.xml iptvorg-epg-coverage.json
+          git commit -m "Update exact iptv-org EPG coverage"
+          git push
