@@ -7,14 +7,15 @@ on:
     paths:
       - "favorites-test.m3u"
       - "scripts/build_iptvorg_channels.py"
+      - "manual-epg-sources.json"
       - ".github/workflows/audit-iptvorg-epg.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: audit-iptvorg-epg
-  cancel-in-progress: true
+  group: iptv-publish
+  cancel-in-progress: false
 
 jobs:
   audit:
