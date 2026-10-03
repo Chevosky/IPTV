@@ -16,8 +16,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: iptv-publish
-  cancel-in-progress: false
+  group: iptv-mapping
+  cancel-in-progress: true
 
 jobs:
   build:
