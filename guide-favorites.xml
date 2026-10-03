@@ -822,8 +822,16 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="TVEInternacionalAsiaOceania.es@HD">
+    <display-name>TVE Internacional Asia-Oceania HD (1080p) [Geo-blocked]</display-name>
+    <icon src="https://i.ibb.co/RpKLCMvp/tve.png" />
+  </channel>
   <channel id="TVEInternacionalAsiaOceania.es@SD">
     <display-name>TVE Internacional Asia-Oceania</display-name>
+    <icon src="https://i.ibb.co/RpKLCMvp/tve.png" />
+  </channel>
+  <channel id="TVEInternacionalEurope.es@HD">
+    <display-name>TVE Internacional Europe HD (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.ibb.co/RpKLCMvp/tve.png" />
   </channel>
   <channel id="TVEInternacionalEurope.es@SD">
@@ -8309,13 +8317,6 @@
     <icon src="https://images.metadata.sky.com/pd-image/3079003a-d0b6-4888-af2d-a3453a8d398b/16-9" />
     <episode-num system="xmltv_ns">5.12.</episode-num>
   </programme>
-  <programme channel="BETCinema.us@SD" start="20261003143000 +0000" stop="20261003163000 +0000">
-    <title>Menace II Society</title>
-    <sub-title>Menace II Society</sub-title>
-    <desc>In an unflinching look at the mean streets of the contemporary urban American ghetto, a Black youth—despite his dreams for a better life—ultimately succumbs to the cycle of violence that pervades his community.</desc>
-    <category>Drama</category>
-    <category>Crime Drama</category>
-  </programme>
   <programme channel="BETCinema.us@SD" start="20261003163000 +0000" stop="20261003184500 +0000">
     <title>Paid in Full</title>
     <sub-title>Paid in Full</sub-title>
@@ -8392,13 +8393,6 @@
     <desc>Two best friends finally realize that they may be in love with each other.</desc>
     <category>Romance</category>
     <category>African-American Romance</category>
-  </programme>
-  <programme channel="BETClassicsPlutoTV.us@SD" start="20261003160000 +0000" stop="20261003163000 +0000">
-    <title>Webster</title>
-    <sub-title>Nerds Are People Too</sub-title>
-    <desc>When Webster decides to join the school's community service club, he finds that all of its members are nerds. But after giving back to a community of retirees, Webster discovers that nerds are people too.</desc>
-    <category>Comedy</category>
-    <category>African-American Comedies</category>
   </programme>
   <programme channel="BETClassicsPlutoTV.us@SD" start="20261003163000 +0000" stop="20261003170000 +0000">
     <title>Webster</title>
@@ -8913,13 +8907,6 @@
     <category lang="pt">Romantic Drama</category>
     <icon src="https://images.pluto.tv/series/6009e0df2a97380013436ff4/tile_1781879041394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="BETPlutoTV.us@US" start="20261003160000 +0000" stop="20261003163000 +0000">
-    <title>The Game</title>
-    <sub-title>Intervention, My Ass</sub-title>
-    <desc>Chardonnay holds an intervention for Tasha and gets more than what she bargained for. Yana shows up at Malik's door and gets emotional after she goes to use his bathroom. Tee Tee gets served a subpoena.</desc>
-    <category>Comedy</category>
-    <category>African-American Comedies</category>
-  </programme>
   <programme channel="BETPlutoTV.us@US" start="20261003163000 +0000" stop="20261003170000 +0000">
     <title>The Game</title>
     <sub-title>He's a No-Good, Lyin', Cheatin', Honky-Tonk Man!</sub-title>
@@ -9220,13 +9207,6 @@
     <desc>Q. Raheem. Bishop. Steel. They're four Harlem friends who spend their days hanging out and looking for a way to get the power and respect they call Juice. Q hopes to earn respect by becoming a scratch 'n' mix DJ.</desc>
     <category>Thriller</category>
     <category>Thriller</category>
-  </programme>
-  <programme channel="BestofMTV.se@DK" start="20261003160902 +0000" stop="20261003163402 +0000">
-    <title>My Super Sweet 16: The Triplets</title>
-    <sub-title>The Triplets</sub-title>
-    <desc>Missed your Sweet 16? Throw a Sweet 18! That's what these triplets did when planning their Vegas themed birthday. Dealing with these three sisters means triple the drama!</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
   </programme>
   <programme channel="BestofMTV.se@DK" start="20261003163402 +0000" stop="20261003165902 +0000">
     <title>My Super Sweet 16: Lila</title>
@@ -9550,12 +9530,12 @@
     <category>Comedy</category>
     <category>Fails &amp; Pranks</category>
   </programme>
-  <programme channel="BestofMTV.se@NO" start="20261003161721 +0000" stop="20261003164221 +0000">
-    <title>MTV Cribs NO: Melissa Joan Hart, Trick Daddy, Jewel</title>
-    <sub-title>Melissa Joan Hart, Trick Daddy, Jewel</sub-title>
-    <desc>Featuring the homes of Jewel, Melissa Joan Hart and Trick Daddy.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
+  <programme channel="BestofMTV.se@DK" start="20261004160631 +0000" stop="20261004163000 +0000">
+    <title>Best of MTV</title>
+    <sub-title>Best of MTV</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="BestofMTV.se@NO" start="20261003164221 +0000" stop="20261003170721 +0000">
     <title>MTV Cribs NO: Redman, Eddie George, Howie Dorough</title>
@@ -9872,12 +9852,12 @@
     <category>Comedy</category>
     <category>Fails &amp; Pranks</category>
   </programme>
-  <programme channel="BestofMTV.se@SE" start="20261003161202 +0000" stop="20261003163702 +0000">
-    <title>Ridiculousness: Sterling and Nina Agdal VI</title>
-    <sub-title>Sterling and Nina Agdal VI</sub-title>
-    <desc>I ett nytt avsnitt av Ridiculousness får Rob och Steelo sällskap av gästen Nina Agdal. De känner smärtan när man har 'Offerkulor', blir irriterade av 'Förnedrande försök' och höjer sina glas for alla 'Usla skålar'</desc>
-    <category>Comedy</category>
-    <category>Fails &amp; Pranks</category>
+  <programme channel="BestofMTV.se@NO" start="20261004162327 +0000" stop="20261004163000 +0000">
+    <title>Best of MTV</title>
+    <sub-title>Best of MTV</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="BestofMTV.se@SE" start="20261003163702 +0000" stop="20261003170202 +0000">
     <title>Ridiculousness: Chanel and Sterling DLXXXIX</title>
@@ -10166,6 +10146,13 @@
     <category>Reality</category>
     <category>Celebrity Reality</category>
   </programme>
+  <programme channel="BestofMTV.se@SE" start="20261004161120 +0000" stop="20261004163000 +0000">
+    <title>Best of MTV</title>
+    <sub-title>Best of MTV</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="BestofParadiseHotelFinalveckan.se@SE" start="20261003155942 +0000" stop="20261003164437 +0000">
     <title>Paradise Hotel, säsong 16</title>
     <sub-title>Avsnitt 1635</sub-title>
@@ -10368,6 +10355,13 @@
     <desc>Det är återigen dags att se vem som finns under kupan och åtta gäster kommer att bli sju. Ytterligare två försvinner när gästerna får rösta ut en person, som i sin tur får dra med sig en i fallet.</desc>
     <category>Reality</category>
     <category>Human Interest</category>
+  </programme>
+  <programme channel="BestofParadiseHotelFinalveckan.se@SE" start="20261004160103 +0000" stop="20261004163000 +0000">
+    <title>Best of Paradise Hotel: Finalveckan</title>
+    <sub-title>Best of Paradise Hotel: Finalveckan</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="BestofParadiseHotelKyssarkarlek.se@SE" start="20261003161413 +0000" stop="20261003170905 +0000">
     <title>Paradise Hotel, säsong 8</title>
@@ -10586,6 +10580,13 @@
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
+  <programme channel="BestofParadiseHotelKyssarkarlek.se@SE" start="20261004162929 +0000" stop="20261004163000 +0000">
+    <title>Best of Paradise Hotel: Kyssar &amp; kärlek</title>
+    <sub-title>Best of Paradise Hotel: Kyssar &amp; kärlek</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="BestofParadiseHotelPandorasAsk.se@SE" start="20261003160121 +0000" stop="20261003165637 +0000">
     <title>Paradise Hotel, säsong 8</title>
     <sub-title>Avsnitt 828</sub-title>
@@ -10802,6 +10803,13 @@
     <desc>I sann flower power-anda bjuds deltagarna på nyckelparty. Kärleken är fri och nya par ska bildas.</desc>
     <category>Reality</category>
     <category>Competition Reality</category>
+  </programme>
+  <programme channel="BestofParadiseHotelPandorasAsk.se@SE" start="20261004160327 +0000" stop="20261004163000 +0000">
+    <title>Best of Paradise Hotel: Pandoras Ask</title>
+    <sub-title>Best of Paradise Hotel: Pandoras Ask</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261003160216 +0000" stop="20261003165422 +0000">
     <title>Paradise Hotel, säsong 9: Avsnitt 918</title>
@@ -11027,12 +11035,12 @@
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261003154300 +0000" stop="20261003163300 +0000">
-    <title>The Drew Barrymore Show: Money Savings Mania Hour with Mikel Welch, TikTok Coupon Hacks, Ross-ipe Under $10</title>
-    <sub-title>Money Savings Mania Hour with Mikel Welch, TikTok Coupon Hacks, Ross-ipe Under $10</sub-title>
-    <desc>It's the Money Savings Mania Hour filled with tips and tricks to save money all show long. Celebrity Interior Designer Mikel Welch joins Drew to help a deserving viewer redesign their living room décor without breaking the bank.</desc>
-    <category>Talk Show</category>
-    <category>Talk Show</category>
+  <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261004161617 +0000" stop="20261004163000 +0000">
+    <title>Best of Paradise Hotel: Skolveckan</title>
+    <sub-title>Best of Paradise Hotel: Skolveckan</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261003163300 +0000" stop="20261003172400 +0000">
     <title>The Drew Barrymore Show: Craft Week with Zooey Deschanel, Dumplings with Wilson Tang</title>
@@ -11312,12 +11320,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261003161200 +0000" stop="20261003163500 +0000">
-    <title>The Drew Barrymore Show: Bronwyn Tarboton, Drew's News</title>
-    <sub-title>Bronwyn Tarboton, Drew's News</sub-title>
-    <desc>Bronwyn Tarboton is sharing some genius upcycling tips including how to create home décor out of items in your trash.</desc>
-    <category>Talk Show</category>
-    <category>Talk Show</category>
+  <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261004161500 +0000" stop="20261004163000 +0000">
+    <title>Best of The Drew Barrymore Show</title>
+    <sub-title>Best of The Drew Barrymore Show</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261003163500 +0000" stop="20261003165800 +0000">
     <title>The Drew Barrymore Show: Guy Fieri, Damona Hoffman, Pilar Valdes, Robin Black</title>
@@ -11662,6 +11670,13 @@ great 1860 painting cellphone debate.</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
+  <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261004160200 +0000" stop="20261004163000 +0000">
+    <title>Best of The Drew Barrymore Show</title>
+    <sub-title>Best of The Drew Barrymore Show</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261003160200 +0000" stop="20261003165300 +0000">
     <title>The Drew Barrymore Show: Hoda Kotb, America’s Most Haunted House, The Weekender</title>
     <sub-title>Hoda Kotb, America’s Most Haunted House, The Weekender</sub-title>
@@ -11956,12 +11971,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261003154100 +0000" stop="20261003163200 +0000">
-    <title>The Drew Barrymore Show</title>
-    <sub-title>Jenny Slate, Tom Green, "Grey’s Anatomy" star Jake Borelli</sub-title>
-    <desc>Jenny Slate on her new book. Plus, Jenny and Drew play a rousing game. Drew taste tests deep dish pizzas from Chicago and declares a winner! Tom Green provides an update on his cross-country van trip. Jake Borelli co-pilots Drew’s News.</desc>
-    <category>Variety Show</category>
-    <category>Variety Show</category>
+  <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261004160400 +0000" stop="20261004163000 +0000">
+    <title>Best of The Drew Barrymore Show</title>
+    <sub-title>Best of The Drew Barrymore Show</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261003163200 +0000" stop="20261003172200 +0000">
     <title>The Drew Barrymore Show</title>
@@ -12159,12 +12174,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Variety Show</category>
     <category>Variety Show</category>
   </programme>
-  <programme channel="CCPlutoTV.de@DACH" start="20261003160824 +0000" stop="20261003163824 +0000">
-    <title>Comedy Central Pluto TV</title>
-    <sub-title>Comedy Central Pluto TV</sub-title>
-    <desc>Bitte lächeln! Comedy Central Pluto TV ist der Sender mit den besten Comedyserien, kultigsten Stand-up-Shows, verrücktesten Cartoons und vielem mehr.</desc>
-    <category>Comedy</category>
-    <category>African-American Comedies</category>
+  <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261004161200 +0000" stop="20261004163000 +0000">
+    <title>Best of The Drew Barrymore Show</title>
+    <sub-title>Best of The Drew Barrymore Show</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="CCPlutoTV.de@DACH" start="20261003163824 +0000" stop="20261003170824 +0000">
     <title>Comedy Central Pluto TV</title>
@@ -12494,6 +12509,13 @@ great 1860 painting cellphone debate.</desc>
     <desc>Bitte lächeln! Comedy Central Pluto TV ist der Sender mit den besten Comedyserien, kultigsten Stand-up-Shows, verrücktesten Cartoons und vielem mehr.</desc>
     <category>Comedy</category>
     <category>African-American Comedies</category>
+  </programme>
+  <programme channel="CCPlutoTV.de@DACH" start="20261004160824 +0000" stop="20261004163000 +0000">
+    <title>Comedy Central Pluto TV</title>
+    <sub-title>Comedy Central Pluto TV</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="CSI.se@DK" start="20261003161620 +0000" stop="20261003171039 +0000">
     <title>CSI: Crime Scene Investigation: Friends &amp; Lovers</title>
@@ -12859,6 +12881,13 @@ great 1860 painting cellphone debate.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
+  <programme channel="CSI.us@SD" start="20261004161500 +0000" stop="20261004163000 +0000">
+    <title>CSI</title>
+    <sub-title>CSI</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="CSICrimeSceneInvestigation.de@GB" start="20261003160620 +0000" stop="20261003165459 +0000">
     <title>CSI: Crime Scene Investigation</title>
     <sub-title>Lab Rats</sub-title>
@@ -13069,12 +13098,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
-  <programme channel="CSIMiami.us@BR" start="20261003154200 +0000" stop="20261003163400 +0000">
-    <title>CSI: Miami</title>
-    <sub-title>Dissolvido</sub-title>
-    <desc>Os CSI investigam o caso de um homem fervido vivo, Julia fica fora de controle, e um segredo obscuro da equipe vem à tona.</desc>
-    <category>Action &amp; Adventure</category>
-    <category>Adventures</category>
+  <programme channel="CSICrimeSceneInvestigation.de@GB" start="20261004160452 +0000" stop="20261004163000 +0000">
+    <title>CSI: Crime Scene Investigation</title>
+    <sub-title>CSI: Crime Scene Investigation</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="CSIMiami.us@BR" start="20261003163400 +0000" stop="20261003172400 +0000">
     <title>CSI: Miami</title>
@@ -13272,6 +13301,13 @@ great 1860 painting cellphone debate.</desc>
     <category>Action &amp; Adventure</category>
     <category>Crime Action</category>
   </programme>
+  <programme channel="CSIMiami.us@BR" start="20261004162000 +0000" stop="20261004163000 +0000">
+    <title>CSI: Miami</title>
+    <sub-title>CSI: Miami</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="CSIMiami.us@SD" start="20261003160000 +0000" stop="20261003170000 +0000">
     <title>CSI: Miami</title>
     <sub-title>Come As You Are</sub-title>
@@ -13444,13 +13480,6 @@ great 1860 painting cellphone debate.</desc>
     <title>CSI: Miami</title>
     <sub-title>Match Made In Hell</sub-title>
     <desc>When the investigation of a dead millionaire leads the CSIs to an elite dating service, Ryan poses as a businessman to expose the matchmaker's lies.</desc>
-    <category>Drama</category>
-    <category>Crime Drama</category>
-  </programme>
-  <programme channel="CSIMiamienespanol.us@SD" start="20261003153000 +0000" stop="20261003163000 +0000">
-    <title>CSI: Miami en español</title>
-    <sub-title>Bajo sospecha</sub-title>
-    <desc>Horatio y el equipo corren contra el tiempo para descubrir quién está tratando de incriminar a Horatio por el asesinato de una mujer con la que ha estado saliendo.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
@@ -13794,13 +13823,6 @@ great 1860 painting cellphone debate.</desc>
     <title>CSI: New York en español</title>
     <sub-title>Muerta por un día</sub-title>
     <desc>Cuando una asesina entrenada llega a la ciudad de Nueva York, realmente pone a prueba las habilidades de los miembros del equipo de CSI de Nueva York.</desc>
-    <category>Drama</category>
-    <category>Crime Drama</category>
-  </programme>
-  <programme channel="CSIenespanol.us@SD" start="20261003153000 +0000" stop="20261003163000 +0000">
-    <title>CSI en español</title>
-    <sub-title>Monje perverso</sub-title>
-    <desc>Grissom investiga los asesinatos de cuatro monjes que fueron tiroteados a quemarropa mientras cantaban en un templo budista.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
@@ -16355,13 +16377,6 @@ great 1860 painting cellphone debate.</desc>
     <category>Crime</category>
     <category>Crime</category>
   </programme>
-  <programme channel="ClassicTVComedy.us@SD" start="20261003160048 +0000" stop="20261003163048 +0000">
-    <title>The Dick Van Dyke Show</title>
-    <sub-title>Forty-Four Tickets</sub-title>
-    <desc>Rob invites 44 fellow PTA members to his television show but forgets all about it until air time.</desc>
-    <category>Comedy</category>
-    <category>Cult Comedies</category>
-  </programme>
   <programme channel="ClassicTVComedy.us@SD" start="20261003163048 +0000" stop="20261003170048 +0000">
     <title>The Dick Van Dyke Show</title>
     <sub-title>Empress Carlotta's Necklace</sub-title>
@@ -16690,6 +16705,13 @@ great 1860 painting cellphone debate.</desc>
     <desc>Chip mopes over being motherless.</desc>
     <category>Comedy</category>
     <category>Screwball</category>
+  </programme>
+  <programme channel="ClassicTVComedy.us@SD" start="20261004160048 +0000" stop="20261004163000 +0000">
+    <title>Classic TV Comedy</title>
+    <sub-title>Classic TV Comedy</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme start="20261003040000 +0000" stop="20261003060000 +0000" channel="CodeFashionTV.bg@SD">
     <title lang="bg">Fashion Catwalk</title>
@@ -17225,12 +17247,12 @@ great 1860 painting cellphone debate.</desc>
     <category>Comedy</category>
     <category>Fails &amp; Pranks</category>
   </programme>
-  <programme channel="ComedyCentralAnimation.us@SD" start="20261003155900 +0000" stop="20261003162400 +0000">
-    <title>Ugly Americans</title>
-    <sub-title>Mummy Dearest</sub-title>
-    <desc>Grimes' judgmental mother rises from the dead, and a neglected Randall reconsiders his living situation.</desc>
-    <category>Comedy</category>
-    <category>Late Night Comedies</category>
+  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261004162421 +0000" stop="20261004163000 +0000">
+    <title>Comedia a lo bestia de Pluto TV</title>
+    <sub-title>Comedia a lo bestia de Pluto TV</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="ComedyCentralAnimation.us@SD" start="20261003162400 +0000" stop="20261003164900 +0000">
     <title>Ugly Americans</title>
@@ -17749,6 +17771,13 @@ great 1860 painting cellphone debate.</desc>
     <desc>Beavis &amp; Butt-head join the late night talk show wars.</desc>
     <category>Comedy</category>
     <category>Cult Comedies</category>
+  </programme>
+  <programme channel="ComedyCentralAnimation.us@SD" start="20261004160400 +0000" stop="20261004163000 +0000">
+    <title>Comedy Central Animation</title>
+    <sub-title>Comedy Central Animation</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme start="20261003025000 +0000" stop="20261003031000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
     <title lang="es">Profesor caos</title>
@@ -18937,13 +18966,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">African-American Comedies</category>
     <icon src="https://images.pluto.tv/series/6aa0142faf45eb18dbf62fa9/tile_1788875824440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="ComedyCentralPlutoTV.us@US" start="20261003160000 +0000" stop="20261003163000 +0000">
-    <title>Nathan For You</title>
-    <sub-title>Mechanic/Realtor</sub-title>
-    <desc>Nathan convinces a mechanic to verify his estimates with a polygraph test, and rebrands a realtor to sell only ghost-free homes.</desc>
-    <category>Comedy</category>
-    <category>Sketch Comedies</category>
-  </programme>
   <programme channel="ComedyCentralPlutoTV.us@US" start="20261003163000 +0000" stop="20261003170000 +0000">
     <title>Nathan For You</title>
     <sub-title>Souvenir Shop/E.L.A.I.F.F.</sub-title>
@@ -19427,12 +19449,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Stand-Up</category>
   </programme>
-  <programme channel="ComedyCentralSouthPark.us@BR" start="20261003155700 +0000" stop="20261003162400 +0000">
-    <title>South Park</title>
-    <sub-title>Eca, um pênis!</sub-title>
-    <desc>Enquanto a Professora Garrison está fora, tentando encontrar uma forma de se tornar o homem que sempre pretendeu ser, Cartman assume o comando da turma.</desc>
-    <category>Comedy</category>
-    <category>Spoofs and Satire</category>
+  <programme channel="ComedyCentralRoast.se@DK" start="20261004162620 +0000" stop="20261004163000 +0000">
+    <title>Comedy Central Roast</title>
+    <sub-title>Comedy Central Roast</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="ComedyCentralSouthPark.us@BR" start="20261003162400 +0000" stop="20261003165100 +0000">
     <title>South Park</title>
@@ -19805,12 +19827,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Spoofs and Satire</category>
   </programme>
-  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261003161400 +0000" stop="20261003164100 +0000">
-    <title>South Park</title>
-    <sub-title>Tomate explosivo</sub-title>
-    <desc>Los adultos de South Park están enojados ya que el presidente está asustando a sus hijos. Los niños parten con el fin de desentrañar el gran misterio de Garrison al estilo It y Stranger Things.</desc>
-    <category>Comedy</category>
-    <category>Dark Humor &amp; Black Comedies</category>
+  <programme channel="ComedyCentralSouthPark.us@BR" start="20261004161500 +0000" stop="20261004163000 +0000">
+    <title>Comedy Central South Park</title>
+    <sub-title>Comedy Central South Park</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261003164100 +0000" stop="20261003170800 +0000">
     <title>South Park</title>
@@ -20162,12 +20184,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Dark Humor &amp; Black Comedies</category>
   </programme>
-  <programme channel="ComedyCentralenEspanol.us@SD" start="20261003160000 +0000" stop="20261003163000 +0000">
-    <title>Enchufe.TV: Enchufe.TV S4 E.05</title>
-    <sub-title>Enchufe.TV S4 E.05</sub-title>
-    <desc>El pajasutra. Primeras veces vs. Ahora. Vampiros clásicos Ven Crepúsculo.  Mundo al revés: Hombres y mujeres en el amor. Tío borracho cuenta cómo se hacen los bebés. Chichico se declara</desc>
-    <category>Comedy</category>
-    <category>Sketch Comedies</category>
+  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261004161100 +0000" stop="20261004163000 +0000">
+    <title>Comedy Central South Park</title>
+    <sub-title>Comedy Central South Park</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="ComedyCentralenEspanol.us@SD" start="20261003163000 +0000" stop="20261003170000 +0000">
     <title>Enchufe.TV: Enchufe.TV S4 E.07</title>
@@ -21628,6 +21650,13 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
+  <programme channel="DatingNakedUK.se@NO" start="20261004160049 +0000" stop="20261004163000 +0000">
+    <title>Dating Naked UK</title>
+    <sub-title>Dating Naked UK</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
+  </programme>
   <programme channel="DatingNakedUK.se@SE" start="20261003155301 +0000" stop="20261003164810 +0000">
     <title>Dating Naked UK</title>
     <sub-title>Äkta relationer</sub-title>
@@ -21809,6 +21838,13 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc>Det slår gnistor när svartsjuka och konkurrens ökar. Ett par tar nästa steg, medan det råder tveksamhet kring ett annat. Det blir en överraskning i dumpningen.</desc>
     <category>Reality</category>
     <category>Human Interest</category>
+  </programme>
+  <programme channel="DatingNakedUK.se@SE" start="20261004160148 +0000" stop="20261004163000 +0000">
+    <title>Dating Naked UK</title>
+    <sub-title>Dating Naked UK</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme start="20261003042300 +0000" stop="20261003055800 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Chile picante</title>
@@ -25569,13 +25605,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="es">El Viejo Oeste con Kevin Costner</title>
     <sub-title lang="es">Comanchería</sub-title>
   </programme>
-  <programme channel="LEGOKidsTV.us@SD" start="20261003160500 +0000" stop="20261003163200 +0000">
-    <title>LEGO Ninjago: Masters of Spinjitzu</title>
-    <sub-title>The Crooked Path</sub-title>
-    <desc>The Ninja now have all the items they need to get to the tomb of the First Spinjitzu Master but before they can figure out the last riddle that leads to the location of the tomb.</desc>
-    <category>Children &amp; Family</category>
-    <category>Family Animation</category>
-  </programme>
   <programme channel="LEGOKidsTV.us@SD" start="20261003163200 +0000" stop="20261003165900 +0000">
     <title>LEGO Ninjago: Masters of Spinjitzu</title>
     <sub-title>Grave Danger</sub-title>
@@ -25939,6 +25968,13 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc>The Avengers are forced to "party" with Ultron when he seeks to disassemble the team by taking control of Iron Man's armor and enacting a nefarious scheme to take over the world.</desc>
     <category>Children &amp; Family</category>
     <category>Family Animation</category>
+  </programme>
+  <programme channel="LEGOKidsTV.us@SD" start="20261004160300 +0000" stop="20261004163000 +0000">
+    <title>LEGO Kids TV</title>
+    <sub-title>LEGO Kids TV</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme start="20261003054000 +0000" stop="20261003071000 +0000" channel="LifetimeLatinAmerica.us@Brazil">
     <title lang="pt">Britney para Sempre</title>
@@ -27935,13 +27971,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="pt">Anime Series</category>
     <icon src="https://images.pluto.tv/series/5f89ec9e7ecf48001a34156c/tile_1778519162660.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="ParadiseHotel.se@DK" start="20261003154526 +0000" stop="20261003163001 +0000">
-    <title>Paradise Hotel - Sæson 22</title>
-    <sub-title>Episode 2234</sub-title>
-    <desc>En fyr får en grim overraskelse, da hotellets mest uønskede par skal findes. En skæbnesvanger beslutning truer med at splitte en af de stærkeste alliancer.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
-  </programme>
   <programme channel="ParadiseHotel.se@DK" start="20261003163001 +0000" stop="20261003171242 +0000">
     <title>Paradise Hotel - Sæson 22</title>
     <sub-title>Episode 2235</sub-title>
@@ -28168,12 +28197,12 @@ fasttømrede par.</desc>
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="ParadiseHotel.se@NO" start="20261003153704 +0000" stop="20261003162152 +0000">
-    <title>Paradise Hotel: Episode 1611</title>
-    <sub-title>Episode 1611</sub-title>
-    <desc>Mens Johannes er opptatt med å kysse med flest mulige jenter, er Dina på jobb for å sikre husholdet makten. Det sås tvil om partnerskapet deres, og det hele ender i en kjempekrangel.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
+  <programme channel="ParadiseHotel.se@DK" start="20261004160846 +0000" stop="20261004163000 +0000">
+    <title>Paradise Hotel</title>
+    <sub-title>Paradise Hotel</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="ParadiseHotel.se@NO" start="20261003162152 +0000" stop="20261003170852 +0000">
     <title>Paradise Hotel: Episode 1612</title>
@@ -28389,13 +28418,6 @@ fasttømrede par.</desc>
     <title>Paradise Hotel Norge - Sesong 17</title>
     <sub-title>Episode 1715</sub-title>
     <desc>Et viktig valg skal tas og gruppepresset på hotellet har aldri vært større. Det blir temperatur på kveldens parseremoni når sannheter kommer fram i lyset.</desc>
-    <category>Reality</category>
-    <category>Competition Reality</category>
-  </programme>
-  <programme channel="ParadiseHotel.se@SE" start="20261003154511 +0000" stop="20261003162138 +0000">
-    <title>Paradise Hotel, säsong 17</title>
-    <sub-title>Avsnitt 1727</sub-title>
-    <desc>Gästerna ska ut och backpacka, men kommer paren kunna enas om hur reskassan ska spenderas? En strandförsäljare gör entré, redo att göra ett av paren panka.</desc>
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
@@ -28643,6 +28665,13 @@ fasttømrede par.</desc>
     <desc>Stefan berättar om sin tuffa tid inne på hotellet och Tone avslöjar om hon fortfarande har blockat Clara.</desc>
     <category>Reality</category>
     <category>Human Interest</category>
+  </programme>
+  <programme channel="ParadiseHotel.se@SE" start="20261004160030 +0000" stop="20261004163000 +0000">
+    <title>Paradise Hotel</title>
+    <sub-title>Paradise Hotel</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="ParadiseHotelUnderlagnerne.se@DK" start="20261003160354 +0000" stop="20261003164914 +0000">
     <title>Paradise Hotel - Sæson 21: Episode 2114</title>
@@ -31153,13 +31182,6 @@ fasttømrede par.</desc>
     <category lang="es">Cult Comedies</category>
     <icon src="https://images.pluto.tv/series/69133a586e0067f40d796ac1/tile_1762867802437.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="PlutoTVCineRomantico.de@ES" start="20261003142938 +0000" stop="20261003162643 +0000">
-    <title>Algo Prestado</title>
-    <sub-title>Algo Prestado</sub-title>
-    <desc>Las amistades se ponen a prueba y los secretos salen a la luz cuando Rachel, soltera recalcitrante, se enamora de Dex, el prometido de su mejor amiga Darcy.</desc>
-    <category>Romance</category>
-    <category>Romance Classics</category>
-  </programme>
   <programme channel="PlutoTVCineRomantico.de@ES" start="20261003162643 +0000" stop="20261003181343 +0000">
     <title>El amor no es lo que era</title>
     <sub-title>El amor no es lo que era</sub-title>
@@ -31447,13 +31469,6 @@ fasttømrede par.</desc>
     <category>Drama</category>
     <category>Romantic Drama</category>
   </programme>
-  <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261003153740 +0000" stop="20261003163140 +0000">
-    <title>José Mota Presenta: Jose Mota Presenta ES</title>
-    <sub-title>Jose Mota Presenta ES</sub-title>
-    <desc>Hoy veremos a JacintusXL enfrentarse a nuevos retos, a Tony Folledo en su viaje a Francia, a 'El hombre de la RAE' en su misión de salvar el lenguaje y a 'La pareja' viendo el programa.</desc>
-    <category>Comedy</category>
-    <category>African-American Comedies</category>
-  </programme>
   <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261003163140 +0000" stop="20261003172640 +0000">
     <title>José Mota Presenta: Jose Mota Presenta ES</title>
     <sub-title>Jose Mota Presenta ES</sub-title>
@@ -31642,6 +31657,13 @@ fasttømrede par.</desc>
     <desc>Excesos y defectos, con el humor de José Mota.</desc>
     <category>Comedy</category>
     <category>African-American Comedies</category>
+  </programme>
+  <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261004162940 +0000" stop="20261004163000 +0000">
+    <title>Pluto TV Comedia made in Spain</title>
+    <sub-title>Pluto TV Comedia made in Spain</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="PlutoTVComediasRomanticas.de@ES" start="20261003155427 +0000" stop="20261003172751 +0000">
     <title>Encuentra el amor en Valentine</title>
@@ -32492,13 +32514,6 @@ fasttømrede par.</desc>
     <category lang="es">Family Comedies</category>
     <icon src="https://images.pluto.tv/series/5f3587e0bbff270013bb0a63/tile_1769624281505.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="PlutoTVKidsClassics.de@ES" start="20261003155000 +0000" stop="20261003162000 +0000">
-    <title>Pluto TV Kids Classics</title>
-    <sub-title>Pluto TV Kids Classics</sub-title>
-    <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-    <category>Children &amp; Family</category>
-    <category>Cartoons</category>
-  </programme>
   <programme channel="PlutoTVKidsClassics.de@ES" start="20261003162000 +0000" stop="20261003165000 +0000">
     <title>Pluto TV Kids Classics</title>
     <sub-title>Pluto TV Kids Classics</sub-title>
@@ -32834,6 +32849,13 @@ fasttømrede par.</desc>
     <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
     <category>Children &amp; Family</category>
     <category>Cartoons</category>
+  </programme>
+  <programme channel="PlutoTVKidsClassics.de@ES" start="20261004162000 +0000" stop="20261004163000 +0000">
+    <title>Pluto TV Kids Classics</title>
+    <sub-title>Pluto TV Kids Classics</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="PlutoTVKidsClassics.de@FR" start="20261003134721 +0000" stop="20261003141721 +0000">
     <title lang="fr">Pluto TV Kids Classics</title>
@@ -33987,13 +34009,6 @@ fasttømrede par.</desc>
     <category lang="fr">Anime Sci-Fi</category>
     <icon src="https://images.pluto.tv/series/633c0354d6ee50001372852d/tile_1768196883542.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="PlutoTVSciFi.de@ES" start="20261003144857 +0000" stop="20261003162957 +0000">
-    <title>Oceans Rising</title>
-    <sub-title>Oceans Rising</sub-title>
-    <desc>Un científico construye un arca enorme después de que se ignoran sus advertencias de una inundación que destruirá la Tierra.</desc>
-    <category>Sci-Fi &amp; Fantasy</category>
-    <category>Action Sci-Fi &amp; Fantasy</category>
-  </programme>
   <programme channel="PlutoTVSciFi.de@ES" start="20261003162957 +0000" stop="20261003181257 +0000">
     <title>Crossworlds: entre dos mundos</title>
     <sub-title>Crossworlds: entre dos mundos</sub-title>
@@ -34084,6 +34099,13 @@ fasttømrede par.</desc>
     <desc>Una tormenta tropical inunda el parque de caravanas de Soggy Meadows y aparece un tiburón hambriento río arriba.</desc>
     <category>Sci-Fi &amp; Fantasy</category>
     <category>Action Sci-Fi &amp; Fantasy</category>
+  </programme>
+  <programme channel="PlutoTVSciFi.de@ES" start="20261004160932 +0000" stop="20261004163000 +0000">
+    <title>Pluto TV Sci-Fi</title>
+    <sub-title>Pluto TV Sci-Fi</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="PlutoTVSciFi.us@LatAm" start="20261003124300 +0000" stop="20261003142800 +0000">
     <title lang="es">Mega Shark vs Crocosaurus</title>
@@ -35309,13 +35331,6 @@ fasttømrede par.</desc>
     <category lang="en">Dramedy</category>
     <icon src="https://images.pluto.tv/series/64a2d190fdd8620013ec4b5e/tile_1769549042797.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="PlutoTVSeriesSciFi.de@ES" start="20261003154656 +0000" stop="20261003163656 +0000">
-    <title>The Dresden Files: Las reglas del compromiso</title>
-    <sub-title>Las reglas del compromiso</sub-title>
-    <desc>Harry descubre una desagradable alianza cuando trata de proteger a su clienta de un demonio.</desc>
-    <category>Sci-Fi &amp; Fantasy</category>
-    <category>Supernatural Sci-Fi</category>
-  </programme>
   <programme channel="PlutoTVSeriesSciFi.de@ES" start="20261003163656 +0000" stop="20261003172556 +0000">
     <title>The Dresden Files: Mala sangre</title>
     <sub-title>Mala sangre</sub-title>
@@ -35827,6 +35842,13 @@ fasttømrede par.</desc>
     <desc>Stella queda atrapada en el fuego cruzado cuando un informante es retirado de la protección de testigos contra su voluntad.</desc>
     <category>Thriller</category>
     <category>Thriller</category>
+  </programme>
+  <programme channel="PlutoTVSeriescriminales.de@ES" start="20261004161307 +0000" stop="20261004163000 +0000">
+    <title>Pluto TV Series criminales</title>
+    <sub-title>Pluto TV Series criminales</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="PlutoTVSeriesdeAccion.us@LatAm" start="20261003133200 +0000" stop="20261003143200 +0000">
     <title lang="es">Berlin Station</title>
@@ -40627,6 +40649,357 @@ fasttømrede par.</desc>
   <programme start="20261003193500 -0500" stop="20261003214000 -0500" channel="TVEInternacionalAmerica.es@SD">
     <title lang="es">Versión española</title>
   </programme>
+  <programme start="20261002225500 +0000" stop="20261002230000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">La suerte en tus manos</title>
+    <sub-title lang="es">La Suerte En Tus Manos</sub-title>
+    <desc lang="es">Programa dedicado a las actividades de SELAE</desc>
+    <category lang="es">Otros/Otros</category>
+    <episode-num system="xmltv_ns">0.373.0/1</episode-num>
+    <episode-num system="onscreen">S01E374</episode-num>
+    <image>https://programacion-tv.elpais.com/</image>
+  </programme>
+  <programme start="20261002230000 +0000" stop="20261002233000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Diario de un nómada</title>
+    <sub-title lang="es">Boris de Andorra y los españoles de Beziers</sub-title>
+    <desc lang="es">Miquel Silvestre comienza la aventura en Formigal, en los Pirineos, para encontrarse con sus seguidores y dar una conferencia. De allí viaja a Andorra para conocer la historia de Boris I, autoproclamado rey del principado. Luego entrará en Francia para brindar en Beziers por los españoles que emigraron.</desc>
+    <credits>
+      <director>Miguel Silvestre</director>
+      <presenter>Miguel Silvestre</presenter>
+    </credits>
+    <category lang="es">Documental/Viajes</category>
+    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/563752.jpg</image>
+  </programme>
+  <programme start="20261002233000 +0000" stop="20261002234500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Zoom Tendencias</title>
+    <sub-title lang="es">Zoom Tendencias</sub-title>
+    <desc lang="es">Realizacion: Jose Javier Matin Salazar, Marcos Vizcay produccion: Andres Garcia De La Cale -- Zoom Tendencias visita Aranda de Duero y además daremos un paseo por el barrio de Las Cortes en Madrid.</desc>
+    <credits>
+      <director>Mercedes Cámara</director>
+      <producer>Andrés García de la Calera</producer>
+    </credits>
+    <category lang="es">Informativo/Reportajes</category>
+    <episode-num system="xmltv_ns">0.114.0/1</episode-num>
+    <episode-num system="onscreen">S01E115</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/8280.jpg</image>
+  </programme>
+  <programme start="20261002234500 +0000" stop="20261003003000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Valle salvaje</title>
+    <sub-title lang="es">Episodio 18</sub-title>
+    <desc lang="es">La Temporada 4 de Valle Salvaje se centra en la nueva vida de Rafael como padre viudo y en los intentos de José Luis por recuperar su ducado.</desc>
+    <credits>
+      <director>Mikel Rada</director>
+      <actor>José Manuel Seda</actor>
+      <actor>Sabela Arán</actor>
+      <actor>Marco Pernas</actor>
+      <actor>Iván Renedo</actor>
+      <actor>Mari Paz Sayago</actor>
+    </credits>
+    <category lang="es">Serie/Drama</category>
+    <episode-num system="xmltv_ns">3.17.0/1</episode-num>
+    <episode-num system="onscreen">S04E18</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/20047777.jpg</image>
+  </programme>
+  <programme start="20261003003000 +0000" stop="20261003013000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">La promesa</title>
+    <sub-title lang="es">Episodio 925</sub-title>
+    <desc lang="es">En el Palacio de La Promesa, los días de esplendor esconden una red de ambiciones, secretos y rivalidades. La familia Luján enfrenta conflictos internos mientras el poder, el amor y la traición se entrelazan en cada rincón del palacio.l hijo de los marqueses de Luján... y la última persona de la que esperaría enamorarse.</desc>
+    <credits>
+      <director>Miguel Conde</director>
+      <director>Javier Pulido</director>
+      <director>Eva Bermúdez</director>
+      <director>Alberto Pernet</director>
+      <actor>Ana Garcés</actor>
+      <actor>Eva Martín Hernando</actor>
+      <actor>Arturo Sancho</actor>
+      <actor>Joaquín Climent</actor>
+      <actor>María Castro</actor>
+      <actor>Antonio Velázquez</actor>
+      <actor>Andrea del Río</actor>
+      <actor>Manuel Regueiro</actor>
+      <actor>Carmen Asecas</actor>
+      <actor>Alicia Bercán</actor>
+      <actor>Paula Losada</actor>
+      <actor>Carmen Flores</actor>
+      <actor>Teresa Quintero</actor>
+      <actor>Sara Molina</actor>
+      <actor>Enrique Fortún</actor>
+      <writer>Susana Prieto</writer>
+      <writer>Ruth García</writer>
+      <writer>Carmen Llano</writer>
+      <producer>Ramón Campos</producer>
+      <producer>Teresa Fernández-Valdés</producer>
+      <producer>Alberto Báez</producer>
+      <composer>Álex Conrado</composer>
+    </credits>
+    <category lang="es">Serie/Drama</category>
+    <episode-num system="xmltv_ns">0.924.0/1</episode-num>
+    <episode-num system="onscreen">S01E925</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/18558523.jpg</image>
+  </programme>
+  <programme start="20261003013000 +0000" stop="20261003022000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Sukha</title>
+    <sub-title lang="es">Sukha</sub-title>
+    <desc lang="es">Programa cultural y divulgativo SUKHA</desc>
+    <category lang="es">Otros/Otros</category>
+    <episode-num system="xmltv_ns">0.116.0/1</episode-num>
+    <episode-num system="onscreen">S01E117</episode-num>
+    <image>https://programacion-tv.elpais.com/</image>
+  </programme>
+  <programme start="20261003022000 +0000" stop="20261003025500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Turismo rural en el mundo</title>
+    <sub-title lang="es">Extremadura: el legado de la madre tierra</sub-title>
+    <desc lang="es">Serie documental que explora diversos destinos internacionales para descubrir la historia, la gastronomía y las ofertas de ocio en sus entornos rurales.</desc>
+    <credits>
+      <director>Juan Frutos</director>
+    </credits>
+    <category lang="es">Documental/Viajes</category>
+    <episode-num system="xmltv_ns">1.29.0/1</episode-num>
+    <episode-num system="onscreen">S02E30</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/19640870.jpg</image>
+  </programme>
+  <programme start="20261003025500 +0000" stop="20261003034000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Saber y ganar fin de semana</title>
+    <sub-title lang="es">461</sub-title>
+    <desc lang="es">Programa concurso en el que seis participantes demuestran sus conocimientos y su agilidad mental. Concursantes: CARMEN BARBA, JOSÉ MIGUEL GRANDAL, ELENA VALVERDE, DIEGO MONTEAGUDO, MANUEL PÉREZ, JAVIER AYA.</desc>
+    <category lang="es">Otros/Otros</category>
+    <episode-num system="xmltv_ns">0.460.0/1</episode-num>
+    <episode-num system="onscreen">S01E461</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/8280.jpg</image>
+  </programme>
+  <programme start="20261003034000 +0000" stop="20261003043000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Saber y ganar fin de semana</title>
+    <sub-title lang="es">553</sub-title>
+    <desc lang="es">Programa concurso en el que seis participantes demuestran sus conocimientos y su agilidad mental. Concursantes: ORESTES BARBERO, SUSANA GARCÍA, NACHO MANGUT, JAIRO FERNÁNDEZ, MAITE VERGARA, BIEL COPONS.</desc>
+    <category lang="es">Otros/Otros</category>
+    <episode-num system="xmltv_ns">0.552.0/1</episode-num>
+    <episode-num system="onscreen">S01E553</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/8280.jpg</image>
+  </programme>
+  <programme start="20261003043000 +0000" stop="20261003050000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional.</desc>
+    <credits>
+      <presenter>Beatriz Pérez</presenter>
+      <presenter>Moisés Rodríguez</presenter>
+      <presenter>Mercedes Martel</presenter>
+      <presenter>Marta Ventura</presenter>
+    </credits>
+    <category lang="es">Informativo/Informativo</category>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/461243.jpg</image>
+  </programme>
+  <programme start="20261003050000 +0000" stop="20261003081000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Masterchef celebrity legends</title>
+    <sub-title lang="es">Masterchef Celebrity T11</sub-title>
+    <desc lang="es">Es un talent show para encontrar al mejor cocinero celebrity amateur de España</desc>
+    <category lang="es">Otros/Otros</category>
+    <episode-num system="xmltv_ns">0.76.0/1</episode-num>
+    <episode-num system="onscreen">S01E77</episode-num>
+    <image>https://programacion-tv.elpais.com/</image>
+  </programme>
+  <programme start="20261003081000 +0000" stop="20261003090612 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Los pilares del tiempo</title>
+    <sub-title lang="es">Santo Cáliz: El Rastro De La Reliquia</sub-title>
+    <desc lang="es">Seguiremos el rastro del Santo Cáliz por monumentos emblemáticos de Aragón hasta la Catedral de Valencia, donde se conserva hoy día. Nuestro escáner de tecnología LIDAR mostrará lugares sagrados como la Catedral de Jaca o el Palacio de la Aljafería que cobijaron este tesoro de la cristiandad.</desc>
+    <category lang="es">Serie/Documental</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/17997509.jpg</image>
+  </programme>
+  <programme start="20261003090612 +0000" stop="20261003101000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Los pilares del tiempo</title>
+    <sub-title lang="es">Gótico: y se hizo la luz</sub-title>
+    <desc lang="es">Con ayuda del escáner de tecnología LIDAR, descubriremos el valor de la luz en la arquitectura y su historia y veremos algunas de las maravillas de nuestro gótico como la catedral de Santa María de Regla en León o la basílica de Santa María del mar en Barcelona.</desc>
+    <category lang="es">Serie/Documental</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/17997509.jpg</image>
+  </programme>
+  <programme start="20261003101000 +0000" stop="20261003110000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">La Vuelta Al Mundo En 80 Likes</title>
+    <sub-title lang="es">Budapest</sub-title>
+    <desc lang="es">El programa viaja a Budapest de la mano de la periodista Eva Rojas y el influencer Carlo Cuñado para descubrir los rincones más virales de la ciudad: los baños Széchenyi, un recorrido en paddle surf por el Danubio, los ruin pubs o una danza folklórica e</desc>
+    <credits>
+      <presenter>Eva Rojas</presenter>
+      <presenter>Carlo Cuñado</presenter>
+    </credits>
+    <category lang="es">Documental/Viajes</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/20842628.jpg</image>
+  </programme>
+  <programme start="20261003110000 +0000" stop="20261003125500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">El perro andaluz by manu sanchez</title>
+    <sub-title lang="es">El Perro Andaluz By Manu Sánchez</sub-title>
+    <desc lang="es">Manu Sánchez se pone al frente de El perro andaluz, un gran formato donde se mezclan humor, conversación, música y actualidad</desc>
+    <category lang="es">Otros/Otros</category>
+    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/8280.jpg</image>
+  </programme>
+  <programme start="20261003125500 +0000" stop="20261003134500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Primera edición del Telediario de TVE, uno de los informativos más antiguos de la televisión, para desgranar la actualidad nacional e internacional, con la colaboración de los corresponsales en el extranjero, los centros territoriales de las diferentes Comunidades Autónomas y el apoyo del resto de programas de producción propia de TVE.</desc>
+    <category lang="es">Informativo/Informativo</category>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/18464375.jpg</image>
+  </programme>
+  <programme start="20261003134500 +0000" stop="20261003135000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Resumen diario con las noticias más relevantes del deporte, tanto a nivel nacional como internacional.</desc>
+    <credits>
+      <presenter>Beatriz Pérez</presenter>
+      <presenter>Moisés Rodríguez</presenter>
+      <presenter>Mercedes Martel</presenter>
+      <presenter>Marta Ventura</presenter>
+    </credits>
+    <category lang="es">Informativo/Deportes</category>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/20303166.jpg</image>
+  </programme>
+  <programme start="20261003135000 +0000" stop="20261003135500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">La suerte en tus manos</title>
+    <sub-title lang="es">La Suerte En Tus Manos</sub-title>
+    <desc lang="es">Programa dedicado a las actividades de SELAE</desc>
+    <category lang="es">Otros/Otros</category>
+    <episode-num system="xmltv_ns">0.374.0/1</episode-num>
+    <episode-num system="onscreen">S01E375</episode-num>
+    <image>https://programacion-tv.elpais.com/</image>
+  </programme>
+  <programme start="20261003135500 +0000" stop="20261003151500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Al cielo con ella (nueva temporada)</title>
+    <sub-title lang="es">Al Cielo Con Ella</sub-title>
+    <desc lang="es">Latenight de actualidad, humor y cultura, conducido por Henar Álvarez, con una mesa diversa de colaboradores e invitados. Un espacio que combina entretenimiento, entrevistas y conversación social desde una perspectiva fresca e inteligente.</desc>
+    <category lang="es">Otros/Otros</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/8280.jpg</image>
+  </programme>
+  <programme start="20261003151500 +0000" stop="20261003163500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Al cielo con ella</title>
+    <sub-title lang="es">Al Cielo Con: Ana Torroja Y Lola Lolita</sub-title>
+    <desc lang="es">Henar Álvarez cierra la temporada repasando los mensajes positivos recibidos y la importancia de que exista 'Al cielo con ella'. Como invitadas, Ana Torroja, icono de la música de nuestro país, y la influencer Lola Lolita. Además, Lamine Thior nos muestra sus dotes de pole dance.</desc>
+    <category lang="es">Entretenimiento/Humor</category>
+    <episode-num system="xmltv_ns">1.11.0/1</episode-num>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/20384287.jpg</image>
+  </programme>
+  <programme start="20261003163500 +0000" stop="20261003174000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Viaje al centro de la tele</title>
+    <desc lang="es">Programa que recopila algunas de las mejores imágenes que Televisión Española ha mostrado en las últimas décadas. Cada uno de los nueve capítulos trata una temática diferente, para descubrir el antes y el después de las caras más conocidas o la primera vez que se pusieron ante una cámara: la canción del verano, el fenómeno de los concursos, las anécdotas gastronómicas, el mundo del espectáculo y las modas serán otros asuntos que se abordarán con un punto de humor y en el que los televidentes podrán verse reflejados.</desc>
+    <credits>
+      <director>Miguel Angel Esteve</director>
+      <director>Eric Brevig</director>
+      <actor>Brendan Fraser</actor>
+      <actor>Josh Hutcherson</actor>
+      <actor>Anita Briem</actor>
+    </credits>
+    <category lang="es">Entretenimiento/Zapping</category>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/449275.jpg</image>
+  </programme>
+  <programme start="20261003174000 +0000" stop="20261003190000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Cosas nuestras (estreno)</title>
+    <sub-title lang="es">Cosas Nuestras</sub-title>
+    <desc lang="es">Programa de entretenimiento para los fines de semana</desc>
+    <category lang="es">Otros/Otros</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/8280.jpg</image>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261003193000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional.</desc>
+    <credits>
+      <presenter>Beatriz Pérez</presenter>
+      <presenter>Moisés Rodríguez</presenter>
+      <presenter>Mercedes Martel</presenter>
+      <presenter>Marta Ventura</presenter>
+    </credits>
+    <category lang="es">Informativo/Informativo</category>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/461243.jpg</image>
+  </programme>
+  <programme start="20261003193000 +0000" stop="20261003194500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Shalom</title>
+    <desc lang="es">Programa religioso presentado por David Gozlan que intenta reflejar el pensamiento e identidad judíos. El objetivo es acercar el televidente a la vida y Fiestas Judías, contribuyendo a una mayor difusión de esta cultura.</desc>
+    <credits>
+      <director>Coty Aserín</director>
+      <producer>Jesús Flor Gallego</producer>
+      <presenter>David Gozlan</presenter>
+    </credits>
+    <category lang="es">Otros/Religioso</category>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/476057.jpg</image>
+  </programme>
+  <programme start="20261003194500 +0000" stop="20261003200000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Medina en TVE</title>
+    <desc lang="es">Programa de culto islámico.</desc>
+    <credits>
+      <director>Bouziane Ahmed Khodja</director>
+    </credits>
+    <category lang="es">Otros/Religioso</category>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/1673335.jpg</image>
+  </programme>
+  <programme start="20261003200000 +0000" stop="20261003201500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Buenas noticias TV</title>
+    <desc lang="es">Presentado por Beni Moreno. Buenas Noticias TV pretende mostrar la relevancia de Jesús de Nazaret hoy, aportando un rayo de esperanza, ayudando a la audiencia a dar, cada día, un paso más cerca de Dios.</desc>
+    <credits>
+      <director>José Pablo Sánchez</director>
+      <producer>Jesús Flor Gallego</producer>
+      <presenter>Beni Moreno</presenter>
+    </credits>
+    <category lang="es">Otros/Religioso</category>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/470334.jpg</image>
+  </programme>
+  <programme start="20261003201500 +0000" stop="20261003204000 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Últimas preguntas</title>
+    <desc lang="es">Programa que trata de responder a las grandes cuestiones que todas las personas nos planteamos, desde la perspectiva del humanismo cristiano, pero siempre en diálogo con los fieles de otras religiones. Con todos ellos, aún no compartiendo una creencia religiosa, las respuestas a estas preguntas buscan la renovación de la humanidad.</desc>
+    <credits>
+      <director>María Ángeles Fernández Muñoz</director>
+      <producer>Jesús Flor Gallego</producer>
+      <presenter>María Ángeles Fernández Muñoz</presenter>
+    </credits>
+    <category lang="es">Otros/Religioso</category>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/477722.jpg</image>
+  </programme>
+  <programme start="20261003204000 +0000" stop="20261003204500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Testimonio</title>
+    <desc lang="es">Miniespacio religioso en el que una persona da testimonio público de su fe católica.</desc>
+    <credits>
+      <director>Isidro Catela</director>
+      <producer>Jesús Flor Gallego</producer>
+    </credits>
+    <category lang="es">Otros/Religioso</category>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/476384.jpg</image>
+  </programme>
+  <programme start="20261003204500 +0000" stop="20261003211500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Pueblo de Dios</title>
+    <desc lang="es">Programa de reportajes de contenido social y solidario que nos enseña la cantidad de causas con las que la iglesia católica está comprometida: pobreza, enfermedad, juventud, grandes catástrofes, cultura o arte, entre otras muchas.</desc>
+    <credits>
+      <director>Antonio Montero</director>
+    </credits>
+    <category lang="es">Informativo/Reportajes</category>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/475267.jpg</image>
+  </programme>
+  <programme start="20261003211500 +0000" stop="20261003214500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Guardianes del Patrimonio</title>
+    <sub-title lang="es">Operación Chavín</sub-title>
+    <desc lang="es">Sus actividades delictivas pasaron desapercibidas en el pequeño pueblo riojano de Jubera, pero no para la Policía Nacional. En 2008 detenían a una pareja acusada de traficar con obras de arte precolombinas traídas de Sudamérica.</desc>
+    <credits>
+      <director>Ismael Gutiérrez</director>
+      <writer>Javier Barón</writer>
+    </credits>
+    <category lang="es">Documental/Historia</category>
+    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/2599743.jpg</image>
+  </programme>
+  <programme start="20261003214500 +0000" stop="20261003221500 +0000" channel="TVEInternacionalAsiaOceania.es@HD">
+    <title lang="es">Atleta gourmet (ultimo capítulo)</title>
+    <sub-title lang="es">Menorca</sub-title>
+    <desc lang="es">Menorca,una isla diferente con un marcado carácter gastronómico y unos parajes naturales de belleza incomparable.</desc>
+    <category lang="es">Otros/Otros</category>
+    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <image>https://programacion-tv.elpais.com/imagenes/programas/8280.jpg</image>
+  </programme>
   <programme start="20261002225500 +0000" stop="20261002230000 +0000" channel="TVEInternacionalAsiaOceania.es@SD">
     <title lang="es">La suerte en tus manos</title>
     <sub-title lang="es">La Suerte En Tus Manos</sub-title>
@@ -40977,6 +41350,125 @@ fasttømrede par.</desc>
     <episode-num system="xmltv_ns">0.12.0/1</episode-num>
     <episode-num system="onscreen">S01E13</episode-num>
     <image>https://programacion-tv.elpais.com/imagenes/programas/8280.jpg</image>
+  </programme>
+  <programme start="20261003143500 +0000" stop="20261003152800 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">De tapas por España</title>
+    <desc lang="es">Un viaje donde se marida la historia, el arte y la gastronomía. Un recorrido de norte a sur y de este a oeste para disfrutar de las tapas típicas de cada lugar, con pequeños bocados y grandes platos que demuestran el gran legado gastronómico.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p33121105eh10aa_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261003152800 +0000" stop="20261003160500 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">De tapas por España</title>
+    <desc lang="es">Salamanca es la ciudad dorada que tiene a la Universidad como motor desde hace cientos de años. Una urbe que sorprende por sus tesoros en piedra y papel, pero también por sus sabores charros.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p27704136eh10aa_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261003160500 +0000" stop="20261003170000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Sukha</title>
+    <desc lang="es">Espacio diario para el conocimiento, la cultura y el bienestar con una mirada entretenida, con humor, nuevos formatos, conexiones en directo, tertulias y arte en vivo. Un lugar de encuentro para personas con curiosidad.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p32432320ih10aa_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261003170000 +0000" stop="20261003183000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Cosas nuestras</title>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p34206912ih10aa_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261003183000 +0000" stop="20261003190000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">España sin asfalto</title>
+    <desc lang="es">Miriam recorre la Sierra de Grazalema y algunos de sus pueblos blancos.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p32269315eh11aa_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261003190000 +0000" stop="20261003193000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p453819ih10ab_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261003193000 +0000" stop="20261003211000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">70 Binladens</title>
+    <desc lang="es">Raquel necesita conseguir en 24 horas 35.000 euros. Su última esperanza es un préstamo bancario. Sin embargo, cuando está a punto de cerrar la transacción, dos atracadores irrumpen en el banco.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p16673390bdh8aa_Backdrop_w1920.webp</image>
+  </programme>
+  <programme start="20261003211000 +0000" stop="20261003221000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Días de cine</title>
+    <desc lang="es">Un espacio dedicado a la crítica cinematográfica desde un punto de vista sencillo, ameno y divertido, que invierta, además, al espectador a acercarse a las salas de cine.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p367338bdh10ab_Backdrop_w1920.webp</image>
+  </programme>
+  <programme start="20261003221000 +0000" stop="20261003224000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Atención Obras</title>
+    <desc lang="es">El magacín semanal donde entrevistamos en plató a los principales protagonistas de la escena cultural. Un programa con reportajes de música, teatro, danza, arte, fotografía, agenda y planes culturales.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p9824571bdh8aa_Backdrop_w1920.webp</image>
+  </programme>
+  <programme start="20261003224000 +0000" stop="20261003233500 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Tendido cero</title>
+    <desc lang="es">Programa de referencia de la información taurina en todo el mundo. La actualidad, el campo bravo, otras caras de la Fiesta de los toros, la opinión y la información son sus soportes semanales enfocados para atraer a La Tauromaquia.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p501565ih10ab_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261003233500 +0000" stop="20261004000500 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p453819ih10ab_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261004000500 +0000" stop="20261004001500 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p453819ih10ab_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261004001500 +0000" stop="20261004040000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p453819ih10ab_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261004040000 +0000" stop="20261004050000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p453819ih10ab_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261004050000 +0000" stop="20261004080000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p453819ih10ab_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261004080000 +0000" stop="20261004083000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Audiencia Abierta</title>
+    <desc lang="es">Programa que da a conocer las competencias, el funcionamiento y la acción cotidiana del Jefe del Estado, el Rey Felipe VI, en España.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p9525259ih10ac_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004110500 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p453819ih10ab_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261004110500 +0000" stop="20261004125500 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">D corazón</title>
+    <desc lang="es">Magazine en directo, en donde hacemos un repaso a toda la actualidad social de nuestro país.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p26523743ih10aa_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261004125500 +0000" stop="20261004134000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Espacio informativo que presenta las noticias más relevantes en los ámbitos nacional, internacional, social, deportivo y meteorológico. La primera edición repasa la actualidad de la jornada de lunes a viernes aportando análisis y contexto.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p8085562ih10ad_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261004134000 +0000" stop="20261004134500 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Programa informativo que recoge toda la actualidad deportiva del momento.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p29356949ih10aa_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261004134500 +0000" stop="20261004135000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">La suerte en tus manos</title>
+    <desc lang="es">Se hace un análisis de los juegos de loterías y apuestas del Estado, y se retransmite el sorteo de Bonoloto y de Euromillones del viernes.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p11215712ih10ac_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261004135000 +0000" stop="20261004143500 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">Saber y ganar - Fin de semana</title>
+    <desc lang="es">Concursos que pone a prueba los conocimientos y agilidad mental de los concursantes a través de un auténtico bombardeo de preguntas de ámbito general.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p10028892ih10ab_Iconic_w1920.webp</image>
+  </programme>
+  <programme start="20261004143500 +0000" stop="20261004152000 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">La vuelta al mundo en 80 likes</title>
+    <desc lang="es">Eva Rojas y Carlo Cuñado recorren diferentes ciudades de todo el mundo para descubrir los rincones más virales mientras comparten sus selfies en redes con el hashtag #LVM80Likes.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p32150047bdh10aa_Backdrop_w1920.webp</image>
+  </programme>
+  <programme start="20261004152000 +0000" stop="20261004160500 +0000" channel="TVEInternacionalEurope.es@HD">
+    <title lang="es">La vuelta al mundo en 80 likes</title>
+    <desc lang="es">Nápoles es el nuevo destino del programa, donde la periodista Eva Rojas y el creador de contenido Carlo Cuñado descubren los rincones más virales de la ciudad italiana.</desc>
+    <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p32362753eh10aa_Iconic_w1920.webp</image>
   </programme>
   <programme start="20261003143500 +0000" stop="20261003152800 +0000" channel="TVEInternacionalEurope.es@SD">
     <title lang="es">De tapas por España</title>
@@ -42852,13 +43344,6 @@ fasttømrede par.</desc>
       <value>no rating</value>
     </rating>
   </programme>
-  <programme channel="TopGear.uk@SD" start="20261003153621 +0000" stop="20261003163822 +0000">
-    <title>Top Gear UK</title>
-    <sub-title>Episode 9</sub-title>
-    <desc>The boys head to the Isle of Harris to road-test some Cabriolets. Contains Strong Language.</desc>
-    <category>Entertainment</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="TopGear.uk@SD" start="20261003163822 +0000" stop="20261003173741 +0000">
     <title>Top Gear UK</title>
     <sub-title>Episode 10</sub-title>
@@ -43005,6 +43490,13 @@ fasttømrede par.</desc>
     <desc>Will the McLaren SLR or a boat make it from London to Oslo first? Contains Strong Language.</desc>
     <category>Entertainment</category>
     <category>Entertainment</category>
+  </programme>
+  <programme channel="TopGear.uk@SD" start="20261004160233 +0000" stop="20261004163000 +0000">
+    <title>Top Gear</title>
+    <sub-title>Top Gear</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme start="20261002201559 +0000" stop="20261002222135 +0000" channel="Trece.es@SD">
     <title lang="es">Duelo de titanes</title>
