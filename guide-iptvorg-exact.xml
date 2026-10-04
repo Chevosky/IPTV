@@ -198,12 +198,6 @@
     <display-name>Canal 13 de Paraguay (Trece)</display-name>
     <icon src="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp" />
   </channel>
-  <programme start="20261004005300 +0000" stop="20261004022800 +0000" channel="AELatinAmerica.us@Brazil">
-    <title lang="pt">Segredos Mortais - As Crianças Perdidas</title>
-    <desc lang="pt">A história perturbadora que chocou os Estados Unidos sobre abuso institucionalizado, sepulturas sem identificação e um possível assassinato em um reformatório para meninos na Flórida.</desc>
-    <category lang="pt">Special</category>
-    <image>https://cdn.mitvstatic.com/programs/br_segredos-mortais-as-criancas-perdidas_l_m.jpg</image>
-  </programme>
   <programme start="20261004022800 +0000" stop="20261004031800 +0000" channel="AELatinAmerica.us@Brazil">
     <title lang="pt">Serial Killer - O Começo de Tudo</title>
     <desc lang="pt">Assassino eloquente, Ed Kemper é conhecido por sua inteligência e charme. Ele aterrorizou a cidade litorânea de Santa Cruz, onde massacrou estudantes universitários que pegavam carona no início dos anos 1970.</desc>
@@ -3253,18 +3247,6 @@
   <programme start="20261004192000 +0000" stop="20261004203000 +0000" channel="CodeFashionTV.bg@SD">
     <title lang="bg">Code Fashion 10 years</title>
   </programme>
-  <programme start="20261004020000 +0000" stop="20261004022500 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
-    <title lang="es">The Exes</title>
-    <desc lang="es">Stuart sale con la hermana gemela de su ex novia.</desc>
-    <category lang="es">Temporada 3 Episodio 12 - Despedida de soltero</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-exes-s03e12-despedida-de-soltero_l_m.jpg</image>
-  </programme>
-  <programme start="20261004020500 +0000" stop="20261004022500 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
-    <title lang="es">How the Grinch Spent Xmas</title>
-    <rating system="MPA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
   <programme start="20261004022500 +0000" stop="20261004025000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
     <title lang="es">How the Grinch Spent Xmas</title>
     <rating system="MPA">
@@ -4449,9 +4431,6 @@
     <desc lang="es">Unas sirvientas aprovechan la ausencia de sus patrones para invitar a los albañiles a seguir el festejo del día de la Santa Cruz con ellas. Al volver el patrón disfrazan a sus amigos para evitar que que los descubran.</desc>
     <category lang="es">Comedia / 1988 / 5.0</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image>
-  </programme>
-  <programme start="20261004020000 +0000" stop="20261004022500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261004020500 +0000" stop="20261004023000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
@@ -9485,6 +9464,16 @@
     <episode-num system="xmltv_ns">1.6.0/1</episode-num>
     <episode-num system="onscreen">S02E07</episode-num>
   </programme>
+  <programme start="20261005042000 +0000" stop="20261005055500 +0000" channel="RaiWorldPremium.it@SD">
+    <title lang="en">Una grande famiglia</title>
+    <sub-title lang="en">Una grande famiglia</sub-title>
+    <desc lang="en">Le vicende dei Rengoni, una famiglia che lavora nel mondo dell'industria del mobile di Inverigo, e dei segreti e degli amori che accompagnano la vita dei suoi componenti.</desc>
+    <date>20261005</date>
+    <category lang="en">Drama</category>
+    <rating system="MPA">
+      <value>TVG</value>
+    </rating>
+  </programme>
   <programme start="20261004000000 +0000" stop="20261004031500 +0000" channel="SonyChannel.br@SD">
     <title lang="pt">À Espera de um Milagre</title>
     <desc lang="pt">Um carcereiro tem um relacionamento incomum e comovente com um preso que está no corredor da morte: Coffey, um negro enorme, condenado por ter matado brutalmente duas gêmeas de nove anos. Ele tem tamanho e força para matar qualquer um, mas seu comportamento é completamente oposto à sua aparência. Além de ser simples, ingênuo e ter pavor do escuro, ele possui um dom sobrenatural. Com o passar do tempo, o carcereiro aprende que, às vezes, os milagres acontecem nos lugares mais inesperados.</desc>
@@ -9779,6 +9768,15 @@
     <date>19700101</date>
     <category lang="es">Drama</category>
     <image>https://zpapi.zetatv.com.uy/media/images/576c57880d2700ee4b6200a293571bc8.jpg</image>
+  </programme>
+  <programme start="20261005041900 +0000" stop="20261005061400 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">El perfecto asesino</title>
+    <desc lang="es">León es un asesino a sueldo que se convierte en el guardián de Mathilda</desc>
+    <date>19700101</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Thriller</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/d2673ae2406250fe0ca529875da6372d.jpg</image>
   </programme>
   <programme start="20261004015119 +0000" stop="20261004024223 +0000" channel="SonyOneBlacklist.fr@HD">
     <title lang="fr">The Blacklist</title>
@@ -11065,10 +11063,6 @@
   <programme start="20261005044500 +0000" stop="20261005092000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Fin de transmisión</title>
   </programme>
-  <programme start="20261004015511 +0000" stop="20261004022711 +0000" channel="ThePetCollective.us@UK">
-    <title lang="en">TPC That's My Pet</title>
-    <desc lang="en">Did you know 25% of U.S. households have pet cats?</desc>
-  </programme>
   <programme start="20261004022711 +0000" stop="20261004025811 +0000" channel="ThePetCollective.us@UK">
     <title lang="en">TPC Theatre</title>
     <desc lang="en">Pets wear costumes... on accident. They also get lucky and go back to school!</desc>
@@ -11248,15 +11242,6 @@
     <rating>
       <value>no rating</value>
     </rating>
-  </programme>
-  <programme start="20261004015500 +0000" stop="20261004022700 +0000" channel="ThePetCollective.us@US">
-    <title lang="en">TPC That's My Pet</title>
-    <sub-title>Kitty-Cats</sub-title>
-    <desc lang="en">Twenty-five percent of U.S. households have pet cats.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Series</category>
-    <icon src="https://images.pluto.tv/series/66a915692fca06001328f86f/tile.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900" />
-    <episode-num system="original-air-date">20261004015500 +0000</episode-num>
   </programme>
   <programme start="20261004022700 +0000" stop="20261004025800 +0000" channel="ThePetCollective.us@US">
     <title lang="en">TPC Theatre</title>
