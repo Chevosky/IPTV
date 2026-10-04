@@ -14,7 +14,7 @@
     },
     {
       "target_id": "DanceFM.cl@SD",
-      "target_name": "Dance FM (720p)",
+      "target_name": "Dance FM",
       "normalized": "dance fm",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": [
@@ -47,21 +47,21 @@
     },
     {
       "target_id": "ElChavoTV.mx@HD",
-      "target_name": "El Chavo TV (720p)",
+      "target_name": "El Chavo TV",
       "normalized": "el chavo",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": []
     },
     {
       "target_id": "FashionLifeStyle.ru@SD",
-      "target_name": "Fashion&LifeStyle (1080p)",
+      "target_name": "Fashion&LifeStyle",
       "normalized": "fashion and lifestyle",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": []
     },
     {
       "target_id": "FashionTV.ru@SD",
-      "target_name": "FashionTV (Russia) (1080p)",
+      "target_name": "FashionTV (Russia)",
       "normalized": "fashiontv russia",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": [
@@ -74,14 +74,14 @@
     },
     {
       "target_id": "FashionTVParisLOriginal.fr@SD",
-      "target_name": "FashionTV Paris L'Original (1080p)",
+      "target_name": "FashionTV Paris L'Original",
       "normalized": "fashiontv paris l original",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": []
     },
     {
       "target_id": "GlobalFashionChannel.us@SD",
-      "target_name": "Global Fashion Channel (1080p)",
+      "target_name": "Global Fashion Channel",
       "normalized": "global fashion",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": [
@@ -129,7 +129,7 @@
     },
     {
       "target_id": "ISTV.br@SD",
-      "target_name": "ISTV (Brazil) (720p) [Not 24/7]",
+      "target_name": "ISTV (Brazil)",
       "normalized": "istv brazil",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": [
@@ -142,7 +142,7 @@
     },
     {
       "target_id": "ImpactTVDance.ro@SD",
-      "target_name": "Impact TV Dance (1080p)",
+      "target_name": "Impact TV Dance",
       "normalized": "impact dance",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": [
@@ -160,7 +160,7 @@
     },
     {
       "target_id": "MegaTV.py@SD",
-      "target_name": "Mega TV (Paraguay) (1080p)",
+      "target_name": "Mega TV (Paraguay)",
       "normalized": "mega paraguay",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": [
@@ -173,7 +173,7 @@
     },
     {
       "target_id": "Nickelodeon.br@SD",
-      "target_name": "Nickelodeon (Brazil) (480p)",
+      "target_name": "Nickelodeon (Brazil)",
       "normalized": "nickelodeon brazil",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": [
@@ -317,7 +317,7 @@
     },
     {
       "target_id": "TVCamara.py@SD",
-      "target_name": "TV Camara (Paraguay) (1080p)",
+      "target_name": "TV Camara (Paraguay)",
       "normalized": "camara paraguay",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": [
@@ -335,7 +335,7 @@
     },
     {
       "target_id": "ThePetCollective.us@Mexico",
-      "target_name": "The Pet Collective Mexico (720p)",
+      "target_name": "The Pet Collective Mexico",
       "normalized": "the pet collective mexico",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": [
@@ -383,7 +383,7 @@
     },
     {
       "target_id": "TotalmusicDance.uk@HD",
-      "target_name": "Totalmusic Dance (720p)",
+      "target_name": "Totalmusic Dance",
       "normalized": "totalmusic dance",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": []
