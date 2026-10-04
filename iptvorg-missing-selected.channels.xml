@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <channels>
   <channel site="mi.tv" site_id="br#nickelodeon" lang="pt" xmltv_id="Nickelodeon.br@SD">Nick</channel>
-  <channel site="pluto.tv" site_id="5f1ac8f49205650007bc15f1" lang="es" xmltv_id="PlutoTVSeries.de@ES">Pluto TV Series</channel>
 </channels>
