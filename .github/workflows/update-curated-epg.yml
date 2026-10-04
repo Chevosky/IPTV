@@ -8,6 +8,10 @@ on:
     branches: [main]
     paths:
       - "guide.xml"
+      - "favorites-test.m3u"
+      - "epg-aliases.json"
+      - "epg-force-aliases.json"
+      - "scripts/build_favorites_guide.py"
       - ".github/workflows/update-curated-epg.yml"
 
 permissions:
