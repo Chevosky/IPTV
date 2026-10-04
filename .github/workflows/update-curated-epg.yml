@@ -11,6 +11,7 @@ on:
       - "favorites-test.m3u"
       - "epg-aliases.json"
       - "epg-force-aliases.json"
+      - "epg-time-offsets.json"
       - "scripts/build_favorites_guide.py"
       - ".github/workflows/update-curated-epg.yml"
 
