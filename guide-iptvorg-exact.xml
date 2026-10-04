@@ -998,19 +998,6 @@
     <category lang="pt">Temporada 3 Episódio 5 - Low Tech - High Tech</category>
     <image>https://cdn.mitvstatic.com/programs/br_arte-na-tecnologia-s03e05_l_m.jpg</image>
   </programme>
-  <programme start="20261004015748 +0000" stop="20261004024726 +0000" channel="BBCDrama.uk@Spain">
-    <title lang="es">Atlantis: Las hermanas grises</title>
-    <sub-title>Las hermanas grises</sub-title>
-    <desc lang="es">Mientras Ariadna yace en su lecho de muerte, la culpa de Jasón es casi insoportable. Decide hacer todo lo posible para salvarla y se embarca en una peligrosa búsqueda hacia lo desconocido.</desc>
-    <date>20140101</date>
-    <category lang="es">Series</category>
-    <category lang="es">Action</category>
-    <category lang="es">Adventure</category>
-    <icon src="https://images.pluto.tv/series/6554bb303e6938001a1325ac/tile_1769195161216.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900" />
-    <episode-num system="onscreen">S02E06</episode-num>
-    <episode-num system="pluto">655762692085480014bd2ff1</episode-num>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-  </programme>
   <programme start="20261004024726 +0000" stop="20261004033602 +0000" channel="BBCDrama.uk@Spain">
     <title lang="es">Atlantis: Un destino peor que la muerte</title>
     <sub-title>Un destino peor que la muerte</sub-title>
@@ -2725,9 +2712,6 @@
     <desc lang="es">El ex atleta de deportes extremos, Cage, es llamado a una misión encubierta contra unos maleantes que poseen tecnología de punta conocidos como Anarchy 99.</desc>
     <image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/triple_x.jpg</image>
   </programme>
-  <programme start="20261004010000 +0000" stop="20261004024600 +0000" channel="CineSony.us@SD">
-    <title lang="es">XXX State of the union</title>
-  </programme>
   <programme start="20261004014200 +0000" stop="20261004040000 +0000" channel="CineSony.us@SD">
     <title lang="es">xXx</title>
     <desc lang="es">El ex atleta de deportes extremos, Cage, es llamado a una misión encubierta contra unos maleantes que poseen tecnología de punta conocidos como Anarchy 99.</desc>
@@ -2971,11 +2955,6 @@
     <desc lang="es">Únete a los Vaqueros, Indios y Sheriffs en nuestro canal para vivir los mejores éxitos del Spaghetti Western, clásicos estadounidenses e incluso versiones colorizadas. ¡Descubre la épica del viejo oeste con nosotros!</desc>
     <category lang="es">Classic tv</category>
     <image>https://provider-static.plex.tv/epg/cms/production/8bf38353-df65-4744-bf06-b1d5cfedb916/CinewesternVertical_Channel_Art__3_RDX.jpg</image>
-  </programme>
-  <programme start="20261004014640 +0000" stop="20261004024945 +0000" channel="CineWestern.es@SD">
-    <title lang="es">Randy cabalga solo</title>
-    <desc lang="es">Encarcelado por unos asesinatos que no cometió, Randy escapa sólo para tropezar con la guarida de los verdaderos asesinos.</desc>
-    <image>https://d28p74hx180360.cloudfront.net/79/EPG/1/2026-05-31/a39b00a65ba7dbe227fa808c6c37f307.jpg.webp</image>
   </programme>
   <programme start="20261004020000 +0000" stop="20261004030000 +0000" channel="CineWestern.es@SD">
     <title lang="es">Cine Western</title>
@@ -3307,18 +3286,6 @@
   </programme>
   <programme start="20261004192000 +0000" stop="20261004203000 +0000" channel="CodeFashionTV.bg@SD">
     <title lang="bg">Code Fashion 10 years</title>
-  </programme>
-  <programme start="20261004022500 +0000" stop="20261004025000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
-    <title lang="es">How the Grinch Spent Xmas</title>
-    <rating system="MPA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20261004022500 +0000" stop="20261004024500 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
-    <title lang="es">The Exes</title>
-    <desc lang="es">Holly convence al grupo de dejar de lado sus planes de Navidad para pasar las fiestas juntos, pero los abandona cuando conoce a un apuesto desconocido.</desc>
-    <category lang="es">Temporada 3 Episodio 13 - Cómo el Grinch pasó la Navidad</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-exes-s03e13-como-el-grinch-paso-la-navidad_l_m.jpg</image>
   </programme>
   <programme start="20261004024500 +0000" stop="20261004031000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
     <title lang="es">South Park</title>
@@ -4142,12 +4109,6 @@
   <programme start="20261004011300 +0000" stop="20261004030000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">El Satiro</title>
   </programme>
-  <programme start="20261004012200 +0000" stop="20261004024600 +0000" channel="DePeliculaLatinAmerica.mx@SD">
-    <title lang="es">Conexión criminal</title>
-    <desc lang="es">Dos policías secretos luchan contra traficantes y un criminal sádico que ejecuta a los enemigos de la mafia, apodado "El Verdugo".</desc>
-    <category lang="es">Acción / 1986</category>
-    <image>https://cdn.mitvstatic.com/programs/mx_conexion-criminal-1986_l_m.jpg</image>
-  </programme>
   <programme start="20261004021300 +0000" stop="20261004040000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">El Satiro</title>
   </programme>
@@ -4519,9 +4480,6 @@
     <desc lang="es">Unas sirvientas aprovechan la ausencia de sus patrones para invitar a los albañiles a seguir el festejo del día de la Santa Cruz con ellas. Al volver el patrón disfrazan a sus amigos para evitar que que los descubran.</desc>
     <category lang="es">Comedia / 1988 / 5.0</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image>
-  </programme>
-  <programme start="20261004022500 +0000" stop="20261004025000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004025500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
@@ -10945,15 +10903,6 @@
     <title lang="es">Cosas nuestras</title>
     <image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p34206912ih10aa_Iconic_w1920.webp</image>
   </programme>
-  <programme start="20261004010000 +0000" stop="20261004024500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Argentina vs. Burkina Faso</title>
-  </programme>
-  <programme start="20261004020000 +0000" stop="20261004024500 +0000" channel="Telefe.ar@SD">
-    <title lang="es">PH: Podemos hablar</title>
-    <desc lang="es">Distintas personalidades visitan a Andy en un encuentro para hablar de todo y escucharse unos a otros, y se sorprenden al descubrir que tienen mucho más en común de lo que piensan.</desc>
-    <category lang="es">Talk Show</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_ph-podemos-hablar-1_l_m.jpg</image>
-  </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="Telefe.ar@SD">
     <title lang="es">Tierras</title>
   </programme>
@@ -11223,12 +11172,6 @@
   </programme>
   <programme start="20261005043000 +0000" stop="20261005051500 +0000" channel="Telefe.ar@SD">
     <title lang="es">Juego chino</title>
-  </programme>
-  <programme start="20261004000000 +0000" stop="20261004024500 +0000" channel="Telefuturo.py@SD">
-    <title lang="es">El conejo</title>
-    <desc lang="es">El entretenimiento para toda la familia en el prime time del canal. Los sábados por la noche el televidente, con dinámicas y juegos en piso, puede participar de innumerables promociones con sorteos, para acceder a interesantes premios.</desc>
-    <category lang="es">Entretenimientos</category>
-    <image>https://cdn.mitvstatic.com/programs/pe_el-conejo_l_m.jpg</image>
   </programme>
   <programme start="20261004010000 +0000" stop="20261004034500 +0000" channel="Telefuturo.py@SD">
     <title lang="es">El conejo</title>

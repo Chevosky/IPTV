@@ -4244,7 +4244,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="AtacamaTV.cl@SD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="AtacamaTV.cl@SD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>Atacama TV - Español</title>
   </programme>
   <programme start="20261003170000 +0000" stop="20261003190000 +0000" channel="AztecaInternacional.mx@SD">
@@ -4336,19 +4336,6 @@
     <rating system="US">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20261004015748 +0000" stop="20261004024726 +0000" channel="BBCDrama.uk@Spain">
-    <title lang="es">Atlantis: Las hermanas grises</title>
-    <sub-title>Las hermanas grises</sub-title>
-    <desc lang="es">Mientras Ariadna yace en su lecho de muerte, la culpa de Jasón es casi insoportable. Decide hacer todo lo posible para salvarla y se embarca en una peligrosa búsqueda hacia lo desconocido.</desc>
-    <date>20140101</date>
-    <category lang="es">Series</category>
-    <category lang="es">Action</category>
-    <category lang="es">Adventure</category>
-    <icon src="https://images.pluto.tv/series/6554bb303e6938001a1325ac/tile_1769195161216.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900" />
-    <episode-num system="onscreen">S02E06</episode-num>
-    <episode-num system="pluto">655762692085480014bd2ff1</episode-num>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
   </programme>
   <programme start="20261004024726 +0000" stop="20261004033602 +0000" channel="BBCDrama.uk@Spain">
     <title lang="es">Atlantis: Un destino peor que la muerte</title>
@@ -5276,10 +5263,16 @@
   <programme start="20261004053000 +0000" stop="20261004060000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">The Travel Show</title>
   </programme>
+  <programme start="20261004053000 +0000" stop="20261004060000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Discovering the World's Table</title>
+  </programme>
   <programme start="20261004060000 +0000" stop="20261004063000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
     <date>19700101</date>
     <image>https://zpapi.zetatv.com.uy/media/images/550bef4779f7c7d93e2ed3aeb4edcdfb.jpg</image>
+  </programme>
+  <programme start="20261004060000 +0000" stop="20261004070000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">BBC News</title>
   </programme>
   <programme start="20261004063000 +0000" stop="20261004070000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">The Travel Show. Everest: Pushing the Limits</title>
@@ -5322,6 +5315,9 @@
   <programme start="20261004073000 +0000" stop="20261004080000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Unspun World with John Simpson</title>
   </programme>
+  <programme start="20261004073000 +0000" stop="20261004080000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">AI Decoded</title>
+  </programme>
   <programme start="20261004080000 +0000" stop="20261004090000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
     <date>19700101</date>
@@ -5335,6 +5331,12 @@
   </programme>
   <programme start="20261004083000 +0000" stop="20261004090000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">AI Decoded</title>
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004084500 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">BBC News</title>
+  </programme>
+  <programme start="20261004084500 +0000" stop="20261004090000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">The President's Path</title>
   </programme>
   <programme start="20261004090000 +0000" stop="20261004093000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
@@ -5355,6 +5357,9 @@
   </programme>
   <programme start="20261004093000 +0000" stop="20261004094500 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
+  </programme>
+  <programme start="20261004093000 +0000" stop="20261004100000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Focus on Africa The Conversation</title>
   </programme>
   <programme start="20261004094500 +0000" stop="20261004100000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">The President's Path</title>
@@ -5377,6 +5382,9 @@
   </programme>
   <programme start="20261004103000 +0000" stop="20261004110000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Focus on Africa The Conversation</title>
+  </programme>
+  <programme start="20261004103000 +0000" stop="20261004110000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">The Travel Show</title>
   </programme>
   <programme start="20261004104500 +0000" stop="20261004110000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">The President's Path</title>
@@ -5407,6 +5415,9 @@
   <programme start="20261004113000 +0000" stop="20261004120000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">The Travel Show</title>
   </programme>
+  <programme start="20261004113000 +0000" stop="20261004120000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Tech Now</title>
+  </programme>
   <programme start="20261004114500 +0000" stop="20261004120000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">The President's Path</title>
   </programme>
@@ -5432,6 +5443,9 @@
   <programme start="20261004123000 +0000" stop="20261004130000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Tech Now</title>
   </programme>
+  <programme start="20261004123000 +0000" stop="20261004130000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Clive Myrie's African Adventure</title>
+  </programme>
   <programme start="20261004130000 +0000" stop="20261004133000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
     <date>19700101</date>
@@ -5451,6 +5465,9 @@
   </programme>
   <programme start="20261004133000 +0000" stop="20261004140000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Clive Myrie's African Adventure</title>
+  </programme>
+  <programme start="20261004133000 +0000" stop="20261004140000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Global Eye</title>
   </programme>
   <programme start="20261004140000 +0000" stop="20261004143000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
@@ -5497,6 +5514,9 @@
   <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">AI Decoded</title>
   </programme>
+  <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Talking Business</title>
+  </programme>
   <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
     <date>19700101</date>
@@ -5513,6 +5533,9 @@
   </programme>
   <programme start="20261004163000 +0000" stop="20261004170000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Talking Business</title>
+  </programme>
+  <programme start="20261004163000 +0000" stop="20261004170000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Focus on Africa The Conversation</title>
   </programme>
   <programme start="20261004164500 +0000" stop="20261004170000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">The President's Path</title>
@@ -5534,10 +5557,16 @@
   <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Focus on Africa The Conversation</title>
   </programme>
+  <programme start="20261004173000 +0000" stop="20261004180000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Discovering the World's Table</title>
+  </programme>
   <programme start="20261004180000 +0000" stop="20261004183000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
     <category lang="es">Noticiero</category>
     <image>https://www.reportv.com.ar/buscador/img/Programas/5153439.jpg</image>
+  </programme>
+  <programme start="20261004180000 +0000" stop="20261004190000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">BBC News</title>
   </programme>
   <programme start="20261004183000 +0000" stop="20261004190000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Focus on Africa: The Conversation</title>
@@ -5624,10 +5653,16 @@
   <programme start="20261004223000 +0000" stop="20261004230000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Global Eye</title>
   </programme>
+  <programme start="20261004223000 +0000" stop="20261004230000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Tech Now</title>
+  </programme>
   <programme start="20261004230000 +0000" stop="20261004233000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
     <category lang="es">Noticiero</category>
     <image>https://www.reportv.com.ar/buscador/img/Programas/5153439.jpg</image>
+  </programme>
+  <programme start="20261004230000 +0000" stop="20261004233000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Newsday</title>
   </programme>
   <programme start="20261004233000 +0000" stop="20261005000000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Global Eye</title>
@@ -5648,6 +5683,12 @@
   </programme>
   <programme start="20261004233000 +0000" stop="20261005000000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Tech Now</title>
+  </programme>
+  <programme start="20261004233000 +0000" stop="20261004234500 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Business Today</title>
+  </programme>
+  <programme start="20261004234500 +0000" stop="20261005000000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">BBC Sport</title>
   </programme>
   <programme start="20261005000000 +0000" stop="20261005003000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
@@ -5711,6 +5752,9 @@
   <programme start="20261005020000 +0000" stop="20261005030000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
   </programme>
+  <programme start="20261005020000 +0000" stop="20261005023000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">BBC News</title>
+  </programme>
   <programme start="20261005023000 +0000" stop="20261005024500 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Business Today</title>
     <category lang="es">Inters general</category>
@@ -5720,6 +5764,9 @@
     <title lang="es">World Business Today</title>
     <desc lang="es">Este programa cubre de manera única las noticias más recientes en el ámbito de los desarrollos económicos y políticos así como su efecto en la economía mundial. El presentador normalmente está acompañado por un equipo multilingüe internacional de periodistas que viajan por todo el mundo para cubrir las historias más importantes, acuerdos económicos y elecciones presidenciales. El programa también incluye un reporte diario en vivo desde Nueva York acerca de las últimas noticias de la bolsa de valores de Wall Street, monedas, tratados y acuerdos financieros.</desc>
     <image>https://zpapi.zetatv.com.uy/media/images/5b11e9bc374c6570649b49bfb8d8019a.jpg</image>
+  </programme>
+  <programme start="20261005023000 +0000" stop="20261005030000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Business Today</title>
   </programme>
   <programme start="20261005024500 +0000" stop="20261005031500 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC Sport</title>
@@ -5749,8 +5796,14 @@
   <programme start="20261005033000 +0000" stop="20261005040000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Business Today</title>
   </programme>
+  <programme start="20261005033000 +0000" stop="20261005035500 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Business Today</title>
+  </programme>
   <programme start="20261005034500 +0000" stop="20261005040000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC Sport</title>
+  </programme>
+  <programme start="20261005035500 +0000" stop="20261005040000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Tech Now</title>
   </programme>
   <programme start="20261005040000 +0000" stop="20261005043000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
@@ -5780,6 +5833,9 @@
   </programme>
   <programme start="20261005045500 +0000" stop="20261005050000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Tech Now</title>
+  </programme>
+  <programme start="20261005045500 +0000" stop="20261005050000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Africa Enterprise</title>
   </programme>
   <programme start="20261003170000 +0000" stop="20261003173000 +0000" channel="BBCNews.uk@NorthAmerica">
     <title lang="en">BBC News</title>
@@ -8586,13 +8642,6 @@
     <category>no info available</category>
     <category>no info available</category>
   </programme>
-  <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261004040401 +0000" stop="20261004044549 +0000">
-    <title>Paradise Hotel, säsong 6</title>
-    <sub-title>Avsnitt 612</sub-title>
-    <desc>Det är dags för det stora provet där ett av paren kommer bli immuna i veckans parceremoni. En deltagare tvingas lämna paradiset och de andra får sommarlov.</desc>
-    <category>Reality</category>
-    <category>Competition Reality</category>
-  </programme>
   <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261004044549 +0000" stop="20261004052700 +0000">
     <title>Paradise Hotel, säsong 7</title>
     <sub-title>Avsnitt 709</sub-title>
@@ -9069,13 +9118,6 @@
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261004042800 +0000" stop="20261004045100 +0000">
-    <title>The Drew Barrymore Show: Ronnie Woo, Drew's News</title>
-    <sub-title>Ronnie Woo, Drew's News</sub-title>
-    <desc>Chef Ronnie Woo is cooking up a storm with co-host Ross Mathews. Then, Drew and Ross discuss some of the latest and greatest headlines.</desc>
-    <category>Talk Show</category>
-    <category>Talk Show</category>
-  </programme>
   <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261004045100 +0000" stop="20261004051400 +0000">
     <title>The Drew Barrymore Show: Lily Tomlin, Jane Fonda</title>
     <sub-title>Lily Tomlin, Jane Fonda</sub-title>
@@ -9294,13 +9336,6 @@
     <category>Talk Show</category>
   </programme>
   <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261005035600 +0000" stop="20261005044700 +0000">
-    <title>The Drew Barrymore Show: Comedian Gabriel Iglesias, "Friendsgiving" Cast</title>
-    <sub-title>Comedian Gabriel Iglesias, "Friendsgiving" Cast</sub-title>
-    <desc>Host of Nickelodeon’s new animal talent show "Unleashed" comedian Gabriel Iglesias shares with Drew one of his favorite acts.  Cast of the new film "Friendsgiving" including Malin Akerman, Kat Dennings, Aisha Tyler and Chelsea Peretti stop by to chat.</desc>
-    <category>Talk Show</category>
-    <category>Talk Show</category>
-  </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261004035600 +0000" stop="20261004044700 +0000">
     <title>The Drew Barrymore Show: Comedian Gabriel Iglesias, "Friendsgiving" Cast</title>
     <sub-title>Comedian Gabriel Iglesias, "Friendsgiving" Cast</sub-title>
     <desc>Host of Nickelodeon’s new animal talent show "Unleashed" comedian Gabriel Iglesias shares with Drew one of his favorite acts.  Cast of the new film "Friendsgiving" including Malin Akerman, Kat Dennings, Aisha Tyler and Chelsea Peretti stop by to chat.</desc>
@@ -11831,15 +11866,6 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category lang="es">Periodístico</category>
     <image>https://cdn.mitvstatic.com/programs/ar_resumen-26_l_m.jpg</image>
   </programme>
-  <programme start="20261004010000 +0000" stop="20261004024500 +0000" channel="Canal8MardelPlata.ar@SD">
-    <title lang="es">Argentina vs. Burkina Faso</title>
-  </programme>
-  <programme start="20261004020000 +0000" stop="20261004024500 +0000" channel="Canal8MardelPlata.ar@SD">
-    <title lang="es">PH: Podemos hablar</title>
-    <desc lang="es">Distintas personalidades visitan a Andy en un encuentro para hablar de todo y escucharse unos a otros, y se sorprenden al descubrir que tienen mucho más en común de lo que piensan.</desc>
-    <category lang="es">Talk Show</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_ph-podemos-hablar-1_l_m.jpg</image>
-  </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">Tierras</title>
   </programme>
@@ -11930,6 +11956,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   <programme start="20261004064500 +0000" stop="20261004100000 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">El Chavo y Chapulín</title>
   </programme>
+  <programme start="20261004070000 +0000" stop="20261004083000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Disney Junior</title>
+  </programme>
   <programme start="20261004074500 +0000" stop="20261004083000 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">Fútbol: Post</title>
   </programme>
@@ -11938,6 +11967,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   </programme>
   <programme start="20261004083000 +0000" stop="20261004090000 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">Tierras</title>
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004143000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">El Chavo y Chapulín</title>
   </programme>
   <programme start="20261004090000 +0000" stop="20261004103000 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">Disney Junior</title>
@@ -11978,6 +12010,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   <programme start="20261004114500 +0000" stop="20261004150000 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">El Chavo y Chapulín</title>
   </programme>
+  <programme start="20261004143000 +0000" stop="20261004180000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">La peña de Morfi</title>
+  </programme>
   <programme start="20261004150000 +0000" stop="20261004163000 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">Disney Junior</title>
   </programme>
@@ -11993,8 +12028,14 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   <programme start="20261004173000 +0000" stop="20261004210000 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">La peña de Morfi</title>
   </programme>
+  <programme start="20261004180000 +0000" stop="20261004194500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Papá por siempre</title>
+  </programme>
   <programme start="20261004190000 +0000" stop="20261004204500 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">Papá por siempre</title>
+  </programme>
+  <programme start="20261004194500 +0000" stop="20261004210000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">El Muro Infernal</title>
   </programme>
   <programme start="20261004200000 +0000" stop="20261004214500 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">Papá por siempre</title>
@@ -12004,6 +12045,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   </programme>
   <programme start="20261004210000 +0000" stop="20261004224500 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">Papá por siempre</title>
+  </programme>
+  <programme start="20261004210000 +0000" stop="20261004231500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Pasapalabra</title>
   </programme>
   <programme start="20261004214500 +0000" stop="20261004230000 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">El Muro Infernal</title>
@@ -12026,11 +12070,17 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   <programme start="20261004230000 +0000" stop="20261005011500 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">Pasapalabra</title>
   </programme>
+  <programme start="20261004231500 +0000" stop="20261005004500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">MasterChef celebrity: Gala de eliminaciones</title>
+  </programme>
   <programme start="20261005000000 +0000" stop="20261005021500 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">Pasapalabra</title>
   </programme>
   <programme start="20261005001500 +0000" stop="20261005014500 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">MasterChef celebrity: Gala de eliminaciones</title>
+  </programme>
+  <programme start="20261005004500 +0000" stop="20261005011500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Juego chino</title>
   </programme>
   <programme start="20261005011500 +0000" stop="20261005024500 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">MasterChef celebrity: Gala de eliminaciones</title>
@@ -12040,6 +12090,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <desc lang="es">Esta edición de MasterChef contará con participantes famosos. Ellos tendrán que atravesar diferentes desafíos y demostrar sus habilidades culinarias para permanecer en el certamen, mientras son evaluados por un exigente jurado.</desc>
     <category lang="es">Reality Show</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261005011500 +0000" stop="20261005043000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">La peña de Morfi</title>
   </programme>
   <programme start="20261005014500 +0000" stop="20261005021500 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">Juego chino</title>
@@ -12079,6 +12132,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   </programme>
   <programme start="20261005041500 +0000" stop="20261005073000 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">La peña de Morfi</title>
+  </programme>
+  <programme start="20261005043000 +0000" stop="20261005051500 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Juego chino</title>
   </programme>
   <programme start="20261003160000 +0200" stop="20261003213000 +0200" channel="CanalPlusActionEurope.nl@Czechia">
     <title lang="nl">Padel: Rotterdam Premier Padel</title>
@@ -13106,9 +13162,6 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <desc lang="es">El ex atleta de deportes extremos, Cage, es llamado a una misión encubierta contra unos maleantes que poseen tecnología de punta conocidos como Anarchy 99.</desc>
     <image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/triple_x.jpg</image>
   </programme>
-  <programme start="20261004010000 +0000" stop="20261004024600 +0000" channel="CineSony.us@SD">
-    <title lang="es">XXX State of the union</title>
-  </programme>
   <programme start="20261004014200 +0000" stop="20261004040000 +0000" channel="CineSony.us@SD">
     <title lang="es">xXx</title>
     <desc lang="es">El ex atleta de deportes extremos, Cage, es llamado a una misión encubierta contra unos maleantes que poseen tecnología de punta conocidos como Anarchy 99.</desc>
@@ -13141,6 +13194,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   <programme start="20261004054600 +0000" stop="20261004071700 +0000" channel="CineSony.us@SD">
     <title lang="es">Anaconda</title>
   </programme>
+  <programme start="20261004055900 +0000" stop="20261004073200 +0000" channel="CineSony.us@SD">
+    <title lang="es">The River Murders</title>
+  </programme>
   <programme start="20261004061700 +0000" stop="20261004075900 +0000" channel="CineSony.us@SD">
     <title lang="es">Urban Legend</title>
   </programme>
@@ -13155,6 +13211,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   <programme start="20261004071700 +0000" stop="20261004085900 +0000" channel="CineSony.us@SD">
     <title lang="es">Urban Legend</title>
   </programme>
+  <programme start="20261004073200 +0000" stop="20261004090300 +0000" channel="CineSony.us@SD">
+    <title lang="es">Cleaner</title>
+  </programme>
   <programme start="20261004075900 +0000" stop="20261004093200 +0000" channel="CineSony.us@SD">
     <title lang="es">The River Murders</title>
   </programme>
@@ -13166,6 +13225,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   </programme>
   <programme start="20261004090000 +0000" stop="20261004104600 +0000" channel="CineSony.us@SD">
     <title lang="es">XXX State of the union</title>
+  </programme>
+  <programme start="20261004090300 +0000" stop="20261004111400 +0000" channel="CineSony.us@SD">
+    <title lang="es">Hellboy</title>
   </programme>
   <programme start="20261004093200 +0000" stop="20261004110300 +0000" channel="CineSony.us@SD">
     <title lang="es">Cleaner</title>
@@ -13181,6 +13243,11 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   </programme>
   <programme start="20261004110300 +0000" stop="20261004131400 +0000" channel="CineSony.us@SD">
     <title lang="es">Hellboy</title>
+  </programme>
+  <programme start="20261004111400 +0000" stop="20261004133200 +0000" channel="CineSony.us@SD">
+    <title lang="es">xXx</title>
+    <desc lang="es">El ex atleta de deportes extremos, Cage, es llamado a una misión encubierta contra unos maleantes que poseen tecnología de punta conocidos como Anarchy 99.</desc>
+    <image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/triple_x.jpg</image>
   </programme>
   <programme start="20261004120300 +0000" stop="20261004141400 +0000" channel="CineSony.us@SD">
     <title lang="es">Hellboy</title>
@@ -13198,6 +13265,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <desc lang="es">El ex atleta de deportes extremos, Cage, es llamado a una misión encubierta contra unos maleantes que poseen tecnología de punta conocidos como Anarchy 99.</desc>
     <image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/triple_x.jpg</image>
   </programme>
+  <programme start="20261004133200 +0000" stop="20261004152700 +0000" channel="CineSony.us@SD">
+    <title lang="es">XXX State of the union</title>
+  </programme>
   <programme start="20261004135900 +0000" stop="20261004153200 +0000" channel="CineSony.us@SD">
     <title lang="es">The River Murders</title>
   </programme>
@@ -13208,6 +13278,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   </programme>
   <programme start="20261004143200 +0000" stop="20261004162700 +0000" channel="CineSony.us@SD">
     <title lang="es">XXX State of the union</title>
+  </programme>
+  <programme start="20261004152700 +0000" stop="20261004170700 +0000" channel="CineSony.us@SD">
+    <title lang="es">Anaconda</title>
   </programme>
   <programme start="20261004153200 +0000" stop="20261004172700 +0000" channel="CineSony.us@SD">
     <title lang="es">XXX State of the union</title>
@@ -13224,6 +13297,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   <programme start="20261004170300 +0000" stop="20261004191400 +0000" channel="CineSony.us@SD">
     <title lang="es">Hellboy</title>
   </programme>
+  <programme start="20261004170700 +0000" stop="20261004185400 +0000" channel="CineSony.us@SD">
+    <title lang="es">Secret Window</title>
+  </programme>
   <programme start="20261004172700 +0000" stop="20261004190700 +0000" channel="CineSony.us@SD">
     <title lang="es">Anaconda</title>
   </programme>
@@ -13232,6 +13308,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   </programme>
   <programme start="20261004182700 +0000" stop="20261004200700 +0000" channel="CineSony.us@SD">
     <title lang="es">Anaconda</title>
+  </programme>
+  <programme start="20261004185400 +0000" stop="20261004211500 +0000" channel="CineSony.us@SD">
+    <title lang="es">A league of their own</title>
   </programme>
   <programme start="20261004190700 +0000" stop="20261004205400 +0000" channel="CineSony.us@SD">
     <title lang="es">Secret Window</title>
@@ -13250,6 +13329,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   <programme start="20261004205400 +0000" stop="20261004231500 +0000" channel="CineSony.us@SD">
     <title lang="es">A league of their own</title>
   </programme>
+  <programme start="20261004211500 +0000" stop="20261004230200 +0000" channel="CineSony.us@SD">
+    <title lang="es">Mr. Deeds</title>
+  </programme>
   <programme start="20261004213200 +0000" stop="20261004232700 +0000" channel="CineSony.us@SD">
     <title lang="es">XXX State of the union</title>
   </programme>
@@ -13258,6 +13340,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   </programme>
   <programme start="20261004221500 +0000" stop="20261005000200 +0000" channel="CineSony.us@SD">
     <title lang="es">Mr. Deeds</title>
+  </programme>
+  <programme start="20261004230200 +0000" stop="20261005010000 +0000" channel="CineSony.us@SD">
+    <title lang="es">Click</title>
   </programme>
   <programme start="20261004231500 +0000" stop="20261005010200 +0000" channel="CineSony.us@SD">
     <title lang="es">Mr. Deeds</title>
@@ -13270,6 +13355,11 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   </programme>
   <programme start="20261005001500 +0000" stop="20261005020200 +0000" channel="CineSony.us@SD">
     <title lang="es">Mr. Deeds</title>
+  </programme>
+  <programme start="20261005010000 +0000" stop="20261005025800 +0000" channel="CineSony.us@SD">
+    <title lang="es">Just Go with It</title>
+    <desc lang="es">Un cirujano plástico desea conquistar a una maestra de escuela mucho más joven que él con la ayuda de su fiel asistente que se hará pasar por su ex esposa.</desc>
+    <image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/una_esposa_de_mentira.jpg</image>
   </programme>
   <programme start="20261005010200 +0000" stop="20261005030000 +0000" channel="CineSony.us@SD">
     <title lang="es">Click</title>
@@ -13288,6 +13378,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   <programme start="20261005025400 +0000" stop="20261005051500 +0000" channel="CineSony.us@SD">
     <title lang="es">A league of their own</title>
   </programme>
+  <programme start="20261005025800 +0000" stop="20261005044800 +0000" channel="CineSony.us@SD">
+    <title lang="es">Soul Surfer</title>
+  </programme>
   <programme start="20261005030000 +0000" stop="20261005045800 +0000" channel="CineSony.us@SD">
     <title lang="es">Just Go with It</title>
     <desc lang="es">Un cirujano plástico desea conquistar a una maestra de escuela mucho más joven que él con la ayuda de su fiel asistente que se hará pasar por su ex esposa.</desc>
@@ -13300,6 +13393,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <title lang="es">Just Go with It</title>
     <desc lang="es">Un cirujano plástico desea conquistar a una maestra de escuela mucho más joven que él con la ayuda de su fiel asistente que se hará pasar por su ex esposa.</desc>
     <image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/una_esposa_de_mentira.jpg</image>
+  </programme>
+  <programme start="20261005044800 +0000" stop="20261005070900 +0000" channel="CineSony.us@SD">
+    <title lang="es">Eat Pray Love</title>
   </programme>
   <programme start="20261005045800 +0000" stop="20261005064800 +0000" channel="CineSony.us@SD">
     <title lang="es">Soul Surfer</title>
@@ -13569,11 +13665,6 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <desc lang="es">Únete a los Vaqueros, Indios y Sheriffs en nuestro canal para vivir los mejores éxitos del Spaghetti Western, clásicos estadounidenses e incluso versiones colorizadas. ¡Descubre la épica del viejo oeste con nosotros!</desc>
     <category lang="es">Classic tv</category>
     <image>https://provider-static.plex.tv/epg/cms/production/8bf38353-df65-4744-bf06-b1d5cfedb916/CinewesternVertical_Channel_Art__3_RDX.jpg</image>
-  </programme>
-  <programme start="20261004014640 +0000" stop="20261004024945 +0000" channel="CineWestern.es@SD">
-    <title lang="es">Randy cabalga solo</title>
-    <desc lang="es">Encarcelado por unos asesinatos que no cometió, Randy escapa sólo para tropezar con la guarida de los verdaderos asesinos.</desc>
-    <image>https://d28p74hx180360.cloudfront.net/79/EPG/1/2026-05-31/a39b00a65ba7dbe227fa808c6c37f307.jpg.webp</image>
   </programme>
   <programme start="20261004020000 +0000" stop="20261004030000 +0000" channel="CineWestern.es@SD">
     <title lang="es">Cine Western</title>
@@ -14951,13 +15042,6 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>no info available</category>
     <category>no info available</category>
   </programme>
-  <programme channel="ComedyCentralAnimation.us@SD" start="20261004042500 +0000" stop="20261004045000 +0000">
-    <title>Drawn Together</title>
-    <sub-title>Super Nanny</sub-title>
-    <desc>Captain Hero faces off against Super Nanny, and Ling-Ling grapples with his cultural identity.</desc>
-    <category>Comedy</category>
-    <category>Spoofs and Satire</category>
-  </programme>
   <programme channel="ComedyCentralAnimation.us@SD" start="20261004045000 +0000" stop="20261004051500 +0000">
     <title>Drawn Together</title>
     <sub-title>Charlotte's Web of Lies</sub-title>
@@ -15461,18 +15545,6 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme start="20261004022500 +0000" stop="20261004025000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
-    <title lang="es">How the Grinch Spent Xmas</title>
-    <rating system="MPA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20261004022500 +0000" stop="20261004024500 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
-    <title lang="es">The Exes</title>
-    <desc lang="es">Holly convence al grupo de dejar de lado sus planes de Navidad para pasar las fiestas juntos, pero los abandona cuando conoce a un apuesto desconocido.</desc>
-    <category lang="es">Temporada 3 Episodio 13 - Cómo el Grinch pasó la Navidad</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-exes-s03e13-como-el-grinch-paso-la-navidad_l_m.jpg</image>
   </programme>
   <programme start="20261004024500 +0000" stop="20261004031000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
     <title lang="es">South Park</title>
@@ -19001,7 +19073,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>AL</value>
     </rating>
   </programme>
-  <programme channel="DanceFM.cl@SD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="DanceFM.cl@SD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>Dance FM - Español</title>
   </programme>
   <programme channel="DatingNakedUK.se@DK" start="20261004044159 +0000" stop="20261004053557 +0000">
@@ -19389,13 +19461,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>no info available</category>
     <category>no info available</category>
   </programme>
-  <programme channel="DatingNakedUK.se@SE" start="20261004035741 +0000" stop="20261004045355 +0000">
-    <title>Dating Naked UK</title>
-    <sub-title>Den nakna nybörjaren</sub-title>
-    <desc>Den första nakna nybörjaren spiller ingen tid. Vissa relationer går framåt medan andra går bakåt, och det blir spänt innan en dejtare dumpas för gott.</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
-  </programme>
   <programme channel="DatingNakedUK.se@SE" start="20261004045355 +0000" stop="20261004055050 +0000">
     <title>Dating Naked UK</title>
     <sub-title>Modigt eller naket</sub-title>
@@ -19590,12 +19655,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004011300 +0000" stop="20261004030000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">El Satiro</title>
   </programme>
-  <programme start="20261004012200 +0000" stop="20261004024600 +0000" channel="DePeliculaLatinAmerica.mx@SD">
-    <title lang="es">Conexión criminal</title>
-    <desc lang="es">Dos policías secretos luchan contra traficantes y un criminal sádico que ejecuta a los enemigos de la mafia, apodado "El Verdugo".</desc>
-    <category lang="es">Acción / 1986</category>
-    <image>https://cdn.mitvstatic.com/programs/mx_conexion-criminal-1986_l_m.jpg</image>
-  </programme>
   <programme start="20261004021300 +0000" stop="20261004040000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">El Satiro</title>
   </programme>
@@ -19668,6 +19727,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004060500 +0000" stop="20261004074700 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">El Superman...dilón</title>
   </programme>
+  <programme start="20261004061800 +0000" stop="20261004081700 +0000" channel="DePeliculaLatinAmerica.mx@SD">
+    <title lang="es">El hijo de Huracán Ramírez</title>
+  </programme>
   <programme start="20261004064700 +0000" stop="20261004081800 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Don juan 67</title>
   </programme>
@@ -19692,6 +19754,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004074700 +0000" stop="20261004091800 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Don juan 67</title>
   </programme>
+  <programme start="20261004081700 +0000" stop="20261004100000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
+    <title lang="es">Pancho Tequila</title>
+  </programme>
   <programme start="20261004081800 +0000" stop="20261004101700 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">El hijo de Huracán Ramírez</title>
   </programme>
@@ -19709,6 +19774,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc lang="es">Un cacique prohíbe casarse a su sobrina para quedarse con la fortuna que le heredaron sus padres, pero la joven toma con determinación una decisión que cambiará su vida para siempre.</desc>
     <category lang="es">Comedia / 1960 / 5.8</category>
     <image>https://cdn.mitvstatic.com/programs/mx_dicen-que-soy-hombre-malo-1960_l_m.jpg</image>
+  </programme>
+  <programme start="20261004100000 +0000" stop="20261004114200 +0000" channel="DePeliculaLatinAmerica.mx@SD">
+    <title lang="es">El robo imposible</title>
   </programme>
   <programme start="20261004101700 +0000" stop="20261004120000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Pancho Tequila</title>
@@ -19728,6 +19796,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004111700 +0000" stop="20261004130000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Pancho Tequila</title>
   </programme>
+  <programme start="20261004114200 +0000" stop="20261004132700 +0000" channel="DePeliculaLatinAmerica.mx@SD">
+    <title lang="es">El albañil</title>
+  </programme>
   <programme start="20261004120000 +0000" stop="20261004134200 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">El robo imposible</title>
   </programme>
@@ -19745,6 +19816,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004130000 +0000" stop="20261004144200 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">El robo imposible</title>
+  </programme>
+  <programme start="20261004132700 +0000" stop="20261004153200 +0000" channel="DePeliculaLatinAmerica.mx@SD">
+    <title lang="es">El analfabeto</title>
   </programme>
   <programme start="20261004134200 +0000" stop="20261004152700 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">El albañil</title>
@@ -19773,6 +19847,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004152700 +0000" stop="20261004173200 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">El analfabeto</title>
   </programme>
+  <programme start="20261004153200 +0000" stop="20261004172100 +0000" channel="DePeliculaLatinAmerica.mx@SD">
+    <title lang="es">Rosas blancas para mi hermana</title>
+  </programme>
   <programme start="20261004161700 +0000" stop="20261004180000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Pancho Tequila</title>
   </programme>
@@ -19787,6 +19864,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc lang="es">Nico es un arquitecto entregado a su profesión que, al enterarse de que le queda poco tiempo de vida, decide disfrutar plenamente, olvidándose de su posición social y descubriendo que tanto lo quieren sus allegados.</desc>
     <category lang="es">Comedia / 1997 / 5.8</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image>
+  </programme>
+  <programme start="20261004172100 +0000" stop="20261004191300 +0000" channel="DePeliculaLatinAmerica.mx@SD">
+    <title lang="es">Amor y Venganza</title>
   </programme>
   <programme start="20261004173200 +0000" stop="20261004192100 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Rosas blancas para mi hermana</title>
@@ -19811,6 +19891,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004183200 +0000" stop="20261004202100 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Rosas blancas para mi hermana</title>
+  </programme>
+  <programme start="20261004191300 +0000" stop="20261004210000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
+    <title lang="es">Octagón y Máscara sagrada</title>
   </programme>
   <programme start="20261004192100 +0000" stop="20261004211300 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Amor y Venganza</title>
@@ -19841,6 +19924,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc lang="es">Dos hombres llevan un mensaje a un gerente en una oficina con dos hermosas secretarias. El gerente cree que son los especialistas que está esperando y ellos aprovechan la confusión para conquista a las mujeres y ganar dinero.</desc>
     <category lang="es">Comedia / 1963 / 4.0</category>
     <image>https://cdn.mitvstatic.com/programs/mx_barridos-y-regados-1963_l_m.jpg</image>
+  </programme>
+  <programme start="20261004210000 +0000" stop="20261004222800 +0000" channel="DePeliculaLatinAmerica.mx@SD">
+    <title lang="es">El Trailer Asesino</title>
   </programme>
   <programme start="20261004211300 +0000" stop="20261004230000 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">Octagón y Máscara sagrada</title>
@@ -20109,9 +20195,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>A</value>
     </rating>
   </programme>
-  <programme start="20261004022500 +0000" stop="20261004025000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
-  </programme>
   <programme start="20261004023000 +0000" stop="20261004025500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
@@ -20178,6 +20261,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004051000 +0000" stop="20261004064500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Los Boxtrolls</title>
   </programme>
+  <programme start="20261004051000 +0000" stop="20261004053500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">El Show de Peabody y Sherman</title>
+  </programme>
   <programme start="20261004051500 +0000" stop="20261004054000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El amanecer de los Croods</title>
   </programme>
@@ -20186,6 +20272,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004053000 +0000" stop="20261004055500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
+  </programme>
+  <programme start="20261004053500 +0000" stop="20261004060500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Trollhunters</title>
   </programme>
   <programme start="20261004054000 +0000" stop="20261004061000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El Show de Peabody y Sherman</title>
@@ -20196,6 +20285,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004055500 +0000" stop="20261004062000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
+  <programme start="20261004060500 +0000" stop="20261004063000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Trollhunters</title>
+  </programme>
   <programme start="20261004061000 +0000" stop="20261004063500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El Show de Peabody y Sherman</title>
   </programme>
@@ -20204,6 +20296,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004062000 +0000" stop="20261004064500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
+  </programme>
+  <programme start="20261004063000 +0000" stop="20261004070000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Trollhunters</title>
   </programme>
   <programme start="20261004063500 +0000" stop="20261004070500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trollhunters</title>
@@ -20216,6 +20311,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004064500 +0000" stop="20261004071000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Glitter Model</title>
+  </programme>
+  <programme start="20261004070000 +0000" stop="20261004073000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">El amanecer de los Croods</title>
   </programme>
   <programme start="20261004070500 +0000" stop="20261004073000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trollhunters</title>
@@ -20232,6 +20330,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004073000 +0000" stop="20261004080000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trollhunters</title>
   </programme>
+  <programme start="20261004073000 +0000" stop="20261004075500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">El amanecer de los Croods</title>
+  </programme>
   <programme start="20261004073500 +0000" stop="20261004080500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trollhunters</title>
   </programme>
@@ -20240,6 +20341,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004074000 +0000" stop="20261004081000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El Show de Peabody y Sherman</title>
+  </programme>
+  <programme start="20261004075500 +0000" stop="20261004082500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">La escuela del terror de Casper</title>
   </programme>
   <programme start="20261004080000 +0000" stop="20261004082500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
@@ -20256,6 +20360,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004082500 +0000" stop="20261004085000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261004082500 +0000" stop="20261004085000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">La escuela del terror de Casper</title>
+  </programme>
   <programme start="20261004083000 +0000" stop="20261004090000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trollhunters</title>
   </programme>
@@ -20268,6 +20375,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004085000 +0000" stop="20261004091500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261004085000 +0000" stop="20261004090500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Osito Charley</title>
+  </programme>
   <programme start="20261004085500 +0000" stop="20261004092500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">La escuela del terror de Casper</title>
   </programme>
@@ -20277,8 +20387,14 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004090500 +0000" stop="20261004093000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trollhunters</title>
   </programme>
+  <programme start="20261004090500 +0000" stop="20261004091500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Osito Charley</title>
+  </programme>
   <programme start="20261004091500 +0000" stop="20261004094000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261004091500 +0000" stop="20261004094000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">El reino de las rimas</title>
   </programme>
   <programme start="20261004092500 +0000" stop="20261004095000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">La escuela del terror de Casper</title>
@@ -20291,6 +20407,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004094000 +0000" stop="20261004100500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261004094000 +0000" stop="20261004100500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">VeggieTales: en casa</title>
   </programme>
   <programme start="20261004095000 +0000" stop="20261004100500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Osito Charley</title>
@@ -20307,6 +20426,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004100500 +0000" stop="20261004101500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Osito Charley</title>
   </programme>
+  <programme start="20261004100500 +0000" stop="20261004103000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">VeggieTales: en casa</title>
+  </programme>
   <programme start="20261004101500 +0000" stop="20261004104000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El reino de las rimas</title>
   </programme>
@@ -20318,6 +20440,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004103000 +0000" stop="20261004105500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
+  </programme>
+  <programme start="20261004103000 +0000" stop="20261004105500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Dinotrux</title>
   </programme>
   <programme start="20261004104000 +0000" stop="20261004110500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">VeggieTales: en casa</title>
@@ -20331,6 +20456,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004105500 +0000" stop="20261004112000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
+  <programme start="20261004105500 +0000" stop="20261004112000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Dinotrux</title>
+  </programme>
   <programme start="20261004110500 +0000" stop="20261004111500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Osito Charley</title>
   </programme>
@@ -20342,6 +20470,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004112000 +0000" stop="20261004114500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
+  </programme>
+  <programme start="20261004112000 +0000" stop="20261004114500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Turbo FAST</title>
   </programme>
   <programme start="20261004112500 +0000" stop="20261004115000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">La escuela del terror de Casper</title>
@@ -20355,6 +20486,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004114500 +0000" stop="20261004121500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El amanecer de los Croods</title>
   </programme>
+  <programme start="20261004114500 +0000" stop="20261004121000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Turbo FAST</title>
+  </programme>
   <programme start="20261004115000 +0000" stop="20261004120500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Osito Charley</title>
   </programme>
@@ -20366,6 +20500,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004120500 +0000" stop="20261004121500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Osito Charley</title>
+  </programme>
+  <programme start="20261004121000 +0000" stop="20261004123500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Turbo FAST</title>
   </programme>
   <programme start="20261004121500 +0000" stop="20261004124000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El reino de las rimas</title>
@@ -20379,6 +20516,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004123000 +0000" stop="20261004125500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Dinotrux</title>
   </programme>
+  <programme start="20261004123500 +0000" stop="20261004130000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
+  </programme>
   <programme start="20261004124000 +0000" stop="20261004130500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">VeggieTales: en casa</title>
   </programme>
@@ -20390,6 +20530,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004125500 +0000" stop="20261004132000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Dinotrux</title>
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004132500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
   </programme>
   <programme start="20261004130500 +0000" stop="20261004133000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">VeggieTales: en casa</title>
@@ -20403,6 +20546,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004132000 +0000" stop="20261004134500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Turbo FAST</title>
   </programme>
+  <programme start="20261004132500 +0000" stop="20261004135000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las aventuras del Gato con Botas</title>
+  </programme>
   <programme start="20261004133000 +0000" stop="20261004135500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Dinotrux</title>
   </programme>
@@ -20414,6 +20560,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004134500 +0000" stop="20261004141000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Turbo FAST</title>
+  </programme>
+  <programme start="20261004135000 +0000" stop="20261004141500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las aventuras del Gato con Botas</title>
   </programme>
   <programme start="20261004135500 +0000" stop="20261004142000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Dinotrux</title>
@@ -20427,6 +20576,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004141000 +0000" stop="20261004143500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Turbo FAST</title>
   </programme>
+  <programme start="20261004141500 +0000" stop="20261004144000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las aventuras del Gato con Botas</title>
+  </programme>
   <programme start="20261004142000 +0000" stop="20261004144500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Turbo FAST</title>
   </programme>
@@ -20438,6 +20590,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004143500 +0000" stop="20261004150000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
+  </programme>
+  <programme start="20261004144000 +0000" stop="20261004150500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
   <programme start="20261004144500 +0000" stop="20261004151000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Turbo FAST</title>
@@ -20451,6 +20606,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004150000 +0000" stop="20261004153000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El amanecer de los Croods</title>
   </programme>
+  <programme start="20261004150500 +0000" stop="20261004153000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
   <programme start="20261004151000 +0000" stop="20261004153500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Turbo FAST</title>
   </programme>
@@ -20462,6 +20620,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004153000 +0000" stop="20261004155500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El amanecer de los Croods</title>
+  </programme>
+  <programme start="20261004153000 +0000" stop="20261004155500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
   <programme start="20261004153500 +0000" stop="20261004160000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
@@ -20475,6 +20636,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004155500 +0000" stop="20261004162500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">La escuela del terror de Casper</title>
   </programme>
+  <programme start="20261004155500 +0000" stop="20261004162000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261004160000 +0000" stop="20261004162500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
   </programme>
@@ -20483,6 +20647,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004161500 +0000" stop="20261004164000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras del Gato con Botas</title>
+  </programme>
+  <programme start="20261004162000 +0000" stop="20261004164500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261004162500 +0000" stop="20261004165000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras del Gato con Botas</title>
@@ -20495,6 +20662,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004164000 +0000" stop="20261004170500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261004164500 +0000" stop="20261004171000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261004165000 +0000" stop="20261004171500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras del Gato con Botas</title>
@@ -20511,6 +20681,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004170500 +0000" stop="20261004171500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Osito Charley</title>
   </programme>
+  <programme start="20261004171000 +0000" stop="20261004173500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261004171500 +0000" stop="20261004174000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras del Gato con Botas</title>
   </programme>
@@ -20523,6 +20696,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004173000 +0000" stop="20261004175500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
+  <programme start="20261004173500 +0000" stop="20261004180000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261004174000 +0000" stop="20261004180500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
@@ -20534,6 +20710,11 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004175500 +0000" stop="20261004182000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261004180000 +0000" stop="20261004193000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Astro Boy</title>
+    <desc lang="es">El Doctor Tenma crea un robot súper poderoso con cuerpo de niño y sentimientos de humano para superar a perdida de su hijo de carne y hueso.</desc>
+    <image>https://imagenes.gatotv.com/categorias/caricaturas/miniatura/astro_boy.png</image>
   </programme>
   <programme start="20261004180500 +0000" stop="20261004183000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
@@ -20579,6 +20760,11 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004192000 +0000" stop="20261004194500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Turbo FAST</title>
   </programme>
+  <programme start="20261004193000 +0000" stop="20261004210500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Trolls 2: Gira mundial</title>
+    <desc lang="es">Cuando Barb, reina del Rock quiere destruir los demás tipos de música, Poppy y sus amigos deciden visitar las demás tierras para unificar a los Trolls.</desc>
+    <image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/trolls_word_tour.jpg</image>
+  </programme>
   <programme start="20261004193500 +0000" stop="20261004200000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
@@ -20618,6 +20804,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004210000 +0000" stop="20261004212500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
   </programme>
+  <programme start="20261004210500 +0000" stop="20261004223500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">¡Piratas! una Loca Aventura</title>
+  </programme>
   <programme start="20261004212500 +0000" stop="20261004215000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras del Gato con Botas</title>
   </programme>
@@ -20640,8 +20829,14 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc lang="es">Cuando Barb, reina del Rock quiere destruir los demás tipos de música, Poppy y sus amigos deciden visitar las demás tierras para unificar a los Trolls.</desc>
     <image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/trolls_word_tour.jpg</image>
   </programme>
+  <programme start="20261004223500 +0000" stop="20261004230000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Glitter Model</title>
+  </programme>
   <programme start="20261004224000 +0000" stop="20261004230500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261004230000 +0000" stop="20261004232500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261004230500 +0000" stop="20261005003500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">¡Piratas! una Loca Aventura</title>
@@ -20649,11 +20844,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004230500 +0000" stop="20261004233000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
+  <programme start="20261004232500 +0000" stop="20261004235000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261004233000 +0000" stop="20261004235500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
   <programme start="20261004233500 +0000" stop="20261005000000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Glitter Model</title>
+  </programme>
+  <programme start="20261004235000 +0000" stop="20261005001500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261004235500 +0000" stop="20261005002000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
@@ -20664,6 +20865,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261005000500 +0000" stop="20261005013500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">¡Piratas! una Loca Aventura</title>
   </programme>
+  <programme start="20261005001500 +0000" stop="20261005004000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261005002000 +0000" stop="20261005004500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
@@ -20672,6 +20876,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261005003500 +0000" stop="20261005010000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Glitter Model</title>
+  </programme>
+  <programme start="20261005004000 +0000" stop="20261005010500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
   <programme start="20261005004500 +0000" stop="20261005011000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
@@ -20682,6 +20889,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261005010000 +0000" stop="20261005012500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261005010500 +0000" stop="20261005013000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
   <programme start="20261005011000 +0000" stop="20261005013500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
@@ -20690,6 +20900,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261005012500 +0000" stop="20261005015000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261005013000 +0000" stop="20261005020000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
   <programme start="20261005013500 +0000" stop="20261005020000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Glitter Model</title>
@@ -20711,6 +20924,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc lang="es">El Doctor Tenma crea un robot súper poderoso con cuerpo de niño y sentimientos de humano para superar a perdida de su hijo de carne y hueso.</desc>
     <image>https://imagenes.gatotv.com/categorias/caricaturas/miniatura/astro_boy.png</image>
   </programme>
+  <programme start="20261005020000 +0000" stop="20261005022500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
   <programme start="20261005020500 +0000" stop="20261005023000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
@@ -20719,6 +20935,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261005022500 +0000" stop="20261005025000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261005022500 +0000" stop="20261005025000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
   <programme start="20261005023000 +0000" stop="20261005030000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
@@ -20729,6 +20948,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261005025000 +0000" stop="20261005031500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261005025000 +0000" stop="20261005032000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
+  </programme>
   <programme start="20261005030000 +0000" stop="20261005032500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
@@ -20737,6 +20959,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261005031500 +0000" stop="20261005034000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
+  <programme start="20261005032000 +0000" stop="20261005034500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
   <programme start="20261005032500 +0000" stop="20261005035000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
@@ -20752,6 +20977,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261005034000 +0000" stop="20261005040500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
+  <programme start="20261005034500 +0000" stop="20261005041500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">El amanecer de los Croods</title>
+  </programme>
   <programme start="20261005035000 +0000" stop="20261005042000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
@@ -20761,6 +20989,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261005040500 +0000" stop="20261005043000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
+  <programme start="20261005041500 +0000" stop="20261005044000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">El amanecer de los Croods</title>
+  </programme>
   <programme start="20261005042000 +0000" stop="20261005044500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
@@ -20769,6 +21000,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261005043000 +0000" stop="20261005050000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261005044000 +0000" stop="20261005051000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">El Show de Peabody y Sherman</title>
   </programme>
   <programme start="20261005044500 +0000" stop="20261005051500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El amanecer de los Croods</title>
@@ -21159,7 +21393,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <sub-title lang="es">Episode 25</sub-title>
     <episode-num system="onscreen">S7 E25</episode-num>
   </programme>
-  <programme channel="ElChavoTV.mx@HD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="ElChavoTV.mx@HD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>El Chavo TV - Español</title>
   </programme>
   <programme start="20261004021500 +0000" stop="20261004030000 +0000" channel="ElTreceInternacionalLatinAmerica.ar@SD">
@@ -21911,7 +22145,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
     <episode-num system="onscreen">S01E08</episode-num>
   </programme>
-  <programme channel="FashionLifeStyle.ru@SD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="FashionLifeStyle.ru@SD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>Fashion&amp;LifeStyle - English</title>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="FashionTV.in@SD">
@@ -22230,7 +22464,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="ru">Fashion TV</title>
     <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии</desc>
   </programme>
-  <programme channel="FashionTVParisLOriginal.fr@SD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="FashionTVParisLOriginal.fr@SD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>FashionTV Paris L'Original - Français</title>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="GarageTVLatinAmerica.ar@SD">
@@ -22509,7 +22743,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Cambio de rasante</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
   </programme>
-  <programme channel="GlobalFashionChannel.us@SD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="GlobalFashionChannel.us@SD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>Global Fashion Channel - English</title>
   </programme>
   <programme channel="History.br@SD" start="20261003135500 -0300" stop="20261003144500 -0300">
@@ -22794,10 +23028,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="es">El Viejo Oeste con Kevin Costner</title>
     <sub-title lang="es">Rutas de Oregón</sub-title>
   </programme>
-  <programme channel="ISTV.br@SD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="ISTV.br@SD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>ISTV - Português</title>
   </programme>
-  <programme channel="ImpactTVDance.ro@SD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="ImpactTVDance.ro@SD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>Impact TV Dance - Romanian</title>
   </programme>
   <programme channel="LEGOKidsTV.us@SD" start="20261004043400 +0000" stop="20261004050100 +0000">
@@ -23420,6 +23654,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="onscreen">S03E14</episode-num>
     <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR1881130734/6a3d63ec6b53f67e8a96dfaffffd7dc5.jpg</image>
   </programme>
+  <programme start="20261004070100 +0000" stop="20261004080000 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">المداح: أسطورة العشق</title>
+    <sub-title lang="ar">المداح: أسطورة العشق</sub-title>
+    <desc lang="ar">يبدأ صابر فصلا جديدا في حياته بعد انتصاره على مليكة، ولكن سرعان ما تضعه ولادة ابنه في مواجهة جديدة مع عالم الجن.</desc>
+    <date>20230101</date>
+    <category lang="ar">دراما</category>
+    <category lang="ar">غموض</category>
+    <episode-num system="xmltv_ns">2.13.0/1</episode-num>
+    <episode-num system="onscreen">S03E14</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR1881130734/6a3d63ec6b53f67e8a96dfaffffd7dc5.jpg</image>
+  </programme>
   <programme start="20261004080000 +0000" stop="20261004090000 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">حياتي المثالية</title>
     <desc lang="ar">عندما يخل المحامي فواز ببعض بنود زواجه من زميلته المحامية منيرة، تقرر الأخيرة عدم استكمال الزواج، ويصيرا عدوان، وخاصة بعد توليهما قضية طلاق رزان ومسعود، ويدخلان في دوامة عاطفية.</desc>
@@ -23471,6 +23716,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="onscreen">S01E46</episode-num>
     <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SR1663270903/b3d75e34c4008c699e686eeb1e8f283f.jpg</image>
   </programme>
+  <programme start="20261004100000 +0000" stop="20261004110100 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">الممالك الثلاث</title>
+    <sub-title lang="ar">الممالك الثلاث</sub-title>
+    <desc lang="ar">القصة مستوحاة من أشهر الأعمال الأدبية الصينية "رومانس أوف ثري كينجدمز"، وتدور أحداثها خلال حكم مملكة هان التي امتدت من 184 ولغاية 280، وتروي ملاحم المعارك والعلاقات المعقدة التي جمعت بين الممالك الثلاث "وي" و "شو" و "وو".</desc>
+    <date>20100101</date>
+    <category lang="ar">دراما</category>
+    <category lang="ar">تاريخي</category>
+    <episode-num system="xmltv_ns">0.45.0/1</episode-num>
+    <episode-num system="onscreen">S01E46</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SR1663270903/b3d75e34c4008c699e686eeb1e8f283f.jpg</image>
+  </programme>
   <programme start="20261004110000 +0000" stop="20261004120000 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">Three Kingdoms</title>
     <desc lang="ar">مسلسل تاريخي لفترة مهمة من تاريخ الصين، حيث يتعرض لفترة تقسيمها إلى ثلاث ممالك، تنشب الحرب بينهما، وبعد موت الجيل الكبير، ومجيء أجيال أخرى، تستمر الحرب، ولكن يتخللها قصص من الحب والرومانسية بين أمراء وأميرات الممالك الثلاث.</desc>
@@ -23478,6 +23734,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <image>https://media0106.elcinema.com/uploads/_150x200_0a52119c9623ea0cabdc8677a2f052500811faa62576b11056b19c6cfc6dab42.jpg</image>
   </programme>
   <programme start="20261004110000 +0000" stop="20261004120000 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">حياتي المثالية</title>
+    <sub-title lang="ar">حياتي المثالية</sub-title>
+    <desc lang="ar">يتقاطع طريق محامية طلاق مع الرجل الذي كانت ستتزوجه يوما عندما يمثلان صديقيهما في قضية طلاق، ليجدا أنفسهما وسط دوامة كوميدية من الحب والكره والرغبة بالانتقام.</desc>
+    <date>20220101</date>
+    <category lang="ar">كوميدي</category>
+    <category lang="ar">دراما</category>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR1945208781/d1ca77975660ac3597c2ad8f6fa6c2e1.jpg</image>
+  </programme>
+  <programme start="20261004110100 +0000" stop="20261004120500 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">حياتي المثالية</title>
     <sub-title lang="ar">حياتي المثالية</sub-title>
     <desc lang="ar">يتقاطع طريق محامية طلاق مع الرجل الذي كانت ستتزوجه يوما عندما يمثلان صديقيهما في قضية طلاق، ليجدا أنفسهما وسط دوامة كوميدية من الحب والكره والرغبة بالانتقام.</desc>
@@ -23505,6 +23772,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="onscreen">S01E337</episode-num>
     <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SN1494150264/6402f57c36578e0b90b8cfd0fe2606c6.jpg</image>
   </programme>
+  <programme start="20261004120500 +0000" stop="20261004130000 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">حبيبتي.. من تكون؟</title>
+    <sub-title lang="ar">حبيبتي.. من تكون؟</sub-title>
+    <desc lang="ar">في حفل الترحيب بسافي، تمارس ساي طقسا معينا تثير به قلق باكهي. تسعى بهافاني للحصول على عينة حمض نووي من سافي. تطلب الأخيرة من ساي لاحقا الجلوس بجانب فيرات.</desc>
+    <date>20200101</date>
+    <category lang="ar">دراما</category>
+    <category lang="ar">رومانسي</category>
+    <episode-num system="xmltv_ns">0.336.0/1</episode-num>
+    <episode-num system="onscreen">S01E337</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SN1494150264/6402f57c36578e0b90b8cfd0fe2606c6.jpg</image>
+  </programme>
   <programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">حياتي المثالية</title>
     <desc lang="ar">عندما يخل المحامي فواز ببعض بنود زواجه من زميلته المحامية منيرة، تقرر الأخيرة عدم استكمال الزواج، ويصيرا عدوان، وخاصة بعد توليهما قضية طلاق رزان ومسعود، ويدخلان في دوامة عاطفية.</desc>
@@ -23512,6 +23790,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <image>https://media0106.elcinema.com/uploads/_150x200_8d6d2402d86bdb8312ec234b30447b63ad1efcfa6bab60aa8291e6ffd6515574.jpg</image>
   </programme>
   <programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">بيت العنكبوت</title>
+    <sub-title lang="ar">بيت العنكبوت</sub-title>
+    <desc lang="ar">يعمل الشقيقان راشد وفيصل مع والدهما في تجارة الذهب، لكن طمعهما في المال والسلطة يزرع بذور عداوة بينهما، ستحرص زوجة راشد نورا على تغذية نارها بمهارة...</desc>
+    <date>20240101</date>
+    <category lang="ar">دراما</category>
+    <category lang="ar">اجتماعي</category>
+    <episode-num system="xmltv_ns">0.18.0/1</episode-num>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR918623599/683d65cba215750434cabcca70424e4f.jpg</image>
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004140100 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">بيت العنكبوت</title>
     <sub-title lang="ar">بيت العنكبوت</sub-title>
     <desc lang="ar">يعمل الشقيقان راشد وفيصل مع والدهما في تجارة الذهب، لكن طمعهما في المال والسلطة يزرع بذور عداوة بينهما، ستحرص زوجة راشد نورا على تغذية نارها بمهارة...</desc>
@@ -23539,6 +23828,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="onscreen">S01E47</episode-num>
     <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SR1663270903/b3d75e34c4008c699e686eeb1e8f283f.jpg</image>
   </programme>
+  <programme start="20261004140100 +0000" stop="20261004150000 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">الممالك الثلاث</title>
+    <sub-title lang="ar">الممالك الثلاث</sub-title>
+    <desc lang="ar">القصة مستوحاة من أشهر الأعمال الأدبية الصينية "رومانس أوف ثري كينجدمز"، وتدور أحداثها خلال حكم مملكة هان التي امتدت من 184 ولغاية 280، وتروي ملاحم المعارك والعلاقات المعقدة التي جمعت بين الممالك الثلاث "وي" و "شو" و "وو".</desc>
+    <date>20100101</date>
+    <category lang="ar">دراما</category>
+    <category lang="ar">تاريخي</category>
+    <episode-num system="xmltv_ns">0.46.0/1</episode-num>
+    <episode-num system="onscreen">S01E47</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SR1663270903/b3d75e34c4008c699e686eeb1e8f283f.jpg</image>
+  </programme>
   <programme start="20261004150000 +0000" stop="20261004160000 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">بيت العنكبوت</title>
     <desc lang="ar">يعمل الشقيقان راشد وفيصل مع والدهما في تجارة الذهب، لكن طمع راشد في المال والسلطة يزرع بذور عداوة بينهما، وخاصة عندما تبث نورة زوجة راشد السم في علاقتهما ببعضهما البعض وتتسبب في وفاة عبير زوجة فيصل.</desc>
@@ -23546,6 +23846,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <image>https://media0106.elcinema.com/uploads/_150x200_62e22ede2b3ce42710bb0f3fce4fe5b0c8e68d3f84bc14a226d94fd39f8e7e7d.jpg</image>
   </programme>
   <programme start="20261004150000 +0000" stop="20261004160000 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">وتقابل حبيب</title>
+    <sub-title lang="ar">وتقابل حبيب</sub-title>
+    <desc lang="ar">تترك ليل زوجها بعد صدمة زواجه السري من امرأة أخرى، لتجد نفسها بعدها غارقة في حب شقيقه. بينما تحاول إخفاء علاقتهما، تكتشف جانبا إجراميا للزوجة الثانية، فتقرر خوض معركة على جبهتي الحب والعدالة.</desc>
+    <date>20250101</date>
+    <category lang="ar">دراما</category>
+    <category lang="ar">اجتماعي</category>
+    <episode-num system="xmltv_ns">0.16.0/1</episode-num>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR1492680658/9ab59a10dc964a3a5f972cf48971df01.jpg</image>
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004160100 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">وتقابل حبيب</title>
     <sub-title lang="ar">وتقابل حبيب</sub-title>
     <desc lang="ar">تترك ليل زوجها بعد صدمة زواجه السري من امرأة أخرى، لتجد نفسها بعدها غارقة في حب شقيقه. بينما تحاول إخفاء علاقتهما، تكتشف جانبا إجراميا للزوجة الثانية، فتقرر خوض معركة على جبهتي الحب والعدالة.</desc>
@@ -23573,6 +23884,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="onscreen">S01E11</episode-num>
     <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR1945208781/d1ca77975660ac3597c2ad8f6fa6c2e1.jpg</image>
   </programme>
+  <programme start="20261004160100 +0000" stop="20261004170100 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">حياتي المثالية</title>
+    <sub-title lang="ar">حياتي المثالية</sub-title>
+    <desc lang="ar">يتقاطع طريق محامية طلاق مع الرجل الذي كانت ستتزوجه يوما عندما يمثلان صديقيهما في قضية طلاق، ليجدا أنفسهما وسط دوامة كوميدية من الحب والكره والرغبة بالانتقام.</desc>
+    <date>20220101</date>
+    <category lang="ar">كوميدي</category>
+    <category lang="ar">دراما</category>
+    <episode-num system="xmltv_ns">0.10.0/1</episode-num>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR1945208781/d1ca77975660ac3597c2ad8f6fa6c2e1.jpg</image>
+  </programme>
   <programme start="20261004170000 +0000" stop="20261004180000 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">المداح ج3: أسطورة العشق</title>
     <desc lang="ar">بعد ساعات من ولادة طفله، يجد صابر المداح نفسه على وشك خوض حرب جديدة مع الجن، حيث يشكل ابنه خطرًا كبيرًا على حياة صابر ومن حوله.</desc>
@@ -23580,6 +23902,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <image>https://media0106.elcinema.com/uploads/_150x200_0d16f91d9bf2efd4f3d916f37ec9f92b1881c4e6c1c6f9cf43d1d57680bd2072.jpg</image>
   </programme>
   <programme start="20261004170000 +0000" stop="20261004180000 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">الحفرة</title>
+    <sub-title lang="ar">الحفرة</sub-title>
+    <desc lang="ar">قصة تدور أحداثها في حي تسيطر عليه الجريمة حيث يتوجب على عاشقين مواجهة تحديات عائلية ومجتمعية للاستمرار في علاقتهما.</desc>
+    <date>20190101</date>
+    <category lang="ar">أكشن</category>
+    <category lang="ar">دراما</category>
+    <episode-num system="xmltv_ns">2.67.0/1</episode-num>
+    <episode-num system="onscreen">S03E68</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SR1897331936/351eab7b0e19fe50d32bbcfea1716730.jpg</image>
+  </programme>
+  <programme start="20261004170100 +0000" stop="20261004180000 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">الحفرة</title>
     <sub-title lang="ar">الحفرة</sub-title>
     <desc lang="ar">قصة تدور أحداثها في حي تسيطر عليه الجريمة حيث يتوجب على عاشقين مواجهة تحديات عائلية ومجتمعية للاستمرار في علاقتهما.</desc>
@@ -23601,7 +23934,29 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="onscreen">S01E20</episode-num>
     <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR918623599/683d65cba215750434cabcca70424e4f.jpg</image>
   </programme>
+  <programme start="20261004180000 +0000" stop="20261004190500 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">بيت العنكبوت</title>
+    <sub-title lang="ar">بيت العنكبوت</sub-title>
+    <desc lang="ar">يعمل الشقيقان راشد وفيصل مع والدهما في تجارة الذهب، لكن طمعهما في المال والسلطة يزرع بذور عداوة بينهما، ستحرص زوجة راشد نورا على تغذية نارها بمهارة...</desc>
+    <date>20240101</date>
+    <category lang="ar">دراما</category>
+    <category lang="ar">اجتماعي</category>
+    <episode-num system="xmltv_ns">0.19.0/1</episode-num>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR918623599/683d65cba215750434cabcca70424e4f.jpg</image>
+  </programme>
   <programme start="20261004190000 +0000" stop="20261004200000 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">حبيبتي.. من تكون؟</title>
+    <sub-title lang="ar">حبيبتي.. من تكون؟</sub-title>
+    <desc lang="ar">يتحدى فيناياك سافي بتناول الطعام الحار. ينشأ لاحقا خلاف بين ساي وفيرات إثر هدية يهديها الأخير لسافي.</desc>
+    <date>20200101</date>
+    <category lang="ar">دراما</category>
+    <category lang="ar">رومانسي</category>
+    <episode-num system="xmltv_ns">0.337.0/1</episode-num>
+    <episode-num system="onscreen">S01E338</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SN1494150264/6402f57c36578e0b90b8cfd0fe2606c6.jpg</image>
+  </programme>
+  <programme start="20261004190500 +0000" stop="20261004200000 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">حبيبتي.. من تكون؟</title>
     <sub-title lang="ar">حبيبتي.. من تكون؟</sub-title>
     <desc lang="ar">يتحدى فيناياك سافي بتناول الطعام الحار. ينشأ لاحقا خلاف بين ساي وفيرات إثر هدية يهديها الأخير لسافي.</desc>
@@ -23623,7 +23978,29 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="onscreen">S03E15</episode-num>
     <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR1881130734/6a3d63ec6b53f67e8a96dfaffffd7dc5.jpg</image>
   </programme>
+  <programme start="20261004200000 +0000" stop="20261004210100 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">المداح: أسطورة العشق</title>
+    <sub-title lang="ar">المداح: أسطورة العشق</sub-title>
+    <desc lang="ar">يبدأ صابر فصلا جديدا في حياته بعد انتصاره على مليكة، ولكن سرعان ما تضعه ولادة ابنه في مواجهة جديدة مع عالم الجن.</desc>
+    <date>20230101</date>
+    <category lang="ar">دراما</category>
+    <category lang="ar">غموض</category>
+    <episode-num system="xmltv_ns">2.14.0/1</episode-num>
+    <episode-num system="onscreen">S03E15</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR1881130734/6a3d63ec6b53f67e8a96dfaffffd7dc5.jpg</image>
+  </programme>
   <programme start="20261004210000 +0000" stop="20261004220000 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">باب الحارة</title>
+    <sub-title lang="ar">باب الحارة</sub-title>
+    <desc lang="ar">يصل أبو دياب إلى الحارة ويفاجأ بوجود مأمون، فيتذكر الماضي الأسود للرجل، ويقرر التنكر على هيئة زبال، ترى ما هو السر الذي يخفيه أبو دياب؟ وما هي حقيقة مأمون؟ أسئلة كثيرة أجوبتها في جعبة زبال الحارة.</desc>
+    <date>20100101</date>
+    <category lang="ar">دراما</category>
+    <category lang="ar">اجتماعي</category>
+    <episode-num system="xmltv_ns">4.0.0/1</episode-num>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SR74474822/36329488722e38ba02675fcdebddef88.jpg</image>
+  </programme>
+  <programme start="20261004210100 +0000" stop="20261004220100 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">باب الحارة</title>
     <sub-title lang="ar">باب الحارة</sub-title>
     <desc lang="ar">يصل أبو دياب إلى الحارة ويفاجأ بوجود مأمون، فيتذكر الماضي الأسود للرجل، ويقرر التنكر على هيئة زبال، ترى ما هو السر الذي يخفيه أبو دياب؟ وما هي حقيقة مأمون؟ أسئلة كثيرة أجوبتها في جعبة زبال الحارة.</desc>
@@ -23651,6 +24028,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="onscreen">S01E47</episode-num>
     <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SR1663270903/b3d75e34c4008c699e686eeb1e8f283f.jpg</image>
   </programme>
+  <programme start="20261004220100 +0000" stop="20261004230000 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">الممالك الثلاث</title>
+    <sub-title lang="ar">الممالك الثلاث</sub-title>
+    <desc lang="ar">القصة مستوحاة من أشهر الأعمال الأدبية الصينية "رومانس أوف ثري كينجدمز"، وتدور أحداثها خلال حكم مملكة هان التي امتدت من 184 ولغاية 280، وتروي ملاحم المعارك والعلاقات المعقدة التي جمعت بين الممالك الثلاث "وي" و "شو" و "وو".</desc>
+    <date>20100101</date>
+    <category lang="ar">دراما</category>
+    <category lang="ar">تاريخي</category>
+    <episode-num system="xmltv_ns">0.46.0/1</episode-num>
+    <episode-num system="onscreen">S01E47</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SR1663270903/b3d75e34c4008c699e686eeb1e8f283f.jpg</image>
+  </programme>
   <programme start="20261004230000 +0000" stop="20261005000000 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">المداح ج3: أسطورة العشق</title>
     <desc lang="ar">بعد ساعات من ولادة طفله، يجد صابر المداح نفسه على وشك خوض حرب جديدة مع الجن، حيث يشكل ابنه خطرًا كبيرًا على حياة صابر ومن حوله.</desc>
@@ -23658,6 +24046,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <image>https://media0106.elcinema.com/uploads/_150x200_0d16f91d9bf2efd4f3d916f37ec9f92b1881c4e6c1c6f9cf43d1d57680bd2072.jpg</image>
   </programme>
   <programme start="20261004230000 +0000" stop="20261005000000 +0000" channel="MBCDrama.ae@SD">
+    <title lang="ar">بيت العنكبوت</title>
+    <sub-title lang="ar">بيت العنكبوت</sub-title>
+    <desc lang="ar">يعمل الشقيقان راشد وفيصل مع والدهما في تجارة الذهب، لكن طمعهما في المال والسلطة يزرع بذور عداوة بينهما، ستحرص زوجة راشد نورا على تغذية نارها بمهارة...</desc>
+    <date>20240101</date>
+    <category lang="ar">دراما</category>
+    <category lang="ar">اجتماعي</category>
+    <episode-num system="xmltv_ns">0.19.0/1</episode-num>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-PR918623599/683d65cba215750434cabcca70424e4f.jpg</image>
+  </programme>
+  <programme start="20261004230000 +0000" stop="20261005000100 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">بيت العنكبوت</title>
     <sub-title lang="ar">بيت العنكبوت</sub-title>
     <desc lang="ar">يعمل الشقيقان راشد وفيصل مع والدهما في تجارة الذهب، لكن طمعهما في المال والسلطة يزرع بذور عداوة بينهما، ستحرص زوجة راشد نورا على تغذية نارها بمهارة...</desc>
@@ -23860,7 +24259,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Occupational Reality</category>
     <icon src="https://images.pluto.tv/series/666312601c02820013efe934/tile_1769469843025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="MegaTV.py@SD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="MegaTV.py@SD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>Mega TV - Español</title>
   </programme>
   <programme start="20261004022000 +0000" stop="20261004030000 +0000" channel="MusicBoxBrazil.br@SD">
@@ -24909,24 +25308,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="pt">Music</category>
     <image>https://cdn.mitvstatic.com/programs/br_music-drops_l_m.jpg</image>
   </programme>
-  <programme start="20261004004500 +0000" stop="20261004024000 +0000" channel="MyTimeMovieNetworkEast.us@SD">
-    <title lang="en">Fatal Memories</title>
-    <desc lang="en">A woman tries to help her sister remember the events surrounding the stabbing death of their mother.</desc>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/648cf5125b9259398c3dfd13028569a5/rokuFeed/assets/e22b52479152551ebfef059f35c497f5.jpg" />
-    <rating system="Motion Picture Association of America">
-      <value>UR</value>
-    </rating>
-  </programme>
-  <programme start="20261004004534 +0000" stop="20261004024012 +0000" channel="MyTimeMovieNetworkEast.us@SD">
-    <title lang="en">Fatal Memories</title>
-    <desc lang="en">In this thriller, a woman tries to help her sister recall the events of the fatal stabbing of their mother.</desc>
-    <date>20150305</date>
-    <category lang="en">Movies</category>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-    <image>https://provider-static.plex.tv/epg/cms/production/1be8da4c-3ba8-48b6-98ea-e0272c6807ad/MT_PLEX_US_2000x3000_-_Sam_Abraham.jpg</image>
-  </programme>
   <programme start="20261004024000 +0000" stop="20261004042000 +0000" channel="MyTimeMovieNetworkEast.us@SD">
     <title lang="en">Final Girl</title>
     <desc lang="en">A group of sadistic boys lures a girl to the woods only to learn that she's tougher than she looks.</desc>
@@ -25589,7 +25970,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="pt">Anime Series</category>
     <icon src="https://images.pluto.tv/series/5f89ec9e7ecf48001a34156c/tile_1778519162660.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="Nickelodeon.br@SD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="Nickelodeon.br@SD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>Nickelodeon - Português</title>
   </programme>
   <programme channel="ParadiseHotel.se@DK" start="20261004043729 +0000" stop="20261004051836 +0000">
@@ -26032,13 +26413,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
-  </programme>
-  <programme channel="ParadiseHotel.se@SE" start="20261004042503 +0000" stop="20261004045144 +0000">
-    <title>Paradise Hotel, säsong 17</title>
-    <sub-title>Avsnitt 1745</sub-title>
-    <desc>Hur dålig vän var Tilde egentligen? Thea förklarar varför hon blev så arg på Tilde. Angelo läxar upp grabbarna och Emelie och Moa ryker ihop i studion. Kommer Moa få tillbaka sina skor?</desc>
-    <category>Reality</category>
-    <category>Competition Reality</category>
   </programme>
   <programme channel="ParadiseHotel.se@SE" start="20261004045144 +0000" stop="20261004051842 +0000">
     <title>Paradise Hotel, säsong 17</title>
@@ -26558,11 +26932,20 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004060000 +0000" stop="20261004070000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">En democracia</title>
   </programme>
+  <programme start="20261004060000 +0000" stop="20261004063000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Maitei che retAMe</title>
+  </programme>
+  <programme start="20261004063000 +0000" stop="20261004070000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Nuestra música</title>
+  </programme>
   <programme start="20261004070000 +0000" stop="20261004073000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Curiosidades</title>
   </programme>
   <programme start="20261004070000 +0000" stop="20261004073000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Maitei che retAMe</title>
+  </programme>
+  <programme start="20261004070000 +0000" stop="20261004080000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Purahéi che retâme</title>
   </programme>
   <programme start="20261004073000 +0000" stop="20261004080000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Nuestra música</title>
@@ -26575,6 +26958,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004080000 +0000" stop="20261004090000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Purahéi che retâme</title>
+  </programme>
+  <programme start="20261004080000 +0000" stop="20261004100000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Lo mejor de La mañana nacional</title>
   </programme>
   <programme start="20261004083000 +0000" stop="20261004090000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Nuestra música</title>
@@ -26597,17 +26983,26 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004100000 +0000" stop="20261004110000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Purahéi che retâme</title>
   </programme>
+  <programme start="20261004100000 +0000" stop="20261004110000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">El payaso Plim Plim Un héroe del corazón</title>
+  </programme>
   <programme start="20261004110000 +0000" stop="20261004130000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Lo mejor de La mañana nacional</title>
   </programme>
   <programme start="20261004110000 +0000" stop="20261004120000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">El payaso Plim Plim Un héroe del corazón</title>
   </programme>
+  <programme start="20261004110000 +0000" stop="20261004120000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Curiosidades</title>
+  </programme>
   <programme start="20261004120000 +0000" stop="20261004130000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">El payaso Plim Plim Un héroe del corazón</title>
   </programme>
   <programme start="20261004120000 +0000" stop="20261004130000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Curiosidades</title>
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004130000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Acústicos</title>
   </programme>
   <programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Curiosidades</title>
@@ -26617,6 +27012,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Acústicos</title>
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004133000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Paraguay deportivo</title>
+  </programme>
+  <programme start="20261004133000 +0000" stop="20261004140000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Discovery en Guaraní</title>
   </programme>
   <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Acústicos</title>
@@ -26629,6 +27030,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004140000 +0000" stop="20261004143000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Paraguay deportivo</title>
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Sinfónica Nacional</title>
   </programme>
   <programme start="20261004143000 +0000" stop="20261004150000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Nuestra música</title>
@@ -26647,6 +27051,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004150000 +0000" stop="20261004160000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Sinfónica Nacional</title>
+  </programme>
+  <programme start="20261004150000 +0000" stop="20261004170000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Ñañembyaty</title>
   </programme>
   <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Discovery en Guaraní</title>
@@ -26672,6 +27079,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004170000 +0000" stop="20261004180000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Sinfónica Nacional</title>
   </programme>
+  <programme start="20261004170000 +0000" stop="20261004180000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Plenamente</title>
+  </programme>
   <programme start="20261004180000 +0000" stop="20261004200000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Ñañembyaty</title>
   </programme>
@@ -26681,6 +27091,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004180000 +0000" stop="20261004190000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Plenamente</title>
   </programme>
+  <programme start="20261004180000 +0000" stop="20261004190000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Hablemos de ciencia</title>
+  </programme>
   <programme start="20261004190000 +0000" stop="20261004200000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Plenamente</title>
   </programme>
@@ -26689,6 +27102,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004190000 +0000" stop="20261004200000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Hablemos de ciencia</title>
+  </programme>
+  <programme start="20261004190000 +0000" stop="20261004200000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Tribuna</title>
   </programme>
   <programme start="20261004200000 +0000" stop="20261004210000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Hablemos de ciencia</title>
@@ -26702,6 +27118,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004200000 +0000" stop="20261004210000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Tribuna</title>
   </programme>
+  <programme start="20261004200000 +0000" stop="20261004210000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Curiosidades</title>
+  </programme>
   <programme start="20261004210000 +0000" stop="20261004220000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Tribuna</title>
   </programme>
@@ -26713,6 +27132,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004210000 +0000" stop="20261004220000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Curiosidades</title>
+  </programme>
+  <programme start="20261004210000 +0000" stop="20261004220000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Cazatalentos</title>
   </programme>
   <programme start="20261004213000 +0000" stop="20261004220000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Discovery en Guaraní</title>
@@ -26729,6 +27151,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004220000 +0000" stop="20261004230000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Cazatalentos</title>
   </programme>
+  <programme start="20261004220000 +0000" stop="20261004230000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Resurgir</title>
+  </programme>
   <programme start="20261004230000 +0000" stop="20261005000000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Cazatalentos</title>
   </programme>
@@ -26741,6 +27166,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004230000 +0000" stop="20261005000000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Resurgir</title>
   </programme>
+  <programme start="20261004230000 +0000" stop="20261005000000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Paraguay VIP</title>
+  </programme>
   <programme start="20261005000000 +0000" stop="20261005010000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Resurgir</title>
   </programme>
@@ -26749,6 +27177,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261005000000 +0000" stop="20261005010000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Paraguay VIP</title>
+  </programme>
+  <programme start="20261005000000 +0000" stop="20261005010000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Expedición fútbol</title>
   </programme>
   <programme start="20261005010000 +0000" stop="20261005020000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Paraguay VIP</title>
@@ -26761,6 +27192,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261005010000 +0000" stop="20261005020000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Expedición fútbol</title>
+  </programme>
+  <programme start="20261005010000 +0000" stop="20261005060000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Festivales / Conciertos / Musicales</title>
   </programme>
   <programme start="20261005020000 +0000" stop="20261005030000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Expedición fútbol</title>
@@ -30294,13 +30728,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Adventures</category>
     <icon src="https://images.pluto.tv/series/6752f820c683af0013d0c3db/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="PlutoTVKidsClassics.de@ES" start="20261004042000 +0000" stop="20261004045000 +0000">
-    <title>Pluto TV Kids Classics</title>
-    <sub-title>Pluto TV Kids Classics</sub-title>
-    <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
-    <category>Children &amp; Family</category>
-    <category>Cartoons</category>
-  </programme>
   <programme channel="PlutoTVKidsClassics.de@ES" start="20261004045000 +0000" stop="20261004052000 +0000">
     <title>Pluto TV Kids Classics</title>
     <sub-title>Pluto TV Kids Classics</sub-title>
@@ -31764,13 +32191,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="fr">Anime</category>
     <category lang="fr">Anime Sci-Fi</category>
     <icon src="https://images.pluto.tv/series/633c0354d6ee50001372852d/tile_1768196883542.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-  </programme>
-  <programme channel="PlutoTVSciFi.de@ES" start="20261004030912 +0000" stop="20261004045012 +0000">
-    <title>Titanic II</title>
-    <sub-title>Titanic II</sub-title>
-    <desc>On the 100th anniversary of the original voyage, a modern luxury liner christened "Titanic II," follows the path of its namesake. But when a tsunami hurls an ice berg into the new ship's path, the passengers and crew must fight to avoid a similar fate.</desc>
-    <category>Action &amp; Adventure</category>
-    <category>Deadly Disasters</category>
   </programme>
   <programme channel="PlutoTVSciFi.de@ES" start="20261004045012 +0000" stop="20261004062812 +0000">
     <title>Jurassic Games</title>
@@ -35731,7 +36151,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="fr">Documentaire de société</category>
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/2/16009205.jpg" />
   </programme>
-  <programme channel="RaiSudtirol.it@SD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="RaiSudtirol.it@SD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>Rai Sudtirol - Deutsch</title>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004041000 +0000" channel="RaiWorldPremium.it@SD">
@@ -37249,10 +37669,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Thriller</category>
     <image>https://zpapi.zetatv.com.uy/media/images/d2673ae2406250fe0ca529875da6372d.jpg</image>
   </programme>
-  <programme start="20261004015119 +0000" stop="20261004024223 +0000" channel="SonyOneBlacklist.fr@HD">
-    <title lang="fr">The Blacklist</title>
-    <desc lang="fr">Liz et la Task Force essayent de découvrir la vérité sur un assassinat dans un ultime effort pour sauver la vie de Red.</desc>
-  </programme>
   <programme start="20261004024223 +0000" stop="20261004033345 +0000" channel="SonyOneBlacklist.fr@HD">
     <title lang="fr">The Blacklist</title>
     <desc lang="fr">Cooper met en jeu sa réputation en faisant appel à la Maison-Blanche pour défendre Red. De leur côté, Liz et la Task Force reprennent leurs recherches sur Le Corse, un homme de la blacklist lié à un complot international.</desc>
@@ -38089,7 +38505,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261003235100 -0500" stop="20261004004200 -0500" channel="TNTNovelas.us@Brazil">
     <title lang="es">Olvídame si puedes</title>
   </programme>
-  <programme channel="TVCamara.py@SD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="TVCamara.py@SD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>TV Camara - Español</title>
   </programme>
   <programme start="20261003111000 -0500" stop="20261003130500 -0500" channel="TVEInternacionalAmerica.es@HD">
@@ -38277,15 +38693,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p14519311_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="es" />
   </programme>
-  <programme start="20261004010000 +0000" stop="20261004024500 +0000" channel="TelefeBuenosAires.ar@SD">
-    <title lang="es">Argentina vs. Burkina Faso</title>
-  </programme>
-  <programme start="20261004020000 +0000" stop="20261004024500 +0000" channel="TelefeBuenosAires.ar@SD">
-    <title lang="es">PH: Podemos hablar</title>
-    <desc lang="es">Distintas personalidades visitan a Andy en un encuentro para hablar de todo y escucharse unos a otros, y se sorprenden al descubrir que tienen mucho más en común de lo que piensan.</desc>
-    <category lang="es">Talk Show</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_ph-podemos-hablar-1_l_m.jpg</image>
-  </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Tierras</title>
   </programme>
@@ -38376,6 +38783,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004064500 +0000" stop="20261004100000 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">El Chavo y Chapulín</title>
   </programme>
+  <programme start="20261004070000 +0000" stop="20261004083000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Disney Junior</title>
+  </programme>
   <programme start="20261004074500 +0000" stop="20261004083000 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Fútbol: Post</title>
   </programme>
@@ -38384,6 +38794,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004083000 +0000" stop="20261004090000 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Tierras</title>
+  </programme>
+  <programme start="20261004083000 +0000" stop="20261004143000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">El Chavo y Chapulín</title>
   </programme>
   <programme start="20261004090000 +0000" stop="20261004103000 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Disney Junior</title>
@@ -38424,6 +38837,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004114500 +0000" stop="20261004150000 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">El Chavo y Chapulín</title>
   </programme>
+  <programme start="20261004143000 +0000" stop="20261004180000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">La peña de Morfi</title>
+  </programme>
   <programme start="20261004150000 +0000" stop="20261004163000 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Disney Junior</title>
   </programme>
@@ -38439,8 +38855,14 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004173000 +0000" stop="20261004210000 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">La peña de Morfi</title>
   </programme>
+  <programme start="20261004180000 +0000" stop="20261004194500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Papá por siempre</title>
+  </programme>
   <programme start="20261004190000 +0000" stop="20261004204500 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Papá por siempre</title>
+  </programme>
+  <programme start="20261004194500 +0000" stop="20261004210000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">El Muro Infernal</title>
   </programme>
   <programme start="20261004200000 +0000" stop="20261004214500 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Papá por siempre</title>
@@ -38450,6 +38872,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004210000 +0000" stop="20261004224500 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Papá por siempre</title>
+  </programme>
+  <programme start="20261004210000 +0000" stop="20261004231500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Pasapalabra</title>
   </programme>
   <programme start="20261004214500 +0000" stop="20261004230000 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">El Muro Infernal</title>
@@ -38472,11 +38897,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004230000 +0000" stop="20261005011500 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Pasapalabra</title>
   </programme>
+  <programme start="20261004231500 +0000" stop="20261005004500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">MasterChef celebrity: Gala de eliminaciones</title>
+  </programme>
   <programme start="20261005000000 +0000" stop="20261005021500 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Pasapalabra</title>
   </programme>
   <programme start="20261005001500 +0000" stop="20261005014500 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">MasterChef celebrity: Gala de eliminaciones</title>
+  </programme>
+  <programme start="20261005004500 +0000" stop="20261005011500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Juego chino</title>
   </programme>
   <programme start="20261005011500 +0000" stop="20261005024500 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">MasterChef celebrity: Gala de eliminaciones</title>
@@ -38486,6 +38917,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc lang="es">Esta edición de MasterChef contará con participantes famosos. Ellos tendrán que atravesar diferentes desafíos y demostrar sus habilidades culinarias para permanecer en el certamen, mientras son evaluados por un exigente jurado.</desc>
     <category lang="es">Reality Show</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
+  </programme>
+  <programme start="20261005011500 +0000" stop="20261005043000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">La peña de Morfi</title>
   </programme>
   <programme start="20261005014500 +0000" stop="20261005021500 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Juego chino</title>
@@ -38525,6 +38959,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261005041500 +0000" stop="20261005073000 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">La peña de Morfi</title>
+  </programme>
+  <programme start="20261005043000 +0000" stop="20261005051500 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Juego chino</title>
   </programme>
   <programme channel="TelefeInternacional.ar@SD" start="20261003160000 +0000" stop="20261003173000 +0000">
     <title lang="es">Live: El noticiero de la gente</title>
@@ -38678,12 +39115,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p14519311_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="es" />
   </programme>
-  <programme start="20261004000000 +0000" stop="20261004024500 +0000" channel="Telefuturo.py@SD">
-    <title lang="es">El conejo</title>
-    <desc lang="es">El entretenimiento para toda la familia en el prime time del canal. Los sábados por la noche el televidente, con dinámicas y juegos en piso, puede participar de innumerables promociones con sorteos, para acceder a interesantes premios.</desc>
-    <category lang="es">Entretenimientos</category>
-    <image>https://cdn.mitvstatic.com/programs/pe_el-conejo_l_m.jpg</image>
-  </programme>
   <programme start="20261004010000 +0000" stop="20261004034500 +0000" channel="Telefuturo.py@SD">
     <title lang="es">El conejo</title>
   </programme>
@@ -38720,8 +39151,14 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004060000 +0000" stop="20261004084500 +0000" channel="Telefuturo.py@SD">
     <title lang="es">El conejo</title>
   </programme>
+  <programme start="20261004062000 +0000" stop="20261004080000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">PY Vota - Elecciones municipales 2026</title>
+  </programme>
   <programme start="20261004072000 +0000" stop="20261004090000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">PY Vota - Elecciones municipales 2026</title>
+  </programme>
+  <programme start="20261004080000 +0000" stop="20261004091500 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">Misa de Caacupé</title>
   </programme>
   <programme start="20261004082000 +0000" stop="20261004100000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">PY Vota - Elecciones municipales 2026</title>
@@ -38734,6 +39171,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004090000 +0000" stop="20261004101500 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Misa de Caacupé</title>
+  </programme>
+  <programme start="20261004091500 +0000" stop="20261004120000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">La Lupa</title>
   </programme>
   <programme start="20261004092000 +0000" stop="20261004110000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">PY Vota - Elecciones municipales 2026</title>
@@ -38756,11 +39196,17 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">- Especial - Elecciones municipales</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
   </programme>
+  <programme start="20261004120000 +0000" stop="20261004130000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">Arriba el finde</title>
+  </programme>
   <programme start="20261004121500 +0000" stop="20261004150000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">La Lupa</title>
   </programme>
   <programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Arriba el finde</title>
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004150000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">Musicales Terere Jere</title>
   </programme>
   <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Arriba el finde</title>
@@ -38783,6 +39229,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004150000 +0000" stop="20261004160000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Arriba el finde</title>
   </programme>
+  <programme start="20261004150000 +0000" stop="20261004160000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">PY Vota - Elecciones municipales 2026</title>
+  </programme>
   <programme start="20261004160000 +0000" stop="20261004180000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Musicales Terere Jere</title>
   </programme>
@@ -38791,6 +39240,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">PY Vota - Elecciones municipales 2026</title>
+  </programme>
+  <programme start="20261004160000 +0000" stop="20261004180000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">Extraordinario</title>
   </programme>
   <programme start="20261004170000 +0000" stop="20261004180000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">PY Vota - Elecciones municipales 2026</title>
@@ -38807,6 +39259,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004180000 +0000" stop="20261004190000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">PY Vota - Elecciones municipales 2026</title>
   </programme>
+  <programme start="20261004180000 +0000" stop="20261004200000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">PY Vota - Elecciones municipales 2026</title>
+  </programme>
   <programme start="20261004190000 +0000" stop="20261004210000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Extraordinario</title>
   </programme>
@@ -38819,6 +39274,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004200000 +0000" stop="20261004210000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Arriba el finde</title>
   </programme>
+  <programme start="20261004200000 +0000" stop="20261004203000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">Telebingo</title>
+  </programme>
+  <programme start="20261004203000 +0000" stop="20261004213000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">Cobra Kai</title>
+  </programme>
   <programme start="20261004210000 +0000" stop="20261004230000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">PY Vota - Elecciones municipales 2026</title>
   </programme>
@@ -38830,6 +39291,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004213000 +0000" stop="20261004223000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Cobra Kai</title>
+  </programme>
+  <programme start="20261004213000 +0000" stop="20261005000000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">Políticamente Incorrecto</title>
   </programme>
   <programme start="20261004220000 +0000" stop="20261004223000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Telebingo</title>
@@ -38861,11 +39325,20 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261005000000 +0000" stop="20261005020000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Extraordinario</title>
   </programme>
+  <programme start="20261005000000 +0000" stop="20261005010000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">Fútbol a lo grande</title>
+  </programme>
   <programme start="20261005003000 +0000" stop="20261005030000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Políticamente Incorrecto</title>
   </programme>
   <programme start="20261005010000 +0000" stop="20261005020000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Fútbol a lo grande</title>
+  </programme>
+  <programme start="20261005010000 +0000" stop="20261005014500 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">Princesa valiente</title>
+  </programme>
+  <programme start="20261005014500 +0000" stop="20261005062000 +0000" channel="Telefuturo.py@SD">
+    <title lang="es">Fin de transmisión</title>
   </programme>
   <programme start="20261005020000 +0000" stop="20261005030000 +0000" channel="Telefuturo.py@SD">
     <title lang="es">Fútbol a lo grande</title>
@@ -39050,7 +39523,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="pt">Variety Show</category>
     <icon src="https://images.pluto.tv/series/68dabb94a44f8dcccd05765a/tile_1759181661440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="ThePetCollective.us@Mexico" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="ThePetCollective.us@Mexico" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>The Pet Collective - English</title>
   </programme>
   <programme start="20261003165911 +0000" stop="20261003173111 +0000" channel="ThePetCollective.us@Spain">
@@ -40289,7 +40762,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Entertainment</category>
     <category>Entertainment</category>
   </programme>
-  <programme channel="TotalmusicDance.uk@HD" start="20261003164507 +0000" stop="20261005164507 +0000">
+  <programme channel="TotalmusicDance.uk@HD" start="20261003165454 +0000" stop="20261005165454 +0000">
     <title>Totalmusic Dance - Español</title>
   </programme>
   <programme start="20261004013000 +0000" stop="20261004031500 +0000" channel="Trece.es@SD">
@@ -40447,6 +40920,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004050000 +0000" stop="20261004070000 +0000" channel="Trece.py@SD">
     <title lang="es">Fútbol Partido amistoso</title>
   </programme>
+  <programme start="20261004050000 +0000" stop="20261004060000 +0000" channel="Trece.py@SD">
+    <title lang="es">Ciclo de cultura</title>
+  </programme>
   <programme start="20261004053000 +0000" stop="20261004054500 +0000" channel="Trece.py@SD">
     <title lang="es">Sorteo de la quiniela</title>
   </programme>
@@ -40461,6 +40937,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004060000 +0000" stop="20261004070000 +0000" channel="Trece.py@SD">
     <title lang="es">Ciclo de cultura</title>
+  </programme>
+  <programme start="20261004060000 +0000" stop="20261004100000 +0000" channel="Trece.py@SD">
+    <title lang="es">Elecciones municipales 2026 - Paraguay elige</title>
   </programme>
   <programme start="20261004070000 +0000" stop="20261004080000 +0000" channel="Trece.py@SD">
     <title lang="es">Ciclo de cultura</title>
@@ -40483,17 +40962,29 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004090000 +0000" stop="20261004110000 +0000" channel="Trece.py@SD">
     <title lang="es">World Skate Games Asu 2026 - Inauguración</title>
   </programme>
+  <programme start="20261004100000 +0000" stop="20261004110000 +0000" channel="Trece.py@SD">
+    <title lang="es">Asado Benítez</title>
+  </programme>
   <programme start="20261004110000 +0000" stop="20261004130000 +0000" channel="Trece.py@SD">
     <title lang="es">Fútbol Partido amistoso</title>
   </programme>
   <programme start="20261004110000 +0000" stop="20261004120000 +0000" channel="Trece.py@SD">
     <title lang="es">Asado Benítez</title>
   </programme>
+  <programme start="20261004110000 +0000" stop="20261004120000 +0000" channel="Trece.py@SD">
+    <title lang="es">Más que Vencedores</title>
+  </programme>
   <programme start="20261004120000 +0000" stop="20261004130000 +0000" channel="Trece.py@SD">
     <title lang="es">Asado Benítez</title>
   </programme>
   <programme start="20261004120000 +0000" stop="20261004130000 +0000" channel="Trece.py@SD">
     <title lang="es">Más que Vencedores</title>
+  </programme>
+  <programme start="20261004120000 +0000" stop="20261004123000 +0000" channel="Trece.py@SD">
+    <title lang="es">Cocina rica</title>
+  </programme>
+  <programme start="20261004123000 +0000" stop="20261004130000 +0000" channel="Trece.py@SD">
+    <title lang="es">Cocineritos TV</title>
   </programme>
   <programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="Trece.py@SD">
     <title lang="es">Más que Vencedores</title>
@@ -40506,6 +40997,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004130000 +0000" stop="20261004133000 +0000" channel="Trece.py@SD">
     <title lang="es">Cocina rica</title>
+  </programme>
+  <programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="Trece.py@SD">
+    <title lang="es">Elecciones municipales 2026 - Paraguay elige</title>
   </programme>
   <programme start="20261004133000 +0000" stop="20261004140000 +0000" channel="Trece.py@SD">
     <title lang="es">Cocineritos TV</title>
@@ -40521,6 +41015,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="Trece.py@SD">
     <title lang="es">Elecciones municipales 2026 - Paraguay elige</title>
+  </programme>
+  <programme start="20261004140000 +0000" stop="20261004141500 +0000" channel="Trece.py@SD">
+    <title lang="es">Sorteo de la quiniela</title>
+  </programme>
+  <programme start="20261004141500 +0000" stop="20261004150000 +0000" channel="Trece.py@SD">
+    <title lang="es">Juegos Mundiales de Patinaje</title>
   </programme>
   <programme start="20261004143000 +0000" stop="20261004150000 +0000" channel="Trece.py@SD">
     <title lang="es">Cocineritos TV</title>
@@ -40546,6 +41046,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="Trece.py@SD">
     <title lang="es">Elecciones municipales 2026 - Paraguay elige</title>
   </programme>
+  <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="Trece.py@SD">
+    <title lang="es">Juegos Mundiales de Patinaje</title>
+  </programme>
   <programme start="20261004161500 +0000" stop="20261004170000 +0000" channel="Trece.py@SD">
     <title lang="es">Juegos Mundiales de Patinaje</title>
   </programme>
@@ -40557,6 +41060,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004170000 +0000" stop="20261004180000 +0000" channel="Trece.py@SD">
     <title lang="es">Juegos Mundiales de Patinaje</title>
+  </programme>
+  <programme start="20261004170000 +0000" stop="20261004210000 +0000" channel="Trece.py@SD">
+    <title lang="es">Elecciones municipales 2026 - Paraguay elige</title>
   </programme>
   <programme start="20261004171500 +0000" stop="20261004180000 +0000" channel="Trece.py@SD">
     <title lang="es">Juegos Mundiales de Patinaje</title>
@@ -40594,6 +41100,15 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004210000 +0000" stop="20261004220000 +0000" channel="Trece.py@SD">
     <title lang="es">Elecciones municipales 2026 - Paraguay elige</title>
   </programme>
+  <programme start="20261004210000 +0000" stop="20261004213000 +0000" channel="Trece.py@SD">
+    <title lang="es">Juegos Mundiales de Patinaje</title>
+  </programme>
+  <programme start="20261004213000 +0000" stop="20261004214500 +0000" channel="Trece.py@SD">
+    <title lang="es">Sorteo de la quiniela</title>
+  </programme>
+  <programme start="20261004214500 +0000" stop="20261004230000 +0000" channel="Trece.py@SD">
+    <title lang="es">Juegos Mundiales de Patinaje</title>
+  </programme>
   <programme start="20261004220000 +0000" stop="20261004221500 +0000" channel="Trece.py@SD">
     <title lang="es">Sorteo de la quiniela</title>
   </programme>
@@ -40615,6 +41130,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261004230000 +0000" stop="20261005000000 +0000" channel="Trece.py@SD">
     <title lang="es">Elecciones municipales 2026 - Paraguay elige</title>
   </programme>
+  <programme start="20261004230000 +0000" stop="20261004231500 +0000" channel="Trece.py@SD">
+    <title lang="es">Sorteo Megaloto</title>
+  </programme>
+  <programme start="20261004231500 +0000" stop="20261005000000 +0000" channel="Trece.py@SD">
+    <title lang="es">Coche a la vista</title>
+  </programme>
   <programme start="20261004233000 +0000" stop="20261004234500 +0000" channel="Trece.py@SD">
     <title lang="es">Sorteo de la quiniela</title>
   </programme>
@@ -40629,6 +41150,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261005000000 +0000" stop="20261005001500 +0000" channel="Trece.py@SD">
     <title lang="es">Sorteo Megaloto</title>
+  </programme>
+  <programme start="20261005000000 +0000" stop="20261005010000 +0000" channel="Trece.py@SD">
+    <title lang="es">Automovilismo</title>
   </programme>
   <programme start="20261005001500 +0000" stop="20261005010000 +0000" channel="Trece.py@SD">
     <title lang="es">Coche a la vista</title>
@@ -40647,6 +41171,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261005010000 +0000" stop="20261005020000 +0000" channel="Trece.py@SD">
     <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20261005010000 +0000" stop="20261005030000 +0000" channel="Trece.py@SD">
+    <title lang="es">Baloncesto</title>
   </programme>
   <programme start="20261005011500 +0000" stop="20261005020000 +0000" channel="Trece.py@SD">
     <title lang="es">Coche a la vista</title>
@@ -40669,6 +41196,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261005030000 +0000" stop="20261005040000 +0000" channel="Trece.py@SD">
     <title lang="es">Automovilismo</title>
   </programme>
+  <programme start="20261005030000 +0000" stop="20261005033000 +0000" channel="Trece.py@SD">
+    <title lang="es">Ciclo de cultura</title>
+  </programme>
+  <programme start="20261005033000 +0000" stop="20261005043000 +0000" channel="Trece.py@SD">
+    <title lang="es">Playt</title>
+  </programme>
   <programme start="20261005040000 +0000" stop="20261005060000 +0000" channel="Trece.py@SD">
     <title lang="es">Baloncesto</title>
   </programme>
@@ -40677,6 +41210,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261005043000 +0000" stop="20261005053000 +0000" channel="Trece.py@SD">
     <title lang="es">Playt</title>
+  </programme>
+  <programme start="20261005043000 +0000" stop="20261005060000 +0000" channel="Trece.py@SD">
+    <title lang="es">Será una gran tarde</title>
   </programme>
   <programme channel="TrueCrimebyPlutoTV.de@FR" start="20261003163320 +0000" stop="20261003172152 +0000">
     <title lang="fr">Crimes sur le vif</title>
