@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <channels>
+  <channel site="mi.tv" site_id="br#axn" lang="pt" xmltv_id="AXN.br@SD">AXN</channel>
   <channel site="mi.tv" site_id="br#nickelodeon" lang="pt" xmltv_id="Nickelodeon.br@SD">Nick</channel>
 </channels>
