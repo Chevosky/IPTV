@@ -4135,7 +4135,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="AtacamaTV.cl@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="AtacamaTV.cl@SD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>Atacama TV - Español</title>
   </programme>
   <programme start="20261003170000 +0000" stop="20261003190000 +0000" channel="AztecaInternacional.mx@SD">
@@ -7723,11 +7723,11 @@
     <category>Competition Reality</category>
   </programme>
   <programme channel="BestofParadiseHotelKyssarkarlek.se@SE" start="20261004195800 +0000" stop="20261004203958 +0000">
-    <title>Paradise Hotel, säsong 7</title>
-    <sub-title>Avsnitt 707</sub-title>
-    <desc>Kärleksveckan fortsätter – och det är dags för en casanova att checka in. Alla är riktigt nervösa inför den nya jokerns entré. Samtidigt är det flera krossade hjärtan bland killarna på hotellet.</desc>
-    <category>Reality</category>
-    <category>Competition Reality</category>
+    <title>Best of Paradise Hotel: Kyssar &amp; kärlek</title>
+    <sub-title>Best of Paradise Hotel: Kyssar &amp; kärlek</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="BestofParadiseHotelKyssarkarlek.se@SE" start="20261004203958 +0000" stop="20261004212404 +0000">
     <title>Paradise Hotel, säsong 7</title>
@@ -17429,7 +17429,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>AL</value>
     </rating>
   </programme>
-  <programme channel="DanceFM.cl@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="DanceFM.cl@SD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>Dance FM - Español</title>
   </programme>
   <programme channel="DatingNakedUK.se@DK" start="20261004044159 +0000" stop="20261004053557 +0000">
@@ -18598,7 +18598,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <sub-title lang="es">Episode 25</sub-title>
     <episode-num system="onscreen">S7 E25</episode-num>
   </programme>
-  <programme channel="ElChavoTV.mx@HD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="ElChavoTV.mx@HD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>El Chavo TV - Español</title>
   </programme>
   <programme start="20261004034500 +0000" stop="20261004114500 +0000" channel="ElTreceInternacionalLatinAmerica.ar@SD">
@@ -19233,7 +19233,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
     <episode-num system="onscreen">S01E08</episode-num>
   </programme>
-  <programme channel="FashionLifeStyle.ru@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="FashionLifeStyle.ru@SD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>Fashion&amp;LifeStyle - English</title>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="FashionTV.in@SD">
@@ -19552,7 +19552,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="ru">Fashion TV</title>
     <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии</desc>
   </programme>
-  <programme channel="FashionTVParisLOriginal.fr@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="FashionTVParisLOriginal.fr@SD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>FashionTV Paris L'Original - Français</title>
   </programme>
   <programme start="20261004060000 +0000" stop="20261004063000 +0000" channel="GarageTVLatinAmerica.ar@SD">
@@ -19789,7 +19789,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Cambio de rasante</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
   </programme>
-  <programme channel="GlobalFashionChannel.us@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="GlobalFashionChannel.us@SD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>Global Fashion Channel - English</title>
   </programme>
   <programme channel="History.br@SD" start="20261003135500 -0300" stop="20261003144500 -0300">
@@ -20074,10 +20074,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="es">El Viejo Oeste con Kevin Costner</title>
     <sub-title lang="es">Rutas de Oregón</sub-title>
   </programme>
-  <programme channel="ISTV.br@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="ISTV.br@SD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>ISTV - Português</title>
   </programme>
-  <programme channel="ImpactTVDance.ro@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="ImpactTVDance.ro@SD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>Impact TV Dance - Romanian</title>
   </programme>
   <programme channel="LEGOKidsTV.us@SD" start="20261004050100 +0000" stop="20261004052800 +0000">
@@ -20875,7 +20875,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Occupational Reality</category>
     <icon src="https://images.pluto.tv/series/666312601c02820013efe934/tile_1769469843025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="MegaTV.py@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="MegaTV.py@SD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>Mega TV - Español</title>
   </programme>
   <programme start="20261004054700 +0000" stop="20261004060700 +0000" channel="MusicBoxBrazil.br@SD">
@@ -22218,15 +22218,15 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="pt">Anime Series</category>
     <icon src="https://images.pluto.tv/series/5f89ec9e7ecf48001a34156c/tile_1778519162660.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="Nickelodeon.br@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="Nickelodeon.br@SD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>Nickelodeon - Português</title>
   </programme>
-  <programme channel="ParadiseHotel.se@DK" start="20261004050000 +0000" stop="20261004051836 +0000">
-    <title>Paradise Hotel</title>
-    <sub-title>Paradise Hotel</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="ParadiseHotel.se@DK" start="20261004043729 +0000" stop="20261004051836 +0000">
+    <title>Paradise Hotel - Sæson 22</title>
+    <sub-title>Episode 2208</sub-title>
+    <desc>Aftenens parceremoni skaber splid mellem et nyere par. Og så bliver to heldige gæster bliver udvalgt til at komme på en aktiv date. Men hvem checker mon ind, mens de to er ude?</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
   </programme>
   <programme channel="ParadiseHotel.se@DK" start="20261004051836 +0000" stop="20261004060348 +0000">
     <title>Paradise Hotel - Sæson 22</title>
@@ -32153,7 +32153,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="fr">Documentaire de société</category>
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/2/16009205.jpg" />
   </programme>
-  <programme channel="RaiSudtirol.it@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="RaiSudtirol.it@SD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>Rai Sudtirol - Deutsch</title>
   </programme>
   <programme start="20261004041000 +0000" stop="20261004055500 +0000" channel="RaiWorldPremium.it@SD">
@@ -34675,7 +34675,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261003235100 -0500" stop="20261004004200 -0500" channel="TNTNovelas.us@Brazil">
     <title lang="es">Olvídame si puedes</title>
   </programme>
-  <programme channel="TVCamara.py@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="TVCamara.py@SD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>TV Camara - Español</title>
   </programme>
   <programme start="20261003111000 -0500" stop="20261003130500 -0500" channel="TVEInternacionalAmerica.es@HD">
@@ -34711,7 +34711,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261003235500 -0500" stop="20261004010000 -0500" channel="TVEInternacionalAmerica.es@HD">
     <title lang="es">Tendido cero</title>
   </programme>
-  <programme channel="Telefe.ar@SD" start="20261003160000 +0000" stop="20261003173000 +0000">
+  <programme channel="Telefe.ar@SD" start="20261003150000 +0000" stop="20261003163000 +0000">
     <title lang="es">Live: El noticiero de la gente</title>
     <desc lang="es">Todas las noticias de la actualidad de Argentina y el mundo, con información en vivo y móviles en los lugares más trascendentes de la jornada.</desc>
     <credits>
@@ -34724,7 +34724,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p14519336_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="es" />
   </programme>
-  <programme channel="Telefe.ar@SD" start="20261003173000 +0000" stop="20261003200000 +0000">
+  <programme channel="Telefe.ar@SD" start="20261003163000 +0000" stop="20261003190000 +0000">
     <title lang="es">Live: Cortá por Lozano</title>
     <desc lang="es">Se analizan los temas del día junto a un panel de reconocidos especialistas. Entrevistas, divertidos sketches, servicios y una sección de terapia con famosos.</desc>
     <credits>
@@ -34739,7 +34739,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p13736857_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="es" />
   </programme>
-  <programme channel="Telefe.ar@SD" start="20261003200000 +0000" stop="20261003210000 +0000">
+  <programme channel="Telefe.ar@SD" start="20261003190000 +0000" stop="20261003200000 +0000">
     <title lang="es">Descubrir América</title>
     <desc lang="es">Viajando por los atractivos de varios pueblos para descubrir la belleza y cultura del continente.</desc>
     <credits>
@@ -34763,7 +34763,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="Telefe.ar@SD" start="20261003210000 +0000" stop="20261003220000 +0000">
+  <programme channel="Telefe.ar@SD" start="20261003200000 +0000" stop="20261003210000 +0000">
     <title lang="es">Un año para recordar</title>
     <desc lang="es">La historia de la supervisora de cajas de Supermercados Grande, que una noche, accidentalmente, en el medio de una discusión mata a su marido quien acaba de descubrir que ella tiene un amante.</desc>
     <credits>
@@ -34781,7 +34781,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>SAM 16</value>
     </rating>
   </programme>
-  <programme channel="Telefe.ar@SD" start="20261003220000 +0000" stop="20261003230000 +0000">
+  <programme channel="Telefe.ar@SD" start="20261003210000 +0000" stop="20261003220000 +0000">
     <title lang="es">Campanas en la noche</title>
     <desc lang="es">Una historia de romance y misterio en la que únicamente el amor es sinónimo de salvación.</desc>
     <credits>
@@ -34794,7 +34794,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p16387586_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Telefe.ar@SD" start="20261003230000 +0000" stop="20261004003000 +0000">
+  <programme channel="Telefe.ar@SD" start="20261003220000 +0000" stop="20261003233000 +0000">
     <title lang="es">Live: Telefe noticias</title>
     <desc lang="es">Un sello de compromiso periodístico con mucha más información, más investigación y logrando una mirada global de cada hecho.</desc>
     <credits>
@@ -34804,7 +34804,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p501042_b_h10_ab.jpg?w=960&amp;h=540" />
     <premiere lang="es" />
   </programme>
-  <programme channel="Telefe.ar@SD" start="20261004003000 +0000" stop="20261004013000 +0000">
+  <programme channel="Telefe.ar@SD" start="20261003233000 +0000" stop="20261004003000 +0000">
     <title lang="es">La ley del amor</title>
     <desc lang="es">Una jueza de gran prestigio tiene un pasado oscuro, debido a una sentencia es amenazada de muerte y hace arrestar al hombre equivocado, lo que provoca un drama de amor.</desc>
     <credits>
@@ -34819,7 +34819,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p421083_b_h11_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Telefe.ar@SD" start="20261004013000 +0000" stop="20261004023000 +0000">
+  <programme channel="Telefe.ar@SD" start="20261004003000 +0000" stop="20261004013000 +0000">
     <title lang="es">Un año para recordar</title>
     <desc lang="es">La historia de la supervisora de cajas de Supermercados Grande, que una noche, accidentalmente, en el medio de una discusión mata a su marido quien acaba de descubrir que ella tiene un amante.</desc>
     <credits>
@@ -34837,7 +34837,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>SAM 16</value>
     </rating>
   </programme>
-  <programme channel="Telefe.ar@SD" start="20261004023000 +0000" stop="20261004024500 +0000">
+  <programme channel="Telefe.ar@SD" start="20261004013000 +0000" stop="20261004014500 +0000">
     <title lang="es">#Viajeros</title>
     <desc lang="es">La liga de viajeros que más saben de experiencias alrededor del mundo. Vivencias contadas por figuras y celebridades invitadas.</desc>
     <credits>
@@ -34850,7 +34850,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p14575184_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Telefe.ar@SD" start="20261004024500 +0000" stop="20261004090000 +0000">
+  <programme channel="Telefe.ar@SD" start="20261004014500 +0000" stop="20261004080000 +0000">
     <title lang="es">Live: Staff</title>
     <desc lang="es">Una propuesta ágil y divertida para ir a dormir informado, con una sonrisa y acompañado de buena música.</desc>
     <credits>
@@ -34923,7 +34923,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Entretenimientos</category>
     <image>https://cdn.mitvstatic.com/programs/ar_la-pena-de-morfi_l_m.jpg</image>
   </programme>
-  <programme channel="TelefeInternacional.ar@SD" start="20261003160000 +0000" stop="20261003173000 +0000">
+  <programme channel="TelefeInternacional.ar@SD" start="20261003150000 +0000" stop="20261003163000 +0000">
     <title lang="es">Live: El noticiero de la gente</title>
     <desc lang="es">Todas las noticias de la actualidad de Argentina y el mundo, con información en vivo y móviles en los lugares más trascendentes de la jornada.</desc>
     <credits>
@@ -34936,7 +34936,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p14519336_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="es" />
   </programme>
-  <programme channel="TelefeInternacional.ar@SD" start="20261003173000 +0000" stop="20261003200000 +0000">
+  <programme channel="TelefeInternacional.ar@SD" start="20261003163000 +0000" stop="20261003190000 +0000">
     <title lang="es">Live: Cortá por Lozano</title>
     <desc lang="es">Se analizan los temas del día junto a un panel de reconocidos especialistas. Entrevistas, divertidos sketches, servicios y una sección de terapia con famosos.</desc>
     <credits>
@@ -34951,7 +34951,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p13736857_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="es" />
   </programme>
-  <programme channel="TelefeInternacional.ar@SD" start="20261003200000 +0000" stop="20261003210000 +0000">
+  <programme channel="TelefeInternacional.ar@SD" start="20261003190000 +0000" stop="20261003200000 +0000">
     <title lang="es">Descubrir América</title>
     <desc lang="es">Viajando por los atractivos de varios pueblos para descubrir la belleza y cultura del continente.</desc>
     <credits>
@@ -34975,7 +34975,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="TelefeInternacional.ar@SD" start="20261003210000 +0000" stop="20261003220000 +0000">
+  <programme channel="TelefeInternacional.ar@SD" start="20261003200000 +0000" stop="20261003210000 +0000">
     <title lang="es">Un año para recordar</title>
     <desc lang="es">La historia de la supervisora de cajas de Supermercados Grande, que una noche, accidentalmente, en el medio de una discusión mata a su marido quien acaba de descubrir que ella tiene un amante.</desc>
     <credits>
@@ -34993,7 +34993,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>SAM 16</value>
     </rating>
   </programme>
-  <programme channel="TelefeInternacional.ar@SD" start="20261003220000 +0000" stop="20261003230000 +0000">
+  <programme channel="TelefeInternacional.ar@SD" start="20261003210000 +0000" stop="20261003220000 +0000">
     <title lang="es">Campanas en la noche</title>
     <desc lang="es">Una historia de romance y misterio en la que únicamente el amor es sinónimo de salvación.</desc>
     <credits>
@@ -35006,7 +35006,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p16387586_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="TelefeInternacional.ar@SD" start="20261003230000 +0000" stop="20261004003000 +0000">
+  <programme channel="TelefeInternacional.ar@SD" start="20261003220000 +0000" stop="20261003233000 +0000">
     <title lang="es">Live: Telefe noticias</title>
     <desc lang="es">Un sello de compromiso periodístico con mucha más información, más investigación y logrando una mirada global de cada hecho.</desc>
     <credits>
@@ -35016,7 +35016,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p501042_b_h10_ab.jpg?w=960&amp;h=540" />
     <premiere lang="es" />
   </programme>
-  <programme channel="TelefeInternacional.ar@SD" start="20261004003000 +0000" stop="20261004013000 +0000">
+  <programme channel="TelefeInternacional.ar@SD" start="20261003233000 +0000" stop="20261004003000 +0000">
     <title lang="es">La ley del amor</title>
     <desc lang="es">Una jueza de gran prestigio tiene un pasado oscuro, debido a una sentencia es amenazada de muerte y hace arrestar al hombre equivocado, lo que provoca un drama de amor.</desc>
     <credits>
@@ -35031,7 +35031,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p421083_b_h11_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="TelefeInternacional.ar@SD" start="20261004013000 +0000" stop="20261004023000 +0000">
+  <programme channel="TelefeInternacional.ar@SD" start="20261004003000 +0000" stop="20261004013000 +0000">
     <title lang="es">Un año para recordar</title>
     <desc lang="es">La historia de la supervisora de cajas de Supermercados Grande, que una noche, accidentalmente, en el medio de una discusión mata a su marido quien acaba de descubrir que ella tiene un amante.</desc>
     <credits>
@@ -35049,7 +35049,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>SAM 16</value>
     </rating>
   </programme>
-  <programme channel="TelefeInternacional.ar@SD" start="20261004023000 +0000" stop="20261004024500 +0000">
+  <programme channel="TelefeInternacional.ar@SD" start="20261004013000 +0000" stop="20261004014500 +0000">
     <title lang="es">#Viajeros</title>
     <desc lang="es">La liga de viajeros que más saben de experiencias alrededor del mundo. Vivencias contadas por figuras y celebridades invitadas.</desc>
     <credits>
@@ -35062,7 +35062,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <icon src="http://dtil.tmsimg.com/assets/p14575184_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="TelefeInternacional.ar@SD" start="20261004024500 +0000" stop="20261004090000 +0000">
+  <programme channel="TelefeInternacional.ar@SD" start="20261004014500 +0000" stop="20261004080000 +0000">
     <title lang="es">Live: Staff</title>
     <desc lang="es">Una propuesta ágil y divertida para ir a dormir informado, con una sonrisa y acompañado de buena música.</desc>
     <credits>
@@ -35309,7 +35309,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="pt">Variety Show</category>
     <icon src="https://images.pluto.tv/series/68dabb94a44f8dcccd05765a/tile_1759181661440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="ThePetCollective.us@Mexico" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="ThePetCollective.us@Mexico" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>The Pet Collective - English</title>
   </programme>
   <programme start="20261003165911 +0000" stop="20261003173111 +0000" channel="ThePetCollective.us@Spain">
@@ -36878,7 +36878,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Entertainment</category>
     <category>Entertainment</category>
   </programme>
-  <programme channel="TotalmusicDance.uk@HD" start="20261003171059 +0000" stop="20261005171059 +0000">
+  <programme channel="TotalmusicDance.uk@HD" start="20261003171123 +0000" stop="20261005171123 +0000">
     <title>Totalmusic Dance - Español</title>
   </programme>
   <programme start="20261004013000 +0000" stop="20261004031500 +0000" channel="Trece.es@SD">
