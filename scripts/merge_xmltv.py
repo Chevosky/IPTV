@@ -31,23 +31,28 @@ def parse_xmltv_dt(value):
         return dt.replace(tzinfo=timezone(off)).astimezone(timezone.utc)
     return dt.replace(tzinfo=timezone.utc)
 
-for path in sorted(indir.glob("*.xml")):
+def load_file(path, allow_programmes_for=None):
     if not path.is_file() or path.stat().st_size == 0:
-        continue
+        return set()
     try:
         root=ET.parse(path).getroot()
     except Exception as e:
         print(f"Skipping {path}: {e}")
-        continue
+        return set()
+
+    loaded=set()
     for ch in root.findall("channel"):
         cid=ch.get("id")
         if cid and cid not in channels:
             channels[cid]=ET.fromstring(ET.tostring(ch,encoding="utf-8"))
+
     for p in root.findall("programme"):
         cid=p.get("channel")
         start=parse_xmltv_dt(p.get("start"))
         stop=parse_xmltv_dt(p.get("stop"))
         if not cid or start is None:
+            continue
+        if allow_programmes_for is not None and cid not in allow_programmes_for:
             continue
         if stop is not None and stop < grace_start:
             continue
@@ -56,6 +61,28 @@ for path in sorted(indir.glob("*.xml")):
         key=(cid,p.get("start"),p.get("stop"),(p.findtext("title") or "").strip())
         if key not in programmes:
             programmes[key]=ET.fromstring(ET.tostring(p,encoding="utf-8"))
+            loaded.add(cid)
+    return loaded
+
+# Fresh batches are authoritative. The previous merged guide is only a
+# per-channel fallback when today's selected source produced no programmes.
+fresh_paths=[
+    p for p in sorted(indir.glob("*.xml"))
+    if p.name != "_previous.xml"
+]
+fresh_channels=set()
+for path in fresh_paths:
+    fresh_channels |= load_file(path)
+
+previous=indir/"_previous.xml"
+if previous.exists():
+    previous_root=ET.parse(previous).getroot()
+    fallback_ids={
+        p.get("channel")
+        for p in previous_root.findall("programme")
+        if p.get("channel") and p.get("channel") not in fresh_channels
+    }
+    load_file(previous, allow_programmes_for=fallback_ids)
 
 root=ET.Element("tv",{
     "generator-info-name":"Chevosky/IPTV exact iptv-org merge",
