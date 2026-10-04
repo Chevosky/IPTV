@@ -16,6 +16,19 @@ FORCE_ALIASES_FILE = ROOT / "epg-force-aliases.json"
 OUT = ROOT / "guide-favorites.xml"
 REPORT = ROOT / "coverage-favorites.json"
 WINDOW_HOURS = 24
+IPTVORG_CHANNELS_API = "https://iptv-org.github.io/api/channels.json"
+IPTVORG_FEEDS_API = "https://iptv-org.github.io/api/feeds.json"
+IPTVORG_LANGUAGES_API = "https://iptv-org.github.io/api/languages.json"
+
+LANGUAGE_LABELS = {
+    "spa": "Español",
+    "eng": "English",
+    "por": "Português",
+    "ita": "Italiano",
+    "fra": "Français",
+    "deu": "Deutsch",
+}
+
 
 def parse_playlist(path: Path):
     out = {}
@@ -63,9 +76,113 @@ def dt_to_xmltv(dt):
     return dt.astimezone(timezone.utc).strftime("%Y%m%d%H%M%S +0000")
 
 def fetch_json(url):
-    req = urllib.request.Request(url, headers={"User-Agent":"Chevosky-IPTV-EPG/2.1"})
+    req = urllib.request.Request(url, headers={"User-Agent":"Chevosky-IPTV-EPG/2.2"})
     with urllib.request.urlopen(req, timeout=60) as r:
         return json.loads(r.read().decode("utf-8"))
+
+def clean_synthetic_name(value):
+    value = (value or "").strip()
+
+    # Stream-specific decorations are useful in the M3U but noisy as a
+    # placeholder programme title.
+    value = re.sub(
+        r'\s*\((?:2160p|1440p|1080p|720p|576p|540p|480p|360p|240p|4K|UHD|FHD|HD|SD)\)\s*',
+        ' ',
+        value,
+        flags=re.I,
+    )
+    value = re.sub(
+        r'\s*\[(?:Geo-blocked|Not 24/7)\]\s*',
+        ' ',
+        value,
+        flags=re.I,
+    )
+
+    # These are platform/collection labels, not useful programme information
+    # when the guide has no real schedule.
+    value = re.sub(r'\bBest\s+of\s+', '', value, flags=re.I)
+    value = re.sub(r'\bby\s+Pluto\s+TV\b', '', value, flags=re.I)
+    value = re.sub(r'\bPluto\s+TV\b', '', value, flags=re.I)
+
+    value = re.sub(r'\s{2,}', ' ', value)
+    value = re.sub(r'\s+([:;,.!?])', r'\1', value)
+    return value.strip(' -–—')
+
+def split_tvg_id(tvg_id):
+    if "@" in tvg_id:
+        channel_id, feed_id = tvg_id.rsplit("@", 1)
+        return channel_id, feed_id
+    return tvg_id, None
+
+def load_iptvorg_metadata():
+    try:
+        channels_data = fetch_json(IPTVORG_CHANNELS_API)
+        feeds_data = fetch_json(IPTVORG_FEEDS_API)
+        languages_data = fetch_json(IPTVORG_LANGUAGES_API)
+    except Exception as e:
+        print(f"iptv-org metadata: {e}")
+        return {}, {}, {}
+
+    channels = {
+        item.get("id"): item
+        for item in channels_data
+        if item.get("id")
+    }
+
+    feeds = {}
+    for item in feeds_data:
+        channel_id = item.get("channel")
+        if channel_id:
+            feeds.setdefault(channel_id, []).append(item)
+
+    language_names = {
+        item.get("code"): item.get("name")
+        for item in languages_data
+        if item.get("code") and item.get("name")
+    }
+
+    return channels, feeds, language_names
+
+def synthetic_language(tvg_id, feeds_by_channel, language_names):
+    channel_id, feed_id = split_tvg_id(tvg_id)
+    candidates = feeds_by_channel.get(channel_id, [])
+
+    chosen = None
+    if feed_id:
+        exact = [item for item in candidates if item.get("id") == feed_id]
+        if len(exact) == 1:
+            chosen = exact[0]
+    else:
+        main = [item for item in candidates if item.get("is_main")]
+        if len(main) == 1:
+            chosen = main[0]
+        elif len(candidates) == 1:
+            chosen = candidates[0]
+
+    if not chosen:
+        return None
+
+    codes = list(dict.fromkeys(chosen.get("languages") or []))
+    if len(codes) != 1:
+        return None
+
+    code = codes[0]
+    return LANGUAGE_LABELS.get(code) or language_names.get(code)
+
+def synthetic_title(tvg_id, playlist_name, channels, feeds_by_channel, language_names):
+    channel_id, _ = split_tvg_id(tvg_id)
+    canonical = (channels.get(channel_id) or {}).get("name")
+    title = clean_synthetic_name(canonical or playlist_name)
+
+    language = synthetic_language(
+        tvg_id,
+        feeds_by_channel,
+        language_names,
+    )
+    if language:
+        title = f"{title} - {language}"
+
+    return title
 
 playlist = parse_playlist(PLAYLIST)
 wanted = set(playlist)
@@ -225,8 +342,44 @@ for target_id, info in playlist.items():
         out_channels[target_id] = ch
         coverage_source[target_id] = {"type":"pluto-api","site_id":site_id}
 
+# Preserve the distinction between real EPG coverage and synthetic fallback.
+real_covered = set(coverage_source)
+missing = sorted(wanted - real_covered)
+
+# For channels that still have no schedule, add one rolling synthetic
+# programme so Flex shows a useful channel label instead of an empty guide.
+channels_meta, feeds_meta, language_names = load_iptvorg_metadata()
+synthetic_start = now - timedelta(hours=12)
+synthetic_stop = now + timedelta(hours=36)
+
+for target_id in missing:
+    info = playlist[target_id]
+
+    ch = ET.Element("channel", {"id": target_id})
+    ET.SubElement(ch, "display-name").text = info["name"]
+    out_channels[target_id] = ch
+
+    p = ET.Element("programme", {
+        "channel": target_id,
+        "start": dt_to_xmltv(synthetic_start),
+        "stop": dt_to_xmltv(synthetic_stop),
+    })
+
+    ET.SubElement(p, "title").text = synthetic_title(
+        target_id,
+        info["name"],
+        channels_meta,
+        feeds_meta,
+        language_names,
+    )
+
+    out_programmes.append(p)
+    coverage_source[target_id] = {
+        "type": "synthetic",
+        "source_id": target_id,
+    }
+
 covered = set(coverage_source)
-missing = sorted(wanted - covered)
 
 root = ET.Element("tv", {
     "generator-info-name":"Chevosky/IPTV curated guide",
@@ -257,8 +410,10 @@ ET.ElementTree(root).write(OUT, encoding="utf-8", xml_declaration=True)
 
 report = {
     "playlist_channels": len(wanted),
-    "covered_channels": len(covered),
-    "coverage_percent": round((len(covered)/len(wanted)*100) if wanted else 0, 1),
+    "covered_channels": len(real_covered),
+    "coverage_percent": round((len(real_covered)/len(wanted)*100) if wanted else 0, 1),
+    "guide_channels": len(covered),
+    "synthetic_channels": len(missing),
     "programmes": len(out_programmes),
     "output_bytes": OUT.stat().st_size,
     "coverage_sources": coverage_source,
@@ -267,11 +422,14 @@ report = {
 REPORT.write_text(json.dumps(report, ensure_ascii=False, indent=2)+"\n", encoding="utf-8")
 
 print(f"Playlist channels: {len(wanted)}")
-print(f"Covered channels: {len(covered)} ({report['coverage_percent']}%)")
+print(f"Real EPG channels: {len(real_covered)} ({report['coverage_percent']}%)")
+print(f"Synthetic fallback: {len(missing)}")
+print(f"Guide channels: {len(covered)}")
 print(f"  forced aliases: {sum(1 for x in coverage_source.values() if x['type']=='forced-alias')}")
 print(f"  direct: {sum(1 for x in coverage_source.values() if x['type']=='direct')}")
 print(f"  aliases: {sum(1 for x in coverage_source.values() if x['type']=='alias')}")
 print(f"  pluto-api: {sum(1 for x in coverage_source.values() if x['type']=='pluto-api')}")
+print(f"  synthetic: {sum(1 for x in coverage_source.values() if x['type']=='synthetic')}")
 print(f"Programmes: {len(out_programmes)}")
 print(f"Output: {OUT.stat().st_size/1024/1024:.2f} MB")
 print(f"Missing: {len(missing)}")
