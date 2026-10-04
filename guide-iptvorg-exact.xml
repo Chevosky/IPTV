@@ -1234,44 +1234,6 @@
     <episode-num system="pluto">6536602c67bd1a0008440dd2</episode-num>
     <episode-num system="original-air-date">20150101000000 +0000</episode-num>
   </programme>
-  <programme start="20261004000000 +0000" stop="20261004023400 +0000" channel="BBCEarth.uk@US">
-    <title lang="en">BBC Earth</title>
-    <sub-title lang="en">BBC Earth</sub-title>
-    <desc lang="en">no info available</desc>
-    <date>20261004</date>
-    <category lang="en">no info available</category>
-    <category lang="en">no info available</category>
-    <icon src="https://images.pluto.tv/channels/656535fc2c46f30008870fae/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>no rating</value>
-    </rating>
-  </programme>
-  <programme start="20261004013500 +0000" stop="20261004023400 +0000" channel="BBCEarth.uk@US">
-    <title lang="en">Big Bear Diary</title>
-    <sub-title lang="en">Big Bear Diary</sub-title>
-    <desc lang="en">Brown bear mum Blondie and her cubs were last seen fleeing from a pack of wolves. Have they survived? Both the black and polar bear families have trouble with marauding males.</desc>
-    <category lang="en">Documentary</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://images.pluto.tv/series/65b05a64a40ff700137d4ee1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261004013514 +0000" stop="20261004023421 +0000" channel="BBCEarth.uk@US">
-    <title lang="en">Big Bear Diary</title>
-    <sub-title lang="en">Episode 3</sub-title>
-    <desc lang="en">In Katmai the brown bears are getting ready for hibernation as they make their way to their winter dens.</desc>
-    <date>20060726</date>
-    <category lang="en">Explore</category>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-    <image>https://d2i0hcnfudruct.cloudfront.net/BBCEarth/BBCS_BigBearDiary_BID-2987_KeyArtBrand_LANG-English_qt4bpypgyf.jpg</image>
-  </programme>
   <programme start="20261004023400 +0000" stop="20261004033200 +0000" channel="BBCEarth.uk@US">
     <title lang="en">Snow Wolf Family and Me</title>
     <sub-title lang="en">Episode 1</sub-title>
@@ -1907,11 +1869,6 @@
       <value>no rating</value>
     </rating>
   </programme>
-  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="BBCNews.uk@Europe">
-    <title lang="en">BBC News</title>
-    <desc lang="en">A suivre, les dernières actualités présentées par les équipes rédactionnelles de la BBC, le très réputé radiodiffuseur du service public britannique. Créée en 1922 à Londres, la British Broadcast Corporation est connue pour être la plus ancienne société diffusant des programmes de radio ou de télévision au monde.</desc>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/plmws/images.media-press.cloud/12fc/12fc1f8377c94de8bd4e047b8b2b2368</image>
-  </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="BBCNews.uk@Europe">
     <title lang="en">AI Decoded</title>
     <desc lang="en">Join our AI Decoded team as we unpack and explore the most eye-catching stories from the world of artificial intelligence.</desc>
@@ -1934,11 +1891,6 @@
       <actor>Shawn Yuan</actor>
     </credits>
     <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/plmws/images.media-press.cloud/4559/4559f9b1b9f74d58a89cd69f808f2893</image>
-  </programme>
-  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">BBC News</title>
-    <category lang="es">Noticiero</category>
-    <image>https://www.reportv.com.ar/buscador/img/Programas/5153439.jpg</image>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">AI Decoded</title>
@@ -2502,16 +2454,16 @@
   <programme start="20261005043000 +0000" stop="20261005045500 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Business Today</title>
   </programme>
+  <programme start="20261005043000 +0000" stop="20261005050000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">World Business Today</title>
+    <desc lang="es">Este programa cubre de manera única las noticias más recientes en el ámbito de los desarrollos económicos y políticos así como su efecto en la economía mundial. El presentador normalmente está acompañado por un equipo multilingüe internacional de periodistas que viajan por todo el mundo para cubrir las historias más importantes, acuerdos económicos y elecciones presidenciales. El programa también incluye un reporte diario en vivo desde Nueva York acerca de las últimas noticias de la bolsa de valores de Wall Street, monedas, tratados y acuerdos financieros.</desc>
+    <image>https://zpapi.zetatv.com.uy/media/images/5b11e9bc374c6570649b49bfb8d8019a.jpg</image>
+  </programme>
   <programme start="20261005044500 +0000" stop="20261005050000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC Sport</title>
   </programme>
   <programme start="20261005045500 +0000" stop="20261005050000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Tech Now</title>
-  </programme>
-  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="Canal26.ar@SD">
-    <title lang="es">Realidades del mundo</title>
-    <category lang="es">Periodstico</category>
-    <image>https://www.reportv.com.ar/buscador/img/Programas/1992810926.jpg</image>
   </programme>
   <programme start="20261004020000 +0000" stop="20261004040000 +0000" channel="Canal26.ar@SD">
     <title lang="es">Las imágenes más espectaculares</title>
@@ -3177,9 +3129,6 @@
   </programme>
   <programme start="20261004020000 +0000" stop="20261004040000 +0000" channel="CodeFashionTV.bg@SD">
     <title lang="bg">TV Shows</title>
-  </programme>
-  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="CodeFashionTV.bg@SD">
-    <title lang="bg">Summer Fashion Weekend</title>
   </programme>
   <programme start="20261004040000 +0000" stop="20261004060000 +0000" channel="CodeFashionTV.bg@SD">
     <title lang="bg">Закачалки</title>
@@ -4432,12 +4381,6 @@
     <category lang="es">Comedia / 1988 / 5.0</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image>
   </programme>
-  <programme start="20261004020500 +0000" stop="20261004023000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
-  </programme>
-  <programme start="20261004021000 +0000" stop="20261004023500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
-  </programme>
   <programme start="20261004022500 +0000" stop="20261004025000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
@@ -5111,15 +5054,6 @@
     <category lang="en">Series - Normal</category>
     <image>https://media0106.elcinema.com/uploads/_150x200_ee0b5668f5ed1730f3d0d2ba8fe47689756fe381e5350b1b70de6fbdd576e9bf.jpg</image>
   </programme>
-  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="DubaiTVInternational.ae@SD">
-    <title lang="en">Al Rawi</title>
-    <sub-title lang="en">Episode 4</sub-title>
-    <desc lang="en">The host sheds light on personalities who have contributed towards the history of the UAE.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SR80348024/0d222d0750cb4797742a6d66049ab78a.jpg</image>
-  </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="DubaiTVInternational.ae@SD">
     <title lang="en">Awal Mara Ashof</title>
     <sub-title lang="en">Episode 7</sub-title>
@@ -5677,24 +5611,6 @@
     <desc lang="es">Vídeo del partido completo entre Alemania y Colombia jugado en el Estadio de Fútbol de Sídney.</desc>
     <image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-01/7b1e27fa07a51ad010f93364ead5a753.jpg.webp</image>
   </programme>
-  <programme start="20261004003955 +0000" stop="20261004023006 +0000" channel="FIFAPlus.uk@Portuguese">
-    <title lang="pt">Alemanha X Holanda| Oitavas De Final | Copa Do Mundo Fifa De 1990, Na Itália | Jogo Completo</title>
-    <desc lang="pt">Vídeo completo da partida entre Alemanha e Holanda, jogada no estádio Giuseppe Meazza, em Milão.</desc>
-    <image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-01/b4fb694d038ee7100c4cc3c959da73d7.jpg.webp</image>
-  </programme>
-  <programme start="20261004003955 +0000" stop="20261004023006 +0000" channel="FIFAPlus.uk@Portuguese">
-    <title lang="pt">Alemanha x Holanda| Oitavas de final | Copa do Mundo FIFA de 1990, na Itália | Jogo Completo</title>
-    <sub-title lang="pt">Episode 1</sub-title>
-    <desc lang="pt">Vídeo completo da partida entre Alemanha e Holanda, jogada no estádio Giuseppe Meazza, em Milão, no domingo, 24 de junho.</desc>
-    <date>20251210</date>
-    <category lang="pt">Sports</category>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <rating>
-      <value>UNRATED</value>
-    </rating>
-    <image>https://partner-upload-assets.wurl.com/sysdata_s_p_a/133710.jpg</image>
-  </programme>
   <programme start="20261004023006 +0000" stop="20261004042141 +0000" channel="FIFAPlus.uk@Portuguese">
     <title lang="pt">Alemanha X Iugoslávia | Fase De Grupos | Copa Do Mundo Fifa De 1990, Na Itália | Jogo Completo</title>
     <desc lang="pt">Assista à partida completa entre Alemanha e Iugoslávia, em Milão, 10 jun.</desc>
@@ -5980,14 +5896,6 @@
     <desc lang="pt">Reviva as emocionantes finais das edições passadas da Copa do Mundo de Beach Soccer da FIFA™.</desc>
     <image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-01/699bb4b7c608211a8edc1c246e0f143e.jpg.webp</image>
   </programme>
-  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="FashionBox.nl@SD">
-    <title lang="en">Swim Week 2023</title>
-    <desc lang="en">E19 social/political</desc>
-    <category lang="en">Aktuálne záležitosti</category>
-    <category lang="en">Politika</category>
-    <episode-num system="xmltv_ns">0.18.0/1</episode-num>
-    <episode-num system="onscreen">S01E19</episode-num>
-  </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="FashionBox.nl@SD">
     <title lang="en">Swim Week 2023</title>
     <desc lang="en">E20 social/political</desc>
@@ -6196,11 +6104,6 @@
     <category lang="en">Politika</category>
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
     <episode-num system="onscreen">S01E08</episode-num>
-  </programme>
-  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="FashionTV.in@SD">
-    <title lang="en">Beauty</title>
-    <desc lang="en">Reviews, advice and tips on the latest beauty, styling and skin care trends from the experts.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p14204080_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="FashionTV.in@SD">
     <title lang="en">Fashion from Italy</title>
@@ -6518,10 +6421,6 @@
     <title lang="ru">Fashion TV</title>
     <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии</desc>
   </programme>
-  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="FashionTVAsia.fr@SD">
-    <title lang="id">Hailey Bieber</title>
-    <desc lang="id">Perkenalkan Hailey Bieber, gadis keturunan keluarga selebriti yang tumbuh besar di karpet merah, bermimpi menjadi penari balet, namun justru menjadi ikon mode.</desc>
-  </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="FashionTVAsia.fr@SD">
     <title lang="id">Hailey Bieber</title>
     <desc lang="id">Perkenalkan Hailey Bieber, gadis keturunan keluarga selebriti yang tumbuh besar di karpet merah, bermimpi menjadi penari balet, namun justru menjadi ikon mode.</desc>
@@ -6650,10 +6549,6 @@
     <title lang="id">Top Photoshoots</title>
     <desc lang="id">Selami dunia fotografi mode yang menakjubkan untuk menemukan suasana di balik layar dan nikmati mahakarya terindah dari para fotografer ikonik dan inspirasi mereka</desc>
   </programme>
-  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="FashionTVEurope.fr@SD">
-    <title lang="en">FAN FAVORITES</title>
-    <desc lang="en">Your top picks are back! FAN FAVORITES showcases the hottest celebrity moments, fashion highlights, and unforgettable content that you loved most. Watch what everyone's raving about!</desc>
-  </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="FashionTVEurope.fr@SD">
     <title lang="en">FAN FAVORITES</title>
     <desc lang="en">Your top picks are back! FAN FAVORITES showcases the hottest celebrity moments, fashion highlights, and unforgettable content that you loved most. Watch what everyone's raving about!</desc>
@@ -6761,12 +6656,6 @@
   <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="FashionTVEurope.fr@SD">
     <title lang="en">FASHION BUZZ</title>
     <desc lang="en">Catch the latest fashion fever! FASHION BUZZ brings you breaking news from runways, exclusive designer interviews, and celebrity style showdowns. Stay ahead of every trend, daily!</desc>
-  </programme>
-  <programme start="20261004012000 +0000" stop="20261004023000 +0000" channel="GarageTVLatinAmerica.ar@SD">
-    <title lang="es">Gran Premio de Korea del Sur - Carrera 2</title>
-    <desc lang="es">Disfruta la serie internacional de carreras de turismos que reúne a pilotos profesionales con experiencia internacional y competidores de series regionales y nacionales de TCR.</desc>
-    <category lang="es">TCR World Tour</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="GarageTVLatinAmerica.ar@SD">
     <title lang="es">Fast Zone</title>
@@ -7043,12 +6932,6 @@
     <desc lang="es">Magazine con toda la actualidad del motociclismo, automovilismo y bicicletas.</desc>
     <category lang="es">Cambio de rasante</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
-  </programme>
-  <programme start="20261004010000 +0000" stop="20261004023000 +0000" channel="LifetimeLatinAmerica.us@Brazil">
-    <title lang="pt">Sequestrada na Estrada</title>
-    <desc lang="pt">Uma caminhoneira se vê envolvida em uma caçada angustiante após um predador on-line sequestrar sua sobrinha neurodivergente. A polícia chega a um beco sem saída e ela mobiliza sua leal rede de caminhoneiros e sua influência nas redes sociais para iniciar uma missão de resgate, de iniciativa própria.</desc>
-    <category lang="pt">Crime drama / 2025</category>
-    <image>https://cdn.mitvstatic.com/programs/br_sequestrada-na-estrada-2025_l_m.jpg</image>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004040500 +0000" channel="LifetimeLatinAmerica.us@Brazil">
     <title lang="pt">Entre Sombras e Mentiras</title>
@@ -8876,9 +8759,6 @@
   <programme start="20261004010000 +0000" stop="20261004070000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Festivales / Conciertos / Musicales</title>
   </programme>
-  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="ParaguayTV.py@SD">
-    <title lang="es">Curiosidades</title>
-  </programme>
   <programme start="20261004020000 +0000" stop="20261004080000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Festivales / Conciertos / Musicales</title>
   </programme>
@@ -9199,13 +9079,6 @@
   <programme start="20261004130000 +0000" stop="20261004133000 +0000" channel="RaiItalia.it@Australia">
     <title lang="en">TG Sport</title>
     <image>https://images1.resources.foxtel.com.au/store2/mount1/16/1/bh9bk.jpg?maxheight=90&amp;limit=a1666749d3ffe36f71d47dc4dd80155e05a0d331</image>
-  </programme>
-  <programme start="20261004010000 +0000" stop="20261004023000 +0000" channel="RaiWorldPremium.it@SD">
-    <title lang="en">Ero in guerra ma non lo sapevo</title>
-    <desc lang="en">Milano, fine anni 70. Il gioielliere Pierluigi Torregiani sta cenando in un locale quando irrompono alcuni malviventi per rapinare i commensali. Durante la rapina uno di loro minaccia la figlia di Torregiani, Marisa, puntandole addosso una pistola.</desc>
-    <date>20220124</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Biography</category>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004041000 +0000" channel="RaiWorldPremium.it@SD">
     <title lang="en">Cuori</title>
@@ -9906,10 +9779,6 @@
     <title lang="fr">The Blacklist</title>
     <desc lang="fr">Liz doit participer au procès d'un trafiquant de drogue : Hector Lorca. Elle a contribué à son arrestation quand elle travaillait au FBI, à New York. Red la prévient que les hommes de Lorca sont entrés en contact avec lui pour lui demander d'organiser son exfiltration. Effectivement, pendant le procès, le principal témoin à charge se fait enlever, ce qui invalide le dossier contre le prévenu. Le FBI retrouve la trace du témoin dans un motel, mais pas son corps. Red révèle à Liz que le Marmiton s'est chargé de lui. C'est un nettoyeur ultra efficace qui ne laisse rien des corps qu'on lui demande de faire disparaître. Liz tente de faire pression sur Lorca pour qu'il leur donne l'homme, mais le trafiquant s'évade lors de son transfert à la Sécurité Intérieure et fait enlever Liz.</desc>
   </programme>
-  <programme start="20261004020201 +0000" stop="20261004023250 +0000" channel="SonyOneFavoris.fr@HD">
-    <title lang="fr">Bewitched</title>
-    <desc lang="fr">Jean-Pierre découvre que Serena a des problèmes, avec ou sans ses pouvoirs.</desc>
-  </programme>
   <programme start="20261004023250 +0000" stop="20261004030308 +0000" channel="SonyOneFavoris.fr@HD">
     <title lang="fr">Bewitched</title>
     <desc lang="fr">Tabatha est déterminée à apprendre à patiner comme une mortelle, mais Endora lui donne un coup de pouce.</desc>
@@ -10585,9 +10454,6 @@
   </programme>
   <programme start="20261004010000 +0000" stop="20261004024500 +0000" channel="Telefe.ar@SD">
     <title lang="es">Argentina vs. Burkina Faso</title>
-  </programme>
-  <programme start="20261004014500 +0000" stop="20261004023000 +0000" channel="Telefe.ar@SD">
-    <title lang="es">Fútbol: Post</title>
   </programme>
   <programme start="20261004020000 +0000" stop="20261004024500 +0000" channel="Telefe.ar@SD">
     <title lang="es">PH: Podemos hablar</title>
