@@ -1,6 +1,6 @@
 {
   "summary": {
-    "missing_targets": 20,
+    "missing_targets": 18,
     "with_exact_normalized_match": 0,
     "with_fuzzy_090_plus": 0
   },
@@ -14,51 +14,10 @@
     },
     {
       "target_id": "Canal26.mx@SD",
-      "target_name": "Canal 26 (Mexico) (1080p)",
-      "normalized": "canal 26 mexico",
+      "target_name": "Canal26.mx@SD",
+      "normalized": "canal26 mx sd",
       "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.867,
-          "source_id": "Canal.FX.(México).mx",
-          "source_name": "Canal FX (México)"
-        },
-        {
-          "score": 0.848,
-          "source_id": "Canal.22.de.México.mx",
-          "source_name": "Canal 22 de México"
-        },
-        {
-          "score": 0.839,
-          "source_id": "Canal.TNT.(México).mx",
-          "source_name": "Canal TNT (México)"
-        },
-        {
-          "score": 0.839,
-          "source_id": "Canal.TLC.(México).mx",
-          "source_name": "Canal TLC (México)"
-        },
-        {
-          "score": 0.839,
-          "source_id": "Canal.TCM.(México).mx",
-          "source_name": "Canal TCM (México)"
-        },
-        {
-          "score": 0.839,
-          "source_id": "Canal.MTV.(México).mx",
-          "source_name": "Canal MTV (México)"
-        },
-        {
-          "score": 0.839,
-          "source_id": "Canal.HBO.(México).mx",
-          "source_name": "Canal HBO (México)"
-        },
-        {
-          "score": 0.839,
-          "source_id": "Canal.AXN.(México).mx",
-          "source_name": "Canal AXN (México)"
-        }
-      ]
+      "top_fuzzy_matches": []
     },
     {
       "target_id": "DanceFM.cl@SD",
@@ -94,92 +53,6 @@
       ]
     },
     {
-      "target_id": "DreamWorksChannelLatinAmerica.us@Panregional",
-      "target_name": "DreamWorks Channel Latin America",
-      "normalized": "dreamworks latin america",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.762,
-          "source_id": "[EWTNL].EWTN.Latin.America.uy",
-          "source_name": "[EWTNL] EWTN Latin America"
-        },
-        {
-          "score": 0.711,
-          "source_id": "[PLAYL].Playboy.TV.Latin.America.uy",
-          "source_name": "[PLAYL] Playboy TV Latin America"
-        },
-        {
-          "score": 0.698,
-          "source_id": "[GOLTVL].GolTV.Latin.America.uy",
-          "source_name": "[GOLTVL] GolTV Latin America"
-        },
-        {
-          "score": 0.696,
-          "source_id": "[PASNLA].Pasiones.TV.Latin.America.uy",
-          "source_name": "[PASNLA] Pasiones TV Latin America"
-        },
-        {
-          "score": 0.652,
-          "source_id": "Destination.America.HD.us2",
-          "source_name": "Destination America HD"
-        },
-        {
-          "score": 0.632,
-          "source_id": "plex.tv.Racing.America.plex",
-          "source_name": "Racing America"
-        }
-      ]
-    },
-    {
-      "target_id": "DubaiTVInternational.ae@SD",
-      "target_name": "Dubai TV International (1080p)",
-      "normalized": "dubai international",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.829,
-          "source_id": "Ecuavisa.International.us2",
-          "source_name": "Ecuavisa International"
-        },
-        {
-          "score": 0.811,
-          "source_id": "JSBC.International.fr",
-          "source_name": "JSBC International"
-        },
-        {
-          "score": 0.8,
-          "source_id": "TV.Romania.International.fr",
-          "source_name": "TV Romania International"
-        },
-        {
-          "score": 0.8,
-          "source_id": "TV.Romania.International.ch",
-          "source_name": "TV Romania International"
-        },
-        {
-          "score": 0.789,
-          "source_id": "Iqraa.International.fr",
-          "source_name": "Iqraa International"
-        },
-        {
-          "score": 0.78,
-          "source_id": "UK:.RACER.International.be",
-          "source_name": "UK: RACER International"
-        },
-        {
-          "score": 0.78,
-          "source_id": "DK:.RACER.International.be",
-          "source_name": "DK: RACER International"
-        },
-        {
-          "score": 0.78,
-          "source_id": "DE:.RACER.International.be",
-          "source_name": "DE: RACER International"
-        }
-      ]
-    },
-    {
       "target_id": "ElChavoTV.mx@HD",
       "target_name": "El Chavo TV (720p)",
       "normalized": "el chavo",
@@ -202,14 +75,14 @@
     },
     {
       "target_id": "FashionTVSecrets.fr@HD",
-      "target_name": "FashionTV Secrets (1080p)",
-      "normalized": "fashiontv secrets",
+      "target_name": "FashionTVSecrets.fr@HD",
+      "normalized": "fashiontvsecrets fr hd",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": [
         {
-          "score": 0.692,
-          "source_id": "plex.tv.FashionTV.plex",
-          "source_name": "FashionTV"
+          "score": 0.625,
+          "source_id": "Fashion.TV.HD.nl",
+          "source_name": "Fashion TV HD"
         }
       ]
     },
@@ -355,62 +228,56 @@
     },
     {
       "target_id": "OasisTV.py@SD",
-      "target_name": "Oasis TV (Paraguay) (720p)",
-      "normalized": "oasis paraguay",
+      "target_name": "OasisTV.py@SD",
+      "normalized": "oasistv py sd",
       "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.688,
-          "source_id": "Canal.SNT.(Paraguay).ar",
-          "source_name": "Canal SNT (Paraguay)"
-        }
-      ]
+      "top_fuzzy_matches": []
     },
     {
       "target_id": "PlutoTVSeries.de@ES",
-      "target_name": "Pluto TV Series (Germany)",
-      "normalized": "pluto series germany",
+      "target_name": "PlutoTVSeries.de@ES",
+      "normalized": "plutotvseries de es",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": [
         {
-          "score": 0.842,
-          "source_id": "PlutoTVSeriesDrama.us@BR",
-          "source_name": "Pluto TV Séries Drama"
+          "score": 0.78,
+          "source_id": "PlutoTVSeriesdeSciFi.us@LatAm",
+          "source_name": "Pluto TV Series de Sci-Fi"
         },
         {
-          "score": 0.829,
-          "source_id": "PlutoTVSeriesdeDrama.us@LatAm",
-          "source_name": "Pluto TV Series de Drama"
-        },
-        {
-          "score": 0.81,
+          "score": 0.78,
           "source_id": "PlutoTVSeriesdeCrimen.us@LatAm",
           "source_name": "Pluto TV Series de Crimen"
         },
         {
-          "score": 0.789,
-          "source_id": "PlutoTVSeriesRetro.us@LatAm",
-          "source_name": "Pluto TV Series Retro"
+          "score": 0.762,
+          "source_id": "PlutoTVSeriesdeComedia.us@LatAm",
+          "source_name": "Pluto TV Series de Comedia"
         },
         {
-          "score": 0.762,
+          "score": 0.75,
+          "source_id": "PlutoTVSeriesdeDrama.us@LatAm",
+          "source_name": "Pluto TV Series de Drama"
+        },
+        {
+          "score": 0.732,
           "source_id": "PlutoTVSeriesdeAccion.us@LatAm",
           "source_name": "Pluto TV Series de Acción"
         },
         {
-          "score": 0.762,
-          "source_id": "PlutoTVSeriesCriminais.us@BR",
-          "source_name": "Pluto TV Séries Criminais"
+          "score": 0.654,
+          "source_id": "PlutoTVSeriesdeOtrosContinentes.us@LatAm",
+          "source_name": "Pluto TV Series de Otros Continentes"
         },
         {
-          "score": 0.757,
-          "source_id": "PlutoTVSeriesAcao.us@BR",
-          "source_name": "Pluto TV Séries Ação"
+          "score": 0.619,
+          "source_id": "PlutoTVNovelasdeMexico.us@LatAm",
+          "source_name": "Pluto TV Novelas de México"
         },
         {
-          "score": 0.75,
-          "source_id": "PlutoTVSeriesLatinas.us@LatAm",
-          "source_name": "Pluto TV Series Latinas"
+          "score": 0.615,
+          "source_id": "PlutoTVFilmesdeLuta.us@BR",
+          "source_name": "Pluto TV Filmes de Luta"
         }
       ]
     },
