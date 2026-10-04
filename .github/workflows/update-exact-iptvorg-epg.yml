@@ -15,6 +15,7 @@ on:
       - "scripts/build_favorites_guide.py"
       - "epg-aliases.json"
       - "epg-force-aliases.json"
+      - "epg-time-offsets.json"
       - "manual-epg-sources.json"
       - ".github/workflows/update-exact-iptvorg-epg.yml"
 
