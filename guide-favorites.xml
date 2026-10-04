@@ -3553,13 +3553,6 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="AmericasVoiceNews.us@SD" start="20261004040000 +0000" stop="20261004050000 +0000">
-    <title>America's Top 10 With Wayne Allyn Root</title>
-    <sub-title>America's Top 10 With Wayne Allyn Root</sub-title>
-    <desc>Wayne countdowns the top stories of the week every American needs to know.</desc>
-    <category>News &amp; Information</category>
-    <category>News &amp; Information</category>
-  </programme>
   <programme channel="AmericasVoiceNews.us@SD" start="20261004050000 +0000" stop="20261004060000 +0000">
     <title>Ted Nugent's Spirit Campfire</title>
     <sub-title>Ted Nugent's Spirit Campfire</sub-title>
@@ -4142,7 +4135,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="AtacamaTV.cl@SD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="AtacamaTV.cl@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>Atacama TV - Español</title>
   </programme>
   <programme start="20261003170000 +0000" stop="20261003190000 +0000" channel="AztecaInternacional.mx@SD">
@@ -5626,13 +5619,6 @@
     <category>Sci-Fi &amp; Fantasy</category>
     <category>Sci-Fi Dramas</category>
   </programme>
-  <programme channel="BETClassicsPlutoTV.us@SD" start="20261004043000 +0000" stop="20261004050000 +0000">
-    <title>Sanford and Son</title>
-    <sub-title>Tooth Or Consequences</sub-title>
-    <desc>When Fred's attempt to have a hypnotist cure his toothache fails, Lamont insists his 'chicken' father go to the free clinic. Resigned to his fate, Fred goes with Lamont, but it's Lamont who is in for the unexpected medical complication.</desc>
-    <category>Comedy</category>
-    <category>African-American Comedies</category>
-  </programme>
   <programme channel="BETClassicsPlutoTV.us@SD" start="20261004050000 +0000" stop="20261004053000 +0000">
     <title>Sanford and Son</title>
     <sub-title>The Shoot Out</sub-title>
@@ -5917,6 +5903,20 @@
     <title>The Jeffersons</title>
     <sub-title>The Visitors</sub-title>
     <desc>George and Louise are caught in the line of fire when Florence's battling parents pay the Jefferson household an unexpected and unnerving visit.</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
+  </programme>
+  <programme channel="BETClassicsPlutoTV.us@SD" start="20261005043000 +0000" stop="20261005050000 +0000">
+    <title>The Jeffersons</title>
+    <sub-title>Camp-out, The</sub-title>
+    <desc>George may be over his head when he introduces his young clerk Marcus to 'roughing it.'</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
+  </programme>
+  <programme channel="BETClassicsPlutoTV.us@SD" start="20261005050000 +0000" stop="20261005053000 +0000">
+    <title>The Jeffersons</title>
+    <sub-title>The Last Leaf</sub-title>
+    <desc>When a superstitious Louise gets a 'sign' that her marriage is doomed, George is forced to make a decision that could change the rest of their lives.</desc>
     <category>Comedy</category>
     <category>African-American Comedies</category>
   </programme>
@@ -6448,12 +6448,12 @@
     <category>Comedy</category>
     <category>African-American Comedies</category>
   </programme>
-  <programme channel="BestofMTV.se@DK" start="20261004042231 +0000" stop="20261004050831 +0000">
-    <title>Jersey Shore: A New Family</title>
-    <sub-title>A New Family</sub-title>
-    <desc>Sommeren på Jersey Shore bliver sparket igang da otte meget forskellige fremmede flytter ind i deres fælles hus ved stranden. Romancerne blusser straks op da de mødes og Sammy og Mike er de første til at knytte bånd på Jersey Shore.</desc>
-    <category>Reality</category>
-    <category>Celebrity Reality</category>
+  <programme channel="BETVisionaries.us@SD" start="20261005043000 +0000" stop="20261005063000 +0000">
+    <title>House Party 2</title>
+    <sub-title>House Party 2</sub-title>
+    <desc>High school is over, but the party is not. Join Kid n' Play for a hip-hop college adventure in House Party 2. Kid decides to pursue college, but when Play loses Kid's tuition money, the two boys have to devise a new plan -the wildest one yet!</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
   </programme>
   <programme channel="BestofMTV.se@DK" start="20261004050831 +0000" stop="20261004055731 +0000">
     <title>Jersey Shore: The Tanned Triangle</title>
@@ -6749,19 +6749,19 @@
     <category>Reality</category>
     <category>Occupational Reality</category>
   </programme>
-  <programme channel="BestofMTV.se@DK" start="20261005040800 +0000" stop="20261005043000 +0000">
-    <title>Best of MTV</title>
-    <sub-title>Best of MTV</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="BestofMTV.se@NO" start="20261004040754 +0000" stop="20261004045910 +0000">
-    <title>Teen Mom</title>
-    <sub-title>Moving On</sub-title>
-    <desc>Konflikten mellom Amber og Gary når kokepunktet, og Catelynn leter etter et nytt sted å bo når moren hennes flytter. Nysingle Maci skifter mening, og guttegale Farrah ønsker beskyttelse.</desc>
+  <programme channel="BestofMTV.se@DK" start="20261005040800 +0000" stop="20261005045700 +0000">
+    <title>Made: Ladies Man</title>
+    <sub-title>Ladies Man</sub-title>
+    <desc>A dorky, desperate, hygienically challenged senior wants to land his very first date and kiss by being MADE into an irresistible chick magnet. The catch? He has to get a girl to ask HIM out to the school dance.</desc>
     <category>Reality</category>
-    <category>Celebrity Reality</category>
+    <category>Occupational Reality</category>
+  </programme>
+  <programme channel="BestofMTV.se@DK" start="20261005045700 +0000" stop="20261005054600 +0000">
+    <title>Made: Prom Queen - Kristy</title>
+    <sub-title>Prom Queen - Kristy</sub-title>
+    <desc>Kristy McCallan wants to break out of her shy shell and dazzle her doubters by being MADE into a cool and confident Prom Queen.</desc>
+    <category>Reality</category>
+    <category>Occupational Reality</category>
   </programme>
   <programme channel="BestofMTV.se@NO" start="20261004045910 +0000" stop="20261004055027 +0000">
     <title>Teen Mom</title>
@@ -7064,6 +7064,13 @@
     <category>Reality</category>
     <category>Occupational Reality</category>
   </programme>
+  <programme channel="BestofMTV.se@NO" start="20261005043632 +0000" stop="20261005052532 +0000">
+    <title>Made: Rockstar</title>
+    <sub-title>Rockstar</sub-title>
+    <desc>Obsessively organized Jessica wants to show that she can let loose by being MADE into a rockstar.</desc>
+    <category>Reality</category>
+    <category>Occupational Reality</category>
+  </programme>
   <programme channel="BestofMTV.se@SE" start="20261004042220 +0000" stop="20261004051220 +0000">
     <title>Geordie Shore: Season 1 Reunion</title>
     <sub-title>Season 1 Reunion</sub-title>
@@ -7358,12 +7365,19 @@
     <category>Reality</category>
     <category>Family Viewing</category>
   </programme>
-  <programme channel="BestofMTV.se@SE" start="20261005041924 +0000" stop="20261005043000 +0000">
-    <title>Best of MTV</title>
-    <sub-title>Best of MTV</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="BestofMTV.se@SE" start="20261005041924 +0000" stop="20261005044524 +0000">
+    <title>Ridiculousness: Sterling and Carly Aquilino XIV (UK)</title>
+    <sub-title>Sterling and Carly Aquilino XIV (UK)</sub-title>
+    <desc>I ett nytt avsnitt av Ridiculousness försöker Rob, Steelo och Carly Aquilino att klämma in sig i en smal p-ficka i 'Fickparkeringsfummel', håva in mer än de kan klara av i 'Fiskar efter problem' och är tacksamma över att få 'Praktiska presenter'.</desc>
+    <category>Comedy</category>
+    <category>Fails &amp; Pranks</category>
+  </programme>
+  <programme channel="BestofMTV.se@SE" start="20261005044524 +0000" stop="20261005053124 +0000">
+    <title>16 and Recovering: Episode 3</title>
+    <sub-title>Episode 3</sub-title>
+    <desc>Tonåren är fulla av toppar och dalar, men för eleverna på Recovery High kan dalarna innebära döden. Shawn kan inte bryta cirkeln av missbruk och avgiftning, och mönstereleven Faith som drömmer om college kämpar hela tiden mot missbruksbegäret.</desc>
+    <category>Reality</category>
+    <category>Family Viewing</category>
   </programme>
   <programme channel="BestofParadiseHotelFinalveckan.se@SE" start="20261004043236 +0000" stop="20261004052421 +0000">
     <title>Paradise Hotel: Avsnitt 928</title>
@@ -7568,12 +7582,12 @@
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="BestofParadiseHotelKyssarkarlek.se@SE" start="20261004042736 +0000" stop="20261004050934 +0000">
-    <title>Paradise Hotel, säsong 7</title>
-    <sub-title>Avsnitt 707</sub-title>
-    <desc>Kärleksveckan fortsätter – och det är dags för en casanova att checka in. Alla är riktigt nervösa inför den nya jokerns entré. Samtidigt är det flera krossade hjärtan bland killarna på hotellet.</desc>
+  <programme channel="BestofParadiseHotelFinalveckan.se@SE" start="20261005043357 +0000" stop="20261005052542 +0000">
+    <title>Paradise Hotel: Avsnitt 928</title>
+    <sub-title>Avsnitt 928</sub-title>
+    <desc>Finalveckan är här och gästerna glädjer sig åt att de klarat av att hålla sig kvar. Men glädjen blir kortvarig – Marcelo och Nina checkar in med en gåta som kan ge ödesdigra konsekvenser.</desc>
     <category>Reality</category>
-    <category>Competition Reality</category>
+    <category>Human Interest</category>
   </programme>
   <programme channel="BestofParadiseHotelKyssarkarlek.se@SE" start="20261004050934 +0000" stop="20261004055340 +0000">
     <title>Paradise Hotel, säsong 7</title>
@@ -7785,10 +7799,10 @@
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="BestofParadiseHotelPandorasAsk.se@SE" start="20261004042136 +0000" stop="20261004050244 +0000">
-    <title>Paradise Hotel, säsong 7</title>
-    <sub-title>Avsnitt 728</sub-title>
-    <desc>Sanel och Lisa utsågs till hotellets bästa par – men det visar snart att det inte gav dem någon fördel. Istället tvingas de ta ett tufft beslut: utse en av killarna som ska tvingas checka ut omedelbart.</desc>
+  <programme channel="BestofParadiseHotelKyssarkarlek.se@SE" start="20261005044229 +0000" stop="20261005052850 +0000">
+    <title>Paradise Hotel, säsong 17</title>
+    <sub-title>Avsnitt 1704</sub-title>
+    <desc>Kyrkklockorna ringer och det är dags för bröllop. En förlovning kommer dock att brytas och ytterligare en hjärtekrossad tjej kommer tvingas lämna hotellet.</desc>
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
@@ -8002,12 +8016,12 @@
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="BestofParadiseHotelPandorasAsk.se@SE" start="20261005041615 +0000" stop="20261005043000 +0000">
-    <title>Best of Paradise Hotel: Pandoras Ask</title>
-    <sub-title>Best of Paradise Hotel: Pandoras Ask</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="BestofParadiseHotelPandorasAsk.se@SE" start="20261005041615 +0000" stop="20261005050910 +0000">
+    <title>Paradise Hotel, säsong 5</title>
+    <sub-title>Avsnitt 505</sub-title>
+    <desc>Efter gårdagens bråk är stämningen tryckt vid frukostbordet. Allt blir bättre när tjejerna får veta att de ska träffa en spådam.</desc>
+    <category>Reality</category>
+    <category>Competition Reality</category>
   </programme>
   <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261004044549 +0000" stop="20261004052700 +0000">
     <title>Paradise Hotel, säsong 7</title>
@@ -8226,19 +8240,12 @@
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261005041811 +0000" stop="20261005043000 +0000">
-    <title>Best of Paradise Hotel: Skolveckan</title>
-    <sub-title>Best of Paradise Hotel: Skolveckan</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261004044500 +0000" stop="20261004050800 +0000">
-    <title>The Drew Barrymore Show: Daisy Jones and the Six Cast, Drew's News</title>
-    <sub-title>Daisy Jones and the Six Cast, Drew's News</sub-title>
-    <desc>The cast of "Daisy Jones and the Six" talk with Drew about their new show! They're chatting all about the 70's theme of the show, their time on set and more!</desc>
-    <category>Talk Show</category>
-    <category>Talk Show</category>
+  <programme channel="BestofParadiseHotelSkolveckan.se@SE" start="20261005041811 +0000" stop="20261005051221 +0000">
+    <title>Paradise Hotel, säsong 8</title>
+    <sub-title>Avsnitt 820</sub-title>
+    <desc>Skolveckan fortsätter och nu är det killarnas tur att gnugga geniknölarna inför ett klurigt prov. Det blir även roliga timmen i klass PH – där eleverna får visa vem som är klassens främsta clown.</desc>
+    <category>Reality</category>
+    <category>Competition Reality</category>
   </programme>
   <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261004050800 +0000" stop="20261004053100 +0000">
     <title>The Drew Barrymore Show: Drew's News with Carla Hall, Corn Kid Tariq</title>
@@ -8485,6 +8492,13 @@
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
+  <programme channel="BestofTheDrewBarrymoreShow.se@DK" start="20261005044400 +0000" stop="20261005053500 +0000">
+    <title>The Drew Barrymore Show: Taye Diggs, Herb Garden &amp; Cooking with Michael Symon, “The Prom” Star Jo Ellen Pellman</title>
+    <sub-title>Taye Diggs, Herb Garden &amp; Cooking with Michael Symon, “The Prom” Star Jo Ellen Pellman</sub-title>
+    <desc>“All American” star Taye Diggs joins Drew to chat. Iron Chef Michael Symon teaches Drew how to make a hydroponic indoor herb garden and then shares how to use those home-grown herbs in a vegetable soup. Drew’s News with “The Prom” star Jo Ellen Pellman.</desc>
+    <category>Talk Show</category>
+    <category>Talk Show</category>
+  </programme>
   <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261004045100 +0000" stop="20261004051400 +0000">
     <title>The Drew Barrymore Show: Lily Tomlin, Jane Fonda</title>
     <sub-title>Lily Tomlin, Jane Fonda</sub-title>
@@ -8706,6 +8720,13 @@
     <title>The Drew Barrymore Show: Comedian Gabriel Iglesias, "Friendsgiving" Cast</title>
     <sub-title>Comedian Gabriel Iglesias, "Friendsgiving" Cast</sub-title>
     <desc>Host of Nickelodeon’s new animal talent show "Unleashed" comedian Gabriel Iglesias shares with Drew one of his favorite acts.  Cast of the new film "Friendsgiving" including Malin Akerman, Kat Dennings, Aisha Tyler and Chelsea Peretti stop by to chat.</desc>
+    <category>Talk Show</category>
+    <category>Talk Show</category>
+  </programme>
+  <programme channel="BestofTheDrewBarrymoreShow.se@NO" start="20261005044700 +0000" stop="20261005053800 +0000">
+    <title>The Drew Barrymore Show: Wildflower: Model Winnie Harlow, Mom’s Time Out</title>
+    <sub-title>Wildflower: Model Winnie Harlow, Mom’s Time Out</sub-title>
+    <desc>Drew spotlights women in signature "Wildflower." Laura Sobiech and Director Justin Baldoni discuss her son Zach’s battle with cancer inspiring a number one song. In "Mom’s Time Out," Drew surprises one deserving mom with an all-expenses paid vacation!</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
@@ -9128,19 +9149,19 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Talk Show</category>
     <category>Talk Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261005041900 +0000" stop="20261005043000 +0000">
-    <title>Best of The Drew Barrymore Show</title>
-    <sub-title>Best of The Drew Barrymore Show</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261005041900 +0000" stop="20261005044200 +0000">
+    <title>The Drew Barrymore Show: David Duchovny, Drew's News with Kirby Howell-Baptiste</title>
+    <sub-title>David Duchovny, Drew's News with Kirby Howell-Baptiste</sub-title>
+    <desc>David Duchovny talks about his career and upcoming rom-com with Drew. Kirby Howell-Baptiste joins Drew and Ross for Drew's News, discussing dating and British foods.</desc>
+    <category>Talk Show</category>
+    <category>Talk Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261004042000 +0000" stop="20261004051000 +0000">
-    <title>The Drew Barrymore Show</title>
-    <sub-title>Laura Prepon, Cooking with Babs, Abbi Jacobson</sub-title>
-    <desc>Actress Laura Prepon shares her new kitchen gadget line. The grandmother behind TikTok's Brunch with Babs, Barbara Costello, joins Drew and Laura in the kitchen to whip up a dish. Netflix’s “The Mitchells vs. The Machines” star Abbi Jacobson joins Drew.</desc>
-    <category>Variety Show</category>
-    <category>Variety Show</category>
+  <programme channel="BestofTheDrewBarrymoreShow.se@SE" start="20261005044200 +0000" stop="20261005050500 +0000">
+    <title>The Drew Barrymore Show: Red Flags with Dating Coach Damona Hoffman, Drew's News</title>
+    <sub-title>Red Flags with Dating Coach Damona Hoffman, Drew's News</sub-title>
+    <desc>Drew and Ross cover news about a senior dance troupe and a Jet-Puffed marshmallow pillow. Mark Anderson and Ryan Fey make skirt steak tacos. Damona Hoffman and Drew answer red flag questions.</desc>
+    <category>Talk Show</category>
+    <category>Talk Show</category>
   </programme>
   <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261004051000 +0000" stop="20261004060100 +0000">
     <title>The Drew Barrymore Show</title>
@@ -9331,19 +9352,19 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Variety Show</category>
     <category>Variety Show</category>
   </programme>
-  <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261005040500 +0000" stop="20261005043000 +0000">
-    <title>Best of The Drew Barrymore Show</title>
-    <sub-title>Best of The Drew Barrymore Show</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261005040500 +0000" stop="20261005045600 +0000">
+    <title>The Drew Barrymore Show</title>
+    <sub-title>Emma Roberts, Crafts with Danny Seo, Big Bird, The Weekender</sub-title>
+    <desc>"Holidate" star Emma Roberts stops by. "Sesame Street’s" Big Bird helps Drew celebrate World Kindness Day and Drew wraps up craft week with Danny Seo. Plus, Drew sends viewers into the weekend with a curated list of her favorite picks in "The Weekender."</desc>
+    <category>Variety Show</category>
+    <category>Variety Show</category>
   </programme>
-  <programme channel="CCPlutoTV.de@DACH" start="20261004043824 +0000" stop="20261004050824 +0000">
-    <title>Comedy Central Pluto TV</title>
-    <sub-title>Comedy Central Pluto TV</sub-title>
-    <desc>Bitte lächeln! Comedy Central Pluto TV ist der Sender mit den besten Comedyserien, kultigsten Stand-up-Shows, verrücktesten Cartoons und vielem mehr.</desc>
-    <category>Comedy</category>
-    <category>African-American Comedies</category>
+  <programme channel="BestofTheDrewBarrymoreShow.us@CA" start="20261005045600 +0000" stop="20261005054700 +0000">
+    <title>The Drew Barrymore Show</title>
+    <sub-title>Kate Mara, Molly Sims, Holiday Food Traditions with Eitan</sub-title>
+    <desc>"A Teacher" star Kate Mara stops by to chat. Model and actress Molly Sims on the inspiration behind her lifestyle website. TikTok star and culinary contributor Eitan Bernath shares the history behind some of your favorite holiday treats</desc>
+    <category>Variety Show</category>
+    <category>Variety Show</category>
   </programme>
   <programme channel="CCPlutoTV.de@DACH" start="20261004050824 +0000" stop="20261004053824 +0000">
     <title>Comedy Central Pluto TV</title>
@@ -9667,12 +9688,19 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Comedy</category>
     <category>African-American Comedies</category>
   </programme>
-  <programme channel="CCPlutoTV.de@DACH" start="20261005040824 +0000" stop="20261005043000 +0000">
+  <programme channel="CCPlutoTV.de@DACH" start="20261005040824 +0000" stop="20261005043824 +0000">
     <title>Comedy Central Pluto TV</title>
     <sub-title>Comedy Central Pluto TV</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+    <desc>Bitte lächeln! Comedy Central Pluto TV ist der Sender mit den besten Comedyserien, kultigsten Stand-up-Shows, verrücktesten Cartoons und vielem mehr.</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
+  </programme>
+  <programme channel="CCPlutoTV.de@DACH" start="20261005043824 +0000" stop="20261005050824 +0000">
+    <title>Comedy Central Pluto TV</title>
+    <sub-title>Comedy Central Pluto TV</sub-title>
+    <desc>Bitte lächeln! Comedy Central Pluto TV ist der Sender mit den besten Comedyserien, kultigsten Stand-up-Shows, verrücktesten Cartoons und vielem mehr.</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
   </programme>
   <programme channel="CSI.se@DK" start="20261004042537 +0000" stop="20261004052000 +0000">
     <title>CSI: Crime Scene Investigation: Sounds of Silence</title>
@@ -9870,12 +9898,12 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Crime</category>
     <category>Crime</category>
   </programme>
-  <programme channel="CSI.us@SD" start="20261004040000 +0000" stop="20261004050000 +0000">
-    <title>CSI</title>
-    <sub-title>The Good, The Bad &amp; The Dominatrix</sub-title>
-    <desc>Sara is uneasy about Grissom being reunited with Lady Heather during the CSIs' investigation of her attempted murder by a client she refuses to name.</desc>
-    <category>Drama</category>
-    <category>Crime Drama</category>
+  <programme channel="CSI.se@DK" start="20261005044750 +0000" stop="20261005054004 +0000">
+    <title>CSI: Crime Scene Investigation: Suckers</title>
+    <sub-title>Suckers</sub-title>
+    <desc>Grissom, Sara og Nick er på sagen, da der sker en el-ulykke på et kasino. Kasinoet huser japanske antikviteter – var ulykken bare et middel for at stjæle hovedattraktionen i udstillingen?</desc>
+    <category>Crime</category>
+    <category>Crime</category>
   </programme>
   <programme channel="CSI.us@SD" start="20261004050000 +0000" stop="20261004060000 +0000">
     <title>CSI</title>
@@ -10038,17 +10066,10 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
-  <programme channel="CSI.us@SD" start="20261005041500 +0000" stop="20261005043000 +0000">
+  <programme channel="CSI.us@SD" start="20261005041500 +0000" stop="20261005051500 +0000">
     <title>CSI</title>
-    <sub-title>CSI</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="CSICrimeSceneInvestigation.de@GB" start="20261004042153 +0000" stop="20261004050322 +0000">
-    <title>CSI: Crime Scene Investigation</title>
-    <sub-title>No Way Out</sub-title>
-    <desc>Riley and Ray are taken hostage in the aftermath of a multiple shooting.</desc>
+    <sub-title>Bang, Bang</sub-title>
+    <desc>A man accused of murdering his wife and co-workers leads the CSIs on a wild chase through a busy Vegas casino.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
@@ -10255,12 +10276,12 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
-  <programme channel="CSICrimeSceneInvestigation.de@GB" start="20261005042215 +0000" stop="20261005043000 +0000">
+  <programme channel="CSICrimeSceneInvestigation.de@GB" start="20261005042215 +0000" stop="20261005051051 +0000">
     <title>CSI: Crime Scene Investigation</title>
-    <sub-title>CSI: Crime Scene Investigation</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+    <sub-title>Who and What</sub-title>
+    <desc>The CSIs work with the FBI to investigate the murders of a young boy and a woman.</desc>
+    <category>Drama</category>
+    <category>Crime Drama</category>
   </programme>
   <programme channel="CSIMiami.us@BR" start="20261004042500 +0000" stop="20261004051500 +0000">
     <title>CSI: Miami</title>
@@ -10458,19 +10479,12 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Action &amp; Adventure</category>
     <category>Crime Action</category>
   </programme>
-  <programme channel="CSIMiami.us@BR" start="20261005041600 +0000" stop="20261005043000 +0000">
+  <programme channel="CSIMiami.us@BR" start="20261005041600 +0000" stop="20261005050800 +0000">
     <title>CSI: Miami</title>
-    <sub-title>CSI: Miami</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="CSIMiami.us@SD" start="20261004040000 +0000" stop="20261004050000 +0000">
-    <title>CSI: Miami</title>
-    <sub-title>Burned</sub-title>
-    <desc>Horatio investigates a case of revenge on a scorned ex-lover. A CSI's personal problems taint the investigation and Horatio is forced to fire them.</desc>
-    <category>Thriller</category>
-    <category>Thriller</category>
+    <sub-title>Aspirante</sub-title>
+    <desc>O caso de Horatio e Speedle se desdobra no testemunho de um estusiasta da evidência forense que roubou uma luva de látex encharcada de sangue da cena do assassinato de um homem que foi esfaqueado até a morte com um canivete butterfly.</desc>
+    <category>Action &amp; Adventure</category>
+    <category>Crime Action</category>
   </programme>
   <programme channel="CSIMiami.us@SD" start="20261004050000 +0000" stop="20261004060000 +0000">
     <title>CSI: Miami</title>
@@ -10640,6 +10654,13 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
+  <programme channel="CSIMiami.us@SD" start="20261005050000 +0000" stop="20261005060000 +0000">
+    <title>CSI: Miami</title>
+    <sub-title>From The Grave</sub-title>
+    <desc>Horatio and the CSI team face off with Miami’s notorious and deadly Mala Noche gang after a funeral becomes the scene of a murder.</desc>
+    <category>Thriller</category>
+    <category>Thriller</category>
+  </programme>
   <programme channel="CSIMiamienespanol.us@SD" start="20261004043000 +0000" stop="20261004053000 +0000">
     <title>CSI: Miami en español</title>
     <sub-title>Doble juicio</sub-title>
@@ -10808,10 +10829,10 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
-  <programme channel="CSINYenespanol.us@SD" start="20261004040000 +0000" stop="20261004050000 +0000">
-    <title>CSI: New York en español</title>
-    <sub-title>Solo se muere una vez</sub-title>
-    <desc>El equipo de CSI investiga un asesinato relacionado con una serie de robos de espías dirigidos a la élite mientras Mac sigue recibiendo misteriosas llamadas telefónicas.</desc>
+  <programme channel="CSIMiamienespanol.us@SD" start="20261005043000 +0000" stop="20261005053000 +0000">
+    <title>CSI: Miami en español</title>
+    <sub-title>Un homicidio espantoso</sub-title>
+    <desc>Un fin de semana de caza se vuelve mortal cuando un oso ataca a alguien del grupo y la evidencia sugiere un crimen. Horatio y el equipo de CSI investigan.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
@@ -10983,6 +11004,13 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
+  <programme channel="CSINYenespanol.us@SD" start="20261005050000 +0000" stop="20261005060000 +0000">
+    <title>CSI: New York en español: Muerto por dentro (S5 Ep7)</title>
+    <sub-title>Muerto por dentro (S5 Ep7)</sub-title>
+    <desc>La investigación de una escena de crimen flotante lleva al equipo al mundo de SecretU, un mundo artístico de verdaderas confesiones.</desc>
+    <category>Drama</category>
+    <category>Crime Drama</category>
+  </programme>
   <programme channel="CSIenespanol.us@SD" start="20261004043000 +0000" stop="20261004053000 +0000">
     <title>CSI en español</title>
     <sub-title>Noche de combate</sub-title>
@@ -11148,6 +11176,13 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <title>CSI en español</title>
     <sub-title>Pruebas invisibles</sub-title>
     <desc>La comparecencia de Warrick en la vista preliminar de un caso de violación y asesinato sale terriblemente mal cuando la única prueba es desestimada por un tecnicismo.</desc>
+    <category>Drama</category>
+    <category>Crime Drama</category>
+  </programme>
+  <programme channel="CSIenespanol.us@SD" start="20261005050000 +0000" stop="20261005060000 +0000">
+    <title>CSI en español</title>
+    <sub-title>Tras el espectáculo</sub-title>
+    <desc>El encaprichamiento de un sospechoso con Catherine hace que ésta se haga cargo de un caso de alto perfil.</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
@@ -12814,12 +12849,12 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Thriller</category>
     <category>Thriller</category>
   </programme>
-  <programme channel="Cineaventura.us@SD" start="20261005041500 +0000" stop="20261005043000 +0000">
-    <title>Cine aventura</title>
-    <sub-title>Cine aventura</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="Cineaventura.us@SD" start="20261005041500 +0000" stop="20261005064500 +0000">
+    <title>Héroes</title>
+    <sub-title>Héroes</sub-title>
+    <desc>Dos jóvenes estadounidenses con habilidades especiales deben apurarse para encontrar a una chica en Hong Kong antes de que lo haga una sombría organización gubernamental llamada División.</desc>
+    <category>Sci-Fi &amp; Fantasy</category>
+    <category>Sci-Fi Thrillers</category>
   </programme>
   <programme channel="CinebyPlutoTV.de@FR" start="20261003170441 +0000" stop="20261003190324 +0000">
     <title lang="fr">55 Steps</title>
@@ -13045,19 +13080,12 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
-  <programme channel="Cineenespanol.us@SD" start="20261005041500 +0000" stop="20261005043000 +0000">
-    <title>Cine en español</title>
-    <sub-title>Cine en español</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="ClassicTVComedy.us@SD" start="20261004043048 +0000" stop="20261004050048 +0000">
-    <title>Green Acres</title>
-    <sub-title>Oliver Vs The Phone Company</sub-title>
-    <desc>After years of substandard service, Oliver is hellbent on throwing the book at the Hooterville Phone Company. When it becomes clear that the local utility oversight board can't do much about it, he decides to handle matters directly.</desc>
-    <category>Comedy</category>
-    <category>Cult Comedies</category>
+  <programme channel="Cineenespanol.us@SD" start="20261005041500 +0000" stop="20261005071500 +0000">
+    <title>El Infierno</title>
+    <sub-title>El Infierno</sub-title>
+    <desc>Benny es deportado de Estados Unidos a un México desgarrado por la guerra entre cárteles del narcotráfico. Se involucra en el negocio narco y asciende rápidamente, rodeado de dinero, mujeres, violencia y excesos.</desc>
+    <category>Thriller</category>
+    <category>Thriller</category>
   </programme>
   <programme channel="ClassicTVComedy.us@SD" start="20261004050048 +0000" stop="20261004053048 +0000">
     <title>Green Acres</title>
@@ -13381,12 +13409,19 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Comedy</category>
     <category>Cult Comedies</category>
   </programme>
-  <programme channel="ClassicTVComedy.us@SD" start="20261005040048 +0000" stop="20261005043000 +0000">
-    <title>Classic TV Comedy</title>
-    <sub-title>Classic TV Comedy</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="ClassicTVComedy.us@SD" start="20261005040048 +0000" stop="20261005043048 +0000">
+    <title>All in the Family</title>
+    <sub-title>Archie's Grand Opening</sub-title>
+    <desc>On the eve of his grand opening, Harry quits Archie's bar when the bigot bosses Harry around. Helpless, Edith and the Stivics come on time and gladly decide to help out. With a great crowd, Archie faces more problems.</desc>
+    <category>Comedy</category>
+    <category>Cult Comedies</category>
+  </programme>
+  <programme channel="ClassicTVComedy.us@SD" start="20261005043048 +0000" stop="20261005050048 +0000">
+    <title>All in the Family</title>
+    <sub-title>Archie And The Ku Klux Klan: Part 2</sub-title>
+    <desc>Archie devises a plan to prevent the Klan from burning a cross on Mike and Gloria's lawn.</desc>
+    <category>Comedy</category>
+    <category>Cult Comedies</category>
   </programme>
   <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261004045821 +0000" stop="20261004051953 +0000">
     <title>Central de Cómicos: Archie Bezos: Caprichito de marineros</title>
@@ -13773,12 +13808,19 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Comedy</category>
     <category>African-American Comedies</category>
   </programme>
-  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261005042112 +0000" stop="20261005043000 +0000">
-    <title>Comedia a lo bestia de Pluto TV</title>
-    <sub-title>Comedia a lo bestia de Pluto TV</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261005042112 +0000" stop="20261005044912 +0000">
+    <title>MTV Trolling: Episodio 122</title>
+    <sub-title>Episodio 122</sub-title>
+    <desc>El mago y personalidad de YouTube, Rob Anderson, presenta este nuevo reality show internacional MTV Trolling. La serie de cámara oculta utiliza los dispositivos cotidianos para pillar a sus usuarios desprevenidos.</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
+  </programme>
+  <programme channel="ComediaalobestiadePlutoTV.de@ES" start="20261005044912 +0000" stop="20261005051356 +0000">
+    <title>Lo más ridículo</title>
+    <sub-title>Episodio 503</sub-title>
+    <desc>Lo más ridículo, un formato original de Comedy Central UK que recopila vídeos virales en los que la especie humana demuestra hasta dónde es capaz de llegar para alcanzar el absurdo.</desc>
+    <category>Comedy</category>
+    <category>Fails &amp; Pranks</category>
   </programme>
   <programme channel="ComedyCentralAnimation.us@SD" start="20261004045000 +0000" stop="20261004051500 +0000">
     <title>Drawn Together</title>
@@ -14277,12 +14319,19 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Comedy</category>
     <category>Spoofs and Satire</category>
   </programme>
-  <programme channel="ComedyCentralAnimation.us@SD" start="20261005042500 +0000" stop="20261005043000 +0000">
-    <title>Comedy Central Animation</title>
-    <sub-title>Comedy Central Animation</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="ComedyCentralAnimation.us@SD" start="20261005042500 +0000" stop="20261005045000 +0000">
+    <title>Drawn Together</title>
+    <sub-title>A Tale of Two Cows</sub-title>
+    <desc>Wooldoor makes a bovine friend in Live Action Forest as Toot heads to a reunion with Xandir.</desc>
+    <category>Comedy</category>
+    <category>Spoofs and Satire</category>
+  </programme>
+  <programme channel="ComedyCentralAnimation.us@SD" start="20261005045000 +0000" stop="20261005051500 +0000">
+    <title>Drawn Together</title>
+    <sub-title>Clum Babies</sub-title>
+    <desc>Wooldoor discovers the healing powers of his bodily fluids. Ling-Ling finds love.</desc>
+    <category>Comedy</category>
+    <category>Spoofs and Satire</category>
   </programme>
   <programme start="20261004055500 +0000" stop="20261004062000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
     <title lang="es">South Park</title>
@@ -15073,13 +15122,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">African-American Comedies</category>
     <icon src="https://images.pluto.tv/series/6aa0142faf45eb18dbf62fa9/tile_1788875824440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="ComedyCentralPlutoTV.us@US" start="20261004043000 +0000" stop="20261004050000 +0000">
-    <title>Drunk History</title>
-    <sub-title>Love</sub-title>
-    <desc>A student tunnels beneath the Berlin Wall, Edie Windsor topples the Defense of Marriage Act, and John Wojtowicz robs a bank to pay for his wife's gender reassignment surgery.</desc>
-    <category>Comedy</category>
-    <category>Political Comedies</category>
-  </programme>
   <programme channel="ComedyCentralPlutoTV.us@US" start="20261004050000 +0000" stop="20261004053000 +0000">
     <title>Drunk History</title>
     <sub-title>Drugs</sub-title>
@@ -15395,12 +15437,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Political Comedies</category>
   </programme>
-  <programme channel="ComedyCentralRoast.se@DK" start="20261004040810 +0000" stop="20261004050909 +0000">
-    <title>Jeff Ross Roasts Criminals</title>
-    <sub-title>Jeff Ross Roasts Criminals</sub-title>
-    <desc>Amerikas Roastmester generalen selv, Jeff Ross, giver den farligste - og mest oplysende - roast i sit liv fra bag murene af Brazos-fængslet i Bryan, Texas.</desc>
+  <programme channel="ComedyCentralPlutoTV.us@US" start="20261005043000 +0000" stop="20261005050000 +0000">
+    <title>Drunk History</title>
+    <sub-title>Fame</sub-title>
+    <desc>Hedy Lamarr designs the first modern airplane wing, Eartha Kitt's activism provokes the ire of Lady Bird Johnson, and Alexis Pulaski's poodle becomes a huge star.</desc>
     <category>Comedy</category>
-    <category>Stand-Up</category>
+    <category>Political Comedies</category>
+  </programme>
+  <programme channel="ComedyCentralPlutoTV.us@US" start="20261005050000 +0000" stop="20261005053000 +0000">
+    <title>Drunk History</title>
+    <sub-title>Good Samaritans</sub-title>
+    <desc>Forest service ranger Ed Pulaski saves 40 men from a forest fire, and Ted Patrick rescues teenagers from the psychological grip of the Children of God cult.</desc>
+    <category>Comedy</category>
+    <category>Political Comedies</category>
   </programme>
   <programme channel="ComedyCentralRoast.se@DK" start="20261004050909 +0000" stop="20261004063209 +0000">
     <title>The Roast of James Franco</title>
@@ -15542,19 +15591,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Stand-Up</category>
   </programme>
-  <programme channel="ComedyCentralRoast.se@DK" start="20261005041638 +0000" stop="20261005043000 +0000">
-    <title>Comedy Central Roast</title>
-    <sub-title>Comedy Central Roast</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="ComedyCentralSouthPark.us@BR" start="20261004043300 +0000" stop="20261004050000 +0000">
-    <title>South Park</title>
-    <sub-title>Verão aleijado</sub-title>
-    <desc>As crianças de South Park tentam ajudar Towelie a se recuperar do seu vício em drogas, enquanto Nathan tenta destruir Jimmy durante as competições atléticas nas férias de verão.</desc>
+  <programme channel="ComedyCentralRoast.se@DK" start="20261005041638 +0000" stop="20261005054038 +0000">
+    <title>The Roast of William Shatner</title>
+    <sub-title>The Roast of William Shatner</sub-title>
+    <desc>The Roast of William Shatner blev nomineret til en Primetime Emmy Award i 2007. Afsnittet placerer skuespilleren William Shatner i den varme stol, mens Roastmasteren Jason Alexander og en bred vifte af komikere får ham ned med nakken.</desc>
     <category>Comedy</category>
-    <category>Spoofs and Satire</category>
+    <category>Stand-Up</category>
   </programme>
   <programme channel="ComedyCentralSouthPark.us@BR" start="20261004050000 +0000" stop="20261004052700 +0000">
     <title>South Park</title>
@@ -15920,12 +15962,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Spoofs and Satire</category>
   </programme>
-  <programme channel="ComedyCentralSouthPark.us@BR" start="20261005042400 +0000" stop="20261005043000 +0000">
-    <title>Comedy Central South Park</title>
-    <sub-title>Comedy Central South Park</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="ComedyCentralSouthPark.us@BR" start="20261005042400 +0000" stop="20261005045100 +0000">
+    <title>South Park</title>
+    <sub-title>#BonsHologramas</sub-title>
+    <desc>Kyle ainda está pertubado pois Ike e seus amigos o chamam de vovó. Enquanto isso, vários hologramas estão à solta em South Park.</desc>
+    <category>Comedy</category>
+    <category>Spoofs and Satire</category>
+  </programme>
+  <programme channel="ComedyCentralSouthPark.us@BR" start="20261005045100 +0000" stop="20261005051900 +0000">
+    <title>South Park</title>
+    <sub-title>Incrível e corajoso</sub-title>
+    <desc>Há um o novo diretor na escola e ele obrigará os meninos a confrontarem os danos que eles causaram com seus históricos de racismo e preconceito.</desc>
+    <category>Comedy</category>
+    <category>Spoofs and Satire</category>
   </programme>
   <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261004045600 +0000" stop="20261004052300 +0000">
     <title>South Park</title>
@@ -16284,12 +16333,26 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Dark Humor &amp; Black Comedies</category>
   </programme>
-  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261005040100 +0000" stop="20261005043000 +0000">
-    <title>Comedy Central South Park</title>
-    <sub-title>Comedy Central South Park</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261005040100 +0000" stop="20261005042800 +0000">
+    <title>South Park</title>
+    <sub-title>Timmy 2000</sub-title>
+    <desc>Todos los niños de South Park son diagnosticados con el S.F.A. (El Síndrome de Falta de Atención) después de que el nuevo alumno minusválido, Timmy, fuese diagnosticado erróneamente también.</desc>
+    <category>Comedy</category>
+    <category>Dark Humor &amp; Black Comedies</category>
+  </programme>
+  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261005042800 +0000" stop="20261005045500 +0000">
+    <title>South Park</title>
+    <sub-title>Pip: Grandes Esperanzas</sub-title>
+    <desc>Cuento Southparkitero del libro "Grandes Esperanzas" de Dickens, teniendo como protagonista a Pip, un inglés de clase pobre, y con Malcolm McDowell, un británico como narrador.</desc>
+    <category>Comedy</category>
+    <category>Dark Humor &amp; Black Comedies</category>
+  </programme>
+  <programme channel="ComedyCentralSouthPark.us@LatAm" start="20261005045500 +0000" stop="20261005052200 +0000">
+    <title>South Park</title>
+    <sub-title>Cartman se une a NAMBLA</sub-title>
+    <desc>Cartman cree que es demasiado maduro como para salir con Stan, Kyle y Kenny, y decide buscar nuevos amigos en internet, pero termina metiéndose con un montón de pedófilos.</desc>
+    <category>Comedy</category>
+    <category>Dark Humor &amp; Black Comedies</category>
   </programme>
   <programme channel="ComedyCentralenEspanol.us@SD" start="20261004040000 +0000" stop="20261004053000 +0000">
     <title>Con el culo al aire</title>
@@ -17366,7 +17429,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>AL</value>
     </rating>
   </programme>
-  <programme channel="DanceFM.cl@SD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="DanceFM.cl@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>Dance FM - Español</title>
   </programme>
   <programme channel="DatingNakedUK.se@DK" start="20261004044159 +0000" stop="20261004053557 +0000">
@@ -17558,12 +17621,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="DatingNakedUK.se@DK" start="20261005040940 +0000" stop="20261005043000 +0000">
+  <programme channel="DatingNakedUK.se@DK" start="20261005040940 +0000" stop="20261005045654 +0000">
     <title>Dating Naked UK</title>
-    <sub-title>Dating Naked UK</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+    <sub-title>Den nøgne newbie</sub-title>
+    <desc>Den første nøgne newbie spilder ikke tiden. Nogle forhold udvikler sig, men nervøsiteten breder sig før en dater bliver sendt hjem.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
+  </programme>
+  <programme channel="DatingNakedUK.se@DK" start="20261005045654 +0000" stop="20261005054549 +0000">
+    <title>Dating Naked UK</title>
+    <sub-title>Bar eller svar</sub-title>
+    <desc>Efter den første bliver droppet, søger de andre nye forbindelser. Nogle forhold afbrydes og åbner vejen for, at nye kan udvikle sig. En dater fortryder et spil Bar eller Svar og for en anden løber tiden ud.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
   </programme>
   <programme channel="DatingNakedUK.se@NO" start="20261004045847 +0000" stop="20261004055256 +0000">
     <title>Dating Naked UK</title>
@@ -17740,12 +17810,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="DatingNakedUK.se@NO" start="20261005040048 +0000" stop="20261005043000 +0000">
+  <programme channel="DatingNakedUK.se@NO" start="20261005040048 +0000" stop="20261005045434 +0000">
     <title>Dating Naked UK</title>
-    <sub-title>Dating Naked UK</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+    <sub-title>Cocktail og snurrebasshistorier</sub-title>
+    <desc>Det slår gnister når sjalusi og konkurranse tilspisser seg. Et par tar forbindelsen til et nytt nivå, mens tvilens skjær sprer seg over det andre. Før en dramatisk vri på avfallsplassen.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
+  </programme>
+  <programme channel="DatingNakedUK.se@NO" start="20261005045434 +0000" stop="20261005054932 +0000">
+    <title>Dating Naked UK</title>
+    <sub-title>Nuss, nuss...</sub-title>
+    <desc>To datere kjemper om kompensere for balansen i huset etter sjokket over avfallsplassen. En maskeradefest genererer en sæskilt nakenglede, og for mye tungebevegelser presser et par til bristegrensen.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
   </programme>
   <programme channel="DatingNakedUK.se@SE" start="20261004045355 +0000" stop="20261004055050 +0000">
     <title>Dating Naked UK</title>
@@ -17922,12 +17999,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="DatingNakedUK.se@SE" start="20261005040251 +0000" stop="20261005043000 +0000">
+  <programme channel="DatingNakedUK.se@SE" start="20261005040251 +0000" stop="20261005045749 +0000">
     <title>Dating Naked UK</title>
-    <sub-title>Dating Naked UK</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+    <sub-title>Exens återkomst</sub-title>
+    <desc>Två bekanta ansikten vill återuppta sina kontakter, men kommer de att kunna ta vid där de slutade? Dejtarna ägnar sig åt en omvänd striptease vilket stärker vissa, försvagar andra, och lägger en relation på is.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
+  </programme>
+  <programme channel="DatingNakedUK.se@SE" start="20261005045749 +0000" stop="20261005055258 +0000">
+    <title>Dating Naked UK</title>
+    <sub-title>Äkta relationer</sub-title>
+    <desc>Det närmar sig slutet, och det ska fattas stora beslut som skakar om huset.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
   </programme>
   <programme start="20261004050500 +0000" stop="20261004064700 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">El Superman... Dilon</title>
@@ -18514,7 +18598,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <sub-title lang="es">Episode 25</sub-title>
     <episode-num system="onscreen">S7 E25</episode-num>
   </programme>
-  <programme channel="ElChavoTV.mx@HD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="ElChavoTV.mx@HD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>El Chavo TV - Español</title>
   </programme>
   <programme start="20261004034500 +0000" stop="20261004114500 +0000" channel="ElTreceInternacionalLatinAmerica.ar@SD">
@@ -19149,7 +19233,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
     <episode-num system="onscreen">S01E08</episode-num>
   </programme>
-  <programme channel="FashionLifeStyle.ru@SD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="FashionLifeStyle.ru@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>Fashion&amp;LifeStyle - English</title>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="FashionTV.in@SD">
@@ -19468,7 +19552,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="ru">Fashion TV</title>
     <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии</desc>
   </programme>
-  <programme channel="FashionTVParisLOriginal.fr@SD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="FashionTVParisLOriginal.fr@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>FashionTV Paris L'Original - Français</title>
   </programme>
   <programme start="20261004060000 +0000" stop="20261004063000 +0000" channel="GarageTVLatinAmerica.ar@SD">
@@ -19705,7 +19789,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Cambio de rasante</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
   </programme>
-  <programme channel="GlobalFashionChannel.us@SD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="GlobalFashionChannel.us@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>Global Fashion Channel - English</title>
   </programme>
   <programme channel="History.br@SD" start="20261003135500 -0300" stop="20261003144500 -0300">
@@ -19990,18 +20074,11 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="es">El Viejo Oeste con Kevin Costner</title>
     <sub-title lang="es">Rutas de Oregón</sub-title>
   </programme>
-  <programme channel="ISTV.br@SD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="ISTV.br@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>ISTV - Português</title>
   </programme>
-  <programme channel="ImpactTVDance.ro@SD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="ImpactTVDance.ro@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>Impact TV Dance - Romanian</title>
-  </programme>
-  <programme channel="LEGOKidsTV.us@SD" start="20261004043400 +0000" stop="20261004050100 +0000">
-    <title>LEGO Ninjago: Masters of Spinjitzu</title>
-    <sub-title>Operation Land Ho!</sub-title>
-    <desc>The ninja are trying to figure out a way to save Jay from Nadakhan’s ship. Two screenwriters, Kevin and Dan, suggest that they build a fake raid zeppelin and disguise themselves as Sky Pirates.</desc>
-    <category>Children &amp; Family</category>
-    <category>Family Animation</category>
   </programme>
   <programme channel="LEGOKidsTV.us@SD" start="20261004050100 +0000" stop="20261004052800 +0000">
     <title>LEGO Ninjago: Masters of Spinjitzu</title>
@@ -20360,12 +20437,26 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Children &amp; Family</category>
     <category>Family Animation</category>
   </programme>
-  <programme channel="LEGOKidsTV.us@SD" start="20261005040500 +0000" stop="20261005043000 +0000">
-    <title>LEGO Kids TV</title>
-    <sub-title>LEGO Kids TV</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="LEGOKidsTV.us@SD" start="20261005040500 +0000" stop="20261005043200 +0000">
+    <title>LEGO Ninjago: Masters of Spinjitzu</title>
+    <sub-title>The Quiet One</sub-title>
+    <desc>As Lloyd and Harumi venture deep into Primeval’s Eye in search of the third Oni Mask, the ninja attempt to fix the Bounty and make a startling discovery.</desc>
+    <category>Children &amp; Family</category>
+    <category>Family Animation</category>
+  </programme>
+  <programme channel="LEGOKidsTV.us@SD" start="20261005043200 +0000" stop="20261005045900 +0000">
+    <title>LEGO Ninjago: Masters of Spinjitzu</title>
+    <sub-title>Game of Masks</sub-title>
+    <desc>As Lloyd and Harumi search the Oni Temple for the last mask, the ninja are taken hostage and discover Princess Harumi’s true intentions.</desc>
+    <category>Children &amp; Family</category>
+    <category>Family Animation</category>
+  </programme>
+  <programme channel="LEGOKidsTV.us@SD" start="20261005045900 +0000" stop="20261005052600 +0000">
+    <title>LEGO Ninjago: Masters of Spinjitzu</title>
+    <sub-title>Dread on Arrival</sub-title>
+    <desc>The ninja appeal to the police commissioner of Ninjago in an effort to help save Lloyd and thwart Harumi’s efforts to resurrect the evil Lord Garmadon.</desc>
+    <category>Children &amp; Family</category>
+    <category>Family Animation</category>
   </programme>
   <programme start="20261004053500 +0000" stop="20261004070500 +0000" channel="LifetimeLatinAmerica.us@Brazil">
     <title lang="pt">O Defeito da Cor</title>
@@ -20784,7 +20875,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Occupational Reality</category>
     <icon src="https://images.pluto.tv/series/666312601c02820013efe934/tile_1769469843025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="MegaTV.py@SD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="MegaTV.py@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>Mega TV - Español</title>
   </programme>
   <programme start="20261004054700 +0000" stop="20261004060700 +0000" channel="MusicBoxBrazil.br@SD">
@@ -22127,15 +22218,15 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="pt">Anime Series</category>
     <icon src="https://images.pluto.tv/series/5f89ec9e7ecf48001a34156c/tile_1778519162660.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="Nickelodeon.br@SD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="Nickelodeon.br@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>Nickelodeon - Português</title>
   </programme>
-  <programme channel="ParadiseHotel.se@DK" start="20261004043729 +0000" stop="20261004051836 +0000">
-    <title>Paradise Hotel - Sæson 22</title>
-    <sub-title>Episode 2208</sub-title>
-    <desc>Aftenens parceremoni skaber splid mellem et nyere par. Og så bliver to heldige gæster bliver udvalgt til at komme på en aktiv date. Men hvem checker mon ind, mens de to er ude?</desc>
-    <category>Reality</category>
-    <category>Human Interest</category>
+  <programme channel="ParadiseHotel.se@DK" start="20261004050000 +0000" stop="20261004051836 +0000">
+    <title>Paradise Hotel</title>
+    <sub-title>Paradise Hotel</sub-title>
+    <desc>no info available</desc>
+    <category>no info available</category>
+    <category>no info available</category>
   </programme>
   <programme channel="ParadiseHotel.se@DK" start="20261004051836 +0000" stop="20261004060348 +0000">
     <title>Paradise Hotel - Sæson 22</title>
@@ -22361,6 +22452,13 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
+  <programme channel="ParadiseHotel.se@DK" start="20261005044250 +0000" stop="20261005052941 +0000">
+    <title>Paradise Hotel - Sæson 22</title>
+    <sub-title>Episode 2241</sub-title>
+    <desc>Til reunion-festen med juryen spreder rygter sig om to drenges skumle planer, og helvede bryder løs. Dagen efter står én af pigerne overfor et svært valg.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
+  </programme>
   <programme channel="ParadiseHotel.se@NO" start="20261004044429 +0000" stop="20261004052634 +0000">
     <title>Paradise Hotel</title>
     <sub-title>Episode 1628</sub-title>
@@ -22564,12 +22662,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Competition Reality</category>
   </programme>
-  <programme channel="ParadiseHotel.se@NO" start="20261005040520 +0000" stop="20261005043000 +0000">
-    <title>Paradise Hotel</title>
-    <sub-title>Paradise Hotel</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="ParadiseHotel.se@NO" start="20261005040520 +0000" stop="20261005045554 +0000">
+    <title>Paradise Hotel Norge - Sesong 17: Episode 1730</title>
+    <sub-title>Episode 1730</sub-title>
+    <desc>Ting må debriefes på frokosten, og en av jentene må ta et vanskelig valg. Hvor går Emil?</desc>
+    <category>Reality</category>
+    <category>Competition Reality</category>
+  </programme>
+  <programme channel="ParadiseHotel.se@NO" start="20261005045554 +0000" stop="20261005054558 +0000">
+    <title>Paradise Hotel Norge - Sesong 17: Episode 1731</title>
+    <sub-title>Episode 1731</sub-title>
+    <desc>Semifinalen er i gang. En deltaker må sjekke ut av hotellet, mens en annen får et fristende tilbud. Karma really is a bitch.</desc>
+    <category>Reality</category>
+    <category>Competition Reality</category>
   </programme>
   <programme channel="ParadiseHotel.se@SE" start="20261004045144 +0000" stop="20261004051842 +0000">
     <title>Paradise Hotel, säsong 17</title>
@@ -22816,12 +22921,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="ParadiseHotel.se@SE" start="20261005041912 +0000" stop="20261005043000 +0000">
-    <title>Paradise Hotel</title>
-    <sub-title>Paradise Hotel</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="ParadiseHotel.se@SE" start="20261005041912 +0000" stop="20261005051112 +0000">
+    <title>Paradise Hotel: Avsnitt 901</title>
+    <sub-title>Avsnitt 901</sub-title>
+    <desc>Redan från start är det tjejerna som styr och ställer i paradiset och killarna kommer att få kämpa för sin överlevnad.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
   </programme>
   <programme channel="ParadiseHotelUnderlagnerne.se@DK" start="20261004045528 +0000" stop="20261004053726 +0000">
     <title>Paradise Hotel</title>
@@ -23058,6 +23163,13 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title>Paradise Hotel: Episode 1922</title>
     <sub-title>Episode 1922</sub-title>
     <desc>To deltagere får mulighed for at redde sig selv ved at sætte to andre i fare, og det skaber paranoia på Paradise. Og så er der kærlighed i luften, når der er reunion-fest.</desc>
+    <category>Reality</category>
+    <category>Human Interest</category>
+  </programme>
+  <programme channel="ParadiseHotelUnderlagnerne.se@DK" start="20261005043503 +0000" stop="20261005052003 +0000">
+    <title>Paradise Hotel: Episode 1926</title>
+    <sub-title>Episode 1926</sub-title>
+    <desc>En deltager tager sagen i egen hånd, og det sætter Paradise på den anden ende. Og så er der masser af kærlighed i luften, når der er kærlighedsfest.</desc>
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
@@ -24429,12 +24541,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Cult Comedies</category>
   </programme>
-  <programme channel="PlutoTVCineComedia.de@ES" start="20261005042921 +0000" stop="20261005043000 +0000">
-    <title>Pluto TV Cine Comedia</title>
-    <sub-title>Pluto TV Cine Comedia</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVCineComedia.de@ES" start="20261005042921 +0000" stop="20261005043421 +0000">
+    <title>Fillers Pluto TV ES</title>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <desc>Fillers Pluto TV</desc>
+    <category>News &amp; Information</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="PlutoTVCineComedia.de@ES" start="20261005043421 +0000" stop="20261005060821 +0000">
+    <title>Un tipo de altura</title>
+    <sub-title>Un tipo de altura</sub-title>
+    <desc>El "largo" Dexter King, tímido y torpe, es el hombro de un comediante que trabaja en Drury Lane. Alérgico a las plumas, Dexter, a quien un médico le ha recetado una serie de inyecciones, conoce a la enfermera Kate y se enamora de ella.</desc>
+    <category>Comedy</category>
+    <category>Showbiz Comedies</category>
   </programme>
   <programme channel="PlutoTVCineComedia.us@BR" start="20261003160400 +0000" stop="20261003180000 +0000">
     <title lang="pt">Jogo de Amor em Las Vegas</title>
@@ -25373,12 +25492,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>News &amp; Information</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="PlutoTVCineRomantico.de@ES" start="20261005040226 +0000" stop="20261005043000 +0000">
-    <title>Pluto TV Cine Romántico</title>
-    <sub-title>Pluto TV Cine Romántico</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVCineRomantico.de@ES" start="20261005040226 +0000" stop="20261005062626 +0000">
+    <title>La señorita Julia</title>
+    <sub-title>La señorita Julia</sub-title>
+    <desc>Una noche de verano en una mansión en el campo irlandés en 1880. La película explora la lucha de poder entre una joven aristócrata y el criado de su padre.</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
   </programme>
   <programme channel="PlutoTVCineSucessos.us@BR" start="20261003164630 +0000" stop="20261003184530 +0000">
     <title lang="pt">B13-U 13º Distrito - Ultimato</title>
@@ -25484,13 +25603,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Thriller</category>
     <icon src="https://images.pluto.tv/series/65c51ae3a40ff70013eb4641/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="PlutoTVCinedeautor.de@ES" start="20261004033049 +0000" stop="20261004050949 +0000">
-    <title>Verano en Brooklyn</title>
-    <sub-title>Verano en Brooklyn</sub-title>
-    <desc>Los padres de Jake acaban de mudarse a la casa de su abuelo, tras la muerte de este. Hace años que la madre de Tony alquila la tienda de abajo. Los dos chicos, Jake y Tony, descubren que comparten muchos intereses: el arte, los videojuegos, las chicas.</desc>
-    <category>Drama</category>
-    <category>Independent Drama</category>
-  </programme>
   <programme channel="PlutoTVCinedeautor.de@ES" start="20261004050949 +0000" stop="20261004071549 +0000">
     <title>Crónicas diplomáticas</title>
     <sub-title>Crónicas diplomáticas</sub-title>
@@ -25560,6 +25672,13 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc>Mientras un hombre contempla mudarse a un nuevo estado con su esposa para su programa de posgrado, un viejo amor, una mujer que a menudo cambia de identidad, regresa a su vida en una cena de cumpleaños.</desc>
     <category>Romance</category>
     <category>Romance Classics</category>
+  </programme>
+  <programme channel="PlutoTVCinedeautor.de@ES" start="20261005043014 +0000" stop="20261005064414 +0000">
+    <title>Después de la tormenta</title>
+    <sub-title>Después de la tormenta</sub-title>
+    <desc>Ryota vive en el pasado, en sus momentos de gloria como premiado autor. Un inesperado tifón obligará a toda la familia a pasar la noche juntos en casa de la abuela y les dará la oportunidad de reencontrarse.</desc>
+    <category>Drama</category>
+    <category>Foreign Drama</category>
   </programme>
   <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261004043840 +0000" stop="20261004053440 +0000">
     <title>El Acabose con David Bustamante</title>
@@ -25750,19 +25869,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>African-American Comedies</category>
   </programme>
-  <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261005040340 +0000" stop="20261005043000 +0000">
-    <title>Pluto TV Comedia made in Spain</title>
-    <sub-title>Pluto TV Comedia made in Spain</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261005040340 +0000" stop="20261005044940 +0000">
+    <title>La hora de José Mota: Por el humo se sabe dónde está el fuego</title>
+    <sub-title>Por el humo se sabe dónde está el fuego</sub-title>
+    <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
   </programme>
-  <programme channel="PlutoTVComediasRomanticas.de@ES" start="20261004032024 +0000" stop="20261004050724 +0000">
-    <title>Bodas Reales</title>
-    <sub-title>Bodas Reales</sub-title>
-    <desc>Dos hermanos, Tom y Ellen, estrellas del baile embarcan rumbo a Inglaterra para participar en un nuevo show, coincidiendo con la boda real de la princesa Elizabeth.</desc>
-    <category>Musical</category>
-    <category>Musical</category>
+  <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261005044940 +0000" stop="20261005053540 +0000">
+    <title>La hora de José Mota: El que no se consuela es porque no quiere</title>
+    <sub-title>El que no se consuela es porque no quiere</sub-title>
+    <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
+    <category>Comedy</category>
+    <category>African-American Comedies</category>
   </programme>
   <programme channel="PlutoTVComediasRomanticas.de@ES" start="20261004050724 +0000" stop="20261004063224 +0000">
     <title>La reina de Nueva York: La reina de Nueva York</title>
@@ -25862,12 +25981,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Comedy</category>
     <category>Romantic Comedies</category>
   </programme>
-  <programme channel="PlutoTVComediasRomanticas.de@ES" start="20261005042105 +0000" stop="20261005043000 +0000">
-    <title>Pluto TV Comedias Románticas</title>
-    <sub-title>Pluto TV Comedias Románticas</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVComediasRomanticas.de@ES" start="20261005042105 +0000" stop="20261005061227 +0000">
+    <title>La Fiera de mi Niña</title>
+    <sub-title>La fiera de mi niña</sub-title>
+    <desc>David Huxley (Cary Grant) es un paleontólogo tímido y despistado que está a punto de acabar la laboriosa reconstrucción del esqueleto de un brontosaurio, del que sólo le falta una clavícula intercostal.</desc>
+    <category>Comedy</category>
+    <category>Romantic Comedies</category>
   </programme>
   <programme channel="PlutoTVDesenhosClassicos.us@BR" start="20261003170900 +0000" stop="20261003173800 +0000">
     <title lang="pt">Luluzinha</title>
@@ -26958,12 +27077,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Children &amp; Family</category>
     <category>Cartoons</category>
   </programme>
-  <programme channel="PlutoTVKidsClassics.de@ES" start="20261005042000 +0000" stop="20261005043000 +0000">
+  <programme channel="PlutoTVKidsClassics.de@ES" start="20261005042000 +0000" stop="20261005045000 +0000">
     <title>Pluto TV Kids Classics</title>
     <sub-title>Pluto TV Kids Classics</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+    <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
+    <category>Children &amp; Family</category>
+    <category>Cartoons</category>
+  </programme>
+  <programme channel="PlutoTVKidsClassics.de@ES" start="20261005045000 +0000" stop="20261005052000 +0000">
+    <title>Pluto TV Kids Classics</title>
+    <sub-title>Pluto TV Kids Classics</sub-title>
+    <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
+    <category>Children &amp; Family</category>
+    <category>Cartoons</category>
   </programme>
   <programme channel="PlutoTVKidsClassics.de@FR" start="20261003171721 +0000" stop="20261003174721 +0000">
     <title lang="fr">Pluto TV Kids Classics</title>
@@ -28184,12 +28310,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Sci-Fi &amp; Fantasy</category>
     <category>Action Sci-Fi &amp; Fantasy</category>
   </programme>
-  <programme channel="PlutoTVSciFi.de@ES" start="20261005042156 +0000" stop="20261005043000 +0000">
-    <title>Pluto TV Sci-Fi</title>
-    <sub-title>Pluto TV Sci-Fi</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVSciFi.de@ES" start="20261005042156 +0000" stop="20261005055456 +0000">
+    <title>Moebius</title>
+    <sub-title>Moebius</sub-title>
+    <desc>En un futuro no muy lejano, un misterioso accidente ocurre en el metro de Buenos Aires: un coche que circulaba por la vía desaparece, perdiéndose en el tiempo debido a un extraño fenómeno que solo un científico puede resolver.</desc>
+    <category>Thriller</category>
+    <category>Thriller</category>
   </programme>
   <programme channel="PlutoTVSciFi.us@LatAm" start="20261003161300 +0000" stop="20261003175400 +0000">
     <title lang="es">Mega Shark vs Mecha Shark</title>
@@ -29594,6 +29720,13 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Sci-Fi &amp; Fantasy</category>
     <category>Sci-Fi Adventure</category>
   </programme>
+  <programme channel="PlutoTVSeriesSciFi.de@ES" start="20261005043847 +0000" stop="20261005052745 +0000">
+    <title>Andrómeda: Perspectiva Forzada</title>
+    <sub-title>Perspectiva Forzada</sub-title>
+    <desc>Dylan fue arrestado por asesinar a un dictador hace 300 años.</desc>
+    <category>Sci-Fi &amp; Fantasy</category>
+    <category>Sci-Fi Adventure</category>
+  </programme>
   <programme channel="PlutoTVSeriesSciFi.us@BR" start="20261003165500 +0000" stop="20261003174700 +0000">
     <title lang="pt">Jericho</title>
     <sub-title lang="pt">Vox Populi</sub-title>
@@ -29910,12 +30043,19 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Thriller</category>
     <category>Thriller</category>
   </programme>
-  <programme channel="PlutoTVSeriescriminales.de@ES" start="20261005042854 +0000" stop="20261005043000 +0000">
-    <title>Pluto TV Series criminales</title>
-    <sub-title>Pluto TV Series criminales</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVSeriescriminales.de@ES" start="20261005042854 +0000" stop="20261005043354 +0000">
+    <title>Fillers Pluto TV ES</title>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <desc>Fillers Pluto TV</desc>
+    <category>News &amp; Information</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="PlutoTVSeriescriminales.de@ES" start="20261005043354 +0000" stop="20261005053354 +0000">
+    <title>Unidad de investigación</title>
+    <sub-title>El juramento hipocrático</sub-title>
+    <desc>Una mujer deja a su hijo, un adolescente violento y adicto a los videojuegos, en la consulta de su psiquiatra. Cuando regresa a recogerlo, encuentra el cadáver del médico, pero el chico ha desaparecido.</desc>
+    <category>Thriller</category>
+    <category>Thriller</category>
   </programme>
   <programme channel="PlutoTVSeriesdeAccion.us@LatAm" start="20261003164300 +0000" stop="20261003182700 +0000">
     <title lang="es">Ruleta Rusa</title>
@@ -30909,20 +31049,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="fr">Kids' TV</category>
     <icon src="https://images.pluto.tv/series/6a2023eceda6339c48198907/tile_1780491245157.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="PlutoTVThrillers.de@ES" start="20261004030849 +0000" stop="20261004050149 +0000">
-    <title>El código de Caín</title>
-    <sub-title>El código de Caín</sub-title>
-    <desc>La conocida periodista Sara Ogden recorre el mundo persiguiendo al porteador del misterioso "Sello de Caín“, pero ella no sospecha el peligro que corre su propia vida cuando llega a Bielorrusia</desc>
-    <category>Action &amp; Adventure</category>
-    <category>Action Thrillers</category>
-  </programme>
-  <programme channel="PlutoTVThrillers.de@ES" start="20261004050149 +0000" stop="20261004050949 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <desc>Fillers Pluto TV ES</desc>
-    <category>News &amp; Information</category>
-    <category>News &amp; Information</category>
-  </programme>
   <programme channel="PlutoTVThrillers.de@ES" start="20261004050949 +0000" stop="20261004070549 +0000">
     <title>Transsiberian</title>
     <sub-title>Transsiberian</sub-title>
@@ -31007,19 +31133,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>News &amp; Information</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="PlutoTVThrillers.de@ES" start="20261005040255 +0000" stop="20261005043000 +0000">
-    <title>Pluto TV Thrillers</title>
-    <sub-title>Pluto TV Thrillers</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
-  </programme>
-  <programme channel="PlutoTVTrueCrime.de@ES" start="20261004040826 +0000" stop="20261004050315 +0000">
-    <title>Contra Reloj</title>
-    <sub-title>Emboscada mortal</sub-title>
-    <desc>En Valenciennes, la desaparición de Marianne Listoir desencadenó una desesperada carrera contra el tiempo.</desc>
-    <category>Crime</category>
-    <category>Crime</category>
+  <programme channel="PlutoTVThrillers.de@ES" start="20261005040255 +0000" stop="20261005055055 +0000">
+    <title>La marca del lobo</title>
+    <sub-title>La marca del lobo</sub-title>
+    <desc>Hace diez años, una muchacha presencia el asesinato de su familia. La joven sobrevivió adentrándose en el bosque y convirtiéndose en algo que los cazadores nunca hallarían: un lobo. Ahora, a pesar de que vive al otro lado del mundo, ella sigue huyendo.</desc>
+    <category>Romance</category>
+    <category>Romance Classics</category>
   </programme>
   <programme channel="PlutoTVTrueCrime.de@ES" start="20261004050315 +0000" stop="20261004055753 +0000">
     <title>Contra Reloj</title>
@@ -31203,12 +31322,26 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Crime</category>
     <category>Crime</category>
   </programme>
-  <programme channel="PlutoTVTrueCrime.de@ES" start="20261005042451 +0000" stop="20261005043000 +0000">
-    <title>Pluto TV True Crime</title>
-    <sub-title>Pluto TV True Crime</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVTrueCrime.de@ES" start="20261005042451 +0000" stop="20261005043251 +0000">
+    <title>Fillers Pluto TV ES</title>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <desc>Fillers Pluto TV ES</desc>
+    <category>News &amp; Information</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="PlutoTVTrueCrime.de@ES" start="20261005043251 +0000" stop="20261005045851 +0000">
+    <title>Las Primeras 72 Horas Tras El Crimen: ¿Quién Mató a Papá Noel?</title>
+    <sub-title>¿Quién Mató a Papá Noel?</sub-title>
+    <desc>En 2001, se producen una serie de asesinatos de personas sin hogar en Toronto.</desc>
+    <category>Crime</category>
+    <category>Crime</category>
+  </programme>
+  <programme channel="PlutoTVTrueCrime.de@ES" start="20261005045851 +0000" stop="20261005050151 +0000">
+    <title>Fillers Pluto TV ES</title>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <desc>Fillers Pluto TV ES</desc>
+    <category>News &amp; Information</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="PlutoTVWestern.de@ES" start="20261004032709 +0000" stop="20261004053813 +0000">
     <title>Camino de Oregón</title>
@@ -31301,12 +31434,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Western</category>
     <category>Western</category>
   </programme>
-  <programme channel="PlutoTVWestern.de@ES" start="20261005041449 +0000" stop="20261005043000 +0000">
-    <title>Pluto TV Western</title>
-    <sub-title>Pluto TV Western</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="PlutoTVWestern.de@ES" start="20261005041449 +0000" stop="20261005055624 +0000">
+    <title>Busca tu refugio</title>
+    <sub-title>Busca tu refugio</sub-title>
+    <desc>Matt Dow, recién salido de la cárcel tras una condena de seis años por un crimen que no cometió, es confundido con un asaltante de trenes. En la escaramuza con la policía resulta gravemente herido Davey Bishop, un muchacho que es casi un hijo para él.</desc>
+    <category>Western</category>
+    <category>Western</category>
   </programme>
   <programme channel="QelloConcertsbyStingray.ca@SD" start="20261003140001 -0300" stop="20261003150000 -0300">
     <title lang="uk">Qello Concerts by Stingray - DE</title>
@@ -32020,7 +32153,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="fr">Documentaire de société</category>
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/2/16009205.jpg" />
   </programme>
-  <programme channel="RaiSudtirol.it@SD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="RaiSudtirol.it@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>Rai Sudtirol - Deutsch</title>
   </programme>
   <programme start="20261004041000 +0000" stop="20261004055500 +0000" channel="RaiWorldPremium.it@SD">
@@ -32515,12 +32648,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Drama</category>
     <category>War Drama</category>
   </programme>
-  <programme channel="SensaCineTVxPluto.de@ES" start="20261005042233 +0000" stop="20261005043000 +0000">
-    <title>SensaCine TV x Pluto</title>
-    <sub-title>SensaCine TV x Pluto</sub-title>
-    <desc>no info available</desc>
-    <category>no info available</category>
-    <category>no info available</category>
+  <programme channel="SensaCineTVxPluto.de@ES" start="20261005042233 +0000" stop="20261005055348 +0000">
+    <title>Take the Money and Run</title>
+    <sub-title>Toma el dinero y corre</sub-title>
+    <desc>Una serie de entrevistas, con quienes lo conocieron, nos introduce en la vida del incompetente atracador Virgil Starkwell, que desde el principio estuvo abocado a la delincuencia.</desc>
+    <category>Comedy</category>
+    <category>Cult Comedies</category>
   </programme>
   <programme channel="SeriesbyPlutoTV.de@FR" start="20261003165130 +0000" stop="20261003173330 +0000">
     <title lang="fr">Les Lascars</title>
@@ -34542,7 +34675,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261003235100 -0500" stop="20261004004200 -0500" channel="TNTNovelas.us@Brazil">
     <title lang="es">Olvídame si puedes</title>
   </programme>
-  <programme channel="TVCamara.py@SD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="TVCamara.py@SD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>TV Camara - Español</title>
   </programme>
   <programme start="20261003111000 -0500" stop="20261003130500 -0500" channel="TVEInternacionalAmerica.es@HD">
@@ -35176,7 +35309,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="pt">Variety Show</category>
     <icon src="https://images.pluto.tv/series/68dabb94a44f8dcccd05765a/tile_1759181661440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="ThePetCollective.us@Mexico" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="ThePetCollective.us@Mexico" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>The Pet Collective - English</title>
   </programme>
   <programme start="20261003165911 +0000" stop="20261003173111 +0000" channel="ThePetCollective.us@Spain">
@@ -36738,7 +36871,14 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Entertainment</category>
     <category>Entertainment</category>
   </programme>
-  <programme channel="TotalmusicDance.uk@HD" start="20261003165851 +0000" stop="20261005165851 +0000">
+  <programme channel="TopGear.uk@SD" start="20261005044516 +0000" stop="20261005060208 +0000">
+    <title>Top Gear UK</title>
+    <sub-title>Episode 1</sub-title>
+    <desc>Jeremy Clarkson and James May race a car against a boat in New Zealand.</desc>
+    <category>Entertainment</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="TotalmusicDance.uk@HD" start="20261003171059 +0000" stop="20261005171059 +0000">
     <title>Totalmusic Dance - Español</title>
   </programme>
   <programme start="20261004013000 +0000" stop="20261004031500 +0000" channel="Trece.es@SD">
