@@ -29,6 +29,11 @@ LANGUAGE_LABELS = {
     "deu": "Deutsch",
 }
 
+SYNTHETIC_NAME_OVERRIDES = {
+    "ComediaalobestiadePlutoTV.de": "Comedia a lo bestia",
+    "CCPlutoTV.de": "Comedy Central",
+}
+
 
 def parse_playlist(path: Path):
     out = {}
@@ -101,7 +106,7 @@ def clean_synthetic_name(value):
     # These are platform/collection labels, not useful programme information
     # when the guide has no real schedule.
     value = re.sub(r'\bBest\s+of\s+', '', value, flags=re.I)
-    value = re.sub(r'\bby\s+Pluto\s+TV\b', '', value, flags=re.I)
+    value = re.sub(r'\b(?:by|de)\s+Pluto\s+TV\b', '', value, flags=re.I)
     value = re.sub(r'\bPluto\s+TV\b', '', value, flags=re.I)
 
     value = re.sub(r'\s{2,}', ' ', value)
@@ -172,7 +177,10 @@ def synthetic_language(tvg_id, feeds_by_channel, language_names):
 def synthetic_title(tvg_id, playlist_name, channels, feeds_by_channel, language_names):
     channel_id, _ = split_tvg_id(tvg_id)
     canonical = (channels.get(channel_id) or {}).get("name")
-    title = clean_synthetic_name(canonical or playlist_name)
+    title = SYNTHETIC_NAME_OVERRIDES.get(
+        channel_id,
+        clean_synthetic_name(canonical or playlist_name),
+    )
 
     language = synthetic_language(
         tvg_id,
