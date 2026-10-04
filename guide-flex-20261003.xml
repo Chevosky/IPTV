@@ -862,6 +862,12 @@
   <channel id="TrueCrimebyPlutoTV.de@FR">
     <display-name>True Crime</display-name>
   </channel>
+  <programme start="20261004005300 +0000" stop="20261004022800 +0000" channel="AELatinAmerica.us@Brazil">
+    <title lang="pt">Segredos Mortais - As Crianças Perdidas</title>
+    <desc lang="pt">A história perturbadora que chocou os Estados Unidos sobre abuso institucionalizado, sepulturas sem identificação e um possível assassinato em um reformatório para meninos na Flórida.</desc>
+    <category lang="pt">Special</category>
+    <image>https://cdn.mitvstatic.com/programs/br_segredos-mortais-as-criancas-perdidas_l_m.jpg</image>
+  </programme>
   <programme start="20261004022800 +0000" stop="20261004031800 +0000" channel="AELatinAmerica.us@Brazil">
     <title lang="pt">Serial Killer - O Começo de Tudo</title>
     <desc lang="pt">Assassino eloquente, Ed Kemper é conhecido por sua inteligência e charme. Ele aterrorizou a cidade litorânea de Santa Cruz, onde massacrou estudantes universitários que pegavam carona no início dos anos 1970.</desc>
@@ -4244,7 +4250,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="AtacamaTV.cl@SD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="AtacamaTV.cl@SD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>Atacama TV - Español</title>
   </programme>
   <programme start="20261003170000 +0000" stop="20261003190000 +0000" channel="AztecaInternacional.mx@SD">
@@ -15463,6 +15469,18 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Comedy</category>
     <category>Spoofs and Satire</category>
   </programme>
+  <programme start="20261004020000 +0000" stop="20261004022500 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
+    <title lang="es">The Exes</title>
+    <desc lang="es">Stuart sale con la hermana gemela de su ex novia.</desc>
+    <category lang="es">Temporada 3 Episodio 12 - Despedida de soltero</category>
+    <image>https://cdn.mitvstatic.com/programs/ar_the-exes-s03e12-despedida-de-soltero_l_m.jpg</image>
+  </programme>
+  <programme start="20261004020500 +0000" stop="20261004022500 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
+    <title lang="es">How the Grinch Spent Xmas</title>
+    <rating system="MPA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
   <programme start="20261004022500 +0000" stop="20261004025000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
     <title lang="es">How the Grinch Spent Xmas</title>
     <rating system="MPA">
@@ -18988,7 +19006,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>AL</value>
     </rating>
   </programme>
-  <programme channel="DanceFM.cl@SD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="DanceFM.cl@SD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>Dance FM - Español</title>
   </programme>
   <programme channel="DatingNakedUK.se@DK" start="20261004034813 +0000" stop="20261004044159 +0000">
@@ -20082,6 +20100,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>A</value>
     </rating>
   </programme>
+  <programme start="20261004020000 +0000" stop="20261004022500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261004020500 +0000" stop="20261004023000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
@@ -21147,7 +21168,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <sub-title lang="es">Episode 25</sub-title>
     <episode-num system="onscreen">S7 E25</episode-num>
   </programme>
-  <programme channel="ElChavoTV.mx@HD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="ElChavoTV.mx@HD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>El Chavo TV - Español</title>
   </programme>
   <programme start="20261004021500 +0000" stop="20261004030000 +0000" channel="ElTreceInternacionalLatinAmerica.ar@SD">
@@ -21925,7 +21946,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
     <episode-num system="onscreen">S01E08</episode-num>
   </programme>
-  <programme channel="FashionLifeStyle.ru@SD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="FashionLifeStyle.ru@SD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>Fashion&amp;LifeStyle - English</title>
   </programme>
   <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="FashionTV.in@SD">
@@ -22249,7 +22270,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="ru">Fashion TV</title>
     <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии</desc>
   </programme>
-  <programme channel="FashionTVParisLOriginal.fr@SD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="FashionTVParisLOriginal.fr@SD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>FashionTV Paris L'Original - Français</title>
   </programme>
   <programme start="20261004012000 +0000" stop="20261004023000 +0000" channel="GarageTVLatinAmerica.ar@SD">
@@ -22534,7 +22555,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Cambio de rasante</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
   </programme>
-  <programme channel="GlobalFashionChannel.us@SD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="GlobalFashionChannel.us@SD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>Global Fashion Channel - English</title>
   </programme>
   <programme channel="History.br@SD" start="20261003135500 -0300" stop="20261003144500 -0300">
@@ -22819,10 +22840,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="es">El Viejo Oeste con Kevin Costner</title>
     <sub-title lang="es">Rutas de Oregón</sub-title>
   </programme>
-  <programme channel="ISTV.br@SD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="ISTV.br@SD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>ISTV - Português</title>
   </programme>
-  <programme channel="ImpactTVDance.ro@SD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="ImpactTVDance.ro@SD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>Impact TV Dance - Romanian</title>
   </programme>
   <programme channel="LEGOKidsTV.us@SD" start="20261004040700 +0000" stop="20261004043400 +0000">
@@ -23891,7 +23912,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Occupational Reality</category>
     <icon src="https://images.pluto.tv/series/666312601c02820013efe934/tile_1769469843025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="MegaTV.py@SD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="MegaTV.py@SD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>Mega TV - Español</title>
   </programme>
   <programme start="20261004022000 +0000" stop="20261004030000 +0000" channel="MusicBoxBrazil.br@SD">
@@ -25620,7 +25641,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="pt">Anime Series</category>
     <icon src="https://images.pluto.tv/series/5f89ec9e7ecf48001a34156c/tile_1778519162660.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="Nickelodeon.br@SD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="Nickelodeon.br@SD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>Nickelodeon - Português</title>
   </programme>
   <programme channel="ParadiseHotel.se@DK" start="20261004035436 +0000" stop="20261004043729 +0000">
@@ -35704,7 +35725,7 @@ fasttømrede par.</desc>
     <category lang="fr">Documentaire de société</category>
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/2/16009205.jpg" />
   </programme>
-  <programme channel="RaiSudtirol.it@SD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="RaiSudtirol.it@SD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>Rai Sudtirol - Deutsch</title>
   </programme>
   <programme start="20261004010000 +0000" stop="20261004023000 +0000" channel="RaiWorldPremium.it@SD">
@@ -35970,16 +35991,6 @@ fasttømrede par.</desc>
     <category lang="en">Comedy drama</category>
     <episode-num system="xmltv_ns">1.6.0/1</episode-num>
     <episode-num system="onscreen">S02E07</episode-num>
-  </programme>
-  <programme start="20261005042000 +0000" stop="20261005055500 +0000" channel="RaiWorldPremium.it@SD">
-    <title lang="en">Una grande famiglia</title>
-    <sub-title lang="en">Una grande famiglia</sub-title>
-    <desc lang="en">Le vicende dei Rengoni, una famiglia che lavora nel mondo dell'industria del mobile di Inverigo, e dei segreti e degli amori che accompagnano la vita dei suoi componenti.</desc>
-    <date>20261005</date>
-    <category lang="en">Drama</category>
-    <rating system="MPA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme channel="RealAmericasVoice.us@KPVMLD" start="20261003130000 -0400" stop="20261003140000 -0400">
     <title lang="en">RAM Live</title>
@@ -37220,15 +37231,6 @@ fasttømrede par.</desc>
     <category lang="es">Drama</category>
     <image>https://zpapi.zetatv.com.uy/media/images/576c57880d2700ee4b6200a293571bc8.jpg</image>
   </programme>
-  <programme start="20261005041900 +0000" stop="20261005061400 +0000" channel="SonyMoviesLatinAmerica.us@SD">
-    <title lang="es">El perfecto asesino</title>
-    <desc lang="es">León es un asesino a sueldo que se convierte en el guardián de Mathilda</desc>
-    <date>19700101</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Thriller</category>
-    <image>https://zpapi.zetatv.com.uy/media/images/d2673ae2406250fe0ca529875da6372d.jpg</image>
-  </programme>
   <programme start="20261004015119 +0000" stop="20261004024223 +0000" channel="SonyOneBlacklist.fr@HD">
     <title lang="fr">The Blacklist</title>
     <desc lang="fr">Liz et la Task Force essayent de découvrir la vérité sur un assassinat dans un ultime effort pour sauver la vie de Red.</desc>
@@ -38073,7 +38075,7 @@ fasttømrede par.</desc>
   <programme start="20261003235100 -0500" stop="20261004004200 -0500" channel="TNTNovelas.us@Brazil">
     <title lang="es">Olvídame si puedes</title>
   </programme>
-  <programme channel="TVCamara.py@SD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="TVCamara.py@SD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>TV Camara - Español</title>
   </programme>
   <programme start="20261003111000 -0500" stop="20261003130500 -0500" channel="TVEInternacionalAmerica.es@HD">
@@ -39037,7 +39039,7 @@ fasttømrede par.</desc>
     <category lang="pt">Variety Show</category>
     <icon src="https://images.pluto.tv/series/68dabb94a44f8dcccd05765a/tile_1759181661440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="ThePetCollective.us@Mexico" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="ThePetCollective.us@Mexico" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>The Pet Collective - English</title>
   </programme>
   <programme start="20261003165911 +0000" stop="20261003173111 +0000" channel="ThePetCollective.us@Spain">
@@ -39316,6 +39318,10 @@ fasttømrede par.</desc>
       <value>+7</value>
     </rating>
   </programme>
+  <programme start="20261004015511 +0000" stop="20261004022711 +0000" channel="ThePetCollective.us@UK">
+    <title lang="en">TPC That's My Pet</title>
+    <desc lang="en">Did you know 25% of U.S. households have pet cats?</desc>
+  </programme>
   <programme start="20261004022711 +0000" stop="20261004025811 +0000" channel="ThePetCollective.us@UK">
     <title lang="en">TPC Theatre</title>
     <desc lang="en">Pets wear costumes... on accident. They also get lucky and go back to school!</desc>
@@ -39495,6 +39501,15 @@ fasttømrede par.</desc>
     <rating>
       <value>no rating</value>
     </rating>
+  </programme>
+  <programme start="20261004015500 +0000" stop="20261004022700 +0000" channel="ThePetCollective.us@US">
+    <title lang="en">TPC That's My Pet</title>
+    <sub-title>Kitty-Cats</sub-title>
+    <desc lang="en">Twenty-five percent of U.S. households have pet cats.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Series</category>
+    <icon src="https://images.pluto.tv/series/66a915692fca06001328f86f/tile.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900" />
+    <episode-num system="original-air-date">20261004015500 +0000</episode-num>
   </programme>
   <programme start="20261004022700 +0000" stop="20261004025800 +0000" channel="ThePetCollective.us@US">
     <title lang="en">TPC Theatre</title>
@@ -40276,7 +40291,7 @@ fasttømrede par.</desc>
     <category>Entertainment</category>
     <category>Entertainment</category>
   </programme>
-  <programme channel="TotalmusicDance.uk@HD" start="20261003163014 +0000" stop="20261005163014 +0000">
+  <programme channel="TotalmusicDance.uk@HD" start="20261003163035 +0000" stop="20261005163035 +0000">
     <title>Totalmusic Dance - Español</title>
   </programme>
   <programme start="20261004013000 +0000" stop="20261004031500 +0000" channel="Trece.es@SD">
