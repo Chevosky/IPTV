@@ -1,6 +1,6 @@
 {
   "summary": {
-    "missing_targets": 18,
+    "missing_targets": 16,
     "with_exact_normalized_match": 0,
     "with_fuzzy_090_plus": 0
   },
@@ -9,13 +9,6 @@
       "target_id": "AtacamaTV.cl@SD",
       "target_name": "Atacama TV",
       "normalized": "atacama",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": []
-    },
-    {
-      "target_id": "Canal26.mx@SD",
-      "target_name": "Canal26.mx@SD",
-      "normalized": "canal26 mx sd",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": []
     },
@@ -67,24 +60,24 @@
       "top_fuzzy_matches": []
     },
     {
+      "target_id": "FashionTV.ru@SD",
+      "target_name": "FashionTV (Russia) (1080p)",
+      "normalized": "fashiontv russia",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.72,
+          "source_id": "plex.tv.FashionTV.plex",
+          "source_name": "FashionTV"
+        }
+      ]
+    },
+    {
       "target_id": "FashionTVParisLOriginal.fr@SD",
       "target_name": "FashionTV Paris L'Original (1080p)",
       "normalized": "fashiontv paris l original",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": []
-    },
-    {
-      "target_id": "FashionTVSecrets.fr@HD",
-      "target_name": "FashionTVSecrets.fr@HD",
-      "normalized": "fashiontvsecrets fr hd",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.625,
-          "source_id": "Fashion.TV.HD.nl",
-          "source_name": "Fashion TV HD"
-        }
-      ]
     },
     {
       "target_id": "GlobalFashionChannel.us@SD",
@@ -227,61 +220,6 @@
       ]
     },
     {
-      "target_id": "OasisTV.py@SD",
-      "target_name": "OasisTV.py@SD",
-      "normalized": "oasistv py sd",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": []
-    },
-    {
-      "target_id": "PlutoTVSeries.de@ES",
-      "target_name": "PlutoTVSeries.de@ES",
-      "normalized": "plutotvseries de es",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.78,
-          "source_id": "PlutoTVSeriesdeSciFi.us@LatAm",
-          "source_name": "Pluto TV Series de Sci-Fi"
-        },
-        {
-          "score": 0.78,
-          "source_id": "PlutoTVSeriesdeCrimen.us@LatAm",
-          "source_name": "Pluto TV Series de Crimen"
-        },
-        {
-          "score": 0.762,
-          "source_id": "PlutoTVSeriesdeComedia.us@LatAm",
-          "source_name": "Pluto TV Series de Comedia"
-        },
-        {
-          "score": 0.75,
-          "source_id": "PlutoTVSeriesdeDrama.us@LatAm",
-          "source_name": "Pluto TV Series de Drama"
-        },
-        {
-          "score": 0.732,
-          "source_id": "PlutoTVSeriesdeAccion.us@LatAm",
-          "source_name": "Pluto TV Series de Acción"
-        },
-        {
-          "score": 0.654,
-          "source_id": "PlutoTVSeriesdeOtrosContinentes.us@LatAm",
-          "source_name": "Pluto TV Series de Otros Continentes"
-        },
-        {
-          "score": 0.619,
-          "source_id": "PlutoTVNovelasdeMexico.us@LatAm",
-          "source_name": "Pluto TV Novelas de México"
-        },
-        {
-          "score": 0.615,
-          "source_id": "PlutoTVFilmesdeLuta.us@BR",
-          "source_name": "Pluto TV Filmes de Luta"
-        }
-      ]
-    },
-    {
       "target_id": "RaiSudtirol.it@SD",
       "target_name": "Rai Sudtirol",
       "normalized": "rai sudtirol",
@@ -326,6 +264,54 @@
           "score": 0.6,
           "source_id": "Rai.Gulp.ch",
           "source_name": "Rai Gulp"
+        }
+      ]
+    },
+    {
+      "target_id": "StarCinema.ru@SD",
+      "target_name": "Star Cinema",
+      "normalized": "star cinema",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.857,
+          "source_id": "ART.CINEMA.fr",
+          "source_name": "ART CINEMA"
+        },
+        {
+          "score": 0.846,
+          "source_id": "Starz.Cinema.HD.us2",
+          "source_name": "Starz Cinema HD"
+        },
+        {
+          "score": 0.818,
+          "source_id": "plex.tv.Surf.Cinema.plex",
+          "source_name": "Surf Cinema"
+        },
+        {
+          "score": 0.762,
+          "source_id": "TCM.Cinéma.fr",
+          "source_name": "TCM Cinéma"
+        },
+        {
+          "score": 0.762,
+          "source_id": "LA7.CINEMA.it",
+          "source_name": "LA7 CINEMA"
+        },
+        {
+          "score": 0.75,
+          "source_id": "Rotana.Cinema.fr",
+          "source_name": "Rotana Cinema"
+        },
+        {
+          "score": 0.696,
+          "source_id": "Sky.Cinema.D.ch",
+          "source_name": "Sky Cinema D"
+        },
+        {
+          "score": 0.696,
+          "source_id": "Canal.Cinema.mx",
+          "source_name": "Canal Cinema"
         }
       ]
     },
