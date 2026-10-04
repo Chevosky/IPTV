@@ -4244,7 +4244,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="AtacamaTV.cl@SD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="AtacamaTV.cl@SD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>Atacama TV - Español</title>
   </programme>
   <programme start="20261003170000 +0000" stop="20261003190000 +0000" channel="AztecaInternacional.mx@SD">
@@ -4572,6 +4572,44 @@
     <episode-num system="onscreen">S02E01</episode-num>
     <episode-num system="pluto">6536602c67bd1a0008440dd2</episode-num>
     <episode-num system="original-air-date">20150101000000 +0000</episode-num>
+  </programme>
+  <programme start="20261004000000 +0000" stop="20261004023400 +0000" channel="BBCEarth.uk@US">
+    <title lang="en">BBC Earth</title>
+    <sub-title lang="en">BBC Earth</sub-title>
+    <desc lang="en">no info available</desc>
+    <date>20261004</date>
+    <category lang="en">no info available</category>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/656535fc2c46f30008870fae/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>no rating</value>
+    </rating>
+  </programme>
+  <programme start="20261004013500 +0000" stop="20261004023400 +0000" channel="BBCEarth.uk@US">
+    <title lang="en">Big Bear Diary</title>
+    <sub-title lang="en">Big Bear Diary</sub-title>
+    <desc lang="en">Brown bear mum Blondie and her cubs were last seen fleeing from a pack of wolves. Have they survived? Both the black and polar bear families have trouble with marauding males.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://images.pluto.tv/series/65b05a64a40ff700137d4ee1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261004013514 +0000" stop="20261004023421 +0000" channel="BBCEarth.uk@US">
+    <title lang="en">Big Bear Diary</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="en">In Katmai the brown bears are getting ready for hibernation as they make their way to their winter dens.</desc>
+    <date>20060726</date>
+    <category lang="en">Explore</category>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+    <image>https://d2i0hcnfudruct.cloudfront.net/BBCEarth/BBCS_BigBearDiary_BID-2987_KeyArtBrand_LANG-English_qt4bpypgyf.jpg</image>
   </programme>
   <programme start="20261004023400 +0000" stop="20261004033200 +0000" channel="BBCEarth.uk@US">
     <title lang="en">Snow Wolf Family and Me</title>
@@ -5208,6 +5246,11 @@
       <value>no rating</value>
     </rating>
   </programme>
+  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">BBC News</title>
+    <category lang="es">Noticiero</category>
+    <image>https://www.reportv.com.ar/buscador/img/Programas/5153439.jpg</image>
+  </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">AI Decoded</title>
     <category lang="es">Entrevista</category>
@@ -5769,11 +5812,6 @@
   </programme>
   <programme start="20261005043000 +0000" stop="20261005045500 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Business Today</title>
-  </programme>
-  <programme start="20261005043000 +0000" stop="20261005050000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">World Business Today</title>
-    <desc lang="es">Este programa cubre de manera única las noticias más recientes en el ámbito de los desarrollos económicos y políticos así como su efecto en la economía mundial. El presentador normalmente está acompañado por un equipo multilingüe internacional de periodistas que viajan por todo el mundo para cubrir las historias más importantes, acuerdos económicos y elecciones presidenciales. El programa también incluye un reporte diario en vivo desde Nueva York acerca de las últimas noticias de la bolsa de valores de Wall Street, monedas, tratados y acuerdos financieros.</desc>
-    <image>https://zpapi.zetatv.com.uy/media/images/5b11e9bc374c6570649b49bfb8d8019a.jpg</image>
   </programme>
   <programme start="20261005044500 +0000" stop="20261005050000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC Sport</title>
@@ -11774,6 +11812,11 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
     <category>Drama</category>
     <category>Crime Drama</category>
   </programme>
+  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="Canal26.ar@SD">
+    <title lang="es">Realidades del mundo</title>
+    <category lang="es">Periodstico</category>
+    <image>https://www.reportv.com.ar/buscador/img/Programas/1992810926.jpg</image>
+  </programme>
   <programme start="20261004020000 +0000" stop="20261004040000 +0000" channel="Canal26.ar@SD">
     <title lang="es">Las imágenes más espectaculares</title>
     <desc lang="es">Espacio en el que se presentan imágenes donde se evidencian escenas de experimentos, lugares, personas y hechos insólitos para sorprender, entretener y divertir al espectador, con un toque irónico y de humor.</desc>
@@ -11858,6 +11901,9 @@ comforting dish from her new cookbook, "Home is Where the Eggs Are."</desc>
   </programme>
   <programme start="20261004010000 +0000" stop="20261004024500 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">Argentina vs. Burkina Faso</title>
+  </programme>
+  <programme start="20261004014500 +0000" stop="20261004023000 +0000" channel="Canal8MardelPlata.ar@SD">
+    <title lang="es">Fútbol: Post</title>
   </programme>
   <programme start="20261004020000 +0000" stop="20261004024500 +0000" channel="Canal8MardelPlata.ar@SD">
     <title lang="es">PH: Podemos hablar</title>
@@ -19033,7 +19079,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>AL</value>
     </rating>
   </programme>
-  <programme channel="DanceFM.cl@SD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="DanceFM.cl@SD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>Dance FM - Español</title>
   </programme>
   <programme channel="DatingNakedUK.se@DK" start="20261004034813 +0000" stop="20261004044159 +0000">
@@ -20148,6 +20194,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
       <value>A</value>
     </rating>
   </programme>
+  <programme start="20261004020500 +0000" stop="20261004023000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
+  </programme>
+  <programme start="20261004021000 +0000" stop="20261004023500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
+  </programme>
   <programme start="20261004022500 +0000" stop="20261004025000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
@@ -20821,6 +20873,15 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="en">Series - Normal</category>
     <image>https://media0106.elcinema.com/uploads/_150x200_ee0b5668f5ed1730f3d0d2ba8fe47689756fe381e5350b1b70de6fbdd576e9bf.jpg</image>
   </programme>
+  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="DubaiTVInternational.ae@SD">
+    <title lang="en">Al Rawi</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">The host sheds light on personalities who have contributed towards the history of the UAE.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://osn-artwork.anghcdn.co/program_landscape_tt_LIN-SR80348024/0d222d0750cb4797742a6d66049ab78a.jpg</image>
+  </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="DubaiTVInternational.ae@SD">
     <title lang="en">Awal Mara Ashof</title>
     <sub-title lang="en">Episode 7</sub-title>
@@ -21198,7 +21259,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <sub-title lang="es">Episode 25</sub-title>
     <episode-num system="onscreen">S7 E25</episode-num>
   </programme>
-  <programme channel="ElChavoTV.mx@HD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="ElChavoTV.mx@HD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>El Chavo TV - Español</title>
   </programme>
   <programme start="20261004021500 +0000" stop="20261004030000 +0000" channel="ElTreceInternacionalLatinAmerica.ar@SD">
@@ -21455,6 +21516,24 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="es">Alemania Vs Colombia | Grupo H | Copa Mundial Femenina De La Fifa Australia &amp; Nueva Zelanda 2023™ | Partido Completo</title>
     <desc lang="es">Vídeo del partido completo entre Alemania y Colombia jugado en el Estadio de Fútbol de Sídney.</desc>
     <image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-01/7b1e27fa07a51ad010f93364ead5a753.jpg.webp</image>
+  </programme>
+  <programme start="20261004003955 +0000" stop="20261004023006 +0000" channel="FIFAPlus.uk@Portuguese">
+    <title lang="pt">Alemanha X Holanda| Oitavas De Final | Copa Do Mundo Fifa De 1990, Na Itália | Jogo Completo</title>
+    <desc lang="pt">Vídeo completo da partida entre Alemanha e Holanda, jogada no estádio Giuseppe Meazza, em Milão.</desc>
+    <image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-01/b4fb694d038ee7100c4cc3c959da73d7.jpg.webp</image>
+  </programme>
+  <programme start="20261004003955 +0000" stop="20261004023006 +0000" channel="FIFAPlus.uk@Portuguese">
+    <title lang="pt">Alemanha x Holanda| Oitavas de final | Copa do Mundo FIFA de 1990, na Itália | Jogo Completo</title>
+    <sub-title lang="pt">Episode 1</sub-title>
+    <desc lang="pt">Vídeo completo da partida entre Alemanha e Holanda, jogada no estádio Giuseppe Meazza, em Milão, no domingo, 24 de junho.</desc>
+    <date>20251210</date>
+    <category lang="pt">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://partner-upload-assets.wurl.com/sysdata_s_p_a/133710.jpg</image>
   </programme>
   <programme start="20261004023006 +0000" stop="20261004042141 +0000" channel="FIFAPlus.uk@Portuguese">
     <title lang="pt">Alemanha X Iugoslávia | Fase De Grupos | Copa Do Mundo Fifa De 1990, Na Itália | Jogo Completo</title>
@@ -21741,6 +21820,14 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc lang="pt">Reviva as emocionantes finais das edições passadas da Copa do Mundo de Beach Soccer da FIFA™.</desc>
     <image>https://d28p74hx180360.cloudfront.net/79/EPG/3/2026-10-01/699bb4b7c608211a8edc1c246e0f143e.jpg.webp</image>
   </programme>
+  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="FashionBox.nl@SD">
+    <title lang="en">Swim Week 2023</title>
+    <desc lang="en">E19 social/political</desc>
+    <category lang="en">Aktuálne záležitosti</category>
+    <category lang="en">Politika</category>
+    <episode-num system="xmltv_ns">0.18.0/1</episode-num>
+    <episode-num system="onscreen">S01E19</episode-num>
+  </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="FashionBox.nl@SD">
     <title lang="en">Swim Week 2023</title>
     <desc lang="en">E20 social/political</desc>
@@ -21950,8 +22037,13 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
     <episode-num system="onscreen">S01E08</episode-num>
   </programme>
-  <programme channel="FashionLifeStyle.ru@SD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="FashionLifeStyle.ru@SD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>Fashion&amp;LifeStyle - English</title>
+  </programme>
+  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="FashionTV.in@SD">
+    <title lang="en">Beauty</title>
+    <desc lang="en">Reviews, advice and tips on the latest beauty, styling and skin care trends from the experts.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p14204080_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="FashionTV.in@SD">
     <title lang="en">Fashion from Italy</title>
@@ -22269,8 +22361,14 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="ru">Fashion TV</title>
     <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии</desc>
   </programme>
-  <programme channel="FashionTVParisLOriginal.fr@SD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="FashionTVParisLOriginal.fr@SD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>FashionTV Paris L'Original - Français</title>
+  </programme>
+  <programme start="20261004012000 +0000" stop="20261004023000 +0000" channel="GarageTVLatinAmerica.ar@SD">
+    <title lang="es">Gran Premio de Korea del Sur - Carrera 2</title>
+    <desc lang="es">Disfruta la serie internacional de carreras de turismos que reúne a pilotos profesionales con experiencia internacional y competidores de series regionales y nacionales de TCR.</desc>
+    <category lang="es">TCR World Tour</category>
+    <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="GarageTVLatinAmerica.ar@SD">
     <title lang="es">Fast Zone</title>
@@ -22548,7 +22646,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Cambio de rasante</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
   </programme>
-  <programme channel="GlobalFashionChannel.us@SD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="GlobalFashionChannel.us@SD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>Global Fashion Channel - English</title>
   </programme>
   <programme channel="History.br@SD" start="20261003135500 -0300" stop="20261003144500 -0300">
@@ -22833,10 +22931,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="es">El Viejo Oeste con Kevin Costner</title>
     <sub-title lang="es">Rutas de Oregón</sub-title>
   </programme>
-  <programme channel="ISTV.br@SD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="ISTV.br@SD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>ISTV - Português</title>
   </programme>
-  <programme channel="ImpactTVDance.ro@SD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="ImpactTVDance.ro@SD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>Impact TV Dance - Romanian</title>
   </programme>
   <programme channel="LEGOKidsTV.us@SD" start="20261004043400 +0000" stop="20261004050100 +0000">
@@ -23209,6 +23307,12 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc>no info available</desc>
     <category>no info available</category>
     <category>no info available</category>
+  </programme>
+  <programme start="20261004010000 +0000" stop="20261004023000 +0000" channel="LifetimeLatinAmerica.us@Brazil">
+    <title lang="pt">Sequestrada na Estrada</title>
+    <desc lang="pt">Uma caminhoneira se vê envolvida em uma caçada angustiante após um predador on-line sequestrar sua sobrinha neurodivergente. A polícia chega a um beco sem saída e ela mobiliza sua leal rede de caminhoneiros e sua influência nas redes sociais para iniciar uma missão de resgate, de iniciativa própria.</desc>
+    <category lang="pt">Crime drama / 2025</category>
+    <image>https://cdn.mitvstatic.com/programs/br_sequestrada-na-estrada-2025_l_m.jpg</image>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004040500 +0000" channel="LifetimeLatinAmerica.us@Brazil">
     <title lang="pt">Entre Sombras e Mentiras</title>
@@ -23899,7 +24003,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="es">Occupational Reality</category>
     <icon src="https://images.pluto.tv/series/666312601c02820013efe934/tile_1769469843025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="MegaTV.py@SD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="MegaTV.py@SD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>Mega TV - Español</title>
   </programme>
   <programme start="20261004022000 +0000" stop="20261004030000 +0000" channel="MusicBoxBrazil.br@SD">
@@ -25628,7 +25732,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="pt">Anime Series</category>
     <icon src="https://images.pluto.tv/series/5f89ec9e7ecf48001a34156c/tile_1778519162660.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="Nickelodeon.br@SD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="Nickelodeon.br@SD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>Nickelodeon - Português</title>
   </programme>
   <programme channel="ParadiseHotel.se@DK" start="20261004043729 +0000" stop="20261004051836 +0000">
@@ -26588,6 +26692,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004010000 +0000" stop="20261004070000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Festivales / Conciertos / Musicales</title>
+  </programme>
+  <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Curiosidades</title>
   </programme>
   <programme start="20261004020000 +0000" stop="20261004080000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Festivales / Conciertos / Musicales</title>
@@ -29271,13 +29378,6 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <desc>Mientras un hombre contempla mudarse a un nuevo estado con su esposa para su programa de posgrado, un viejo amor, una mujer que a menudo cambia de identidad, regresa a su vida en una cena de cumpleaños.</desc>
     <category>Romance</category>
     <category>Romance Classics</category>
-  </programme>
-  <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261004034840 +0000" stop="20261004043840 +0000">
-    <title>José Mota Presenta: Jose Mota Presenta ES</title>
-    <sub-title>Jose Mota Presenta ES</sub-title>
-    <desc>José Mota Presenta ofrece una nueva edición de 'Planeta Colleja' en la que parodia una visita del actor Karra Elejalde. El programa incluye otra versión de 'En la tuya o en la mía', en la que Bertín Osborne entrevista a Andrés Pajares.</desc>
-    <category>Comedy</category>
-    <category>African-American Comedies</category>
   </programme>
   <programme channel="PlutoTVComediamadeinSpain.de@ES" start="20261004043840 +0000" stop="20261004053440 +0000">
     <title>El Acabose con David Bustamante</title>
@@ -35784,8 +35884,15 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="fr">Documentaire de société</category>
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/2/16009205.jpg" />
   </programme>
-  <programme channel="RaiSudtirol.it@SD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="RaiSudtirol.it@SD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>Rai Sudtirol - Deutsch</title>
+  </programme>
+  <programme start="20261004010000 +0000" stop="20261004023000 +0000" channel="RaiWorldPremium.it@SD">
+    <title lang="en">Ero in guerra ma non lo sapevo</title>
+    <desc lang="en">Milano, fine anni 70. Il gioielliere Pierluigi Torregiani sta cenando in un locale quando irrompono alcuni malviventi per rapinare i commensali. Durante la rapina uno di loro minaccia la figlia di Torregiani, Marisa, puntandole addosso una pistola.</desc>
+    <date>20220124</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Biography</category>
   </programme>
   <programme start="20261004023000 +0000" stop="20261004041000 +0000" channel="RaiWorldPremium.it@SD">
     <title lang="en">Cuori</title>
@@ -37430,6 +37537,10 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <title lang="fr">The Blacklist</title>
     <desc lang="fr">Liz doit participer au procès d'un trafiquant de drogue : Hector Lorca. Elle a contribué à son arrestation quand elle travaillait au FBI, à New York. Red la prévient que les hommes de Lorca sont entrés en contact avec lui pour lui demander d'organiser son exfiltration. Effectivement, pendant le procès, le principal témoin à charge se fait enlever, ce qui invalide le dossier contre le prévenu. Le FBI retrouve la trace du témoin dans un motel, mais pas son corps. Red révèle à Liz que le Marmiton s'est chargé de lui. C'est un nettoyeur ultra efficace qui ne laisse rien des corps qu'on lui demande de faire disparaître. Liz tente de faire pression sur Lorca pour qu'il leur donne l'homme, mais le trafiquant s'évade lors de son transfert à la Sécurité Intérieure et fait enlever Liz.</desc>
   </programme>
+  <programme start="20261004020201 +0000" stop="20261004023250 +0000" channel="SonyOneFavoris.fr@HD">
+    <title lang="fr">Bewitched</title>
+    <desc lang="fr">Jean-Pierre découvre que Serena a des problèmes, avec ou sans ses pouvoirs.</desc>
+  </programme>
   <programme start="20261004023250 +0000" stop="20261004030308 +0000" channel="SonyOneFavoris.fr@HD">
     <title lang="fr">Bewitched</title>
     <desc lang="fr">Tabatha est déterminée à apprendre à patiner comme une mortelle, mais Endora lui donne un coup de pouce.</desc>
@@ -38142,7 +38253,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   <programme start="20261003235100 -0500" stop="20261004004200 -0500" channel="TNTNovelas.us@Brazil">
     <title lang="es">Olvídame si puedes</title>
   </programme>
-  <programme channel="TVCamara.py@SD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="TVCamara.py@SD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>TV Camara - Español</title>
   </programme>
   <programme start="20261003111000 -0500" stop="20261003130500 -0500" channel="TVEInternacionalAmerica.es@HD">
@@ -38332,6 +38443,9 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
   </programme>
   <programme start="20261004010000 +0000" stop="20261004024500 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">Argentina vs. Burkina Faso</title>
+  </programme>
+  <programme start="20261004014500 +0000" stop="20261004023000 +0000" channel="TelefeBuenosAires.ar@SD">
+    <title lang="es">Fútbol: Post</title>
   </programme>
   <programme start="20261004020000 +0000" stop="20261004024500 +0000" channel="TelefeBuenosAires.ar@SD">
     <title lang="es">PH: Podemos hablar</title>
@@ -39103,7 +39217,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category lang="pt">Variety Show</category>
     <icon src="https://images.pluto.tv/series/68dabb94a44f8dcccd05765a/tile_1759181661440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660" />
   </programme>
-  <programme channel="ThePetCollective.us@Mexico" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="ThePetCollective.us@Mexico" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>The Pet Collective - English</title>
   </programme>
   <programme start="20261003165911 +0000" stop="20261003173111 +0000" channel="ThePetCollective.us@Spain">
@@ -40342,7 +40456,7 @@ Disfruta las 24 hs de los mejores shows: Backdoor, Comedy Central Stand Up, Duel
     <category>Entertainment</category>
     <category>Entertainment</category>
   </programme>
-  <programme channel="TotalmusicDance.uk@HD" start="20261003163833 +0000" stop="20261005163833 +0000">
+  <programme channel="TotalmusicDance.uk@HD" start="20261003163851 +0000" stop="20261005163851 +0000">
     <title>Totalmusic Dance - Español</title>
   </programme>
   <programme start="20261004013000 +0000" stop="20261004031500 +0000" channel="Trece.es@SD">
