@@ -130,7 +130,10 @@ for cid in sorted(selected):
 ET.indent(missing_root,space="  ")
 ET.ElementTree(missing_root).write(OUT_MISSING_XML,encoding="utf-8",xml_declaration=True)
 
-# Also create per-site batches with up to 3 alternate exact sources per missing channel.
+# Create one authoritative per-site batch entry per target.
+# Alternate sources must never be merged under the same xmltv_id because their
+# schedules can differ; the previous exact guide is the fallback if today's
+# selected source fails.
 if BATCH_DIR.exists():
     for p in BATCH_DIR.glob("*.channels.xml"):
         p.unlink()
@@ -149,23 +152,10 @@ batch_targets=current_missing | refresh_ids
 
 site_rows=defaultdict(list)
 for cid in sorted(batch_targets):
-    rows=matches.get(cid,[])
-    if not rows:
+    r=selected.get(cid)
+    if not r:
         continue
-    manual_rows=[r for r in rows if r.get("path")=="manual-epg-sources.json"]
-    regular_rows=[r for r in rows if r.get("path")!="manual-epg-sources.json"]
-    ranked=sorted(manual_rows,key=lambda r:(r["site"],r["site_id"])) + sorted(
-        regular_rows,key=lambda r:(rank(r["site"],r["path"]),r["site"],r["path"],r["site_id"])
-    )
-    seen=set()
-    for r in ranked:
-        key=(r["site"],r["site_id"])
-        if key in seen:
-            continue
-        seen.add(key)
-        site_rows[r["site"]].append(r)
-        if len(seen) >= 3:
-            break
+    site_rows[r["site"]].append(r)
 
 def safe_name(site):
     return re.sub(r"[^A-Za-z0-9._-]+","_",site)
