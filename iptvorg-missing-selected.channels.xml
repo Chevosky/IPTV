@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <channels>
+  <channel site="teliatv.ee" site_id="en#54" lang="en" xmltv_id="FashionTV.ru@SD">Fashion TV</channel>
   <channel site="mi.tv" site_id="br#nickelodeon" lang="pt" xmltv_id="Nickelodeon.br@SD">Nick</channel>
+  <channel site="tv.mail.ru" site_id="2702" lang="ru" xmltv_id="StarCinema.ru@SD">Star Cinema</channel>
 </channels>
