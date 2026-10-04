@@ -1,6 +1,6 @@
 {
   "summary": {
-    "missing_targets": 16,
+    "missing_targets": 14,
     "with_exact_normalized_match": 0,
     "with_fuzzy_090_plus": 0
   },
@@ -58,19 +58,6 @@
       "normalized": "fashion and lifestyle",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": []
-    },
-    {
-      "target_id": "FashionTV.ru@SD",
-      "target_name": "FashionTV (Russia)",
-      "normalized": "fashiontv russia",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.72,
-          "source_id": "plex.tv.FashionTV.plex",
-          "source_name": "FashionTV"
-        }
-      ]
     },
     {
       "target_id": "FashionTVParisLOriginal.fr@SD",
@@ -264,54 +251,6 @@
           "score": 0.6,
           "source_id": "Rai.Gulp.ch",
           "source_name": "Rai Gulp"
-        }
-      ]
-    },
-    {
-      "target_id": "StarCinema.ru@SD",
-      "target_name": "Star Cinema",
-      "normalized": "star cinema",
-      "exact_normalized_matches": [],
-      "top_fuzzy_matches": [
-        {
-          "score": 0.857,
-          "source_id": "ART.CINEMA.fr",
-          "source_name": "ART CINEMA"
-        },
-        {
-          "score": 0.846,
-          "source_id": "Starz.Cinema.HD.us2",
-          "source_name": "Starz Cinema HD"
-        },
-        {
-          "score": 0.818,
-          "source_id": "plex.tv.Surf.Cinema.plex",
-          "source_name": "Surf Cinema"
-        },
-        {
-          "score": 0.762,
-          "source_id": "TCM.Cinéma.fr",
-          "source_name": "TCM Cinéma"
-        },
-        {
-          "score": 0.762,
-          "source_id": "LA7.CINEMA.it",
-          "source_name": "LA7 CINEMA"
-        },
-        {
-          "score": 0.75,
-          "source_id": "Rotana.Cinema.fr",
-          "source_name": "Rotana Cinema"
-        },
-        {
-          "score": 0.696,
-          "source_id": "Sky.Cinema.D.ch",
-          "source_name": "Sky Cinema D"
-        },
-        {
-          "score": 0.696,
-          "source_id": "Canal.Cinema.mx",
-          "source_name": "Canal Cinema"
         }
       ]
     },
