@@ -13,6 +13,7 @@ SOURCE = ROOT / "guide.xml"
 EXACT_SOURCE = ROOT / "guide-iptvorg-exact.xml"
 ALIASES_FILE = ROOT / "epg-aliases.json"
 FORCE_ALIASES_FILE = ROOT / "epg-force-aliases.json"
+TIME_OFFSETS_FILE = ROOT / "epg-time-offsets.json"
 OUT = ROOT / "guide-favorites.xml"
 REPORT = ROOT / "coverage-favorites.json"
 WINDOW_HOURS = 24
@@ -200,6 +201,9 @@ if ALIASES_FILE.exists():
 force_aliases = {}
 if FORCE_ALIASES_FILE.exists():
     force_aliases = json.loads(FORCE_ALIASES_FILE.read_text(encoding="utf-8"))
+time_offsets = {}
+if TIME_OFFSETS_FILE.exists():
+    time_offsets = json.loads(TIME_OFFSETS_FILE.read_text(encoding="utf-8"))
 
 if not wanted:
     raise SystemExit("No tvg-id values found in favorites-test.m3u")
@@ -388,6 +392,21 @@ for target_id in missing:
     }
 
 covered = set(coverage_source)
+
+# Per-channel timing corrections for streams whose actual playout is shifted
+# relative to the selected EPG source. Values are minutes and are applied to
+# both programme start and stop times.
+for p in out_programmes:
+    cid = p.get("channel")
+    minutes = time_offsets.get(cid)
+    if not minutes:
+        continue
+    delta = timedelta(minutes=int(minutes))
+    for attr in ("start", "stop"):
+        value = p.get(attr)
+        dt = parse_xmltv_dt(value)
+        if dt is not None:
+            p.set(attr, dt_to_xmltv(dt + delta))
 
 root = ET.Element("tv", {
     "generator-info-name":"Chevosky/IPTV curated guide",
