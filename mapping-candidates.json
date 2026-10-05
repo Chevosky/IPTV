@@ -1,6 +1,6 @@
 {
   "summary": {
-    "missing_targets": 14,
+    "missing_targets": 15,
     "with_exact_normalized_match": 0,
     "with_fuzzy_090_plus": 0
   },
@@ -58,6 +58,19 @@
       "normalized": "fashion and lifestyle",
       "exact_normalized_matches": [],
       "top_fuzzy_matches": []
+    },
+    {
+      "target_id": "FashionTV.ru@SD",
+      "target_name": "FashionTV (Russia)",
+      "normalized": "fashiontv russia",
+      "exact_normalized_matches": [],
+      "top_fuzzy_matches": [
+        {
+          "score": 0.72,
+          "source_id": "plex.tv.FashionTV.plex",
+          "source_name": "FashionTV"
+        }
+      ]
     },
     {
       "target_id": "FashionTVParisLOriginal.fr@SD",
@@ -264,11 +277,6 @@
           "score": 0.727,
           "source_id": "Canal.SNT.(Paraguay).ar",
           "source_name": "Canal SNT (Paraguay)"
-        },
-        {
-          "score": 0.703,
-          "source_id": "Canal.La.Tele.(Paraguay).ar",
-          "source_name": "Canal La Tele (Paraguay)"
         }
       ]
     },
