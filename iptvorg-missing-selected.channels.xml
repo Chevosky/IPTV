@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <channels>
+  <channel site="xumo.tv" site_id="150#99951231" lang="en" xmltv_id="BBCEarth.uk@US">BBC Earth</channel>
   <channel site="teliatv.ee" site_id="en#54" lang="en" xmltv_id="FashionTV.ru@SD">Fashion TV</channel>
   <channel site="mi.tv" site_id="br#nickelodeon" lang="pt" xmltv_id="Nickelodeon.br@SD">Nick</channel>
+  <channel site="xumo.tv" site_id="150#99991174" lang="en" xmltv_id="ThePetCollective.us@US">The Pet Collective</channel>
 </channels>
