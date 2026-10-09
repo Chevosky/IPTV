@@ -1,0 +1,54 @@
+name: Zapper recover original Sports sources
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - publication/scripts/recover_sports.py
+      - publication/sports/source-candidates.json
+      - .github/workflows/zapper-recover-sports.yml
+  schedule:
+    - cron: '23 4 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: zapper-original-sports-recovery
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Ensure bounded media decoder is available
+        run: |
+          if ! command -v ffmpeg >/dev/null; then
+            sudo apt-get update -qq
+            sudo apt-get install -y --no-install-recommends ffmpeg
+          fi
+      - name: Validate parser and safe URL handling
+        run: |
+          python -m py_compile publication/scripts/recover_sports.py
+          python publication/scripts/recover_sports.py --selftest
+          python -c "import json; d=json.load(open('publication/sports/source-candidates.json')); assert len(d['sources']) == 106; assert len({s['id'] for s in d['sources']}) == 106"
+      - name: Recheck all original supported candidates without export gating
+        run: python publication/scripts/recover_sports.py
+      - name: Preserve sanitized evidence
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: sports-recovery-${{ github.run_id }}
+          path: sports-recovery-results/
+          if-no-files-found: error
+          retention-days: 7
+      - name: Execution summary
+        if: always()
+        run: |
+          if [ -f sports-recovery-results/summary.md ]; then
+            cat sports-recovery-results/summary.md >> "$GITHUB_STEP_SUMMARY"
+          fi
