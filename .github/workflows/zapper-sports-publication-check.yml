@@ -1,0 +1,50 @@
+name: Zapper Sports publication prerequisites
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/zapper-sports-publication-check.yml
+permissions:
+  contents: read
+jobs:
+  prerequisites:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Check existing deployment configuration without secret output
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || vars.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          python3 - <<'PY'
+          import json,os,re,urllib.request,urllib.error
+          from pathlib import Path
+          from datetime import datetime,timezone
+          token=os.environ.get('CLOUDFLARE_API_TOKEN','')
+          account=os.environ.get('CLOUDFLARE_ACCOUNT_ID','')
+          result={'checkedAtUTC':datetime.now(timezone.utc).isoformat(),
+                  'tokenConfigured':bool(token),'accountConfigured':bool(account),
+                  'productionChanged':False,'status':'BLOCKED_MISSING_CONFIGURATION'}
+          if token and re.fullmatch(r'[0-9a-f]{32}',account):
+              req=urllib.request.Request('https://api.cloudflare.com/client/v4/accounts/'+account+'/workers/subdomain',headers={'Authorization':'Bearer '+token})
+              try:
+                  with urllib.request.urlopen(req,timeout=15) as response:
+                      payload=json.load(response)
+                  matched=payload.get('success') and payload.get('result',{}).get('subdomain')=='chevosky'
+                  result['intendedAccountSubdomainVerified']=bool(matched)
+                  result['status']='ACCESS_VERIFIED_NOT_DEPLOYED' if matched else 'BLOCKED_ACCOUNT_VERIFICATION'
+              except urllib.error.HTTPError as exc:
+                  result['status']='BLOCKED_CLOUDFLARE_API';result['httpStatus']=exc.code
+              except Exception as exc:
+                  result['status']='BLOCKED_NETWORK';result['errorType']=type(exc).__name__
+          Path('sports-publication-prerequisites.json').write_text(json.dumps(result,indent=2)+'\n')
+          print(json.dumps(result))
+          with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as summary:
+              summary.write('# Sports publication prerequisites\n\n'+result['status']+'\n\nNo production or security settings changed.\n')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sports-publication-prerequisites-${{ github.run_id }}
+          path: sports-publication-prerequisites.json
+          retention-days: 7
