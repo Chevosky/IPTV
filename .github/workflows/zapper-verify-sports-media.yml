@@ -1,0 +1,49 @@
+name: Zapper Sports media proof
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - publication/scripts/verify_sports_media.py
+      - .github/workflows/zapper-verify-sports-media.yml
+permissions:
+  contents: read
+concurrency:
+  group: zapper-sports-media-proof
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install decoder if required
+        run: |
+          if ! command -v ffmpeg >/dev/null; then
+            sudo apt-get update -qq
+            sudo apt-get install -y --no-install-recommends ffmpeg
+          fi
+      - name: Check syntax and parsers
+        run: |
+          python -m py_compile publication/scripts/recover_sports.py publication/scripts/verify_sports_media.py
+          python publication/scripts/recover_sports.py --selftest
+      - name: Verify original linear sources and capture identity evidence
+        run: python publication/scripts/verify_sports_media.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: sports-media-proof-${{ github.run_id }}
+          path: sports-media-review/
+          if-no-files-found: error
+          retention-days: 3
+      - name: Summarize observed results
+        if: always()
+        run: |
+          if [ -f sports-media-review/summary.md ]; then
+            cat sports-media-review/summary.md >> "$GITHUB_STEP_SUMMARY"
+          fi
