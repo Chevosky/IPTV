@@ -6,6 +6,7 @@ on:
     paths:
       - publication/scripts/recover_sports.py
       - publication/sports/source-candidates.json
+      - publication/sports/retry-candidates.json
       - .github/workflows/zapper-recover-sports.yml
   schedule:
     - cron: '23 4 * * *'
@@ -31,13 +32,21 @@ jobs:
             sudo apt-get update -qq
             sudo apt-get install -y --no-install-recommends ffmpeg
           fi
-      - name: Validate parser and safe URL handling
+      - name: Validate parser and distinct original candidates
         run: |
           python -m py_compile publication/scripts/recover_sports.py
           python publication/scripts/recover_sports.py --selftest
-          python -c "import json; d=json.load(open('publication/sports/source-candidates.json')); assert len(d['sources']) == 106; assert len({s['id'] for s in d['sources']}) == 106"
-      - name: Recheck all original supported candidates without export gating
+          python - <<'PY'
+          import json
+          a=json.load(open('publication/sports/source-candidates.json'))['sources']
+          b=json.load(open('publication/sports/retry-candidates.json'))['sources']
+          assert len(a)==106 and len(b)==12
+          assert len({s['id'] for s in a+b})==118
+          PY
+      - name: Recheck original supported candidates without export gating
         run: python publication/scripts/recover_sports.py
+      - name: Recheck original retryable sources
+        run: python publication/scripts/recover_sports.py --input publication/sports/retry-candidates.json --output sports-recovery-results/retryable
       - name: Preserve sanitized evidence
         uses: actions/upload-artifact@v4
         if: always()
@@ -49,6 +58,6 @@ jobs:
       - name: Execution summary
         if: always()
         run: |
-          if [ -f sports-recovery-results/summary.md ]; then
-            cat sports-recovery-results/summary.md >> "$GITHUB_STEP_SUMMARY"
-          fi
+          for f in sports-recovery-results/summary.md sports-recovery-results/retryable/summary.md; do
+            if [ -f "$f" ]; then cat "$f" >> "$GITHUB_STEP_SUMMARY"; fi
+          done
