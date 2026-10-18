@@ -1,0 +1,44 @@
+name: Flex EPG correction preview (NO PUBLISH)
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - codex/flex-epg-repair-candidate
+permissions:
+  contents: read
+concurrency:
+  group: flex-epg-preview
+  cancel-in-progress: false
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify catalog/M3U publication without modifying them
+        run: python publication/scripts/validate_flex.py . publication/baseline
+      - name: Generate guide in working directory (NO COMMIT/PUSH)
+        env:
+          ZAPPER_PLAYLIST: zapper-flex.m3u
+        run: python publication/scripts/build_flex_guide.py
+      - name: Verify 237 IDs, freshness, coverage and 59 Pluto EPG identities
+        env:
+          ZAPPER_DATA_DIR: ${{ github.workspace }}
+        run: |
+          python publication/scripts/validate_zapper_guide.py \
+            guide-flex-candidate.xml \
+            --previous guide-flex.xml \
+            --coverage-report coverage-flex-candidate.json
+      - name: Save only the unpromoted guide candidate
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: flex-epg-unpublished-candidate
+          path: guide-flex-candidate.xml
+          if-no-files-found: error
+          retention-days: 3

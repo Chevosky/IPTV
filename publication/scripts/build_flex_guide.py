@@ -5,6 +5,7 @@ import re
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from pluto_identity import canonical_pluto_ids
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -195,6 +196,7 @@ def synthetic_title(tvg_id, playlist_name, channels, feeds_by_channel, language_
     return title
 
 playlist = parse_playlist(PLAYLIST)
+pluto_uuids = canonical_pluto_ids(ROOT / 'catalog-flex.json', playlist)
 wanted = set(playlist)
 aliases = {}
 if ALIASES_FILE.exists():
@@ -311,10 +313,9 @@ end = now + timedelta(hours=WINDOW_HOURS)
 for target_id, info in playlist.items():
     if target_id in coverage_source:
         continue
-    m = re.search(r'(?:plu-|channels/)([0-9a-f]{16,32})', info["url"], re.I)
-    if not m:
+    site_id = pluto_uuids.get(target_id)
+    if not site_id:
         continue
-    site_id = m.group(1)
     params = urllib.parse.urlencode({
         "start": now.isoformat().replace("+00:00","Z"),
         "stop": end.isoformat().replace("+00:00","Z")
