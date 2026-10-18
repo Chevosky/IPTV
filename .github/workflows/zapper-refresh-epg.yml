@@ -1,6 +1,13 @@
 name: Zapper refresh-epg
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'publication/scripts/build_flex_guide.py'
+      - 'publication/scripts/validate_zapper_guide.py'
+      - 'publication/scripts/pluto_identity.py'
+      - 'publication/baseline/pluto-epg-59.json'
   schedule:
     - cron: '23 */6 * * *'
 permissions:

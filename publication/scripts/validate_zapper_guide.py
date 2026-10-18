@@ -4,6 +4,7 @@ import argparse
 import os
 import json
 import xml.etree.ElementTree as ET
+from pluto_identity import retained_epg_check
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -64,6 +65,11 @@ def main():
         coverage = json.loads(a.coverage_report.read_text())
         if coverage.get("playlist_channels") != 237 or coverage.get("guide_channels") != 237 or coverage.get("covered_channels", 0) < 83 or coverage.get("synthetic_channels") != 237 - coverage.get("covered_channels", 0):
             raise SystemExit("real EPG coverage below approved baseline floor; preserve last known-good guide")
+        reference_path = ROOT / 'publication/baseline/pluto-epg-59.json'
+        reference = json.loads(reference_path.read_text(encoding='utf-8'))
+        tracked, missing = retained_epg_check(coverage, reference)
+        if missing:
+            raise SystemExit(f'Pluto EPG regression: {len(missing)}/{tracked} previously verified channel IDs lost real programming; preserve last-known-good guide')
     if a.previous and a.previous.exists():
         previous = stats(a.previous, wanted, now, require_fresh=False)
         if (previous["currentCoverage"] >= 60 and candidate["currentCoverage"] < previous["currentCoverage"] * 0.7) or candidate["programmes"] < previous["programmes"] * 0.5:
