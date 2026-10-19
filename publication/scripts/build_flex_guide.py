@@ -6,6 +6,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from pluto_identity import canonical_pluto_ids
+from xmltv_format import write_xmltv_clean
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -435,7 +436,7 @@ for p in out_programmes:
     root.append(p)
 
 ET.indent(root, space="  ")
-ET.ElementTree(root).write(OUT, encoding="utf-8", xml_declaration=True)
+write_xmltv_clean(root, OUT)
 
 report = {
     "playlist_channels": len(wanted),
