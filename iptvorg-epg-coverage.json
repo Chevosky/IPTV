@@ -10,16 +10,16 @@
     "xumo.tv": 5,
     "chaines-tv.orange.fr": 4,
     "i.mjh.nz": 3,
-    "programacion.tcc.com.uy": 2,
     "elcinema.com": 2,
-    "horizon.tv": 1,
-    "tvtv.us": 1,
-    "teleboy.ch": 1,
+    "programacion.tcc.com.uy": 2,
     "teliatv.ee": 1,
     "tv.mail.ru": 1,
-    "orangetv.orange.es": 1,
-    "tataplay.com": 1,
+    "horizon.tv": 1,
     "foxtel.com.au": 1,
+    "tataplay.com": 1,
+    "orangetv.orange.es": 1,
+    "teleboy.ch": 1,
+    "tvtv.us": 1,
     "epg.iptvx.one": 1,
     "directv.com": 1
   },
@@ -2036,31 +2036,23 @@
     ],
     "AMCLatinAmerica.us@Brazil": [
       {
-        "site": "mi.tv",
-        "site_id": "br#amc-brasil",
-        "lang": "pt",
-        "xmltv_id": "AMCLatinAmerica.us@Brazil",
-        "name": "AMC Brasil",
-        "path": "sites/mi.tv/mi.tv_br.channels.xml"
-      },
-      {
         "site": "meuguia.tv",
         "site_id": "MGM",
         "lang": "pt",
         "xmltv_id": "AMCLatinAmerica.us@Brazil",
         "name": "AMC",
         "path": "sites/meuguia.tv/meuguia.tv.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "br#amc-brasil",
+        "lang": "pt",
+        "xmltv_id": "AMCLatinAmerica.us@Brazil",
+        "name": "AMC Brasil",
+        "path": "sites/mi.tv/mi.tv_br.channels.xml"
       }
     ],
     "AXN.br@SD": [
-      {
-        "site": "mi.tv",
-        "site_id": "br#axn",
-        "lang": "pt",
-        "xmltv_id": "AXN.br@SD",
-        "name": "AXN",
-        "path": "sites/mi.tv/mi.tv_br.channels.xml"
-      },
       {
         "site": "meuguia.tv",
         "site_id": "AXN",
@@ -2068,16 +2060,24 @@
         "xmltv_id": "AXN.br@SD",
         "name": "AXN",
         "path": "sites/meuguia.tv/meuguia.tv.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "br#axn",
+        "lang": "pt",
+        "xmltv_id": "AXN.br@SD",
+        "name": "AXN",
+        "path": "sites/mi.tv/mi.tv_br.channels.xml"
       }
     ],
     "AXNLatinAmerica.us@Andes": [
       {
-        "site": "mi.tv",
-        "site_id": "co#axn",
+        "site": "siba.com.co",
+        "site_id": "384",
         "lang": "es",
         "xmltv_id": "AXNLatinAmerica.us@Andes",
         "name": "AXN",
-        "path": "sites/mi.tv/mi.tv_co.channels.xml"
+        "path": "sites/siba.com.co/siba.com.co.channels.xml"
       },
       {
         "site": "gatotv.com",
@@ -2088,12 +2088,12 @@
         "path": "sites/gatotv.com/gatotv.com.channels.xml"
       },
       {
-        "site": "siba.com.co",
-        "site_id": "384",
+        "site": "mi.tv",
+        "site_id": "co#axn",
         "lang": "es",
         "xmltv_id": "AXNLatinAmerica.us@Andes",
         "name": "AXN",
-        "path": "sites/siba.com.co/siba.com.co.channels.xml"
+        "path": "sites/mi.tv/mi.tv_co.channels.xml"
       }
     ],
     "AXNLatinAmerica.us@South": [
@@ -2136,20 +2136,20 @@
     ],
     "AmericaTV.ar@SD": [
       {
-        "site": "mi.tv",
-        "site_id": "ar#america-2-capital",
-        "lang": "es",
-        "xmltv_id": "AmericaTV.ar@SD",
-        "name": "América TV",
-        "path": "sites/mi.tv/mi.tv_ar.channels.xml"
-      },
-      {
         "site": "gatotv.com",
         "site_id": "america_tv_argentina",
         "lang": "es",
         "xmltv_id": "AmericaTV.ar@SD",
         "name": "Canal America TV (Argentina)",
         "path": "sites/gatotv.com/gatotv.com.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "ar#america-2-capital",
+        "lang": "es",
+        "xmltv_id": "AmericaTV.ar@SD",
+        "name": "América TV",
+        "path": "sites/mi.tv/mi.tv_ar.channels.xml"
       }
     ],
     "AmericasVoice.us@SD": [
@@ -2182,22 +2182,6 @@
     ],
     "Antena3Internacional.es@SD": [
       {
-        "site": "gatotv.com",
-        "site_id": "antena_3",
-        "lang": "es",
-        "xmltv_id": "Antena3Internacional.es@SD",
-        "name": "Canal Antena 3",
-        "path": "sites/gatotv.com/gatotv.com.channels.xml"
-      },
-      {
-        "site": "directv.com.uy",
-        "site_id": "762#ANT3",
-        "lang": "es",
-        "xmltv_id": "Antena3Internacional.es@SD",
-        "name": "Antena 3 Internacional",
-        "path": "sites/directv.com.uy/directv.com.uy.channels.xml"
-      },
-      {
         "site": "tv.movistar.com.pe",
         "site_id": "lch6292",
         "lang": "es",
@@ -2206,12 +2190,28 @@
         "path": "sites/tv.movistar.com.pe/tv.movistar.com.pe.channels.xml"
       },
       {
+        "site": "gatotv.com",
+        "site_id": "antena_3",
+        "lang": "es",
+        "xmltv_id": "Antena3Internacional.es@SD",
+        "name": "Canal Antena 3",
+        "path": "sites/gatotv.com/gatotv.com.channels.xml"
+      },
+      {
         "site": "reportv.com.ar",
         "site_id": "61",
         "lang": "es",
         "xmltv_id": "Antena3Internacional.es@SD",
         "name": "ANTENA3",
         "path": "sites/reportv.com.ar/reportv.com.ar.channels.xml"
+      },
+      {
+        "site": "directv.com.uy",
+        "site_id": "762#ANT3",
+        "lang": "es",
+        "xmltv_id": "Antena3Internacional.es@SD",
+        "name": "Antena 3 Internacional",
+        "path": "sites/directv.com.uy/directv.com.uy.channels.xml"
       },
       {
         "site": "programacion.tcc.com.uy",
@@ -2224,31 +2224,23 @@
     ],
     "Arte1.br@SD": [
       {
-        "site": "mi.tv",
-        "site_id": "br#arte-1",
-        "lang": "pt",
-        "xmltv_id": "Arte1.br@SD",
-        "name": "Arte 1",
-        "path": "sites/mi.tv/mi.tv_br.channels.xml"
-      },
-      {
         "site": "meuguia.tv",
         "site_id": "BQ5",
         "lang": "pt",
         "xmltv_id": "Arte1.br@SD",
         "name": "Arte 1",
         "path": "sites/meuguia.tv/meuguia.tv.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "br#arte-1",
+        "lang": "pt",
+        "xmltv_id": "Arte1.br@SD",
+        "name": "Arte 1",
+        "path": "sites/mi.tv/mi.tv_br.channels.xml"
       }
     ],
     "AsianCrush.us@SD": [
-      {
-        "site": "plex.tv",
-        "site_id": "5eea605474085f0040ddc767",
-        "lang": "en",
-        "xmltv_id": "AsianCrush.us@SD",
-        "name": "AsianCrush",
-        "path": "sites/plex.tv/plex.tv_us.channels.xml"
-      },
       {
         "site": "i.mjh.nz",
         "site_id": "Plex/ca#647f8d22a2fc3fadb4721685-5eea605474085f0040ddc767",
@@ -2264,16 +2256,24 @@
         "xmltv_id": "AsianCrush.us@SD",
         "name": "AsianCrush",
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "5eea605474085f0040ddc767",
+        "lang": "en",
+        "xmltv_id": "AsianCrush.us@SD",
+        "name": "AsianCrush",
+        "path": "sites/plex.tv/plex.tv_us.channels.xml"
       }
     ],
     "AztecaInternacional.mx@SD": [
       {
-        "site": "plex.tv",
-        "site_id": "646d06c9b09f13b2d8af68d8",
+        "site": "watch.whaletvplus.com",
+        "site_id": "877391518380856035",
         "lang": "es",
         "xmltv_id": "AztecaInternacional.mx@SD",
         "name": "Azteca Internacional",
-        "path": "sites/plex.tv/plex.tv_es.channels.xml"
+        "path": "sites/watch.whaletvplus.com/watch.whaletvplus.com.channels.xml"
       },
       {
         "site": "i.mjh.nz",
@@ -2308,12 +2308,12 @@
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
       },
       {
-        "site": "watch.whaletvplus.com",
-        "site_id": "877391518380856035",
+        "site": "plex.tv",
+        "site_id": "646d06c9b09f13b2d8af68d8",
         "lang": "es",
         "xmltv_id": "AztecaInternacional.mx@SD",
         "name": "Azteca Internacional",
-        "path": "sites/watch.whaletvplus.com/watch.whaletvplus.com.channels.xml"
+        "path": "sites/plex.tv/plex.tv_es.channels.xml"
       }
     ],
     "BBCDrama.uk@Spain": [
@@ -2328,36 +2328,12 @@
     ],
     "BBCEarth.uk@US": [
       {
-        "site": "plex.tv",
-        "site_id": "6414a73254c537d12d8073d7",
-        "lang": "en",
-        "xmltv_id": "BBCEarth.uk@US",
-        "name": "BBC Earth",
-        "path": "sites/plex.tv/plex.tv_us.channels.xml"
-      },
-      {
         "site": "pluto.tv",
         "site_id": "656535fc2c46f30008870fae",
         "lang": "en",
         "xmltv_id": "BBCEarth.uk@US",
         "name": "BBC Earth",
         "path": "sites/pluto.tv/pluto.tv_us.channels.xml"
-      },
-      {
-        "site": "xumo.tv",
-        "site_id": "150#99951231",
-        "lang": "en",
-        "xmltv_id": "BBCEarth.uk@US",
-        "name": "BBC Earth",
-        "path": "sites/xumo.tv/xumo.tv.channels.xml"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "PlutoTV/us#656535fc2c46f30008870fae",
-        "lang": "en",
-        "xmltv_id": "BBCEarth.uk@US",
-        "name": "BBC Earth",
-        "path": "sites/i.mjh.nz/i.mjh.nz_pluto.channels.xml"
       },
       {
         "site": "i.mjh.nz",
@@ -2369,22 +2345,38 @@
       },
       {
         "site": "i.mjh.nz",
+        "site_id": "PlutoTV/us#656535fc2c46f30008870fae",
+        "lang": "en",
+        "xmltv_id": "BBCEarth.uk@US",
+        "name": "BBC Earth",
+        "path": "sites/i.mjh.nz/i.mjh.nz_pluto.channels.xml"
+      },
+      {
+        "site": "i.mjh.nz",
         "site_id": "Plex/us#5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7",
         "lang": "en",
         "xmltv_id": "BBCEarth.uk@US",
         "name": "BBC Earth",
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+      },
+      {
+        "site": "xumo.tv",
+        "site_id": "150#99951231",
+        "lang": "en",
+        "xmltv_id": "BBCEarth.uk@US",
+        "name": "BBC Earth",
+        "path": "sites/xumo.tv/xumo.tv.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "6414a73254c537d12d8073d7",
+        "lang": "en",
+        "xmltv_id": "BBCEarth.uk@US",
+        "name": "BBC Earth",
+        "path": "sites/plex.tv/plex.tv_us.channels.xml"
       }
     ],
     "BBCNews.uk@LatinAmerica": [
-      {
-        "site": "nuevosiglo.com.uy",
-        "site_id": "BBC WORLD",
-        "lang": "es",
-        "xmltv_id": "BBCNews.uk@LatinAmerica",
-        "name": "BBC WORLD",
-        "path": "sites/nuevosiglo.com.uy/nuevosiglo.com.uy.channels.xml"
-      },
       {
         "site": "gatotv.com",
         "site_id": "bbc_world_news",
@@ -2394,20 +2386,28 @@
         "path": "sites/gatotv.com/gatotv.com.channels.xml"
       },
       {
-        "site": "directv.com.uy",
-        "site_id": "768#BBC",
-        "lang": "es",
-        "xmltv_id": "BBCNews.uk@LatinAmerica",
-        "name": "BBC World News",
-        "path": "sites/directv.com.uy/directv.com.uy.channels.xml"
-      },
-      {
         "site": "cableplus.com.uy",
         "site_id": "80",
         "lang": "es",
         "xmltv_id": "BBCNews.uk@LatinAmerica",
         "name": "BBC NEWS",
         "path": "sites/cableplus.com.uy/cableplus.com.uy.channels.xml"
+      },
+      {
+        "site": "nuevosiglo.com.uy",
+        "site_id": "BBC WORLD",
+        "lang": "es",
+        "xmltv_id": "BBCNews.uk@LatinAmerica",
+        "name": "BBC WORLD",
+        "path": "sites/nuevosiglo.com.uy/nuevosiglo.com.uy.channels.xml"
+      },
+      {
+        "site": "directv.com.uy",
+        "site_id": "768#BBC",
+        "lang": "es",
+        "xmltv_id": "BBCNews.uk@LatinAmerica",
+        "name": "BBC World News",
+        "path": "sites/directv.com.uy/directv.com.uy.channels.xml"
       },
       {
         "site": "programacion.tcc.com.uy",
@@ -2420,6 +2420,22 @@
     ],
     "BBCNews.uk@NorthAmerica": [
       {
+        "site": "i.mjh.nz",
+        "site_id": "Roku/all#6183f9f73a64394cf3c55690605af2a7",
+        "lang": "en",
+        "xmltv_id": "BBCNews.uk@NorthAmerica",
+        "name": "BBC News",
+        "path": "sites/i.mjh.nz/i.mjh.nz_roku.channels.xml"
+      },
+      {
+        "site": "i.mjh.nz",
+        "site_id": "Plex/us#5e20b730f2f8d5003d739db7-646fab0e43d6d6838db81a6a",
+        "lang": "en",
+        "xmltv_id": "BBCNews.uk@NorthAmerica",
+        "name": "BBC News (North America)",
+        "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+      },
+      {
         "site": "tvtv.us",
         "site_id": "89690",
         "lang": "en",
@@ -2428,20 +2444,12 @@
         "path": "sites/tvtv.us/tvtv.us.channels.xml"
       },
       {
-        "site": "mi.tv",
-        "site_id": "br#bbc-news",
-        "lang": "pt",
-        "xmltv_id": "BBCNews.uk@NorthAmerica",
-        "name": "BBC News",
-        "path": "sites/mi.tv/mi.tv_br.channels.xml"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "646fab0e43d6d6838db81a6a",
+        "site": "tvguide.com",
+        "site_id": "9200004927",
         "lang": "en",
         "xmltv_id": "BBCNews.uk@NorthAmerica",
-        "name": "BBC News (North America)",
-        "path": "sites/plex.tv/plex.tv_us.channels.xml"
+        "name": "BBC News",
+        "path": "sites/tvguide.com/tvguide.com.channels.xml"
       },
       {
         "site": "ontvtonight.com",
@@ -2468,12 +2476,12 @@
         "path": "sites/meuguia.tv/meuguia.tv.channels.xml"
       },
       {
-        "site": "tvguide.com",
-        "site_id": "9200004927",
-        "lang": "en",
+        "site": "mi.tv",
+        "site_id": "br#bbc-news",
+        "lang": "pt",
         "xmltv_id": "BBCNews.uk@NorthAmerica",
         "name": "BBC News",
-        "path": "sites/tvguide.com/tvguide.com.channels.xml"
+        "path": "sites/mi.tv/mi.tv_br.channels.xml"
       },
       {
         "site": "xumo.tv",
@@ -2484,20 +2492,12 @@
         "path": "sites/xumo.tv/xumo.tv.channels.xml"
       },
       {
-        "site": "i.mjh.nz",
-        "site_id": "Roku/all#6183f9f73a64394cf3c55690605af2a7",
-        "lang": "en",
-        "xmltv_id": "BBCNews.uk@NorthAmerica",
-        "name": "BBC News",
-        "path": "sites/i.mjh.nz/i.mjh.nz_roku.channels.xml"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Plex/us#5e20b730f2f8d5003d739db7-646fab0e43d6d6838db81a6a",
+        "site": "plex.tv",
+        "site_id": "646fab0e43d6d6838db81a6a",
         "lang": "en",
         "xmltv_id": "BBCNews.uk@NorthAmerica",
         "name": "BBC News (North America)",
-        "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+        "path": "sites/plex.tv/plex.tv_us.channels.xml"
       }
     ],
     "BBCNews.uk@UK": [
@@ -2547,19 +2547,19 @@
       },
       {
         "site": "i.mjh.nz",
-        "site_id": "PlutoTV/us#5ca670f6593a5d78f0e85aed",
-        "lang": "en",
-        "xmltv_id": "BETPlutoTV.us@US",
-        "name": "BET Pluto TV",
-        "path": "sites/i.mjh.nz/i.mjh.nz_pluto.channels.xml"
-      },
-      {
-        "site": "i.mjh.nz",
         "site_id": "Roku/all#515d785b0a5ea55f15f7e4c773990009",
         "lang": "en",
         "xmltv_id": "BETPlutoTV.us@US",
         "name": "BET Pluto TV",
         "path": "sites/i.mjh.nz/i.mjh.nz_roku.channels.xml"
+      },
+      {
+        "site": "i.mjh.nz",
+        "site_id": "PlutoTV/us#5ca670f6593a5d78f0e85aed",
+        "lang": "en",
+        "xmltv_id": "BETPlutoTV.us@US",
+        "name": "BET Pluto TV",
+        "path": "sites/i.mjh.nz/i.mjh.nz_pluto.channels.xml"
       }
     ],
     "CCPlutoTV.de@DACH": [
@@ -2618,6 +2618,14 @@
     ],
     "Canal26.ar@SD": [
       {
+        "site": "cableplus.com.uy",
+        "site_id": "3",
+        "lang": "es",
+        "xmltv_id": "Canal26.ar@SD",
+        "name": "CANAL 26",
+        "path": "sites/cableplus.com.uy/cableplus.com.uy.channels.xml"
+      },
+      {
         "site": "nuevosiglo.com.uy",
         "site_id": "26 TV HD",
         "lang": "es",
@@ -2640,14 +2648,6 @@
         "xmltv_id": "Canal26.ar@SD",
         "name": "Canal 26 (ARG).",
         "path": "sites/directv.com.uy/directv.com.uy.channels.xml"
-      },
-      {
-        "site": "cableplus.com.uy",
-        "site_id": "3",
-        "lang": "es",
-        "xmltv_id": "Canal26.ar@SD",
-        "name": "CANAL 26",
-        "path": "sites/cableplus.com.uy/cableplus.com.uy.channels.xml"
       },
       {
         "site": "programacion.tcc.com.uy",
@@ -2794,20 +2794,12 @@
     ],
     "CineRomantico.us@SD": [
       {
-        "site": "plex.tv",
-        "site_id": "67db0a3892cb453db28ab020",
-        "lang": "es",
-        "xmltv_id": "CineRomantico.us@SD",
-        "name": "Cine Romántico",
-        "path": "sites/plex.tv/plex.tv_mx.channels.xml"
-      },
-      {
-        "site": "xumo.tv",
-        "site_id": "250#99991142",
+        "site": "i.mjh.nz",
+        "site_id": "SamsungTVPlus/us#USBA3800001E0",
         "lang": "en",
         "xmltv_id": "CineRomantico.us@SD",
-        "name": "Cine Romántico",
-        "path": "sites/xumo.tv/xumo.tv.channels.xml"
+        "name": "Cine Romantico",
+        "path": "sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml"
       },
       {
         "site": "i.mjh.nz",
@@ -2816,14 +2808,6 @@
         "xmltv_id": "CineRomantico.us@SD",
         "name": "Cine Romantico",
         "path": "sites/i.mjh.nz/i.mjh.nz_roku.channels.xml"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "SamsungTVPlus/us#USBA3800001E0",
-        "lang": "en",
-        "xmltv_id": "CineRomantico.us@SD",
-        "name": "Cine Romantico",
-        "path": "sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml"
       },
       {
         "site": "i.mjh.nz",
@@ -2840,6 +2824,22 @@
         "xmltv_id": "CineRomantico.us@SD",
         "name": "Cine Romántico",
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+      },
+      {
+        "site": "xumo.tv",
+        "site_id": "250#99991142",
+        "lang": "en",
+        "xmltv_id": "CineRomantico.us@SD",
+        "name": "Cine Romántico",
+        "path": "sites/xumo.tv/xumo.tv.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "67db0a3892cb453db28ab020",
+        "lang": "es",
+        "xmltv_id": "CineRomantico.us@SD",
+        "name": "Cine Romántico",
+        "path": "sites/plex.tv/plex.tv_mx.channels.xml"
       }
     ],
     "CineSciFibyPlutoTV.de@FR": [
@@ -2862,12 +2862,12 @@
     ],
     "CineSony.us@SD": [
       {
-        "site": "tvtv.us",
-        "site_id": "102978",
-        "lang": "en",
+        "site": "gatotv.com",
+        "site_id": "cine_sony",
+        "lang": "es",
         "xmltv_id": "CineSony.us@SD",
-        "name": "Cine Sony",
-        "path": "sites/tvtv.us/tvtv.us.channels.xml"
+        "name": "Canal Cine Sony",
+        "path": "sites/gatotv.com/gatotv.com.channels.xml"
       },
       {
         "site": "tv.blue.ch",
@@ -2878,12 +2878,12 @@
         "path": "sites/tv.blue.ch/tv.blue.ch.channels.xml"
       },
       {
-        "site": "gatotv.com",
-        "site_id": "cine_sony",
-        "lang": "es",
+        "site": "tvtv.us",
+        "site_id": "102978",
+        "lang": "en",
         "xmltv_id": "CineSony.us@SD",
-        "name": "Canal Cine Sony",
-        "path": "sites/gatotv.com/gatotv.com.channels.xml"
+        "name": "Cine Sony",
+        "path": "sites/tvtv.us/tvtv.us.channels.xml"
       }
     ],
     "CineTerror.us@BR": [
@@ -2976,22 +2976,6 @@
     ],
     "CineWestern.es@SD": [
       {
-        "site": "plex.tv",
-        "site_id": "66ea174c9502c5778b828d47",
-        "lang": "es",
-        "xmltv_id": "CineWestern.es@SD",
-        "name": "Cine Western",
-        "path": "sites/plex.tv/plex.tv_es.channels.xml"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Plex/es#643054b1fc3be59477853717-66ea174c9502c5778b828d47",
-        "lang": "es",
-        "xmltv_id": "CineWestern.es@SD",
-        "name": "Cine Western",
-        "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
-      },
-      {
         "site": "watch.whaletvplus.com",
         "site_id": "894098919100252397",
         "lang": "es",
@@ -3006,16 +2990,32 @@
         "xmltv_id": "CineWestern.es@SD",
         "name": "Cine Peplum",
         "path": "sites/watch.whaletvplus.com/watch.whaletvplus.com.channels.xml"
+      },
+      {
+        "site": "i.mjh.nz",
+        "site_id": "Plex/es#643054b1fc3be59477853717-66ea174c9502c5778b828d47",
+        "lang": "es",
+        "xmltv_id": "CineWestern.es@SD",
+        "name": "Cine Western",
+        "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "66ea174c9502c5778b828d47",
+        "lang": "es",
+        "xmltv_id": "CineWestern.es@SD",
+        "name": "Cine Western",
+        "path": "sites/plex.tv/plex.tv_es.channels.xml"
       }
     ],
     "CineWestern.fr@SD": [
       {
-        "site": "plex.tv",
-        "site_id": "65847f56d60830ce4d4f303c",
+        "site": "watch.whaletvplus.com",
+        "site_id": "894098327523034629",
         "lang": "fr",
         "xmltv_id": "CineWestern.fr@SD",
         "name": "Ciné Western",
-        "path": "sites/plex.tv/plex.tv_fr.channels.xml"
+        "path": "sites/watch.whaletvplus.com/watch.whaletvplus.com.channels.xml"
       },
       {
         "site": "i.mjh.nz",
@@ -3026,12 +3026,12 @@
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
       },
       {
-        "site": "watch.whaletvplus.com",
-        "site_id": "894098327523034629",
+        "site": "plex.tv",
+        "site_id": "65847f56d60830ce4d4f303c",
         "lang": "fr",
         "xmltv_id": "CineWestern.fr@SD",
         "name": "Ciné Western",
-        "path": "sites/watch.whaletvplus.com/watch.whaletvplus.com.channels.xml"
+        "path": "sites/plex.tv/plex.tv_fr.channels.xml"
       }
     ],
     "CineWesternbyPlutoTV.de@FR": [
@@ -3126,30 +3126,6 @@
     ],
     "ComedyCentralLatinAmerica.us@Panregional": [
       {
-        "site": "mi.tv",
-        "site_id": "co#comedy-central-hd",
-        "lang": "es",
-        "xmltv_id": "ComedyCentralLatinAmerica.us@Panregional",
-        "name": "Comedy Central HD",
-        "path": "sites/mi.tv/mi.tv_co.channels.xml"
-      },
-      {
-        "site": "mi.tv",
-        "site_id": "ar#comedy-central",
-        "lang": "es",
-        "xmltv_id": "ComedyCentralLatinAmerica.us@Panregional",
-        "name": "Comedy Central",
-        "path": "sites/mi.tv/mi.tv_ar.channels.xml"
-      },
-      {
-        "site": "directv.com.uy",
-        "site_id": "215#CMDY",
-        "lang": "es",
-        "xmltv_id": "ComedyCentralLatinAmerica.us@Panregional",
-        "name": "Comedy Central",
-        "path": "sites/directv.com.uy/directv.com.uy.channels.xml"
-      },
-      {
         "site": "siba.com.co",
         "site_id": "702",
         "lang": "es",
@@ -3164,6 +3140,30 @@
         "xmltv_id": "ComedyCentralLatinAmerica.us@Panregional",
         "name": "COMEDY CENTRAL",
         "path": "sites/reportv.com.ar/reportv.com.ar.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "ar#comedy-central",
+        "lang": "es",
+        "xmltv_id": "ComedyCentralLatinAmerica.us@Panregional",
+        "name": "Comedy Central",
+        "path": "sites/mi.tv/mi.tv_ar.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "co#comedy-central-hd",
+        "lang": "es",
+        "xmltv_id": "ComedyCentralLatinAmerica.us@Panregional",
+        "name": "Comedy Central HD",
+        "path": "sites/mi.tv/mi.tv_co.channels.xml"
+      },
+      {
+        "site": "directv.com.uy",
+        "site_id": "215#CMDY",
+        "lang": "es",
+        "xmltv_id": "ComedyCentralLatinAmerica.us@Panregional",
+        "name": "Comedy Central",
+        "path": "sites/directv.com.uy/directv.com.uy.channels.xml"
       }
     ],
     "ComedyCentralPlutoTV.us@BR": [
@@ -3229,19 +3229,19 @@
       },
       {
         "site": "i.mjh.nz",
-        "site_id": "PlutoTV/us#5ca671f215a62078d2ec0abf",
-        "lang": "en",
-        "xmltv_id": "ComedyCentralPlutoTV.us@US",
-        "name": "Comedy Central Pluto TV",
-        "path": "sites/i.mjh.nz/i.mjh.nz_pluto.channels.xml"
-      },
-      {
-        "site": "i.mjh.nz",
         "site_id": "Roku/all#3d3f3113ff49ca22c3ad51ee00fe7e9d",
         "lang": "en",
         "xmltv_id": "ComedyCentralPlutoTV.us@US",
         "name": "Comedy Central Pluto TV",
         "path": "sites/i.mjh.nz/i.mjh.nz_roku.channels.xml"
+      },
+      {
+        "site": "i.mjh.nz",
+        "site_id": "PlutoTV/us#5ca671f215a62078d2ec0abf",
+        "lang": "en",
+        "xmltv_id": "ComedyCentralPlutoTV.us@US",
+        "name": "Comedy Central Pluto TV",
+        "path": "sites/i.mjh.nz/i.mjh.nz_pluto.channels.xml"
       }
     ],
     "ComedyCentralenEspanol.us@SD": [
@@ -3264,92 +3264,20 @@
     ],
     "DW.de@English": [
       {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#deutchewelle",
-        "lang": "hr",
-        "xmltv_id": "DW.de@English",
-        "name": "Deutsche Welle English",
-        "path": "sites/tvprofil.com/tvprofil.com.channels.xml"
-      },
-      {
-        "site": "tvtv.us",
-        "site_id": "43771",
+        "site": "singtel.com",
+        "site_id": "5161",
         "lang": "en",
         "xmltv_id": "DW.de@English",
-        "name": "DW English OTA",
-        "path": "sites/tvtv.us/tvtv.us.channels.xml"
+        "name": "Deutsche Welle (English)",
+        "path": "sites/singtel.com/singtel.com.channels.xml"
       },
       {
-        "site": "tv.blue.ch",
-        "site_id": "142",
-        "lang": "en",
-        "xmltv_id": "DW.de@English",
-        "name": "DW Englisch",
-        "path": "sites/tv.blue.ch/tv.blue.ch.channels.xml"
-      },
-      {
-        "site": "starhubtvplus.com",
-        "site_id": "37494f1f-0748-4150-bfbc-eb24b0bf1a34",
-        "lang": "en",
-        "xmltv_id": "DW.de@English",
-        "name": "DW English HD",
-        "path": "sites/starhubtvplus.com/starhubtvplus.com_en.channels.xml"
-      },
-      {
-        "site": "starhubtvplus.com",
-        "site_id": "37494f1f-0748-4150-bfbc-eb24b0bf1a34",
-        "lang": "zh",
-        "xmltv_id": "DW.de@English",
-        "name": "DW (Deutsch)",
-        "path": "sites/starhubtvplus.com/starhubtvplus.com_zh.channels.xml"
-      },
-      {
-        "site": "content.astro.com.my",
-        "site_id": "287",
-        "lang": "en",
-        "xmltv_id": "DW.de@English",
-        "name": "DW English",
-        "path": "sites/content.astro.com.my/content.astro.com.my.channels.xml"
-      },
-      {
-        "site": "nostv.pt",
-        "site_id": "115",
+        "site": "mytvsuper.com",
+        "site_id": "CDW1",
         "lang": "en",
         "xmltv_id": "DW.de@English",
         "name": "DW",
-        "path": "sites/nostv.pt/nostv.pt.channels.xml"
-      },
-      {
-        "site": "sky.com",
-        "site_id": "IT#5203",
-        "lang": "it",
-        "xmltv_id": "DW.de@English",
-        "name": "Deutsche Welle HD",
-        "path": "sites/sky.com/sky.com.channels.xml"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "426",
-        "lang": "en",
-        "xmltv_id": "DW.de@English",
-        "name": "Deutsche Welle en",
-        "path": "sites/teleboy.ch/teleboy.ch.channels.xml"
-      },
-      {
-        "site": "vidio.com",
-        "site_id": "5075",
-        "lang": "id",
-        "xmltv_id": "DW.de@English",
-        "name": "DW English",
-        "path": "sites/vidio.com/vidio.com.channels.xml"
-      },
-      {
-        "site": "tvhebdo.com",
-        "site_id": "dw/DWTV",
-        "lang": "fr",
-        "xmltv_id": "DW.de@English",
-        "name": "Deutsche Welle",
-        "path": "sites/tvhebdo.com/tvhebdo.com.channels.xml"
+        "path": "sites/mytvsuper.com/mytvsuper.com_en.channels.xml"
       },
       {
         "site": "mujtvprogram.cz",
@@ -3360,36 +3288,12 @@
         "path": "sites/mujtvprogram.cz/mujtvprogram.cz.channels.xml"
       },
       {
-        "site": "melita.com",
-        "site_id": "8a1ea95b-49fb-4fe8-9fc9-06d0f7567f76",
+        "site": "playtv.unifi.com.my",
+        "site_id": "20000087",
         "lang": "en",
         "xmltv_id": "DW.de@English",
-        "name": "Deutsche Welle HD",
-        "path": "sites/melita.com/melita.com.channels.xml"
-      },
-      {
-        "site": "tv-programme.telecablesat.fr",
-        "site_id": "61",
-        "lang": "en",
-        "xmltv_id": "DW.de@English",
-        "name": "DW (English)",
-        "path": "sites/tv-programme.telecablesat.fr/tv-programme.telecablesat.fr.channels.xml"
-      },
-      {
-        "site": "singtel.com",
-        "site_id": "5161",
-        "lang": "en",
-        "xmltv_id": "DW.de@English",
-        "name": "Deutsche Welle (English)",
-        "path": "sites/singtel.com/singtel.com.channels.xml"
-      },
-      {
-        "site": "chaines-tv.orange.fr",
-        "site_id": "61",
-        "lang": "fr",
-        "xmltv_id": "DW.de@English",
-        "name": "DEUTSCHE WELLE",
-        "path": "sites/chaines-tv.orange.fr/chaines-tv.orange.fr.channels.xml"
+        "name": "DW",
+        "path": "sites/playtv.unifi.com.my/playtv.unifi.com.my.channels.xml"
       },
       {
         "site": "tataplay.com",
@@ -3400,12 +3304,164 @@
         "path": "sites/tataplay.com/tataplay.com.channels.xml"
       },
       {
+        "site": "maxstream.tv",
+        "site_id": "0_urjthrku",
+        "lang": "id",
+        "xmltv_id": "DW.de@English",
+        "name": "DW English",
+        "path": "sites/maxstream.tv/maxstream.tv.channels.xml"
+      },
+      {
+        "site": "sky.com",
+        "site_id": "IT#5203",
+        "lang": "it",
+        "xmltv_id": "DW.de@English",
+        "name": "Deutsche Welle HD",
+        "path": "sites/sky.com/sky.com.channels.xml"
+      },
+      {
+        "site": "programetv.ro",
+        "site_id": "deutsche-welle",
+        "lang": "ro",
+        "xmltv_id": "DW.de@English",
+        "name": "Deutsche Welle",
+        "path": "sites/programetv.ro/programetv.ro.channels.xml"
+      },
+      {
+        "site": "vidio.com",
+        "site_id": "5075",
+        "lang": "id",
+        "xmltv_id": "DW.de@English",
+        "name": "DW English",
+        "path": "sites/vidio.com/vidio.com.channels.xml"
+      },
+      {
+        "site": "tv-programme.telecablesat.fr",
+        "site_id": "61",
+        "lang": "en",
+        "xmltv_id": "DW.de@English",
+        "name": "DW (English)",
+        "path": "sites/tv-programme.telecablesat.fr/tv-programme.telecablesat.fr.channels.xml"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "142",
+        "lang": "en",
+        "xmltv_id": "DW.de@English",
+        "name": "DW Englisch",
+        "path": "sites/tv.blue.ch/tv.blue.ch.channels.xml"
+      },
+      {
+        "site": "horizon.tv",
+        "site_id": "10109",
+        "lang": "en",
+        "xmltv_id": "DW.de@English",
+        "name": "Deutsche Welle HD",
+        "path": "sites/horizon.tv/horizon.tv.channels.xml"
+      },
+      {
+        "site": "starhubtvplus.com",
+        "site_id": "37494f1f-0748-4150-bfbc-eb24b0bf1a34",
+        "lang": "zh",
+        "xmltv_id": "DW.de@English",
+        "name": "DW (Deutsch)",
+        "path": "sites/starhubtvplus.com/starhubtvplus.com_zh.channels.xml"
+      },
+      {
+        "site": "starhubtvplus.com",
+        "site_id": "37494f1f-0748-4150-bfbc-eb24b0bf1a34",
+        "lang": "en",
+        "xmltv_id": "DW.de@English",
+        "name": "DW English HD",
+        "path": "sites/starhubtvplus.com/starhubtvplus.com_en.channels.xml"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "61",
+        "lang": "fr",
+        "xmltv_id": "DW.de@English",
+        "name": "DEUTSCHE WELLE",
+        "path": "sites/chaines-tv.orange.fr/chaines-tv.orange.fr.channels.xml"
+      },
+      {
+        "site": "tvtv.us",
+        "site_id": "43771",
+        "lang": "en",
+        "xmltv_id": "DW.de@English",
+        "name": "DW English OTA",
+        "path": "sites/tvtv.us/tvtv.us.channels.xml"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000146",
+        "lang": "id",
+        "xmltv_id": "DW.de@English",
+        "name": "DW",
+        "path": "sites/visionplus.id/visionplus.id_id.channels.xml"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000146",
+        "lang": "en",
+        "xmltv_id": "DW.de@English",
+        "name": "DW",
+        "path": "sites/visionplus.id/visionplus.id_en.channels.xml"
+      },
+      {
         "site": "tvplus.com.tr",
         "site_id": "94",
         "lang": "tr",
         "xmltv_id": "DW.de@English",
         "name": "DEUTSCHE WELLE ENGLISH",
         "path": "sites/tvplus.com.tr/tvplus.com.tr.channels.xml"
+      },
+      {
+        "site": "tvhebdo.com",
+        "site_id": "dw/DWTV",
+        "lang": "fr",
+        "xmltv_id": "DW.de@English",
+        "name": "Deutsche Welle",
+        "path": "sites/tvhebdo.com/tvhebdo.com.channels.xml"
+      },
+      {
+        "site": "teliatv.ee",
+        "site_id": "en#73",
+        "lang": "en",
+        "xmltv_id": "DW.de@English",
+        "name": "Deutsche Welle",
+        "path": "sites/teliatv.ee/teliatv.ee_en.channels.xml"
+      },
+      {
+        "site": "teliatv.ee",
+        "site_id": "ru#73",
+        "lang": "ru",
+        "xmltv_id": "DW.de@English",
+        "name": "Deutsche Welle",
+        "path": "sites/teliatv.ee/teliatv.ee_ru.channels.xml"
+      },
+      {
+        "site": "teliatv.ee",
+        "site_id": "et#73",
+        "lang": "et",
+        "xmltv_id": "DW.de@English",
+        "name": "Deutsche Welle",
+        "path": "sites/teliatv.ee/teliatv.ee_et.channels.xml"
+      },
+      {
+        "site": "nostv.pt",
+        "site_id": "115",
+        "lang": "en",
+        "xmltv_id": "DW.de@English",
+        "name": "DW",
+        "path": "sites/nostv.pt/nostv.pt.channels.xml"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "426",
+        "lang": "en",
+        "xmltv_id": "DW.de@English",
+        "name": "Deutsche Welle en",
+        "path": "sites/teleboy.ch/teleboy.ch.channels.xml"
       },
       {
         "site": "mncvision.id",
@@ -3424,44 +3480,12 @@
         "path": "sites/mncvision.id/mncvision.id_id.channels.xml"
       },
       {
-        "site": "tvpassport.com",
-        "site_id": "dw-english/426",
+        "site": "nowplayer.now.com",
+        "site_id": "324",
         "lang": "en",
         "xmltv_id": "DW.de@English",
-        "name": "DW English",
-        "path": "sites/tvpassport.com/tvpassport.com.channels.xml"
-      },
-      {
-        "site": "visionplus.id",
-        "site_id": "00000000000000000146",
-        "lang": "en",
-        "xmltv_id": "DW.de@English",
-        "name": "DW",
-        "path": "sites/visionplus.id/visionplus.id_en.channels.xml"
-      },
-      {
-        "site": "visionplus.id",
-        "site_id": "00000000000000000146",
-        "lang": "id",
-        "xmltv_id": "DW.de@English",
-        "name": "DW",
-        "path": "sites/visionplus.id/visionplus.id_id.channels.xml"
-      },
-      {
-        "site": "maxstream.tv",
-        "site_id": "0_urjthrku",
-        "lang": "id",
-        "xmltv_id": "DW.de@English",
-        "name": "DW English",
-        "path": "sites/maxstream.tv/maxstream.tv.channels.xml"
-      },
-      {
-        "site": "dens.tv",
-        "site_id": "81",
-        "lang": "id",
-        "xmltv_id": "DW.de@English",
-        "name": "DW-TV",
-        "path": "sites/dens.tv/dens.tv.channels.xml"
+        "name": "DW (English)",
+        "path": "sites/nowplayer.now.com/nowplayer.now.com_en.channels.xml"
       },
       {
         "site": "nowplayer.now.com",
@@ -3472,68 +3496,44 @@
         "path": "sites/nowplayer.now.com/nowplayer.now.com_zh.channels.xml"
       },
       {
-        "site": "nowplayer.now.com",
-        "site_id": "324",
+        "site": "tvpassport.com",
+        "site_id": "dw-english/426",
         "lang": "en",
         "xmltv_id": "DW.de@English",
-        "name": "DW (English)",
-        "path": "sites/nowplayer.now.com/nowplayer.now.com_en.channels.xml"
+        "name": "DW English",
+        "path": "sites/tvpassport.com/tvpassport.com.channels.xml"
       },
       {
-        "site": "programetv.ro",
-        "site_id": "deutsche-welle",
-        "lang": "ro",
+        "site": "dens.tv",
+        "site_id": "81",
+        "lang": "id",
         "xmltv_id": "DW.de@English",
-        "name": "Deutsche Welle",
-        "path": "sites/programetv.ro/programetv.ro.channels.xml"
+        "name": "DW-TV",
+        "path": "sites/dens.tv/dens.tv.channels.xml"
       },
       {
-        "site": "playtv.unifi.com.my",
-        "site_id": "20000087",
-        "lang": "en",
+        "site": "tvprofil.com",
+        "site_id": "al/programacioni#deutchewelle",
+        "lang": "hr",
         "xmltv_id": "DW.de@English",
-        "name": "DW",
-        "path": "sites/playtv.unifi.com.my/playtv.unifi.com.my.channels.xml"
+        "name": "Deutsche Welle English",
+        "path": "sites/tvprofil.com/tvprofil.com.channels.xml"
       },
       {
-        "site": "horizon.tv",
-        "site_id": "10109",
+        "site": "melita.com",
+        "site_id": "8a1ea95b-49fb-4fe8-9fc9-06d0f7567f76",
         "lang": "en",
         "xmltv_id": "DW.de@English",
         "name": "Deutsche Welle HD",
-        "path": "sites/horizon.tv/horizon.tv.channels.xml"
+        "path": "sites/melita.com/melita.com.channels.xml"
       },
       {
-        "site": "mytvsuper.com",
-        "site_id": "CDW1",
+        "site": "content.astro.com.my",
+        "site_id": "287",
         "lang": "en",
         "xmltv_id": "DW.de@English",
-        "name": "DW",
-        "path": "sites/mytvsuper.com/mytvsuper.com_en.channels.xml"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "en#73",
-        "lang": "en",
-        "xmltv_id": "DW.de@English",
-        "name": "Deutsche Welle",
-        "path": "sites/teliatv.ee/teliatv.ee_en.channels.xml"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "et#73",
-        "lang": "et",
-        "xmltv_id": "DW.de@English",
-        "name": "Deutsche Welle",
-        "path": "sites/teliatv.ee/teliatv.ee_et.channels.xml"
-      },
-      {
-        "site": "teliatv.ee",
-        "site_id": "ru#73",
-        "lang": "ru",
-        "xmltv_id": "DW.de@English",
-        "name": "Deutsche Welle",
-        "path": "sites/teliatv.ee/teliatv.ee_ru.channels.xml"
+        "name": "DW English",
+        "path": "sites/content.astro.com.my/content.astro.com.my.channels.xml"
       }
     ],
     "DW.de@Espanol": [
@@ -3546,12 +3546,12 @@
         "path": "sites/anteltv.com.uy/anteltv.com.uy.channels.xml"
       },
       {
-        "site": "teleboy.ch",
-        "site_id": "428",
+        "site": "cableplus.com.uy",
+        "site_id": "16",
         "lang": "es",
         "xmltv_id": "DW.de@Espanol",
-        "name": "Deutsche Welle es",
-        "path": "sites/teleboy.ch/teleboy.ch.channels.xml"
+        "name": "DW ESPAÑOL",
+        "path": "sites/cableplus.com.uy/cableplus.com.uy.channels.xml"
       },
       {
         "site": "orangetv.orange.es",
@@ -3562,22 +3562,6 @@
         "path": "sites/orangetv.orange.es/orangetv.orange.es.channels.xml"
       },
       {
-        "site": "directv.com.uy",
-        "site_id": "770#DW",
-        "lang": "es",
-        "xmltv_id": "DW.de@Espanol",
-        "name": "Deutsche Welle",
-        "path": "sites/directv.com.uy/directv.com.uy.channels.xml"
-      },
-      {
-        "site": "cableplus.com.uy",
-        "site_id": "16",
-        "lang": "es",
-        "xmltv_id": "DW.de@Espanol",
-        "name": "DW ESPAÑOL",
-        "path": "sites/cableplus.com.uy/cableplus.com.uy.channels.xml"
-      },
-      {
         "site": "reportv.com.ar",
         "site_id": "16",
         "lang": "es",
@@ -3586,23 +3570,47 @@
         "path": "sites/reportv.com.ar/reportv.com.ar.channels.xml"
       },
       {
-        "site": "programacion.tcc.com.uy",
-        "site_id": "444",
-        "lang": "es",
-        "xmltv_id": "DW.de@Espanol",
-        "name": "Deutsche Welle Español HD",
-        "path": "sites/programacion.tcc.com.uy/programacion.tcc.com.uy.channels.xml"
-      },
-      {
         "site": "programacion-tv.elpais.com",
         "site_id": "206",
         "lang": "es",
         "xmltv_id": "DW.de@Espanol",
         "name": "Deutsche Welle",
         "path": "sites/programacion-tv.elpais.com/programacion-tv.elpais.com.channels.xml"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "428",
+        "lang": "es",
+        "xmltv_id": "DW.de@Espanol",
+        "name": "Deutsche Welle es",
+        "path": "sites/teleboy.ch/teleboy.ch.channels.xml"
+      },
+      {
+        "site": "directv.com.uy",
+        "site_id": "770#DW",
+        "lang": "es",
+        "xmltv_id": "DW.de@Espanol",
+        "name": "Deutsche Welle",
+        "path": "sites/directv.com.uy/directv.com.uy.channels.xml"
+      },
+      {
+        "site": "programacion.tcc.com.uy",
+        "site_id": "444",
+        "lang": "es",
+        "xmltv_id": "DW.de@Espanol",
+        "name": "Deutsche Welle Español HD",
+        "path": "sites/programacion.tcc.com.uy/programacion.tcc.com.uy.channels.xml"
       }
     ],
     "DePeliculaLatinAmerica.mx@SD": [
+      {
+        "site": "gatotv.com",
+        "site_id": "de_pelicula",
+        "lang": "es",
+        "xmltv_id": "DePeliculaLatinAmerica.mx@SD",
+        "name": "Canal De Película",
+        "path": "sites/gatotv.com/gatotv.com.channels.xml"
+      },
       {
         "site": "mi.tv",
         "site_id": "ar#de-pelicula",
@@ -3618,14 +3626,6 @@
         "xmltv_id": "DePeliculaLatinAmerica.mx@SD",
         "name": "De Película HD",
         "path": "sites/mi.tv/mi.tv_mx.channels.xml"
-      },
-      {
-        "site": "gatotv.com",
-        "site_id": "de_pelicula",
-        "lang": "es",
-        "xmltv_id": "DePeliculaLatinAmerica.mx@SD",
-        "name": "Canal De Película",
-        "path": "sites/gatotv.com/gatotv.com.channels.xml"
       },
       {
         "site": "directv.com.uy",
@@ -3686,12 +3686,12 @@
     ],
     "FIFAPlus.uk@HispanicAmerica": [
       {
-        "site": "plex.tv",
-        "site_id": "66633339ebeb02ee8bd1597c",
+        "site": "watch.whaletvplus.com",
+        "site_id": "999420644834214633",
         "lang": "es",
         "xmltv_id": "FIFAPlus.uk@HispanicAmerica",
-        "name": "FIFA+",
-        "path": "sites/plex.tv/plex.tv_mx.channels.xml"
+        "name": "FIFA+ (ES/LATAM)",
+        "path": "sites/watch.whaletvplus.com/watch.whaletvplus.com.channels.xml"
       },
       {
         "site": "i.mjh.nz",
@@ -3702,23 +3702,15 @@
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
       },
       {
-        "site": "watch.whaletvplus.com",
-        "site_id": "999420644834214633",
+        "site": "plex.tv",
+        "site_id": "66633339ebeb02ee8bd1597c",
         "lang": "es",
         "xmltv_id": "FIFAPlus.uk@HispanicAmerica",
-        "name": "FIFA+ (ES/LATAM)",
-        "path": "sites/watch.whaletvplus.com/watch.whaletvplus.com.channels.xml"
+        "name": "FIFA+",
+        "path": "sites/plex.tv/plex.tv_mx.channels.xml"
       }
     ],
     "FIFAPlus.uk@Portuguese": [
-      {
-        "site": "plex.tv",
-        "site_id": "66634bd2ca7b22f4c3a2d731",
-        "lang": "pt",
-        "xmltv_id": "FIFAPlus.uk@Portuguese",
-        "name": "FIFA+",
-        "path": "sites/plex.tv/plex.tv_br.channels.xml"
-      },
       {
         "site": "watch.whaletvplus.com",
         "site_id": "999420644834214634",
@@ -3726,33 +3718,17 @@
         "xmltv_id": "FIFAPlus.uk@Portuguese",
         "name": "FIFA+ (PT)",
         "path": "sites/watch.whaletvplus.com/watch.whaletvplus.com.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "66634bd2ca7b22f4c3a2d731",
+        "lang": "pt",
+        "xmltv_id": "FIFAPlus.uk@Portuguese",
+        "name": "FIFA+",
+        "path": "sites/plex.tv/plex.tv_br.channels.xml"
       }
     ],
     "FashionBox.nl@SD": [
-      {
-        "site": "tv.post.lu",
-        "site_id": "0fdffad0-7012-11e9-a762-3be38d7f533c",
-        "lang": "en",
-        "xmltv_id": "FashionBox.nl@SD",
-        "name": "FashionBox HD",
-        "path": "sites/tv.post.lu/tv.post.lu.channels.xml"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#fashionbox-hd",
-        "lang": "hr",
-        "xmltv_id": "FashionBox.nl@SD",
-        "name": "FashionBox HD",
-        "path": "sites/tvprofil.com/tvprofil.com.channels.xml"
-      },
-      {
-        "site": "zap.co.ao",
-        "site_id": "2447",
-        "lang": "pt",
-        "xmltv_id": "FashionBox.nl@SD",
-        "name": "Fashion BOX",
-        "path": "sites/zap.co.ao/zap.co.ao.channels.xml"
-      },
       {
         "site": "neo.io",
         "site_id": "fashionbox",
@@ -3760,22 +3736,6 @@
         "xmltv_id": "FashionBox.nl@SD",
         "name": "FashionBox",
         "path": "sites/neo.io/neo.io.channels.xml"
-      },
-      {
-        "site": "tv2go.t-2.net",
-        "site_id": "1000556",
-        "lang": "sl",
-        "xmltv_id": "FashionBox.nl@SD",
-        "name": "Fashionbox",
-        "path": "sites/tv2go.t-2.net/tv2go.t-2.net.channels.xml"
-      },
-      {
-        "site": "magticom.ge",
-        "site_id": "272",
-        "lang": "en",
-        "xmltv_id": "FashionBox.nl@SD",
-        "name": "FashionBox",
-        "path": "sites/magticom.ge/magticom.ge.channels.xml"
       },
       {
         "site": "mujtvprogram.cz",
@@ -3786,12 +3746,12 @@
         "path": "sites/mujtvprogram.cz/mujtvprogram.cz.channels.xml"
       },
       {
-        "site": "m.tv.sms.cz",
-        "site_id": "FashionBox+HD",
-        "lang": "cs",
+        "site": "zap.co.ao",
+        "site_id": "2447",
+        "lang": "pt",
         "xmltv_id": "FashionBox.nl@SD",
-        "name": "FashionBox HD",
-        "path": "sites/m.tv.sms.cz/m.tv.sms.cz.channels.xml"
+        "name": "Fashion BOX",
+        "path": "sites/zap.co.ao/zap.co.ao.channels.xml"
       },
       {
         "site": "programetv.ro",
@@ -3810,6 +3770,30 @@
         "path": "sites/horizon.tv/horizon.tv.channels.xml"
       },
       {
+        "site": "tv.post.lu",
+        "site_id": "0fdffad0-7012-11e9-a762-3be38d7f533c",
+        "lang": "en",
+        "xmltv_id": "FashionBox.nl@SD",
+        "name": "FashionBox HD",
+        "path": "sites/tv.post.lu/tv.post.lu.channels.xml"
+      },
+      {
+        "site": "magticom.ge",
+        "site_id": "272",
+        "lang": "en",
+        "xmltv_id": "FashionBox.nl@SD",
+        "name": "FashionBox",
+        "path": "sites/magticom.ge/magticom.ge.channels.xml"
+      },
+      {
+        "site": "tv2go.t-2.net",
+        "site_id": "1000556",
+        "lang": "sl",
+        "xmltv_id": "FashionBox.nl@SD",
+        "name": "Fashionbox",
+        "path": "sites/tv2go.t-2.net/tv2go.t-2.net.channels.xml"
+      },
+      {
         "site": "programtv.onet.pl",
         "site_id": "fashionbox-hd-171",
         "lang": "pl",
@@ -3818,12 +3802,28 @@
         "path": "sites/programtv.onet.pl/programtv.onet.pl.channels.xml"
       },
       {
+        "site": "m.tv.sms.cz",
+        "site_id": "FashionBox+HD",
+        "lang": "cs",
+        "xmltv_id": "FashionBox.nl@SD",
+        "name": "FashionBox HD",
+        "path": "sites/m.tv.sms.cz/m.tv.sms.cz.channels.xml"
+      },
+      {
         "site": "tv.sfr.fr",
         "site_id": "2445",
         "lang": "fr",
         "xmltv_id": "FashionBox.nl@SD",
         "name": "FashionBox HD",
         "path": "sites/tv.sfr.fr/tv.sfr.fr.channels.xml"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "al/programacioni#fashionbox-hd",
+        "lang": "hr",
+        "xmltv_id": "FashionBox.nl@SD",
+        "name": "FashionBox HD",
+        "path": "sites/tvprofil.com/tvprofil.com.channels.xml"
       }
     ],
     "FashionTV.in@SD": [
@@ -3904,12 +3904,12 @@
     ],
     "History2LatinAmerica.us@Panregional": [
       {
-        "site": "mi.tv",
-        "site_id": "ar#h2",
+        "site": "siba.com.co",
+        "site_id": "894",
         "lang": "es",
         "xmltv_id": "History2LatinAmerica.us@Panregional",
-        "name": "History 2",
-        "path": "sites/mi.tv/mi.tv_ar.channels.xml"
+        "name": "H2",
+        "path": "sites/siba.com.co/siba.com.co.channels.xml"
       },
       {
         "site": "gatotv.com",
@@ -3920,20 +3920,20 @@
         "path": "sites/gatotv.com/gatotv.com.channels.xml"
       },
       {
-        "site": "siba.com.co",
-        "site_id": "894",
-        "lang": "es",
-        "xmltv_id": "History2LatinAmerica.us@Panregional",
-        "name": "H2",
-        "path": "sites/siba.com.co/siba.com.co.channels.xml"
-      },
-      {
         "site": "reportv.com.ar",
         "site_id": "2824",
         "lang": "es",
         "xmltv_id": "History2LatinAmerica.us@Panregional",
         "name": "H2",
         "path": "sites/reportv.com.ar/reportv.com.ar.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "ar#h2",
+        "lang": "es",
+        "xmltv_id": "History2LatinAmerica.us@Panregional",
+        "name": "History 2",
+        "path": "sites/mi.tv/mi.tv_ar.channels.xml"
       }
     ],
     "LEGOKidsTV.us@SD": [
@@ -3956,30 +3956,30 @@
     ],
     "LifetimeLatinAmerica.us@Brazil": [
       {
-        "site": "mi.tv",
-        "site_id": "br#lifetime-brazil",
-        "lang": "pt",
-        "xmltv_id": "LifetimeLatinAmerica.us@Brazil",
-        "name": "Lifetime Brazil",
-        "path": "sites/mi.tv/mi.tv_br.channels.xml"
-      },
-      {
         "site": "meuguia.tv",
         "site_id": "ANX",
         "lang": "pt",
         "xmltv_id": "LifetimeLatinAmerica.us@Brazil",
         "name": "Lifetime",
         "path": "sites/meuguia.tv/meuguia.tv.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "br#lifetime-brazil",
+        "lang": "pt",
+        "xmltv_id": "LifetimeLatinAmerica.us@Brazil",
+        "name": "Lifetime Brazil",
+        "path": "sites/mi.tv/mi.tv_br.channels.xml"
       }
     ],
     "LifetimeLatinAmerica.us@Panregional": [
       {
-        "site": "mi.tv",
-        "site_id": "ar#lifetime",
+        "site": "siba.com.co",
+        "site_id": "893",
         "lang": "es",
         "xmltv_id": "LifetimeLatinAmerica.us@Panregional",
-        "name": "Lifetime",
-        "path": "sites/mi.tv/mi.tv_ar.channels.xml"
+        "name": "LIFETIME",
+        "path": "sites/siba.com.co/siba.com.co.channels.xml"
       },
       {
         "site": "gatotv.com",
@@ -3990,20 +3990,20 @@
         "path": "sites/gatotv.com/gatotv.com.channels.xml"
       },
       {
-        "site": "siba.com.co",
-        "site_id": "893",
-        "lang": "es",
-        "xmltv_id": "LifetimeLatinAmerica.us@Panregional",
-        "name": "LIFETIME",
-        "path": "sites/siba.com.co/siba.com.co.channels.xml"
-      },
-      {
         "site": "reportv.com.ar",
         "site_id": "2790",
         "lang": "es",
         "xmltv_id": "LifetimeLatinAmerica.us@Panregional",
         "name": "LIFETIME",
         "path": "sites/reportv.com.ar/reportv.com.ar.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "ar#lifetime",
+        "lang": "es",
+        "xmltv_id": "LifetimeLatinAmerica.us@Panregional",
+        "name": "Lifetime",
+        "path": "sites/mi.tv/mi.tv_ar.channels.xml"
       }
     ],
     "MBCDrama.ae@SD": [
@@ -4040,20 +4040,12 @@
         "path": "sites/sat.tv/sat.tv_en.channels.xml"
       },
       {
-        "site": "elcinema.com",
-        "site_id": "1194",
-        "lang": "en",
-        "xmltv_id": "MBCDrama.ae@SD",
-        "name": "MBC Drama",
-        "path": "sites/elcinema.com/elcinema.com_en.channels.xml"
-      },
-      {
-        "site": "elcinema.com",
-        "site_id": "1194",
+        "site": "osn.com",
+        "site_id": "9976",
         "lang": "ar",
         "xmltv_id": "MBCDrama.ae@SD",
-        "name": "إم بي سي دراما",
-        "path": "sites/elcinema.com/elcinema.com_ar.channels.xml"
+        "name": "MBC Drama",
+        "path": "sites/osn.com/osn.com_ar.channels.xml"
       },
       {
         "site": "osn.com",
@@ -4064,12 +4056,20 @@
         "path": "sites/osn.com/osn.com_en.channels.xml"
       },
       {
-        "site": "osn.com",
-        "site_id": "9976",
+        "site": "elcinema.com",
+        "site_id": "1194",
         "lang": "ar",
         "xmltv_id": "MBCDrama.ae@SD",
+        "name": "إم بي سي دراما",
+        "path": "sites/elcinema.com/elcinema.com_ar.channels.xml"
+      },
+      {
+        "site": "elcinema.com",
+        "site_id": "1194",
+        "lang": "en",
+        "xmltv_id": "MBCDrama.ae@SD",
         "name": "MBC Drama",
-        "path": "sites/osn.com/osn.com_ar.channels.xml"
+        "path": "sites/elcinema.com/elcinema.com_en.channels.xml"
       }
     ],
     "MTVPlutoTV.us@BR": [
@@ -4136,14 +4136,6 @@
     ],
     "MyTimeMovieNetworkEast.us@SD": [
       {
-        "site": "plex.tv",
-        "site_id": "644875d7af92c31f4a190bc2",
-        "lang": "en",
-        "xmltv_id": "MyTimeMovieNetworkEast.us@SD",
-        "name": "MyTime Movie Network",
-        "path": "sites/plex.tv/plex.tv_us.channels.xml"
-      },
-      {
         "site": "i.mjh.nz",
         "site_id": "Roku/all#be3c81de355c56f89cbf99301735cfd2",
         "lang": "en",
@@ -4158,17 +4150,17 @@
         "xmltv_id": "MyTimeMovieNetworkEast.us@SD",
         "name": "MyTime Movie Network",
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "644875d7af92c31f4a190bc2",
+        "lang": "en",
+        "xmltv_id": "MyTimeMovieNetworkEast.us@SD",
+        "name": "MyTime Movie Network",
+        "path": "sites/plex.tv/plex.tv_us.channels.xml"
       }
     ],
     "NBCComedyVault.us@SD": [
-      {
-        "site": "xumo.tv",
-        "site_id": "150#99951244",
-        "lang": "en",
-        "xmltv_id": "NBCComedyVault.us@SD",
-        "name": "NBC Comedy Vault",
-        "path": "sites/xumo.tv/xumo.tv.channels.xml"
-      },
       {
         "site": "i.mjh.nz",
         "site_id": "Roku/all#4b631847108256fd8c77f6ba3bf3af03",
@@ -4176,6 +4168,14 @@
         "xmltv_id": "NBCComedyVault.us@SD",
         "name": "NBC Comedy Vault",
         "path": "sites/i.mjh.nz/i.mjh.nz_roku.channels.xml"
+      },
+      {
+        "site": "xumo.tv",
+        "site_id": "150#99951244",
+        "lang": "en",
+        "xmltv_id": "NBCComedyVault.us@SD",
+        "name": "NBC Comedy Vault",
+        "path": "sites/xumo.tv/xumo.tv.channels.xml"
       }
     ],
     "Naruto.us@Brazil": [
@@ -4198,20 +4198,20 @@
     ],
     "Nickelodeon.br@SD": [
       {
-        "site": "mi.tv",
-        "site_id": "br#nickelodeon",
-        "lang": "pt",
-        "xmltv_id": "Nickelodeon.br@SD",
-        "name": "Nick",
-        "path": "sites/mi.tv/mi.tv_br.channels.xml"
-      },
-      {
         "site": "meuguia.tv",
         "site_id": "NIC",
         "lang": "pt",
         "xmltv_id": "Nickelodeon.br@SD",
         "name": "Nickelodeon",
         "path": "sites/meuguia.tv/meuguia.tv.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "br#nickelodeon",
+        "lang": "pt",
+        "xmltv_id": "Nickelodeon.br@SD",
+        "name": "Nick",
+        "path": "sites/mi.tv/mi.tv_br.channels.xml"
       },
       {
         "site": "guiadetv.com",
@@ -5814,28 +5814,12 @@
     ],
     "QelloConcertsbyStingray.ca@SD": [
       {
-        "site": "tvtv.us",
-        "site_id": "113296",
-        "lang": "en",
-        "xmltv_id": "QelloConcertsbyStingray.ca@SD",
-        "name": "Qello Concerts by Stingray",
-        "path": "sites/tvtv.us/tvtv.us.channels.xml"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "62d7f68fb19cbf65dc7bef7c",
+        "site": "distro.tv",
+        "site_id": "35967",
         "lang": "en",
         "xmltv_id": "QelloConcertsbyStingray.ca@SD",
         "name": "Qello Concerts",
-        "path": "sites/plex.tv/plex.tv_us.channels.xml"
-      },
-      {
-        "site": "plex.tv",
-        "site_id": "5fe27da28c198b002d179199",
-        "lang": "en",
-        "xmltv_id": "QelloConcertsbyStingray.ca@SD",
-        "name": "Qello Concerts",
-        "path": "sites/plex.tv/plex.tv_us.channels.xml"
+        "path": "sites/distro.tv/distro.tv.channels.xml"
       },
       {
         "site": "i.mjh.nz",
@@ -5878,12 +5862,28 @@
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
       },
       {
-        "site": "distro.tv",
-        "site_id": "35967",
+        "site": "tvtv.us",
+        "site_id": "113296",
+        "lang": "en",
+        "xmltv_id": "QelloConcertsbyStingray.ca@SD",
+        "name": "Qello Concerts by Stingray",
+        "path": "sites/tvtv.us/tvtv.us.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "62d7f68fb19cbf65dc7bef7c",
         "lang": "en",
         "xmltv_id": "QelloConcertsbyStingray.ca@SD",
         "name": "Qello Concerts",
-        "path": "sites/distro.tv/distro.tv.channels.xml"
+        "path": "sites/plex.tv/plex.tv_us.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "5fe27da28c198b002d179199",
+        "lang": "en",
+        "xmltv_id": "QelloConcertsbyStingray.ca@SD",
+        "name": "Qello Concerts",
+        "path": "sites/plex.tv/plex.tv_us.channels.xml"
       }
     ],
     "RaiItalia.it@Australia": [
@@ -5898,14 +5898,6 @@
     ],
     "RaiItalia.it@EuropeAfrica": [
       {
-        "site": "tv.blue.ch",
-        "site_id": "2028",
-        "lang": "it",
-        "xmltv_id": "RaiItalia.it@EuropeAfrica",
-        "name": "RAI Italia",
-        "path": "sites/tv.blue.ch/tv.blue.ch.channels.xml"
-      },
-      {
         "site": "meo.pt",
         "site_id": "ITALIA",
         "lang": "pt",
@@ -5914,12 +5906,12 @@
         "path": "sites/meo.pt/meo.pt.channels.xml"
       },
       {
-        "site": "nostv.pt",
-        "site_id": "55",
-        "lang": "pt",
+        "site": "tv.blue.ch",
+        "site_id": "2028",
+        "lang": "it",
         "xmltv_id": "RaiItalia.it@EuropeAfrica",
-        "name": "Rai Italia",
-        "path": "sites/nostv.pt/nostv.pt.channels.xml"
+        "name": "RAI Italia",
+        "path": "sites/tv.blue.ch/tv.blue.ch.channels.xml"
       },
       {
         "site": "chaines-tv.orange.fr",
@@ -5928,88 +5920,24 @@
         "xmltv_id": "RaiItalia.it@EuropeAfrica",
         "name": "RAI ITALIA",
         "path": "sites/chaines-tv.orange.fr/chaines-tv.orange.fr.channels.xml"
+      },
+      {
+        "site": "nostv.pt",
+        "site_id": "55",
+        "lang": "pt",
+        "xmltv_id": "RaiItalia.it@EuropeAfrica",
+        "name": "Rai Italia",
+        "path": "sites/nostv.pt/nostv.pt.channels.xml"
       }
     ],
     "RaiStoria.it@SD": [
       {
-        "site": "superguidatv.it",
-        "site_id": "rai-storia/226",
-        "lang": "it",
-        "xmltv_id": "RaiStoria.it@SD",
-        "name": "Rai Storia",
-        "path": "sites/superguidatv.it/superguidatv.it.channels.xml"
-      },
-      {
-        "site": "tv.post.lu",
-        "site_id": "723326d0-8098-11e9-b5ca-f345a2ed0fbe",
-        "lang": "it",
-        "xmltv_id": "RaiStoria.it@SD",
-        "name": "Rai Storia HD",
-        "path": "sites/tv.post.lu/tv.post.lu.channels.xml"
-      },
-      {
-        "site": "tvprofil.com",
-        "site_id": "al/programacioni#rai-storia",
-        "lang": "hr",
-        "xmltv_id": "RaiStoria.it@SD",
-        "name": "RAI Storia",
-        "path": "sites/tvprofil.com/tvprofil.com.channels.xml"
-      },
-      {
-        "site": "tv.blue.ch",
-        "site_id": "340",
-        "lang": "it",
-        "xmltv_id": "RaiStoria.it@SD",
-        "name": "Rai Storia",
-        "path": "sites/tv.blue.ch/tv.blue.ch.channels.xml"
-      },
-      {
-        "site": "meo.pt",
-        "site_id": "STORIA",
-        "lang": "pt",
-        "xmltv_id": "RaiStoria.it@SD",
-        "name": "RAI Storia",
-        "path": "sites/meo.pt/meo.pt.channels.xml"
-      },
-      {
-        "site": "teleboy.ch",
-        "site_id": "484",
-        "lang": "it",
-        "xmltv_id": "RaiStoria.it@SD",
-        "name": "Rai Storia",
-        "path": "sites/teleboy.ch/teleboy.ch.channels.xml"
-      },
-      {
-        "site": "guida.tv",
-        "site_id": "82738384/rai-storia",
+        "site": "raiplay.it",
+        "site_id": "rai-storia",
         "lang": "it",
         "xmltv_id": "RaiStoria.it@SD",
         "name": "RAI STORIA",
-        "path": "sites/guida.tv/guida.tv.channels.xml"
-      },
-      {
-        "site": "melita.com",
-        "site_id": "80717cdc-bad4-40e1-92e3-55ff3bd7e633",
-        "lang": "it",
-        "xmltv_id": "RaiStoria.it@SD",
-        "name": "Rai Storia",
-        "path": "sites/melita.com/melita.com.channels.xml"
-      },
-      {
-        "site": "chaines-tv.orange.fr",
-        "site_id": "90463",
-        "lang": "fr",
-        "xmltv_id": "RaiStoria.it@SD",
-        "name": "RAI STORIA",
-        "path": "sites/chaines-tv.orange.fr/chaines-tv.orange.fr.channels.xml"
-      },
-      {
-        "site": "m.tv.sms.cz",
-        "site_id": "Rai+Storia",
-        "lang": "cs",
-        "xmltv_id": "RaiStoria.it@SD",
-        "name": "Rai Storia",
-        "path": "sites/m.tv.sms.cz/m.tv.sms.cz.channels.xml"
+        "path": "sites/raiplay.it/raiplay.it.channels.xml"
       },
       {
         "site": "guidatv.sky.it",
@@ -6020,12 +5948,68 @@
         "path": "sites/guidatv.sky.it/guidatv.sky.it.channels.xml"
       },
       {
-        "site": "raiplay.it",
-        "site_id": "rai-storia",
+        "site": "superguidatv.it",
+        "site_id": "rai-storia/226",
+        "lang": "it",
+        "xmltv_id": "RaiStoria.it@SD",
+        "name": "Rai Storia",
+        "path": "sites/superguidatv.it/superguidatv.it.channels.xml"
+      },
+      {
+        "site": "meo.pt",
+        "site_id": "STORIA",
+        "lang": "pt",
+        "xmltv_id": "RaiStoria.it@SD",
+        "name": "RAI Storia",
+        "path": "sites/meo.pt/meo.pt.channels.xml"
+      },
+      {
+        "site": "tv.blue.ch",
+        "site_id": "340",
+        "lang": "it",
+        "xmltv_id": "RaiStoria.it@SD",
+        "name": "Rai Storia",
+        "path": "sites/tv.blue.ch/tv.blue.ch.channels.xml"
+      },
+      {
+        "site": "chaines-tv.orange.fr",
+        "site_id": "90463",
+        "lang": "fr",
+        "xmltv_id": "RaiStoria.it@SD",
+        "name": "RAI STORIA",
+        "path": "sites/chaines-tv.orange.fr/chaines-tv.orange.fr.channels.xml"
+      },
+      {
+        "site": "tv.post.lu",
+        "site_id": "723326d0-8098-11e9-b5ca-f345a2ed0fbe",
+        "lang": "it",
+        "xmltv_id": "RaiStoria.it@SD",
+        "name": "Rai Storia HD",
+        "path": "sites/tv.post.lu/tv.post.lu.channels.xml"
+      },
+      {
+        "site": "guida.tv",
+        "site_id": "82738384/rai-storia",
         "lang": "it",
         "xmltv_id": "RaiStoria.it@SD",
         "name": "RAI STORIA",
-        "path": "sites/raiplay.it/raiplay.it.channels.xml"
+        "path": "sites/guida.tv/guida.tv.channels.xml"
+      },
+      {
+        "site": "teleboy.ch",
+        "site_id": "484",
+        "lang": "it",
+        "xmltv_id": "RaiStoria.it@SD",
+        "name": "Rai Storia",
+        "path": "sites/teleboy.ch/teleboy.ch.channels.xml"
+      },
+      {
+        "site": "m.tv.sms.cz",
+        "site_id": "Rai+Storia",
+        "lang": "cs",
+        "xmltv_id": "RaiStoria.it@SD",
+        "name": "Rai Storia",
+        "path": "sites/m.tv.sms.cz/m.tv.sms.cz.channels.xml"
       },
       {
         "site": "tv.sfr.fr",
@@ -6034,6 +6018,22 @@
         "xmltv_id": "RaiStoria.it@SD",
         "name": "RAI STORIA",
         "path": "sites/tv.sfr.fr/tv.sfr.fr.channels.xml"
+      },
+      {
+        "site": "tvprofil.com",
+        "site_id": "al/programacioni#rai-storia",
+        "lang": "hr",
+        "xmltv_id": "RaiStoria.it@SD",
+        "name": "RAI Storia",
+        "path": "sites/tvprofil.com/tvprofil.com.channels.xml"
+      },
+      {
+        "site": "melita.com",
+        "site_id": "80717cdc-bad4-40e1-92e3-55ff3bd7e633",
+        "lang": "it",
+        "xmltv_id": "RaiStoria.it@SD",
+        "name": "Rai Storia",
+        "path": "sites/melita.com/melita.com.channels.xml"
       }
     ],
     "RaiWorldPremium.it@SD": [
@@ -6056,20 +6056,20 @@
     ],
     "RealAmericasVoice.us@SD": [
       {
-        "site": "i.mjh.nz",
-        "site_id": "SamsungTVPlus/us#USBB1900002KF",
-        "lang": "en",
-        "xmltv_id": "RealAmericasVoice.us@SD",
-        "name": "Real America's Voice",
-        "path": "sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml"
-      },
-      {
         "site": "distro.tv",
         "site_id": "64501",
         "lang": "en",
         "xmltv_id": "RealAmericasVoice.us@SD",
         "name": "Real America's Voice",
         "path": "sites/distro.tv/distro.tv.channels.xml"
+      },
+      {
+        "site": "i.mjh.nz",
+        "site_id": "SamsungTVPlus/us#USBB1900002KF",
+        "lang": "en",
+        "xmltv_id": "RealAmericasVoice.us@SD",
+        "name": "Real America's Voice",
+        "path": "sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml"
       }
     ],
     "SeriesbyPlutoTV.de@FR": [
@@ -6092,20 +6092,20 @@
     ],
     "SonyChannel.br@SD": [
       {
-        "site": "mi.tv",
-        "site_id": "br#sony",
-        "lang": "pt",
-        "xmltv_id": "SonyChannel.br@SD",
-        "name": "Sony",
-        "path": "sites/mi.tv/mi.tv_br.channels.xml"
-      },
-      {
         "site": "meuguia.tv",
         "site_id": "SET",
         "lang": "pt",
         "xmltv_id": "SonyChannel.br@SD",
         "name": "Sony",
         "path": "sites/meuguia.tv/meuguia.tv.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "br#sony",
+        "lang": "pt",
+        "xmltv_id": "SonyChannel.br@SD",
+        "name": "Sony",
+        "path": "sites/mi.tv/mi.tv_br.channels.xml"
       }
     ],
     "SonyMoviesLatinAmerica.us@SD": [
@@ -6120,31 +6120,23 @@
     ],
     "SonyOneBlacklist.fr@HD": [
       {
-        "site": "plex.tv",
-        "site_id": "69222c105cbe620c1f9b6bbf",
-        "lang": "fr",
-        "xmltv_id": "SonyOneBlacklist.fr@HD",
-        "name": "Blacklist",
-        "path": "sites/plex.tv/plex.tv_fr.channels.xml"
-      },
-      {
         "site": "i.mjh.nz",
         "site_id": "Plex/fr#6430aa45fc3be5947780904e-69222c105cbe620c1f9b6bbf",
         "lang": "fr",
         "xmltv_id": "SonyOneBlacklist.fr@HD",
         "name": "Blacklist",
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "69222c105cbe620c1f9b6bbf",
+        "lang": "fr",
+        "xmltv_id": "SonyOneBlacklist.fr@HD",
+        "name": "Blacklist",
+        "path": "sites/plex.tv/plex.tv_fr.channels.xml"
       }
     ],
     "SonyOneFavoris.fr@HD": [
-      {
-        "site": "plex.tv",
-        "site_id": "692229df50fe592fd6d5b7e2",
-        "lang": "fr",
-        "xmltv_id": "SonyOneFavoris.fr@HD",
-        "name": "Sony One | Favoris",
-        "path": "sites/plex.tv/plex.tv_fr.channels.xml"
-      },
       {
         "site": "i.mjh.nz",
         "site_id": "Plex/fr#6430aa45fc3be5947780904e-692229df50fe592fd6d5b7e2",
@@ -6152,17 +6144,17 @@
         "xmltv_id": "SonyOneFavoris.fr@HD",
         "name": "Sony One | Favoris",
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "692229df50fe592fd6d5b7e2",
+        "lang": "fr",
+        "xmltv_id": "SonyOneFavoris.fr@HD",
+        "name": "Sony One | Favoris",
+        "path": "sites/plex.tv/plex.tv_fr.channels.xml"
       }
     ],
     "SonyOneHitsAction.fr@HD": [
-      {
-        "site": "plex.tv",
-        "site_id": "692227f850fe592fd6d5b7e0",
-        "lang": "fr",
-        "xmltv_id": "SonyOneHitsAction.fr@HD",
-        "name": "Sony One | Hits Action",
-        "path": "sites/plex.tv/plex.tv_fr.channels.xml"
-      },
       {
         "site": "i.mjh.nz",
         "site_id": "Plex/fr#6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0",
@@ -6170,17 +6162,17 @@
         "xmltv_id": "SonyOneHitsAction.fr@HD",
         "name": "Sony One | Hits Action",
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "692227f850fe592fd6d5b7e0",
+        "lang": "fr",
+        "xmltv_id": "SonyOneHitsAction.fr@HD",
+        "name": "Sony One | Hits Action",
+        "path": "sites/plex.tv/plex.tv_fr.channels.xml"
       }
     ],
     "SonyOneHitsComedie.fr@HD": [
-      {
-        "site": "plex.tv",
-        "site_id": "692228985cbe620c1f9b6bb9",
-        "lang": "fr",
-        "xmltv_id": "SonyOneHitsComedie.fr@HD",
-        "name": "Sony One | Hits Comédie",
-        "path": "sites/plex.tv/plex.tv_fr.channels.xml"
-      },
       {
         "site": "i.mjh.nz",
         "site_id": "Plex/fr#6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9",
@@ -6188,6 +6180,14 @@
         "xmltv_id": "SonyOneHitsComedie.fr@HD",
         "name": "Sony One | Hits Comédie",
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "692228985cbe620c1f9b6bb9",
+        "lang": "fr",
+        "xmltv_id": "SonyOneHitsComedie.fr@HD",
+        "name": "Sony One | Hits Comédie",
+        "path": "sites/plex.tv/plex.tv_fr.channels.xml"
       }
     ],
     "StarCinema.ru@SD": [
@@ -6202,20 +6202,28 @@
     ],
     "StudioUniversalLatinAmerica.us@Brazil": [
       {
-        "site": "mi.tv",
-        "site_id": "br#studio-universal",
-        "lang": "pt",
+        "site": "maxstream.tv",
+        "site_id": "0_jhb1o6kj",
+        "lang": "id",
         "xmltv_id": "StudioUniversalLatinAmerica.us@Brazil",
         "name": "Studio Universal",
-        "path": "sites/mi.tv/mi.tv_br.channels.xml"
+        "path": "sites/maxstream.tv/maxstream.tv.channels.xml"
       },
       {
-        "site": "meuguia.tv",
-        "site_id": "HAL",
-        "lang": "pt",
+        "site": "visionplus.id",
+        "site_id": "00000000000000000054",
+        "lang": "id",
         "xmltv_id": "StudioUniversalLatinAmerica.us@Brazil",
         "name": "Studio Universal",
-        "path": "sites/meuguia.tv/meuguia.tv.channels.xml"
+        "path": "sites/visionplus.id/visionplus.id_id.channels.xml"
+      },
+      {
+        "site": "visionplus.id",
+        "site_id": "00000000000000000054",
+        "lang": "en",
+        "xmltv_id": "StudioUniversalLatinAmerica.us@Brazil",
+        "name": "Studio Universal",
+        "path": "sites/visionplus.id/visionplus.id_en.channels.xml"
       },
       {
         "site": "mncvision.id",
@@ -6234,28 +6242,20 @@
         "path": "sites/mncvision.id/mncvision.id_id.channels.xml"
       },
       {
-        "site": "visionplus.id",
-        "site_id": "00000000000000000054",
-        "lang": "en",
+        "site": "meuguia.tv",
+        "site_id": "HAL",
+        "lang": "pt",
         "xmltv_id": "StudioUniversalLatinAmerica.us@Brazil",
         "name": "Studio Universal",
-        "path": "sites/visionplus.id/visionplus.id_en.channels.xml"
+        "path": "sites/meuguia.tv/meuguia.tv.channels.xml"
       },
       {
-        "site": "visionplus.id",
-        "site_id": "00000000000000000054",
-        "lang": "id",
+        "site": "mi.tv",
+        "site_id": "br#studio-universal",
+        "lang": "pt",
         "xmltv_id": "StudioUniversalLatinAmerica.us@Brazil",
         "name": "Studio Universal",
-        "path": "sites/visionplus.id/visionplus.id_id.channels.xml"
-      },
-      {
-        "site": "maxstream.tv",
-        "site_id": "0_jhb1o6kj",
-        "lang": "id",
-        "xmltv_id": "StudioUniversalLatinAmerica.us@Brazil",
-        "name": "Studio Universal",
-        "path": "sites/maxstream.tv/maxstream.tv.channels.xml"
+        "path": "sites/mi.tv/mi.tv_br.channels.xml"
       },
       {
         "site": "tivie.id",
@@ -6268,39 +6268,23 @@
     ],
     "Telefe.ar@SD": [
       {
-        "site": "mi.tv",
-        "site_id": "ar#telefe",
-        "lang": "es",
-        "xmltv_id": "Telefe.ar@SD",
-        "name": "Telefe",
-        "path": "sites/mi.tv/mi.tv_ar.channels.xml"
-      },
-      {
         "site": "gatotv.com",
         "site_id": "telefe_argentina",
         "lang": "es",
         "xmltv_id": "Telefe.ar@SD",
         "name": "Canal Telefé (Argentina)",
         "path": "sites/gatotv.com/gatotv.com.channels.xml"
-      }
-    ],
-    "TelefeInternacional.ar@SD": [
-      {
-        "site": "nuevosiglo.com.uy",
-        "site_id": "TELEFE INTER",
-        "lang": "es",
-        "xmltv_id": "TelefeInternacional.ar@SD",
-        "name": "TELEFE INTER",
-        "path": "sites/nuevosiglo.com.uy/nuevosiglo.com.uy.channels.xml"
       },
       {
         "site": "mi.tv",
-        "site_id": "br#telefe-internacional",
+        "site_id": "ar#telefe",
         "lang": "es",
-        "xmltv_id": "TelefeInternacional.ar@SD",
-        "name": "Telefe Internacional",
-        "path": "sites/mi.tv/mi.tv_br.channels.xml"
-      },
+        "xmltv_id": "Telefe.ar@SD",
+        "name": "Telefe",
+        "path": "sites/mi.tv/mi.tv_ar.channels.xml"
+      }
+    ],
+    "TelefeInternacional.ar@SD": [
       {
         "site": "gatotv.com",
         "site_id": "telefe_internacional",
@@ -6310,12 +6294,28 @@
         "path": "sites/gatotv.com/gatotv.com.channels.xml"
       },
       {
+        "site": "nuevosiglo.com.uy",
+        "site_id": "TELEFE INTER",
+        "lang": "es",
+        "xmltv_id": "TelefeInternacional.ar@SD",
+        "name": "TELEFE INTER",
+        "path": "sites/nuevosiglo.com.uy/nuevosiglo.com.uy.channels.xml"
+      },
+      {
         "site": "reportv.com.ar",
         "site_id": "149",
         "lang": "es",
         "xmltv_id": "TelefeInternacional.ar@SD",
         "name": "TELEFE INTERNACIONAL",
         "path": "sites/reportv.com.ar/reportv.com.ar.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "br#telefe-internacional",
+        "lang": "es",
+        "xmltv_id": "TelefeInternacional.ar@SD",
+        "name": "Telefe Internacional",
+        "path": "sites/mi.tv/mi.tv_br.channels.xml"
       },
       {
         "site": "programacion.tcc.com.uy",
@@ -6328,20 +6328,20 @@
     ],
     "Telefuturo.py@SD": [
       {
-        "site": "mi.tv",
-        "site_id": "pe#telefuturo",
-        "lang": "es",
-        "xmltv_id": "Telefuturo.py@SD",
-        "name": "Telefuturo",
-        "path": "sites/mi.tv/mi.tv_pe.channels.xml"
-      },
-      {
         "site": "gatotv.com",
         "site_id": "telefuturo",
         "lang": "es",
         "xmltv_id": "Telefuturo.py@SD",
         "name": "Canal Telefuturo",
         "path": "sites/gatotv.com/gatotv.com.channels.xml"
+      },
+      {
+        "site": "mi.tv",
+        "site_id": "pe#telefuturo",
+        "lang": "es",
+        "xmltv_id": "Telefuturo.py@SD",
+        "name": "Telefuturo",
+        "path": "sites/mi.tv/mi.tv_pe.channels.xml"
       }
     ],
     "ThePetCollective.us@Brazil": [
@@ -6363,14 +6363,6 @@
       }
     ],
     "ThePetCollective.us@UK": [
-      {
-        "site": "plex.tv",
-        "site_id": "5f170d61b898490041b49369",
-        "lang": "en",
-        "xmltv_id": "ThePetCollective.us@UK",
-        "name": "The Pet Collective",
-        "path": "sites/plex.tv/plex.tv_all.channels.xml"
-      },
       {
         "site": "i.mjh.nz",
         "site_id": "Plex/au#697140a85d851f5e69414688-5f170d61b898490041b49369",
@@ -6434,6 +6426,14 @@
         "xmltv_id": "ThePetCollective.us@UK",
         "name": "The Pet Collective",
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "5f170d61b898490041b49369",
+        "lang": "en",
+        "xmltv_id": "ThePetCollective.us@UK",
+        "name": "The Pet Collective",
+        "path": "sites/plex.tv/plex.tv_all.channels.xml"
       }
     ],
     "ThePetCollective.us@US": [
@@ -6446,20 +6446,12 @@
         "path": "sites/pluto.tv/pluto.tv_us.channels.xml"
       },
       {
-        "site": "xumo.tv",
-        "site_id": "150#99991174",
-        "lang": "en",
-        "xmltv_id": "ThePetCollective.us@US",
-        "name": "The Pet Collective",
-        "path": "sites/xumo.tv/xumo.tv.channels.xml"
-      },
-      {
         "site": "i.mjh.nz",
-        "site_id": "PlutoTV/us#5bb1ad55268cae539bcedb08",
+        "site_id": "SamsungTVPlus/us#USAJ3504704A",
         "lang": "en",
         "xmltv_id": "ThePetCollective.us@US",
         "name": "The Pet Collective",
-        "path": "sites/i.mjh.nz/i.mjh.nz_pluto.channels.xml"
+        "path": "sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml"
       },
       {
         "site": "i.mjh.nz",
@@ -6471,11 +6463,19 @@
       },
       {
         "site": "i.mjh.nz",
-        "site_id": "SamsungTVPlus/us#USAJ3504704A",
+        "site_id": "PlutoTV/us#5bb1ad55268cae539bcedb08",
         "lang": "en",
         "xmltv_id": "ThePetCollective.us@US",
         "name": "The Pet Collective",
-        "path": "sites/i.mjh.nz/i.mjh.nz_samsung.channels.xml"
+        "path": "sites/i.mjh.nz/i.mjh.nz_pluto.channels.xml"
+      },
+      {
+        "site": "xumo.tv",
+        "site_id": "150#99991174",
+        "lang": "en",
+        "xmltv_id": "ThePetCollective.us@US",
+        "name": "The Pet Collective",
+        "path": "sites/xumo.tv/xumo.tv.channels.xml"
       }
     ],
     "TigoSports.py@SD": [
@@ -6498,14 +6498,6 @@
     ],
     "TopGear.uk@SD": [
       {
-        "site": "plex.tv",
-        "site_id": "6308f121ac9983739c8a29bd",
-        "lang": "en",
-        "xmltv_id": "TopGear.uk@SD",
-        "name": "Top Gear",
-        "path": "sites/plex.tv/plex.tv_us.channels.xml"
-      },
-      {
         "site": "pluto.tv",
         "site_id": "636adc255bcf470007d6e0e2",
         "lang": "en",
@@ -6514,12 +6506,12 @@
         "path": "sites/pluto.tv/pluto.tv_us.channels.xml"
       },
       {
-        "site": "xumo.tv",
-        "site_id": "100#99951249",
+        "site": "i.mjh.nz",
+        "site_id": "Roku/all#7c88809ccb2457258072b0b93bf238b1",
         "lang": "en",
         "xmltv_id": "TopGear.uk@SD",
         "name": "Top Gear",
-        "path": "sites/xumo.tv/xumo.tv.channels.xml"
+        "path": "sites/i.mjh.nz/i.mjh.nz_roku.channels.xml"
       },
       {
         "site": "i.mjh.nz",
@@ -6528,14 +6520,6 @@
         "xmltv_id": "TopGear.uk@SD",
         "name": "Top Gear",
         "path": "sites/i.mjh.nz/i.mjh.nz_pluto.channels.xml"
-      },
-      {
-        "site": "i.mjh.nz",
-        "site_id": "Roku/all#7c88809ccb2457258072b0b93bf238b1",
-        "lang": "en",
-        "xmltv_id": "TopGear.uk@SD",
-        "name": "Top Gear",
-        "path": "sites/i.mjh.nz/i.mjh.nz_roku.channels.xml"
       },
       {
         "site": "i.mjh.nz",
@@ -6552,6 +6536,22 @@
         "xmltv_id": "TopGear.uk@SD",
         "name": "Top Gear",
         "path": "sites/i.mjh.nz/i.mjh.nz_plex.channels.xml"
+      },
+      {
+        "site": "xumo.tv",
+        "site_id": "100#99951249",
+        "lang": "en",
+        "xmltv_id": "TopGear.uk@SD",
+        "name": "Top Gear",
+        "path": "sites/xumo.tv/xumo.tv.channels.xml"
+      },
+      {
+        "site": "plex.tv",
+        "site_id": "6308f121ac9983739c8a29bd",
+        "lang": "en",
+        "xmltv_id": "TopGear.uk@SD",
+        "name": "Top Gear",
+        "path": "sites/plex.tv/plex.tv_us.channels.xml"
       }
     ],
     "Trece.es@SD": [
