@@ -19,7 +19,7 @@
   <channel site="xumo.tv" site_id="150#99951231" lang="en" xmltv_id="BBCEarth.uk@US">BBC Earth</channel>
   <channel site="gatotv.com" site_id="bbc_world_news" lang="es" xmltv_id="BBCNews.uk@LatinAmerica">Canal BBC World News</channel>
   <channel site="mi.tv" site_id="br#bbc-news" lang="pt" xmltv_id="BBCNews.uk@NorthAmerica">BBC News</channel>
-  <channel site="teleboy.ch" site_id="400" lang="en" xmltv_id="BBCNews.uk@UK">BBC News</channel>
+  <channel site="movistarplus.es" site_id="BBC" lang="es" xmltv_id="BBCNews.uk@UK">BBC News</channel>
   <channel site="pluto.tv" site_id="5ff768b6a4c8b80008498610" lang="pt" xmltv_id="BETPlutoTV.us@BR">BET Pluto TV</channel>
   <channel site="pluto.tv" site_id="5ca670f6593a5d78f0e85aed" lang="en" xmltv_id="BETPlutoTV.us@US">BET Pluto TV</channel>
   <channel site="pluto.tv" site_id="5d4947590ba40f75dc29c26b" lang="de" xmltv_id="CCPlutoTV.de@DACH">CC Pluto TV</channel>
@@ -170,7 +170,7 @@
   <channel site="xumo.tv" site_id="150#99991174" lang="en" xmltv_id="ThePetCollective.us@US">The Pet Collective</channel>
   <channel site="mi.tv" site_id="py#tigo-sports" lang="es" xmltv_id="TigoSports.py@SD">Tigo Sports</channel>
   <channel site="xumo.tv" site_id="100#99951249" lang="en" xmltv_id="TopGear.uk@SD">Top Gear</channel>
-  <channel site="orangetv.orange.es" site_id="1017" lang="es" xmltv_id="Trece.es@SD">TR3CE</channel>
+  <channel site="movistarplus.es" site_id="13TV" lang="es" xmltv_id="Trece.es@SD">TRECE</channel>
   <channel site="gatotv.com" site_id="13_de_paraguay" lang="es" xmltv_id="Trece.py@SD">Canal 13 de Paraguay (Trece)</channel>
   <channel site="pluto.tv" site_id="5f914f4b36d67d0007a91a04" lang="fr" xmltv_id="TrueCrimebyPlutoTV.de@FR">True Crime by Pluto TV</channel>
 </channels>

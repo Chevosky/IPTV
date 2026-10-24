@@ -12,13 +12,12 @@
     "i.mjh.nz": 3,
     "elcinema.com": 2,
     "programacion.tcc.com.uy": 2,
+    "movistarplus.es": 2,
     "teliatv.ee": 1,
     "tv.mail.ru": 1,
     "horizon.tv": 1,
     "foxtel.com.au": 1,
     "tataplay.com": 1,
-    "orangetv.orange.es": 1,
-    "teleboy.ch": 1,
     "tvtv.us": 1,
     "epg.iptvx.one": 1,
     "directv.com": 1
@@ -217,12 +216,12 @@
     {
       "tvg_id": "BBCNews.uk@UK",
       "playlist_name": "BBC News",
-      "site": "teleboy.ch",
-      "site_id": "400",
-      "lang": "en",
+      "site": "movistarplus.es",
+      "site_id": "BBC",
+      "lang": "es",
       "xmltv_id": "BBCNews.uk@UK",
       "name": "BBC News",
-      "path": "sites/teleboy.ch/teleboy.ch.channels.xml"
+      "path": "sites/movistarplus.es/movistarplus.es.channels.xml"
     },
     {
       "tvg_id": "BETPlutoTV.us@BR",
@@ -1727,12 +1726,12 @@
     {
       "tvg_id": "Trece.es@SD",
       "playlist_name": "Trece (Spain)",
-      "site": "orangetv.orange.es",
-      "site_id": "1017",
+      "site": "movistarplus.es",
+      "site_id": "13TV",
       "lang": "es",
       "xmltv_id": "Trece.es@SD",
-      "name": "TR3CE",
-      "path": "sites/orangetv.orange.es/orangetv.orange.es.channels.xml"
+      "name": "TRECE",
+      "path": "sites/movistarplus.es/movistarplus.es.channels.xml"
     },
     {
       "tvg_id": "Trece.py@SD",
@@ -2508,6 +2507,14 @@
         "xmltv_id": "BBCNews.uk@UK",
         "name": "BBC News",
         "path": "sites/tv.blue.ch/tv.blue.ch.channels.xml"
+      },
+      {
+        "site": "movistarplus.es",
+        "site_id": "BBC",
+        "lang": "es",
+        "xmltv_id": "BBCNews.uk@UK",
+        "name": "BBC News",
+        "path": "sites/movistarplus.es/movistarplus.es.channels.xml"
       },
       {
         "site": "teleboy.ch",
@@ -6562,6 +6569,14 @@
         "xmltv_id": "Trece.es@SD",
         "name": "TR3CE",
         "path": "sites/orangetv.orange.es/orangetv.orange.es.channels.xml"
+      },
+      {
+        "site": "movistarplus.es",
+        "site_id": "13TV",
+        "lang": "es",
+        "xmltv_id": "Trece.es@SD",
+        "name": "TRECE",
+        "path": "sites/movistarplus.es/movistarplus.es.channels.xml"
       }
     ],
     "Trece.py@SD": [
