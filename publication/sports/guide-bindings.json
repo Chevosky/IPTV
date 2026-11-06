@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "scope": "The 15 original Sports additions consumed by Zapper; no expansion to legacy unresolved inventory",
+  "channels": [
+    {
+      "id": "source1:content:content_c702e1fa113974b1",
+      "contentID": "content_c702e1fa113974b1",
+      "sourceID": "src_75641332c9ce38a3",
+      "sourceIDs": [
+        "src_75641332c9ce38a3"
+      ],
+      "presentationSlot": 67,
+      "zapperNumber": 238,
+      "name": "NBC NEWS NOW",
+      "schedule": {
+        "provider": "plex",
+        "key": "5fc70600dd53a6002d8f93ca",
+        "providerChannelID": "NBCNewsNOW.us@SD",
+        "language": "en",
+        "region": "US",
+        "identityEvidence": "https://nbcnews.zendesk.com/hc/en-us/articles/45174657963155-Where-can-I-watch-NBC-News-NOW"
+      },
+      "unavailableReason": null
+    },
+    {
+      "id": "source1:content:content_15e5157441512391",
+      "contentID": "content_15e5157441512391",
+      "sourceID": "src_f7583d1f978f241f",
+      "sourceIDs": [
+        "src_f7583d1f978f241f",
+        "src_29e93849be287bda",
+        "src_3e66717284b7a98c",
+        "src_b0723203cfa6db38"
+      ],
+      "presentationSlot": 322,
+      "zapperNumber": 239,
+      "name": "ESPN 1",
+      "schedule": null,
+      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+    },
+    {
+      "id": "source1:content:content_c6875ec247cd1591",
+      "contentID": "content_c6875ec247cd1591",
+      "sourceID": "src_3e01cb4e95c2c97d",
+      "sourceIDs": [
+        "src_3e01cb4e95c2c97d",
+        "src_0749fbf2f452a538",
+        "src_205a4a44a1fdf25e",
+        "src_4946911cea9b899b",
+        "src_57fa1a1b3b70152d",
+        "src_77502c384d93caa6"
+      ],
+      "presentationSlot": 323,
+      "zapperNumber": 240,
+      "name": "ESPN 2",
+      "schedule": null,
+      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+    },
+    {
+      "id": "source1:content:content_6dd9174d05134940",
+      "contentID": "content_6dd9174d05134940",
+      "sourceID": "src_73cd713499a9ce02",
+      "sourceIDs": [
+        "src_73cd713499a9ce02",
+        "src_c8c370f11ab96728",
+        "src_d10fb6f8590cb42c"
+      ],
+      "presentationSlot": 324,
+      "zapperNumber": 241,
+      "name": "ESPN 3",
+      "schedule": null,
+      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+    },
+    {
+      "id": "source1:content:content_54c05c092bc0b68b",
+      "contentID": "content_54c05c092bc0b68b",
+      "sourceID": "src_0a891c670a0a38ae",
+      "sourceIDs": [
+        "src_0a891c670a0a38ae",
+        "src_31d8119c733b5484"
+      ],
+      "presentationSlot": 325,
+      "zapperNumber": 242,
+      "name": "ESPN 4",
+      "schedule": null,
+      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+    },
+    {
+      "id": "source1:content:content_35fcfa9bc4ac8472",
+      "contentID": "content_35fcfa9bc4ac8472",
+      "sourceID": "src_1475c9ad9dd2180b",
+      "sourceIDs": [
+        "src_1475c9ad9dd2180b",
+        "src_d6bbae5d821a6e6c",
+        "src_fbd782d32c6d321e"
+      ],
+      "presentationSlot": 326,
+      "zapperNumber": 243,
+      "name": "ESPN 5",
+      "schedule": null,
+      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+    },
+    {
+      "id": "source1:content:content_943c284707b56edb",
+      "contentID": "content_943c284707b56edb",
+      "sourceID": "src_79064a91d1c6e4c5",
+      "sourceIDs": [
+        "src_79064a91d1c6e4c5",
+        "src_51ae71825db6e3d5",
+        "src_5581cf7c14506f42"
+      ],
+      "presentationSlot": 327,
+      "zapperNumber": 244,
+      "name": "ESPN 6",
+      "schedule": null,
+      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+    },
+    {
+      "id": "source1:content:content_b704ab3b6d109c4e",
+      "contentID": "content_b704ab3b6d109c4e",
+      "sourceID": "src_da8dbb1fe8377671",
+      "sourceIDs": [
+        "src_da8dbb1fe8377671",
+        "src_b9bd392a5cfd4565",
+        "src_bfa9c23d90137c64"
+      ],
+      "presentationSlot": 328,
+      "zapperNumber": 245,
+      "name": "ESPN 7",
+      "schedule": null,
+      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+    },
+    {
+      "id": "source1:content:content_94b65cf8def70b44",
+      "contentID": "content_94b65cf8def70b44",
+      "sourceID": "src_8648d0947c4b2117",
+      "sourceIDs": [
+        "src_8648d0947c4b2117",
+        "src_44ea872e90bf3013",
+        "src_596a6ed456d58e3b",
+        "src_d28be24635ce8a6e"
+      ],
+      "presentationSlot": 355,
+      "zapperNumber": 246,
+      "name": "Win Sports",
+      "schedule": null,
+      "unavailableReason": "Exact source-to-schedule binding not verified; original playback probe failed"
+    },
+    {
+      "id": "source1:content:content_1b46b7ff8308ad8b",
+      "contentID": "content_1b46b7ff8308ad8b",
+      "sourceID": "src_7e1ea67bf8f51301",
+      "sourceIDs": [
+        "src_7e1ea67bf8f51301",
+        "src_232be4da998a01ec",
+        "src_d28d7c910fdd5bf8"
+      ],
+      "presentationSlot": 356,
+      "zapperNumber": 247,
+      "name": "Win Sports+",
+      "schedule": null,
+      "unavailableReason": "Exact source-to-schedule binding not verified; original playback probe failed"
+    },
+    {
+      "id": "source1:content:content_acd7fbf7106dca11",
+      "contentID": "content_acd7fbf7106dca11",
+      "sourceID": "src_3fd8f2a87bebca3c",
+      "sourceIDs": [
+        "src_3fd8f2a87bebca3c"
+      ],
+      "presentationSlot": 357,
+      "zapperNumber": 248,
+      "name": "beIN SPORTS XTRA",
+      "schedule": {
+        "provider": "plex",
+        "key": "60a53634126de9002e694bc4",
+        "providerChannelID": "beINSPORTSXTRA.us@SD",
+        "language": "en",
+        "region": "US",
+        "identityEvidence": "https://www.beinsportsxtra.com/beinsportsxtra/tv-guide"
+      },
+      "unavailableReason": null
+    },
+    {
+      "id": "source1:content:content_a3ed6c4947f23a9e",
+      "contentID": "content_a3ed6c4947f23a9e",
+      "sourceID": "src_40227f339b60b59a",
+      "sourceIDs": [
+        "src_40227f339b60b59a"
+      ],
+      "presentationSlot": 358,
+      "zapperNumber": 249,
+      "name": "RM TV",
+      "schedule": {
+        "provider": "realmadrid",
+        "key": "en-us",
+        "providerChannelID": "RMTV-English",
+        "language": "en",
+        "region": "international",
+        "identityEvidence": "https://www.realmadrid.com/en-US/real-madrid-tv"
+      },
+      "unavailableReason": null
+    },
+    {
+      "id": "source1:content:content_21d43c2a855c7820",
+      "contentID": "content_21d43c2a855c7820",
+      "sourceID": "src_fb98b6bfbf1ce918",
+      "sourceIDs": [
+        "src_fb98b6bfbf1ce918"
+      ],
+      "presentationSlot": 359,
+      "zapperNumber": 250,
+      "name": "RM TV + 🇪🇸",
+      "schedule": {
+        "provider": "realmadrid",
+        "key": "es-es",
+        "providerChannelID": "RMTV-Spanish",
+        "language": "es",
+        "region": "Spain",
+        "identityEvidence": "https://www.realmadrid.com/es-ES/real-madrid-tv"
+      },
+      "unavailableReason": null
+    },
+    {
+      "id": "source1:content:content_50811e764efa22c0",
+      "contentID": "content_50811e764efa22c0",
+      "sourceID": "src_114fe12ab1dd9a16",
+      "sourceIDs": [
+        "src_114fe12ab1dd9a16",
+        "src_6fe6830d8241c35f"
+      ],
+      "presentationSlot": 460,
+      "zapperNumber": 251,
+      "name": "FIFA+",
+      "schedule": {
+        "provider": "plex",
+        "key": "66628d4a8dfc36b8c8a399c4",
+        "providerChannelID": "FIFAPlus.uk@UnitedStates",
+        "language": "en",
+        "region": "US",
+        "identityEvidence": "https://www.fifa.com/en/tournaments/womens/womensworldcup/articles/fifa-plus-to-celebrate-iconic-women-in-march"
+      },
+      "unavailableReason": null
+    },
+    {
+      "id": "source1:content:content_56be9bb772a507d4",
+      "contentID": "content_56be9bb772a507d4",
+      "sourceID": "src_e6ebdbe95667ace9",
+      "sourceIDs": [
+        "src_e6ebdbe95667ace9"
+      ],
+      "presentationSlot": 503,
+      "zapperNumber": 252,
+      "name": "SKY CRICKET",
+      "schedule": null,
+      "unavailableReason": "Exact schedule binding not established"
+    }
+  ],
+  "identityProof": {
+    "realmadrid": {
+      "officialPlayerScript": "https://www.realmadrid.com/main-M5Q5SVVE.js",
+      "officialPlayerScriptSHA256": "c22b802cb68c67cf25c4aa1238804e101e8ce9aa567ed15370a58590164fdbfa",
+      "englishResource": "2043154/rmtv-en-web",
+      "spanishResource": "2043153/rmtv-es-web",
+      "nightRollover": "Follow official getDateTime: night starts before 19:00 belong to next date; API instants are UTC"
+    },
+    "plex": {
+      "channelMap": "https://raw.githubusercontent.com/iptv-org/epg/master/sites/plex.tv/plex.tv_us.channels.xml",
+      "beIN": "US English XTRA, not en Espanol or MENA XTRA numbered feeds; original Amagi partner channel beinxtra-localnow",
+      "FIFA": "Original Wurl channel path decodes to Vidaa-us_FIFAPlusEnglish_HLS, matching UnitedStates English edition",
+      "NBC": "NBC News NOW US English, distinct from NBC Sports NOW and NBC broadcast network"
+    }
+  }
+}

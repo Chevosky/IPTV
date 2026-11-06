@@ -1,0 +1,53 @@
+name: Zapper refresh Sports guide
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - publication/scripts/build_sports_guide.py
+      - publication/sports/guide-bindings.json
+      - publication/tests/test_sports_guide.py
+      - .github/workflows/zapper-refresh-sports-guide.yml
+  schedule:
+    - cron: '11 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: zapper-sports-guide-publication
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate identity, timestamps and outage retention
+        run: python -m unittest discover -s publication/tests -p 'test_sports_guide.py' -v
+      - name: Fetch exact editions and generate Sports XMLTV
+        run: python publication/scripts/build_sports_guide.py
+      - name: Publish validated guide without replacing other outputs
+        run: |
+          mkdir -p /tmp/zapper-sports-publication
+          cp guide-sports-news-candidate.xml /tmp/zapper-sports-publication/guide-sports-news.xml
+          cp sports-guide-report.json /tmp/zapper-sports-publication/
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/zapper-sports-publication/* .
+            git add guide-sports-news.xml sports-guide-report.json
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m 'Refresh verified Sports guide'
+            if git push origin HEAD:main; then exit 0; fi
+          done
+          exit 1
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: sports-guide-validation-${{ github.run_id }}
+          path: sports-guide-report.json
+          retention-days: 7
