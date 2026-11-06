@@ -7,6 +7,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from pluto_identity import canonical_pluto_ids
 from xmltv_format import write_xmltv_clean
+from epg_freshness import prefer_incoming
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -218,6 +219,8 @@ if not SOURCE.exists():
 guide_channels = {}
 guide_programmes = {}
 needed_source_ids = set(wanted) | set(aliases.values()) | set(force_aliases.values())
+source_selection_at = datetime.now(timezone.utc)
+stale_exact_rejected = []
 
 def load_guide(path, replace=False):
     local_channels = {}
@@ -235,12 +238,14 @@ def load_guide(path, replace=False):
                     ET.fromstring(ET.tostring(elem, encoding="utf-8"))
                 )
             elem.clear()
-    for cid, ch in local_channels.items():
-        if replace or cid not in guide_channels:
-            guide_channels[cid] = ch
     for cid, ps in local_programmes.items():
-        if replace or cid not in guide_programmes:
+        selected = cid not in guide_programmes or (replace and prefer_incoming(guide_programmes[cid], ps, source_selection_at))
+        if selected:
             guide_programmes[cid] = ps
+            if cid in local_channels:
+                guide_channels[cid] = local_channels[cid]
+        elif replace:
+            stale_exact_rejected.append(cid)
 
 load_guide(SOURCE, replace=False)
 if EXACT_SOURCE.exists():
@@ -446,6 +451,7 @@ report = {
     "synthetic_channels": len(missing),
     "programmes": len(out_programmes),
     "output_bytes": OUT.stat().st_size,
+    "stale_exact_sources_not_selected": sorted(stale_exact_rejected),
     "coverage_sources": coverage_source,
     "missing": [{"tvg_id":cid,"name":playlist[cid]["name"],"url":playlist[cid]["url"]} for cid in missing]
 }
@@ -463,3 +469,4 @@ print(f"  synthetic: {sum(1 for x in coverage_source.values() if x['type']=='syn
 print(f"Programmes: {len(out_programmes)}")
 print(f"Output: {OUT.stat().st_size/1024/1024:.2f} MB")
 print(f"Missing: {len(missing)}")
+

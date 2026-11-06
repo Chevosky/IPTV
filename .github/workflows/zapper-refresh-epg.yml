@@ -7,6 +7,7 @@ on:
       - 'publication/scripts/build_flex_guide.py'
       - 'publication/scripts/validate_zapper_guide.py'
       - 'publication/scripts/pluto_identity.py'
+      - 'publication/scripts/epg_freshness.py'
       - 'publication/baseline/pluto-epg-59.json'
   schedule:
     - cron: '23 */6 * * *'
@@ -27,8 +28,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
-      - name: Test XMLTV serialization (regression)
-        run: python -m unittest discover -s publication/tests -p 'test_xmltv_format.py' -v
+      - name: Test guide generation regressions
+        run: |
+          python -m unittest discover -s publication/tests -p 'test_xmltv_format.py' -v
+          python -m unittest discover -s publication/tests -p 'test_epg_freshness.py' -v
       - name: Validate and refresh against current publication
         env:
           REFRESH_MODE: epg
@@ -40,3 +43,4 @@ jobs:
           name: refresh-epg-sanitized-result
           path: publication-review.json
           if-no-files-found: error
+

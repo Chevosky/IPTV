@@ -96,6 +96,16 @@ jobs:
       - name: Refresh confirmed Flex guide
         run: cp guide-favorites.xml guide-flex-20261003.xml
 
+      - name: Rebuild and validate the guide consumed by Zapper
+        env:
+          ZAPPER_PLAYLIST: zapper-flex.m3u
+          ZAPPER_DATA_DIR: ${{ github.workspace }}
+        run: |
+          python -m unittest discover -s publication/tests -p 'test_epg_freshness.py' -v
+          python publication/scripts/build_flex_guide.py
+          python publication/scripts/validate_zapper_guide.py guide-flex-candidate.xml --previous guide-flex.xml --coverage-report coverage-flex-candidate.json
+          cp guide-flex-candidate.xml guide-flex.xml
+
       - name: Validate outputs
         run: |
           python - <<'PY'
@@ -113,16 +123,17 @@ jobs:
       - name: Publish exact and curated guides
         run: |
           mkdir -p /tmp/iptv-publish
-          cp guide-iptvorg-exact.xml guide-favorites.xml guide-flex-20261003.xml coverage-favorites.json iptvorg-missing-selected.channels.xml iptvorg-selected.channels.xml iptvorg-epg-coverage.json /tmp/iptv-publish/
+          cp guide-iptvorg-exact.xml guide-favorites.xml guide-flex-20261003.xml guide-flex.xml coverage-favorites.json iptvorg-missing-selected.channels.xml iptvorg-selected.channels.xml iptvorg-epg-coverage.json /tmp/iptv-publish/
           git fetch origin main
           git reset --hard origin/main
           cp /tmp/iptv-publish/* .
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add guide-iptvorg-exact.xml guide-favorites.xml guide-flex-20261003.xml coverage-favorites.json iptvorg-missing-selected.channels.xml iptvorg-selected.channels.xml iptvorg-epg-coverage.json
+          git add guide-iptvorg-exact.xml guide-favorites.xml guide-flex-20261003.xml guide-flex.xml coverage-favorites.json iptvorg-missing-selected.channels.xml iptvorg-selected.channels.xml iptvorg-epg-coverage.json
           if git diff --cached --quiet; then
             echo "No changes to publish."
             exit 0
           fi
           git commit -m "Update exact and curated EPG"
           git push
+
