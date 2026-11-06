@@ -8,6 +8,7 @@ import xml.etree.ElementTree as ET
 from pluto_identity import canonical_pluto_ids
 from xmltv_format import write_xmltv_clean
 from epg_freshness import prefer_incoming
+from channel_policy import excluded, load_policy
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -198,6 +199,9 @@ def synthetic_title(tvg_id, playlist_name, channels, feeds_by_channel, language_
     return title
 
 playlist = parse_playlist(PLAYLIST)
+policy = load_policy(ROOT)
+excluded_playlist_ids = [cid for cid, row in playlist.items() if excluded(row["name"], cid, policy)]
+playlist = {cid: row for cid, row in playlist.items() if cid not in excluded_playlist_ids}
 pluto_uuids = canonical_pluto_ids(ROOT / 'catalog-flex.json', playlist)
 wanted = set(playlist)
 aliases = {}
@@ -445,6 +449,7 @@ write_xmltv_clean(root, OUT)
 
 report = {
     "playlist_channels": len(wanted),
+    "excluded_channel_ids": sorted(excluded_playlist_ids),
     "covered_channels": len(real_covered),
     "coverage_percent": round((len(real_covered)/len(wanted)*100) if wanted else 0, 1),
     "guide_channels": len(covered),

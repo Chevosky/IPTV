@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "excludedFamilies": [
+    "Dating Naked",
+    "Paradise Hotel"
+  ],
+  "excludedTvgIDs": [
+    "ParadiseHotel.se@SE",
+    "ParadiseHotel.se@DK",
+    "ParadiseHotel.se@NO",
+    "BestofParadiseHotelFinalveckan.se@SE",
+    "BestofParadiseHotelKyssarkarlek.se@SE",
+    "BestofParadiseHotelPandorasAsk.se@SE",
+    "BestofParadiseHotelSkolveckan.se@SE",
+    "ParadiseHotelUnderlagnerne.se@DK",
+    "DatingNakedUK.se@SE",
+    "DatingNakedUK.se@DK",
+    "DatingNakedUK.se@NO"
+  ],
+  "reason": "Explicit user request: exclude these channel families from channel lists and guides, including future variants.",
+  "preserveHistoricalIdentities": true
+}

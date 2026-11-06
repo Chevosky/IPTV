@@ -1,5 +1,6 @@
 """Scheduled preparation: observations never promote unknown content to playable."""
 import json,os,subprocess,urllib.request,urllib.error
+from channel_policy import filter_playlist, load_policy
 from datetime import datetime,timezone
 from pathlib import Path
 ROOT=Path.cwd();mode=os.environ['REFRESH_MODE'];report={'mode':mode,'checkedAtUTC':datetime.now(timezone.utc).isoformat(),'published':False,'results':[]}
@@ -12,6 +13,8 @@ def probe(url):
 try:
  flex=json.loads((ROOT/'catalog-flex.json').read_text())
  assert len(flex['channels'])==237
+ playlist=ROOT/'zapper-flex.m3u'
+ playlist.write_text(filter_playlist(playlist.read_text(),load_policy(ROOT)))
  from validate_flex import validate
  report['canonicalValidation']=validate(ROOT,ROOT/'publication/baseline')
  if mode=='sports':
@@ -46,10 +49,12 @@ try:
   report['scope']='Flex only; Sports guide preserved independently'
   import shutil
   shutil.copy2('guide-flex-candidate.xml',os.environ['RUNNER_TEMP']+'/guide-flex.xml')
+  shutil.copy2('zapper-flex.m3u',os.environ['RUNNER_TEMP']+'/zapper-flex.m3u')
   subprocess.run(['git','fetch','origin','main'],check=True)
   assert subprocess.check_output(['git','rev-parse','HEAD'])==subprocess.check_output(['git','rev-parse','origin/main']),'remote advanced; retry regeneration'
   shutil.copy2(os.environ['RUNNER_TEMP']+'/guide-flex.xml','guide-flex.xml')
-  subprocess.run(['git','add','--','guide-flex.xml'],check=True)
+  shutil.copy2(os.environ['RUNNER_TEMP']+'/zapper-flex.m3u','zapper-flex.m3u')
+  subprocess.run(['git','add','--','guide-flex.xml','zapper-flex.m3u'],check=True)
   subprocess.run(['git','diff','--cached','--check'],check=True)
   if subprocess.run(['git','diff','--cached','--quiet']).returncode:
    subprocess.run(['git','-c','user.name=github-actions[bot]','-c','user.email=41898282+github-actions[bot]@users.noreply.github.com','commit','-m','Zapper Publication: validated EPG refresh'],check=True)
@@ -61,3 +66,4 @@ except Exception as e:
  # No raw URL/exception text; report contains only IDs and status.
  raise
 finally:Path('publication-review.json').write_text(json.dumps(report,indent=2))
+

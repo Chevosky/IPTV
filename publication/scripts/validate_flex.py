@@ -1,6 +1,7 @@
 """Validate canonical Flex identities and export before any publication."""
 import json,re,sys,xml.etree.ElementTree as ET
 from pathlib import Path
+from channel_policy import active_channels, load_policy
 
 def validate(root,baseline):
  c=json.loads((root/'catalog-flex.json').read_text());old=json.loads((baseline/'catalog-flex.json').read_text())
@@ -14,13 +15,15 @@ def validate(root,baseline):
  for line in lines[1:]:
   if line.startswith('#EXTINF:'):assert entry is None;entry=line
   elif not line.startswith('#'):assert entry is not None;pairs.append((entry,line));entry=None
- assert entry is None and len(pairs)==237
- for ch,(entry,url) in zip(c['channels'],pairs):
+ active=active_channels(c,load_policy(root))
+ assert entry is None and len(pairs)==len(active)
+ for ch,(entry,url) in zip(active,pairs):
   attrs=dict(re.findall(r'([\w-]+)="([^"]*)"',entry))
   assert attrs.get('tvg-id')==ch['tvgId'] and attrs.get('group-title')==ch['category'] and attrs.get('tvg-logo')==ch['logo']
   assert re.split(r',(?=(?:[^"]*"[^"]*")*[^"]*$)',entry,maxsplit=1)[1]==ch['name']
   s=ch['sources'][0];expected=s['url'] if s['type']=='direct' else 'https://zapper-pluto-flex.chevosky.workers.dev/pluto/'+s['channelId']+'.m3u8'
   assert url==expected
   assert not re.search(r'[?&](jwt|token|session|expires|signature)=',url,re.I)
- return {'channels':237,**counts,'identityOrderAndSourcePreserved':True,'M3UEntries':237}
+ return {'channels':237,**counts,'identityOrderAndSourcePreserved':True,'M3UEntries':len(active),'excludedChannels':237-len(active)}
 if __name__=='__main__':print(json.dumps(validate(Path(sys.argv[1]),Path(sys.argv[2]))))
+

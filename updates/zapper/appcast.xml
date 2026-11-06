@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Zapper</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Fri, 06 Nov 2026 12:55:01 -0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/Chevosky/IPTV/main/updates/zapper/Zapper-1.1.0.zip" length="8066300" type="application/octet-stream" sparkle:edSignature="zHXbcR+OEPPEIQny8LrhZrqCZnb94J57Ji8I6DQIZOKXYkpah2FwYKBqrp2V7u+BR0LUfRNJMOWGioduecqABQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: OI1bg7/JlsoIQFaXFJUqG0dTtQODQAnIBIFNOAN91yIuheWLD9tkZhWxoffFjS/dWu19hypzyJdUH9rMRpFIAA==
+length: 1043
+-->
