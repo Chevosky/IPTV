@@ -35,8 +35,16 @@
       "presentationSlot": 322,
       "zapperNumber": 239,
       "name": "ESPN 1",
-      "schedule": null,
-      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "schedule": {
+        "provider": "movistar",
+        "key": "lch2775",
+        "providerChannelID": "movistar.pe:LCH2775",
+        "providerName": "ESPN HD",
+        "language": "es",
+        "region": "PE",
+        "identityEvidence": "publication/sports/signal-confirmation.json#ESPN-1"
+      },
+      "unavailableReason": null
     },
     {
       "id": "source1:content:content_c6875ec247cd1591",
@@ -53,8 +61,25 @@
       "presentationSlot": 323,
       "zapperNumber": 240,
       "name": "ESPN 2",
-      "schedule": null,
-      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "schedule": {
+        "provider": "movistar",
+        "key": "lch3952",
+        "providerChannelID": "movistar.pe:LCH3952",
+        "providerName": "ESPN 2 HD",
+        "language": "es",
+        "region": "PE",
+        "identityEvidence": "publication/sports/signal-confirmation.json#ESPN-2",
+        "excludedProgrammes": [
+          {
+            "startUTC": "2026-11-06T17:30:00Z",
+            "stopUTC": "2026-11-06T18:00:00Z",
+            "expectedProviderTitle": "Bundesliga Preview Show",
+            "reason": "ESPN2 VIVO Paris tennis observed at 17:31 UTC within this scheduled interruption. No replacement interval inferred.",
+            "evidence": "publication/sports/signal-confirmation.json#ESPN-2"
+          }
+        ]
+      },
+      "unavailableReason": null
     },
     {
       "id": "source1:content:content_6dd9174d05134940",
@@ -68,8 +93,16 @@
       "presentationSlot": 324,
       "zapperNumber": 241,
       "name": "ESPN 3",
-      "schedule": null,
-      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "schedule": {
+        "provider": "movistar",
+        "key": "lch2776",
+        "providerChannelID": "movistar.pe:LCH2776",
+        "providerName": "ESPN 3 HD",
+        "language": "es",
+        "region": "PE",
+        "identityEvidence": "publication/sports/signal-confirmation.json#ESPN-3"
+      },
+      "unavailableReason": null
     },
     {
       "id": "source1:content:content_54c05c092bc0b68b",
@@ -82,8 +115,16 @@
       "presentationSlot": 325,
       "zapperNumber": 242,
       "name": "ESPN 4",
-      "schedule": null,
-      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "schedule": {
+        "provider": "movistar",
+        "key": "lch2813",
+        "providerChannelID": "movistar.pe:LCH2813",
+        "providerName": "ESPN 4 HD",
+        "language": "es",
+        "region": "PE",
+        "identityEvidence": "publication/sports/signal-confirmation.json#ESPN-4"
+      },
+      "unavailableReason": null
     },
     {
       "id": "source1:content:content_35fcfa9bc4ac8472",
@@ -97,8 +138,16 @@
       "presentationSlot": 326,
       "zapperNumber": 243,
       "name": "ESPN 5",
-      "schedule": null,
-      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "schedule": {
+        "provider": "movistar",
+        "key": "lch2339",
+        "providerChannelID": "movistar.pe:LCH2339",
+        "providerName": "ESPN 5 HD",
+        "language": "es",
+        "region": "PE",
+        "identityEvidence": "publication/sports/signal-confirmation.json#ESPN-5"
+      },
+      "unavailableReason": null
     },
     {
       "id": "source1:content:content_943c284707b56edb",
@@ -112,8 +161,16 @@
       "presentationSlot": 327,
       "zapperNumber": 244,
       "name": "ESPN 6",
-      "schedule": null,
-      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "schedule": {
+        "provider": "movistar",
+        "key": "lch2341",
+        "providerChannelID": "movistar.pe:LCH2341",
+        "providerName": "ESPN 6 HD",
+        "language": "es",
+        "region": "PE",
+        "identityEvidence": "publication/sports/signal-confirmation.json#ESPN-6"
+      },
+      "unavailableReason": null
     },
     {
       "id": "source1:content:content_b704ab3b6d109c4e",
@@ -127,8 +184,25 @@
       "presentationSlot": 328,
       "zapperNumber": 245,
       "name": "ESPN 7",
-      "schedule": null,
-      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "schedule": {
+        "provider": "movistar",
+        "key": "lch2340",
+        "providerChannelID": "movistar.pe:LCH2340",
+        "providerName": "ESPN 7 HD",
+        "language": "es",
+        "region": "PE",
+        "identityEvidence": "publication/sports/signal-confirmation.json#ESPN-7",
+        "excludedProgrammes": [
+          {
+            "startUTC": "2026-11-06T17:50:00Z",
+            "stopUTC": "2026-11-06T19:50:00Z",
+            "expectedProviderTitle": "Fútbol UEFA Europa League : AC Milan vs. Ferencváros",
+            "reason": "Continuous CRY/HOF football observed in separate samples at 18:23 and 19:30 UTC; provider title conflicts. Preserve raw response and omit this exact slot, without inferring replacement times.",
+            "evidence": "publication/sports/signal-confirmation.json#ESPN-7"
+          }
+        ]
+      },
+      "unavailableReason": null
     },
     {
       "id": "source1:content:content_94b65cf8def70b44",

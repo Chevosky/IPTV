@@ -12,6 +12,65 @@ import xml.etree.ElementTree as ET
 UTC = timezone.utc
 PLEX_MAP = 'https://raw.githubusercontent.com/iptv-org/epg/master/sites/plex.tv/plex.tv_us.channels.xml'
 ROOT = Path(__file__).resolve().parents[2]
+MOVISTAR_PE_ESPN = {
+    'lch2775': ('ESPN HD', 'src_f7583d1f978f241f'),
+    'lch3952': ('ESPN 2 HD', 'src_3e01cb4e95c2c97d'),
+    'lch2776': ('ESPN 3 HD', 'src_73cd713499a9ce02'),
+    'lch2813': ('ESPN 4 HD', 'src_0a891c670a0a38ae'),
+    'lch2339': ('ESPN 5 HD', 'src_1475c9ad9dd2180b'),
+    'lch2341': ('ESPN 6 HD', 'src_79064a91d1c6e4c5'),
+    'lch2340': ('ESPN 7 HD', 'src_da8dbb1fe8377671'),
+}
+
+def parse_movistar(data, key, expected_name, exclusions=()):
+    rows = json.loads(data).get('Content')
+    if not isinstance(rows, list) or not rows:
+        raise ValueError('Missing Movistar programme list')
+    result = []
+    for row in rows:
+        if row.get('LiveChannelPid', '').lower() != key or row.get('ChannelName') != expected_name:
+            raise ValueError('Movistar programme channel identity changed')
+        if any(type(row.get(k)) is not int for k in ('Start', 'End')):
+            raise ValueError('Movistar requires explicit epoch seconds')
+        item = {'start': datetime.fromtimestamp(row['Start'], UTC),
+                'stop': datetime.fromtimestamp(row['End'], UTC),
+                'title': row.get('Title') or '', 'description': row.get('Description') or ''}
+        # Omit only the exact dated slots contradicted by retained signal evidence.
+        # Keep the original response; do not invent a replacement title or interval.
+        if any(iso(item['start']) == x['startUTC'] and iso(item['stop']) == x['stopUTC']
+               and item['title'] == x['expectedProviderTitle'] for x in exclusions):
+            continue
+        item['providerProgrammeID'] = row.get('Pid', '')
+        result.append(item)
+    return result
+
+def movistar_schedule(binding, now, read):
+    schedule = binding['schedule']
+    key = schedule['key']
+    expected = MOVISTAR_PE_ESPN.get(key)
+    if (schedule['region'] != 'PE' or schedule['language'] != 'es' or not expected
+            or schedule['providerChannelID'] != 'movistar.pe:' + key.upper()
+            or schedule['providerName'] != expected[0] or binding['sourceID'] != expected[1]):
+        raise ValueError('Unapproved Movistar ESPN source/edition binding')
+    base = 'https://contentapi-pe.cdn.telefonica.com/28/default/es-PE/'
+    channels_url = base + 'contents/all?contentTypes=LCH&fields=Pid,Name&orderBy=contentOrder&limit=1000'
+    channels = json.loads(read(channels_url))['Content']['List']
+    matching = [x for x in channels if x.get('Pid', '').lower() == key]
+    if len(matching) != 1 or matching[0].get('Name') != expected[0]:
+        raise ValueError('Official Movistar channel metadata changed')
+    programmes, urls = [], []
+    # This provider's supported collector requests today and tomorrow.
+    for offset in (0, 1):
+        day = (now + timedelta(days=offset)).replace(hour=0, minute=0, second=0, microsecond=0)
+        args = {'fields': 'Pid,Title,Description,ChannelName,LiveChannelPid,Start,End',
+                'orderBy': 'START_TIME:a', 'filteravailability': 'false',
+                'starttime': int(day.timestamp()), 'endtime': int((day + timedelta(days=1)).timestamp()),
+                'livechannelpids': key}
+        url = base + 'schedules?' + urllib.parse.urlencode(args)
+        rows = parse_movistar(read(url), key, expected[0], schedule.get('excludedProgrammes', []))
+        programmes.extend(dict(row, provenance=url) for row in rows)
+        urls.append(url)
+    return programmes, urls
 
 def fetch(url, headers=None, data=None):
     request = urllib.request.Request(url, headers={'User-Agent': 'Zapper-EPG/1.0',
@@ -145,6 +204,8 @@ def provider_schedule(binding, now, channel_map, read=fetch):
         urls = [url]
     elif schedule['provider'] == 'winplay':
         programmes, urls = winplay_schedule(schedule['key'], now, read)
+    elif schedule['provider'] == 'movistar':
+        programmes, urls = movistar_schedule(binding, now, read)
     elif schedule['provider'] == 'sky':
         if schedule['region'] != 'GB' or schedule['providerChannelID'] != 'SkySportsCricket.uk@HD' or schedule['key'] != '1702':
             raise ValueError('Unapproved Sky regional edition')
@@ -198,7 +259,10 @@ def build(directory=ROOT, read=fetch, now=None):
     except Exception:
         channel_map = ET.Element('channels')
     root = ET.Element('tv', {'generator-info-name': 'Zapper verified Sports EPG v1'})
-    report = {'generatedAtUTC': iso(now), 'channels': [], 'failures': []}
+    report = {'generatedAtUTC': iso(now), 'channels': [], 'failures': [],
+              'reviewedExclusions': [{'number': b['zapperNumber'], **x}
+                  for b in manifest['channels'] if b['schedule']
+                  for x in b['schedule'].get('excludedProgrammes', [])]}
     def obtain(binding):
         if not binding['schedule']:
             return binding, None, [], None
@@ -219,9 +283,11 @@ def build(directory=ROOT, read=fetch, now=None):
         ET.SubElement(channel, 'display-name').text = binding['name']
         if programmes:
             for item in programmes:
-                proof = urls[0]
+                proof = item.get('provenance') or urls[0]
                 attrs = {'channel': binding['id'], 'start': xmltime(item['start']), 'stop': xmltime(item['stop']), 'zapper-verification-status': 'VERIFIED_PROGRAMME', 'zapper-provenance': proof, 'zapper-last-verified-utc': iso(now)}
                 attrs['zapper-programme-id'] = hashlib.sha256((binding['id'] + attrs['start'] + item['title']).encode()).hexdigest()[:24]
+                if item.get('providerProgrammeID'):
+                    attrs['zapper-provider-programme-id'] = item['providerProgrammeID']
                 p = ET.SubElement(root, 'programme', attrs)
                 ET.SubElement(p, 'title', {'lang': binding['schedule']['language']}).text = item['title']
                 if item.get('subtitle'):
@@ -253,3 +319,4 @@ if __name__ == '__main__':
     parser.add_argument('--root', type=Path, default=ROOT)
     args = parser.parse_args()
     print(json.dumps(build(args.root), ensure_ascii=False))
+

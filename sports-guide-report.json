@@ -1,67 +1,67 @@
 {
-  "generatedAtUTC": "2026-11-06T17:14:02Z",
+  "generatedAtUTC": "2026-11-06T19:52:17Z",
   "channels": [
     {
       "number": 238,
       "name": "NBC NEWS NOW",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 53,
+      "freshProgrammeCount": 50,
       "reason": null
     },
     {
       "number": 239,
       "name": "ESPN 1",
-      "status": "UNKNOWN",
-      "freshProgrammeCount": 0,
-      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "status": "VERIFIED_PROGRAMME",
+      "freshProgrammeCount": 30,
+      "reason": null
     },
     {
       "number": 240,
       "name": "ESPN 2",
-      "status": "UNKNOWN",
-      "freshProgrammeCount": 0,
-      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "status": "VERIFIED_PROGRAMME",
+      "freshProgrammeCount": 26,
+      "reason": null
     },
     {
       "number": 241,
       "name": "ESPN 3",
-      "status": "UNKNOWN",
-      "freshProgrammeCount": 0,
-      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "status": "VERIFIED_PROGRAMME",
+      "freshProgrammeCount": 28,
+      "reason": null
     },
     {
       "number": 242,
       "name": "ESPN 4",
-      "status": "UNKNOWN",
-      "freshProgrammeCount": 0,
-      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "status": "VERIFIED_PROGRAMME",
+      "freshProgrammeCount": 18,
+      "reason": null
     },
     {
       "number": 243,
       "name": "ESPN 5",
-      "status": "UNKNOWN",
-      "freshProgrammeCount": 0,
-      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "status": "VERIFIED_PROGRAMME",
+      "freshProgrammeCount": 34,
+      "reason": null
     },
     {
       "number": 244,
       "name": "ESPN 6",
-      "status": "UNKNOWN",
-      "freshProgrammeCount": 0,
-      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "status": "VERIFIED_PROGRAMME",
+      "freshProgrammeCount": 23,
+      "reason": null
     },
     {
       "number": 245,
       "name": "ESPN 7",
-      "status": "UNKNOWN",
-      "freshProgrammeCount": 0,
-      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
+      "status": "VERIFIED_PROGRAMME",
+      "freshProgrammeCount": 31,
+      "reason": null
     },
     {
       "number": 246,
       "name": "Win Sports",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 37,
+      "freshProgrammeCount": 40,
       "reason": null
     },
     {
@@ -75,37 +75,55 @@
       "number": 248,
       "name": "beIN SPORTS XTRA",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 69,
+      "freshProgrammeCount": 67,
       "reason": null
     },
     {
       "number": 249,
       "name": "RM TV",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 54,
+      "freshProgrammeCount": 55,
       "reason": null
     },
     {
       "number": 250,
       "name": "RM TV + 🇪🇸",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 47,
+      "freshProgrammeCount": 46,
       "reason": null
     },
     {
       "number": 251,
       "name": "FIFA+",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 36,
+      "freshProgrammeCount": 35,
       "reason": null
     },
     {
       "number": 252,
       "name": "SKY CRICKET",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 71,
+      "freshProgrammeCount": 66,
       "reason": null
     }
   ],
-  "failures": []
+  "failures": [],
+  "reviewedExclusions": [
+    {
+      "number": 240,
+      "startUTC": "2026-11-06T17:30:00Z",
+      "stopUTC": "2026-11-06T18:00:00Z",
+      "expectedProviderTitle": "Bundesliga Preview Show",
+      "reason": "ESPN2 VIVO Paris tennis observed at 17:31 UTC within this scheduled interruption. No replacement interval inferred.",
+      "evidence": "publication/sports/signal-confirmation.json#ESPN-2"
+    },
+    {
+      "number": 245,
+      "startUTC": "2026-11-06T17:50:00Z",
+      "stopUTC": "2026-11-06T19:50:00Z",
+      "expectedProviderTitle": "Fútbol UEFA Europa League : AC Milan vs. Ferencváros",
+      "reason": "Continuous CRY/HOF football observed in separate samples at 18:23 and 19:30 UTC; provider title conflicts. Preserve raw response and omit this exact slot, without inferring replacement times.",
+      "evidence": "publication/sports/signal-confirmation.json#ESPN-7"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAtUTC": "2026-11-06T17:09:27.360978+00:00",
+  "checkedAtUTC": "2026-11-06T19:52:17.660104+00:00",
   "scope": "All 32 preserved alternatives for ten original channels; nine migrated original player sources and original Sky rendition decoded",
   "originalSourcesReplaced": false,
   "originalAlternativesRemoved": false,
@@ -123,5 +123,124 @@
   },
   "winSportsObserved": "WIN sports VIVO; Nos cogió la tarde at on-screen 11:58 Colombia before official 12:00 Reto Win Tenis transition",
   "winPlusObserved": "WIN+ fútbol; UNI vs IVC; matches official signal winsportsplus, Union Magdalena vs Ind. Valle del Cauca replay",
-  "ESPNHold": "All seven declared ESPN player keys yielded decoded video and audio. ESPN 1/2/3/4/6 logos and Spanish promotions were observed; ESPN 5/7 short samples did not establish an exact edition. Several candidate grids mismatch capture-time content, and preserved alternatives include Brazil. No ESPN regional or temporal binding promoted."
+  "espnVerification": {
+    "ESPN-1": {
+      "number": 239,
+      "name": "ESPN 1",
+      "sourceID": "src_f7583d1f978f241f",
+      "scheduleProvider": "Official Movistar Peru public EPG",
+      "scheduleKey": "lch2775",
+      "observedProgrammeAlignment": "ESPN F90; SportsCenter transition at 19:30 UTC",
+      "captureUTC": "2026-11-06T19:33:22.587987+00:00",
+      "frameSHA256": "e68ba3a94a180e3a4b81280939e29c149ae6466366e45e400ca3cf4460a91ccd",
+      "scope": "Observed schedule correspondence of this exact original primary source. No assertion about Brazilian or other preserved alternatives.",
+      "localCandidateScheduleBound": true,
+      "productionPublished": false,
+      "evidenceCorrection": "The earlier F3 branding frame alone did not establish a programme transition; it is retained as an inconclusive observation. F90 and the later SportsCenter transition support the current candidate."
+    },
+    "ESPN-2": {
+      "number": 240,
+      "name": "ESPN 2",
+      "sourceID": "src_3e01cb4e95c2c97d",
+      "scheduleProvider": "Official Movistar Peru public EPG",
+      "scheduleKey": "lch3952",
+      "observedProgrammeAlignment": "Paris Masters tennis; Fritz vs Alcaraz scoreboard at 19:29 UTC",
+      "captureUTC": "2026-11-06T19:29:58.089225+00:00",
+      "frameSHA256": "ad87bdf59bd273ebbb2197ea617bb57c2db956178215f82f0640f57e5c60282c",
+      "scope": "Observed schedule correspondence of this exact original primary source. No assertion about Brazilian or other preserved alternatives.",
+      "localCandidateScheduleBound": true,
+      "productionPublished": false,
+      "reviewedException": "Do not import the provider Bundesliga Preview slot 2026-11-06 17:30–18:00 UTC: the retained 17:31 UTC sample shows live Paris tennis. No replacement title or start/end time is fabricated. The 17:00 Inside Serie A slot was not disproven and is not excluded."
+    },
+    "ESPN-3": {
+      "number": 241,
+      "name": "ESPN 3",
+      "sourceID": "src_73cd713499a9ce02",
+      "scheduleProvider": "Official Movistar Peru public EPG",
+      "scheduleKey": "lch2776",
+      "observedProgrammeAlignment": "Champions League block followed by Formula 1 Sao Paulo practice",
+      "captureUTC": "2026-11-06T19:29:58.208466+00:00",
+      "frameSHA256": "aa57d25740bc6261e5732596c56b961fa9bb480fe6c81e2e9755887ec92c31ae",
+      "scope": "Observed schedule correspondence of this exact original primary source. No assertion about Brazilian or other preserved alternatives.",
+      "localCandidateScheduleBound": true,
+      "productionPublished": false
+    },
+    "ESPN-4": {
+      "number": 242,
+      "name": "ESPN 4",
+      "sourceID": "src_0a891c670a0a38ae",
+      "scheduleProvider": "Official Movistar Peru public EPG",
+      "scheduleKey": "lch2813",
+      "observedProgrammeAlignment": "FIP padel block followed by Hamburg vs Borussia Monchengladbach (HSV/BMG)",
+      "captureUTC": "2026-11-06T19:34:47.139585+00:00",
+      "frameSHA256": "78834ffe2906e40a354efff9b9271a8e703d8d92538cbf3fb799263b4e2eeaf0",
+      "scope": "Observed schedule correspondence of this exact original primary source. No assertion about Brazilian or other preserved alternatives.",
+      "localCandidateScheduleBound": true,
+      "productionPublished": false
+    },
+    "ESPN-5": {
+      "number": 243,
+      "name": "ESPN 5",
+      "sourceID": "src_1475c9ad9dd2180b",
+      "scheduleProvider": "Official Movistar Peru public EPG",
+      "scheduleKey": "lch2339",
+      "observedProgrammeAlignment": "EFL Highlights; Inside Serie A; Manchester City EFL Cup champion segment; Toulouse/Strasbourg pre-match",
+      "captureUTC": "2026-11-06T19:33:25.626889+00:00",
+      "frameSHA256": "05f2d8de0b96a367122ccddd0e05e289cac714ea10aa75534567244cd5f67708",
+      "scope": "Observed schedule correspondence of this exact original primary source. No assertion about Brazilian or other preserved alternatives.",
+      "localCandidateScheduleBound": true,
+      "productionPublished": false,
+      "additionalFixtureConfirmation": {
+        "observedUTC": "2026-11-06T19:53:16.979055+00:00",
+        "frameSHA256": "cfecdab4d0989fc31dea302296044231328f3024fcb786c73798547e81f33fff",
+        "scoreboard": "TOU 0–0 STRA, 07:17; ESPN5 VIVO"
+      }
+    },
+    "ESPN-6": {
+      "number": 244,
+      "name": "ESPN 6",
+      "sourceID": "src_79064a91d1c6e4c5",
+      "scheduleProvider": "Official Movistar Peru public EPG",
+      "scheduleKey": "lch2341",
+      "observedProgrammeAlignment": "MotoGP; Bristol City/Wolverhampton; Atletico Madrid/Bayern Munich (ATM/BAY)",
+      "captureUTC": "2026-11-06T19:30:12.654102+00:00",
+      "frameSHA256": "32f2c952400a8a2e9aadb0878f48acdffaccdb70f135c5040e421202b7c9ecde",
+      "scope": "Observed schedule correspondence of this exact original primary source. No assertion about Brazilian or other preserved alternatives.",
+      "localCandidateScheduleBound": true,
+      "productionPublished": false
+    },
+    "ESPN-7": {
+      "number": 245,
+      "name": "ESPN 7",
+      "sourceID": "src_da8dbb1fe8377671",
+      "scheduleProvider": "Official Movistar Peru public EPG",
+      "scheduleKey": "lch2340",
+      "observedProgrammeAlignment": [
+        "17:31 UTC PSG/Arsenal images compatible with PSG Champions League champion segment",
+        "18:23 and 19:30 UTC CRY/HOF football contradicts the Milan/Ferencvaros provider title",
+        "19:51 UTC live Derby County/Bolton pre-match at Pride Park, both team emblems visible, matches next provider programme beginning 19:50 UTC"
+      ],
+      "captureUTC": "2026-11-06T19:51:23.989055+00:00",
+      "frameSHA256": "c5e09dc2330aabcfbf78997b3c6af66c1da513e26b28d55754c3e0fcb1044754",
+      "scope": "Exact preserved primary source; scheduled sequence empirically matched around one contradicted dated record. Cause of that record discrepancy remains unconfirmed.",
+      "localCandidateScheduleBound": true,
+      "productionPublished": false,
+      "reviewedException": "Omit only the dated 2026-11-06 17:50–19:50 UTC provider title Milan/Ferencvaros. Retain raw response; no guessed replacement programme or time shift."
+    }
+  },
+  "ESPNHoldHistorical": "All seven declared ESPN player keys yielded decoded video and audio. ESPN 1/2/3/4/6 logos and Spanish promotions were observed; ESPN 5/7 short samples did not establish an exact edition. Several candidate grids mismatch capture-time content, and preserved alternatives include Brazil. No ESPN regional or temporal binding promoted.",
+  "ESPNHold": {
+    "remaining": [],
+    "resolvedAtUTC": "2026-11-06T19:52:17.659905+00:00",
+    "localCandidateOnly": true,
+    "datedProgrammeExclusions": 2,
+    "publicationPending": true
+  },
+  "nativeConsumerCheck": {
+    "usesInstalledCatalogue": true,
+    "catalogueChannels": 1120,
+    "acceptedProgrammes": 587,
+    "allSevenHaveCurrentAndFutureProgrammes": true,
+    "checkedUTC": "2026-11-06T19:53:06Z"
+  }
 }

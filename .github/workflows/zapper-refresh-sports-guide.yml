@@ -7,6 +7,7 @@ on:
       - publication/scripts/build_sports_guide.py
       - publication/sports/guide-bindings.json
       - publication/tests/test_sports_guide.py
+      - publication/tests/test_movistar_espn.py
       - .github/workflows/zapper-refresh-sports-guide.yml
   schedule:
     - cron: '11 */6 * * *'
@@ -25,7 +26,9 @@ jobs:
         with:
           python-version: '3.12'
       - name: Validate identity, timestamps and outage retention
-        run: python -m unittest discover -s publication/tests -p 'test_sports_guide.py' -v
+        run: |
+          python -m unittest discover -s publication/tests -p 'test_sports_guide.py' -v
+          python -m unittest discover -s publication/tests -p 'test_movistar_espn.py' -v
       - name: Fetch exact editions and generate Sports XMLTV
         run: python publication/scripts/build_sports_guide.py
       - name: Publish validated guide without replacing other outputs
@@ -51,3 +54,4 @@ jobs:
           name: sports-guide-validation-${{ github.run_id }}
           path: sports-guide-report.json
           retention-days: 7
+
