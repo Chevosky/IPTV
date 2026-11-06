@@ -142,6 +142,10 @@
     <display-name>Sony</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" />
   </channel>
+  <channel id="SonyMoviesLatinAmerica.us@SD">
+    <display-name>Sony Movies</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" />
+  </channel>
   <channel id="SonyOneBlacklist.fr@HD">
     <display-name>Blacklist</display-name>
     <icon src="https://i.imgur.com/uJC8rXr.png" />
@@ -186,12 +190,6 @@
     <display-name>Canal 13 de Paraguay (Trece)</display-name>
     <icon src="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp" />
   </channel>
-  <programme start="20261106124000 +0000" stop="20261106133000 +0000" channel="AELatinAmerica.us@Brazil">
-    <title lang="pt">El Chapo</title>
-    <desc lang="pt">Ramón Avendaño contrata os serviços de um grupo de assassinos de aluguel para caçar Joaquín El Chapo Guzmán; um ataque terrorista a tiros em um aeroporto levanta suspeitas com a morte de um cardeal muito conhecido.</desc>
-    <category lang="pt">Temporada 1 Episódio 4</category>
-    <image>https://cdn.mitvstatic.com/programs/br_el-chapo-s01e04_l_m.jpg</image>
-  </programme>
   <programme start="20261106133000 +0000" stop="20261106142000 +0000" channel="AELatinAmerica.us@Brazil">
     <title lang="pt">Esquadrão de Homicídios - Nova Orleans</title>
     <desc lang="pt">A detetive Tanisha Sykes Smith investiga o assassinato de Roderick Thompson, ocorrido próximo à casa de sua mãe no Lower 9th Ward. Smith trabalha detalhadamente no caso para identificar e prender o suposto atirador.</desc>
@@ -342,80 +340,62 @@
     <category lang="pt">Temporada 1 Episódio 3 - Ela Nunca Voltou à Casa</category>
     <image>https://cdn.mitvstatic.com/programs/br_casos-arquivados-s01e03-ela-nunca-voltou-a-casa_l_m.jpg</image>
   </programme>
-  <programme start="20261106130000 +0000" stop="20261106132000 +0000" channel="AELatinAmerica.us@Panregional">
+  <programme start="20261106135500 +0000" stop="20261106145000 +0000" channel="AELatinAmerica.us@Panregional">
+    <title lang="es">Las Primeras 48 Horas</title>
+  </programme>
+  <programme start="20261106145000 +0000" stop="20261106154500 +0000" channel="AELatinAmerica.us@Panregional">
+    <title lang="es">Las Primeras 48 Horas</title>
+  </programme>
+  <programme start="20261106154500 +0000" stop="20261106164000 +0000" channel="AELatinAmerica.us@Panregional">
+    <title lang="es">Las Primeras 48 Horas</title>
+  </programme>
+  <programme start="20261106164000 +0000" stop="20261106173500 +0000" channel="AELatinAmerica.us@Panregional">
+    <title lang="es">Las Primeras 48 Horas</title>
+  </programme>
+  <programme start="20261106173500 +0000" stop="20261106183000 +0000" channel="AELatinAmerica.us@Panregional">
+    <title lang="es">Las primeras 48 minutos criticos</title>
+  </programme>
+  <programme start="20261106183000 +0000" stop="20261106192500 +0000" channel="AELatinAmerica.us@Panregional">
+    <title lang="es">Las primeras 48 minutos criticos</title>
+  </programme>
+  <programme start="20261106192500 +0000" stop="20261106202000 +0000" channel="AELatinAmerica.us@Panregional">
+    <title lang="es">Las primeras 48 minutos criticos</title>
+  </programme>
+  <programme start="20261106202000 +0000" stop="20261106211500 +0000" channel="AELatinAmerica.us@Panregional">
+    <title lang="es">Las primeras 48 minutos criticos</title>
+  </programme>
+  <programme start="20261106211500 +0000" stop="20261106214500 +0000" channel="AELatinAmerica.us@Panregional">
     <title lang="es">¿Quién da má$?</title>
   </programme>
-  <programme start="20261106132000 +0000" stop="20261106140500 +0000" channel="AELatinAmerica.us@Panregional">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20261106140500 +0000" stop="20261106145500 +0000" channel="AELatinAmerica.us@Panregional">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20261106145500 +0000" stop="20261106155000 +0000" channel="AELatinAmerica.us@Panregional">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20261106155000 +0000" stop="20261106164500 +0000" channel="AELatinAmerica.us@Panregional">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20261106164500 +0000" stop="20261106174000 +0000" channel="AELatinAmerica.us@Panregional">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20261106174000 +0000" stop="20261106183500 +0000" channel="AELatinAmerica.us@Panregional">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20261106183500 +0000" stop="20261106193000 +0000" channel="AELatinAmerica.us@Panregional">
-    <title lang="es">Las primeras 48 minutos criticos</title>
-  </programme>
-  <programme start="20261106193000 +0000" stop="20261106202500 +0000" channel="AELatinAmerica.us@Panregional">
-    <title lang="es">Las primeras 48 minutos criticos</title>
-  </programme>
-  <programme start="20261106202500 +0000" stop="20261106212000 +0000" channel="AELatinAmerica.us@Panregional">
-    <title lang="es">Las primeras 48 minutos criticos</title>
-  </programme>
-  <programme start="20261106212000 +0000" stop="20261106221500 +0000" channel="AELatinAmerica.us@Panregional">
-    <title lang="es">Las primeras 48 minutos criticos</title>
-  </programme>
-  <programme start="20261106221500 +0000" stop="20261106224500 +0000" channel="AELatinAmerica.us@Panregional">
+  <programme start="20261106214500 +0000" stop="20261106221000 +0000" channel="AELatinAmerica.us@Panregional">
     <title lang="es">¿Quién da má$?</title>
   </programme>
-  <programme start="20261106224500 +0000" stop="20261106231000 +0000" channel="AELatinAmerica.us@Panregional">
+  <programme start="20261106221000 +0000" stop="20261106224000 +0000" channel="AELatinAmerica.us@Panregional">
     <title lang="es">¿Quién da má$?</title>
   </programme>
-  <programme start="20261106231000 +0000" stop="20261106234000 +0000" channel="AELatinAmerica.us@Panregional">
+  <programme start="20261106224000 +0000" stop="20261106230500 +0000" channel="AELatinAmerica.us@Panregional">
     <title lang="es">¿Quién da má$?</title>
   </programme>
-  <programme start="20261106234000 +0000" stop="20261107000500 +0000" channel="AELatinAmerica.us@Panregional">
-    <title lang="es">¿Quién da má$?</title>
-  </programme>
-  <programme start="20261107000500 +0000" stop="20261107010000 +0000" channel="AELatinAmerica.us@Panregional">
+  <programme start="20261106230500 +0000" stop="20261107000000 +0000" channel="AELatinAmerica.us@Panregional">
     <title lang="es">Las Primeras 48 Horas</title>
   </programme>
-  <programme start="20261107010000 +0000" stop="20261107015500 +0000" channel="AELatinAmerica.us@Panregional">
+  <programme start="20261107000000 +0000" stop="20261107005500 +0000" channel="AELatinAmerica.us@Panregional">
     <title lang="es">Las Primeras 48 Horas</title>
   </programme>
-  <programme start="20261107015500 +0000" stop="20261107025000 +0000" channel="AELatinAmerica.us@Panregional">
+  <programme start="20261107005500 +0000" stop="20261107015000 +0000" channel="AELatinAmerica.us@Panregional">
     <title lang="es">Las Primeras 48 Horas</title>
   </programme>
-  <programme start="20261107025000 +0000" stop="20261107034500 +0000" channel="AELatinAmerica.us@Panregional">
+  <programme start="20261107015000 +0000" stop="20261107024500 +0000" channel="AELatinAmerica.us@Panregional">
     <title lang="es">Las primeras 48 minutos criticos</title>
   </programme>
-  <programme start="20261107034500 +0000" stop="20261107044000 +0000" channel="AELatinAmerica.us@Panregional">
+  <programme start="20261107024500 +0000" stop="20261107034000 +0000" channel="AELatinAmerica.us@Panregional">
     <title lang="es">Las primeras 48 minutos criticos</title>
   </programme>
-  <programme start="20261107044000 +0000" stop="20261107053000 +0000" channel="AELatinAmerica.us@Panregional">
+  <programme start="20261107034000 +0000" stop="20261107043000 +0000" channel="AELatinAmerica.us@Panregional">
     <title lang="es">Las primeras 48 minutos criticos</title>
   </programme>
-  <programme start="20261106122000 +0000" stop="20261106131000 +0000" channel="AXN.br@SD">
-    <title lang="pt">S.W.A.T.</title>
-    <desc lang="pt">A S.W.A.T. faz parceria com a DEA para localizar lançadores de foguetes roubados e contrabandeados para Los Angeles; surge uma questão pessoal que Tan tem que resolver.</desc>
-    <category lang="pt">Temporada 5 Episódio 10 - Three Guns</category>
-    <image>https://cdn.mitvstatic.com/programs/br_s-w-a-t-s05e10-three-guns_l_m.jpg</image>
-  </programme>
-  <programme start="20261106131000 +0000" stop="20261106140000 +0000" channel="AXN.br@SD">
-    <title lang="pt">NCIS</title>
-    <desc lang="pt">O time NCIS investiga a morte de um oficial da Marinha assassinado da mesma forma que seus pais dez anos atrás. Eles vasculham um contêiner repleto de casas de boneca que exibem a recriação de cenas de assassinato. Além disso, a equipe concorda em limpar seus espaços de trabalho, mas alguns têm mais dificuldades em se despedir dos objetos do que outros.</desc>
-    <category lang="pt">Temporada 17 Episódio 17 - In a Nutshell</category>
-    <image>https://cdn.mitvstatic.com/programs/br_ncis-s17e17-in-a-nutshell_l_m.jpg</image>
+  <programme start="20261107043000 +0000" stop="20261107051500 +0000" channel="AELatinAmerica.us@Panregional">
+    <title lang="es">Las primeras 48 minutos criticos</title>
   </programme>
   <programme start="20261106140000 +0000" stop="20261106145500 +0000" channel="AXN.br@SD">
     <title lang="pt">NCIS</title>
@@ -530,18 +510,6 @@
     <desc lang="pt">Com um curador de galeria encontrado assassinado e uma escultura desaparecida, Charlie, Rex e Sarah são lançados no mundo da arte erudita. Enquanto isso, Jesse tem dificuldade em acompanhar Sarah após concordar em começar a correr com ela.</desc>
     <category lang="pt">Temporada 1 Episódio 10 - Art of Darkness</category>
     <image>https://cdn.mitvstatic.com/programs/br_hudson-rex-s01e10-art-of-darkness_l_m.jpg</image>
-  </programme>
-  <programme start="20261106120000 +0000" stop="20261106135000 +0000" channel="AmericaParaguay.py@SD">
-    <title lang="es">América noticias - Primera edición</title>
-    <desc lang="es">Veracidad, agilidad y carisma. El primer contacto del público con la información, de la mano de nuestro equipo de periodistas.</desc>
-    <category lang="es">Noticiero</category>
-    <image>https://cdn.mitvstatic.com/programs/py_america-noticias-primera-edicion-1_l_m.jpg</image>
-  </programme>
-  <programme start="20261106135000 +0000" stop="20261106141000 +0000" channel="AmericaParaguay.py@SD">
-    <title lang="es">América deportes</title>
-    <desc lang="es">Descubre los acontecimientos más importantes en el mundo del deporte.</desc>
-    <category lang="es">América deportes</category>
-    <image>https://cdn.mitvstatic.com/programs/py_deportivo-america-deportes_l_m.jpg</image>
   </programme>
   <programme start="20261106141000 +0000" stop="20261106143000 +0000" channel="AmericaParaguay.py@SD">
     <title lang="es">América espectáculos</title>
@@ -809,51 +777,42 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20261106125800 +0000" stop="20261106134000 +0000" channel="Antena3Internacional.es@SD">
-    <title lang="es">Noticias 1</title>
-  </programme>
-  <programme start="20261106134000 +0000" stop="20261106173200 +0000" channel="Antena3Internacional.es@SD">
+  <programme start="20261106124000 +0000" stop="20261106163200 +0000" channel="Antena3Internacional.es@SD">
     <title lang="es">Espejo público</title>
     <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
     <image>https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg</image>
   </programme>
-  <programme start="20261106173200 +0000" stop="20261106180000 +0000" channel="Antena3Internacional.es@SD">
+  <programme start="20261106163200 +0000" stop="20261106170000 +0000" channel="Antena3Internacional.es@SD">
     <title lang="es">Cocina abierta</title>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261106190200 +0000" channel="Antena3Internacional.es@SD">
+  <programme start="20261106170000 +0000" stop="20261106180200 +0000" channel="Antena3Internacional.es@SD">
     <title lang="es">Pasapalabra</title>
   </programme>
-  <programme start="20261106190200 +0000" stop="20261106194300 +0000" channel="Antena3Internacional.es@SD">
+  <programme start="20261106180200 +0000" stop="20261106184300 +0000" channel="Antena3Internacional.es@SD">
     <title lang="es">Noticias 2</title>
   </programme>
-  <programme start="20261106194300 +0000" stop="20261106210300 +0000" channel="Antena3Internacional.es@SD">
+  <programme start="20261106184300 +0000" stop="20261106200300 +0000" channel="Antena3Internacional.es@SD">
     <title lang="es">Y ahora Sonsoles</title>
   </programme>
-  <programme start="20261106210300 +0000" stop="20261106220400 +0000" channel="Antena3Internacional.es@SD">
+  <programme start="20261106200300 +0000" stop="20261106210400 +0000" channel="Antena3Internacional.es@SD">
     <title lang="es">Sueños de libertad</title>
   </programme>
-  <programme start="20261106220400 +0000" stop="20261106233000 +0000" channel="Antena3Internacional.es@SD">
+  <programme start="20261106210400 +0000" stop="20261106223000 +0000" channel="Antena3Internacional.es@SD">
     <title lang="es">La ruleta de la suerte</title>
     <desc lang="es">Tres concursantes deben de adivinar las letras que forman una palabra o frase con la ayuda de una ruleta que tiene 24 opciones diferentes.</desc>
     <image>https://imagenes.gatotv.com/categorias/programas/miniatura/la_ruleta_de_la_suerte.jpg</image>
   </programme>
-  <programme start="20261106233000 +0000" stop="20261107003000 +0000" channel="Antena3Internacional.es@SD">
+  <programme start="20261106223000 +0000" stop="20261106233000 +0000" channel="Antena3Internacional.es@SD">
     <title lang="es">Pasapalabra</title>
   </programme>
-  <programme start="20261107003000 +0000" stop="20261107011500 +0000" channel="Antena3Internacional.es@SD">
+  <programme start="20261106233000 +0000" stop="20261107001500 +0000" channel="Antena3Internacional.es@SD">
     <title lang="es">El hormiguero</title>
   </programme>
-  <programme start="20261107011500 +0000" stop="20261107040000 +0000" channel="Antena3Internacional.es@SD">
+  <programme start="20261107001500 +0000" stop="20261107030000 +0000" channel="Antena3Internacional.es@SD">
     <title lang="es">La voz</title>
   </programme>
-  <programme start="20261107040000 +0000" stop="20261107070000 +0000" channel="Antena3Internacional.es@SD">
+  <programme start="20261107030000 +0000" stop="20261107060000 +0000" channel="Antena3Internacional.es@SD">
     <title lang="es">Aquí no hay quién viva</title>
-  </programme>
-  <programme start="20261106114500 +0000" stop="20261106133000 +0000" channel="Arte1.br@SD">
-    <title lang="pt">Hitler vs. Picasso - A Obsessão Nazista pela Arte</title>
-    <desc lang="pt">Em 1937, sob as ordens de Hitler e Göring, os nazistas começaram a pilhar peças de arte clássica. Obras que foram confiscadas de museus em território ocupado e retiradas da casa de colecionadores de arte, particularmente de judeus. As obras-primas consideradas degeneradas pelos nazistas foram vendidas em leilões e as receitas foram parar nos cofres do estado. A pilhagem continuou até o final da guerra.</desc>
-    <category lang="pt">Documentary / 2018</category>
-    <image>https://cdn.mitvstatic.com/programs/br_hitler-vs-picasso-a-obsess-o-nazista-pela-arte-2018_l_m.jpg</image>
   </programme>
   <programme start="20261106133000 +0000" stop="20261106143000 +0000" channel="Arte1.br@SD">
     <title lang="pt">As Quatro Estações de Vivaldi - Concerto em Veneza</title>
@@ -974,30 +933,6 @@
     <desc lang="pt">A história de uma das primeiras montadoras do Brasil, Eunice Gutman. Quando dirigiu "A Rocinha Tem Histórias" e "Palavra de Mulher", o seu olhar crítico e feminista transformou o cinema do país.</desc>
     <category lang="pt">Temporada 2 Episódio 4 - Eunice Gutman</category>
     <image>https://cdn.mitvstatic.com/programs/br_material-bruto-a-memoria-do-cinema-brasileiro-s02e04-eunice-gutman_l_m.jpg</image>
-  </programme>
-  <programme start="20261106150923 +0000" stop="20261106161023 +0000" channel="BBCDrama.uk@Spain">
-    <title lang="es">Los Mosqueteros: Materias primas</title>
-    <sub-title>Materias primas</sub-title>
-    <desc lang="es">Los mosqueteros deben acompañar a un mercader de mala fama y a un explorador a París, mientras Athos se enfrenta con su pasado.</desc>
-    <date>20140101</date>
-    <category lang="es">Action</category>
-    <category lang="es">Series</category>
-    <icon src="https://images.pluto.tv/series/61163dbead40550013ab41ac/tile_1769453298594.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900" />
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="pluto">611a40e2e43c55001a662605</episode-num>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-  </programme>
-  <programme start="20261106161023 +0000" stop="20261106171123 +0000" channel="BBCDrama.uk@Spain">
-    <title lang="es">Los Mosqueteros: El buen soldado</title>
-    <sub-title>El buen soldado</sub-title>
-    <desc lang="es">Aramis ve puesta a prueba su fidelidad con el ejército cuando acepta ayudar a un viejo amigo a descubrir la verdad detrás de una desastrosa misión.</desc>
-    <date>20140101</date>
-    <category lang="es">Action</category>
-    <category lang="es">Series</category>
-    <icon src="https://images.pluto.tv/series/61163dbead40550013ab41ac/tile_1769453298594.jpg?fill=blur&amp;amp;fit=fill&amp;amp;fm=jpg&amp;amp;h=900&amp;amp;q=75&amp;amp;w=900" />
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="pluto">611a40e2e43c55001a6625e3</episode-num>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
   </programme>
   <programme start="20261106171123 +0000" stop="20261106181223 +0000" channel="BBCDrama.uk@Spain">
     <title lang="es">Los Mosqueteros: El regreso a casa</title>
@@ -1154,131 +1089,104 @@
     <episode-num system="pluto">65366148bdf3cf00088a7728</episode-num>
     <episode-num system="original-air-date">20150101000000 +0000</episode-num>
   </programme>
-  <programme start="20261106130000 +0000" stop="20261106133000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">Verified Live</title>
-  </programme>
-  <programme start="20261106133000 +0000" stop="20261106140000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">Verified Live</title>
-  </programme>
   <programme start="20261106140000 +0000" stop="20261106143000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">Verified Live</title>
   </programme>
-  <programme start="20261106143000 +0000" stop="20261106145500 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">Verified Live</title>
-  </programme>
-  <programme start="20261106145500 +0000" stop="20261106150000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">The Travel Show</title>
+  <programme start="20261106143000 +0000" stop="20261106150000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Focus on Africa</title>
   </programme>
   <programme start="20261106150000 +0000" stop="20261106153000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">Verified Live</title>
+    <title lang="es">The World Today with Maryam Moshiri</title>
   </programme>
   <programme start="20261106153000 +0000" stop="20261106160000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">Focus on Africa</title>
+    <title lang="es">The World Today with Maryam Moshiri</title>
   </programme>
   <programme start="20261106160000 +0000" stop="20261106163000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">The World Today with Maryam Moshiri</title>
   </programme>
-  <programme start="20261106163000 +0000" stop="20261106170000 +0000" channel="BBCNews.uk@LatinAmerica">
+  <programme start="20261106163000 +0000" stop="20261106165500 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">The World Today with Maryam Moshiri</title>
+  </programme>
+  <programme start="20261106165500 +0000" stop="20261106170000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">The Travel Show</title>
   </programme>
   <programme start="20261106170000 +0000" stop="20261106173000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">The World Today with Maryam Moshiri</title>
+    <title lang="es">The Context USA</title>
   </programme>
-  <programme start="20261106173000 +0000" stop="20261106175500 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme start="20261106175500 +0000" stop="20261106180000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">The Travel Show</title>
+  <programme start="20261106173000 +0000" stop="20261106180000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">The Context USA</title>
   </programme>
   <programme start="20261106180000 +0000" stop="20261106183000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">The Context USA</title>
+    <title lang="es">The Context</title>
   </programme>
-  <programme start="20261106183000 +0000" stop="20261106190000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">The Context USA</title>
+  <programme start="20261106183000 +0000" stop="20261106185500 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">The Context</title>
+  </programme>
+  <programme start="20261106185500 +0000" stop="20261106190000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">The Travel Show</title>
   </programme>
   <programme start="20261106190000 +0000" stop="20261106193000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">The Context</title>
+    <title lang="es">BBC World News America</title>
   </programme>
-  <programme start="20261106193000 +0000" stop="20261106195500 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">The Context</title>
-  </programme>
-  <programme start="20261106195500 +0000" stop="20261106200000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">The Travel Show</title>
+  <programme start="20261106193000 +0000" stop="20261106200000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">A confirmar</title>
   </programme>
   <programme start="20261106200000 +0000" stop="20261106203000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC World News America</title>
   </programme>
-  <programme start="20261106203000 +0000" stop="20261106210000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20261106210000 +0000" stop="20261106213000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">BBC World News America</title>
-  </programme>
-  <programme start="20261106213000 +0000" stop="20261106214500 +0000" channel="BBCNews.uk@LatinAmerica">
+  <programme start="20261106203000 +0000" stop="20261106204500 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">The President's Path</title>
   </programme>
-  <programme start="20261106214500 +0000" stop="20261106220000 +0000" channel="BBCNews.uk@LatinAmerica">
+  <programme start="20261106204500 +0000" stop="20261106210000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
+  </programme>
+  <programme start="20261106210000 +0000" stop="20261106213000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">BBC News</title>
+  </programme>
+  <programme start="20261106213000 +0000" stop="20261106220000 +0000" channel="BBCNews.uk@LatinAmerica">
+    <title lang="es">Talking Business</title>
   </programme>
   <programme start="20261106220000 +0000" stop="20261106223000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
   </programme>
   <programme start="20261106223000 +0000" stop="20261106230000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">Talking Business</title>
+    <title lang="es">Tech Now</title>
   </programme>
   <programme start="20261106230000 +0000" stop="20261106233000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
   </programme>
   <programme start="20261106233000 +0000" stop="20261107000000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">Tech Now</title>
+    <title lang="es">Clive Myrie's African Adventure</title>
   </programme>
   <programme start="20261107000000 +0000" stop="20261107003000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
   </programme>
   <programme start="20261107003000 +0000" stop="20261107010000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">Clive Myrie's African Adventure</title>
+    <title lang="es">A confirmar</title>
   </programme>
   <programme start="20261107010000 +0000" stop="20261107013000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
   </programme>
   <programme start="20261107013000 +0000" stop="20261107020000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">A confirmar</title>
+    <title lang="es">The Media Show</title>
   </programme>
   <programme start="20261107020000 +0000" stop="20261107023000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
   </programme>
   <programme start="20261107023000 +0000" stop="20261107030000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">The Media Show</title>
+    <title lang="es">The Travel Show</title>
   </programme>
   <programme start="20261107030000 +0000" stop="20261107033000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
   </programme>
   <programme start="20261107033000 +0000" stop="20261107040000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">The Travel Show</title>
+    <title lang="es">AI Decoded</title>
   </programme>
   <programme start="20261107040000 +0000" stop="20261107043000 +0000" channel="BBCNews.uk@LatinAmerica">
     <title lang="es">BBC News</title>
   </programme>
   <programme start="20261107043000 +0000" stop="20261107050000 +0000" channel="BBCNews.uk@LatinAmerica">
-    <title lang="es">AI Decoded</title>
-  </programme>
-  <programme start="20261106140000 +0000" stop="20261106143000 +0000" channel="BBCNews.uk@UK">
-    <title lang="es">BBC News Now</title>
-    <desc lang="es">Boletín de noticias y análisis en profundidad de los temas de actualidad. Presenta Lucy Hockings.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MBBCP3240300" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MBBCF3240300.jpg</image>
-  </programme>
-  <programme start="20261106143000 +0000" stop="20261106144500 +0000" channel="BBCNews.uk@UK">
-    <title lang="es">Business Today - NYSE Opening Bell</title>
-    <desc lang="es">Boletín de noticias y análisis en profundidad de los temas de actualidad económica en Nueva York y de todo el mundo.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MBBCP3348926" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MBBCF3348926.jpg</image>
-  </programme>
-  <programme start="20261106144500 +0000" stop="20261106150000 +0000" channel="BBCNews.uk@UK">
-    <title lang="es">BBC News Now</title>
-    <desc lang="es">Boletín de noticias y análisis en profundidad de los temas de actualidad. Presenta Lucy Hockings.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MBBCP3240300" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MBBCF3240300.jpg</image>
+    <title lang="es">Tech Now</title>
   </programme>
   <programme start="20261106150000 +0000" stop="20261106153000 +0000" channel="BBCNews.uk@UK">
     <title lang="es">Verified Live</title>
@@ -1562,6 +1470,24 @@
     <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MBBCP4011991" />
     <image>https://estatico.emisiondof6.com/recorte/n/vegend/MBBCF4011991.jpg</image>
   </programme>
+  <programme start="20261107140000 +0000" stop="20261107143000 +0000" channel="BBCNews.uk@UK">
+    <title lang="es">BBC News with Katty and Christian</title>
+    <desc lang="es">Katty Kay en Washington y Christian Fraser en Londres informan sobre las noticias más importantes que están dando forma al mundo.</desc>
+    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MBBCP1827235" />
+    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MBBCF1827235.jpg</image>
+  </programme>
+  <programme start="20261107143000 +0000" stop="20261107150000 +0000" channel="BBCNews.uk@UK">
+    <title lang="es">The Media Show</title>
+    <desc lang="es">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MBBCP3860684" />
+    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MBBCF3860684.jpg</image>
+  </programme>
+  <programme start="20261107150000 +0000" stop="20261107153000 +0000" channel="BBCNews.uk@UK">
+    <title lang="es">BBC News with Katty and Christian</title>
+    <desc lang="es">Katty Kay en Washington y Christian Fraser en Londres informan sobre las noticias más importantes que están dando forma al mundo.</desc>
+    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MBBCP1827235" />
+    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MBBCF1827235.jpg</image>
+  </programme>
   <programme start="20261106130000 +0000" stop="20261106150000 +0000" channel="Canal26.ar@SD">
     <title lang="es">26 News</title>
     <desc lang="es">Manténgase informado sobre todo el acontecer local e internacional.</desc>
@@ -1628,10 +1554,6 @@
     <category lang="es">Noticiero</category>
     <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
   </programme>
-  <programme start="20261106115110 +0000" stop="20261106134048 +0000" channel="CineRomantico.us@SD">
-    <title lang="en">A Boyfriend For Christmas</title>
-    <desc lang="en">Un hombre cuyo aspecto le es familiar puede ser la respuesta a un antiguo deseo navideño de una mujer de 33 años.</desc>
-  </programme>
   <programme start="20261106134048 +0000" stop="20261106152123 +0000" channel="CineRomantico.us@SD">
     <title lang="en">A Carol Christmas</title>
     <desc lang="en">Una ejecutiva insensible es revelada los errores de sus acciones por cuatro fastamas, cambiando asi su actitude a tiempo para Navidad.</desc>
@@ -1660,31 +1582,31 @@
     <title lang="en">All I Want For Christmas</title>
     <desc lang="en">Un niño le pide a los organizadores de un torneo que le encuentren un esposo a su madre (Gail O'Grady), una viuda.</desc>
   </programme>
-  <programme start="20261106120400 +0000" stop="20261106143900 +0000" channel="CineSony.us@SD">
-    <title lang="es">Southland Tales</title>
-  </programme>
-  <programme start="20261106143900 +0000" stop="20261106162800 +0000" channel="CineSony.us@SD">
+  <programme start="20261106133900 +0000" stop="20261106152800 +0000" channel="CineSony.us@SD">
     <title lang="es">Predestination</title>
   </programme>
-  <programme start="20261106162800 +0000" stop="20261106181200 +0000" channel="CineSony.us@SD">
+  <programme start="20261106152800 +0000" stop="20261106171200 +0000" channel="CineSony.us@SD">
     <title lang="es">Infinitely polar bear</title>
   </programme>
-  <programme start="20261106181200 +0000" stop="20261106195400 +0000" channel="CineSony.us@SD">
+  <programme start="20261106171200 +0000" stop="20261106185400 +0000" channel="CineSony.us@SD">
     <title lang="es">The Myth of Fingerprints</title>
   </programme>
-  <programme start="20261106195400 +0000" stop="20261106220500 +0000" channel="CineSony.us@SD">
+  <programme start="20261106185400 +0000" stop="20261106210500 +0000" channel="CineSony.us@SD">
     <title lang="es">The Social Network</title>
     <desc lang="es">Un estudiante de Harvard Mark Zuckerberg se sienta en su computadora y empieza a trabajar en una red social mundial a que sin saberlo cambiará el mundo.</desc>
     <image>https://imagenes.gatotv.com/categorias/peliculas/miniatura/the_social_network.jpg</image>
   </programme>
-  <programme start="20261106220500 +0000" stop="20261107003000 +0000" channel="CineSony.us@SD">
+  <programme start="20261106210500 +0000" stop="20261106233000 +0000" channel="CineSony.us@SD">
     <title lang="es">Captain Phillips</title>
   </programme>
-  <programme start="20261107003000 +0000" stop="20261107030000 +0000" channel="CineSony.us@SD">
+  <programme start="20261106233000 +0000" stop="20261107020000 +0000" channel="CineSony.us@SD">
     <title lang="es">A few good men</title>
   </programme>
-  <programme start="20261107030000 +0000" stop="20261107052500 +0000" channel="CineSony.us@SD">
+  <programme start="20261107020000 +0000" stop="20261107042500 +0000" channel="CineSony.us@SD">
     <title lang="es">Black Hawk Down</title>
+  </programme>
+  <programme start="20261107042500 +0000" stop="20261107055500 +0000" channel="CineSony.us@SD">
+    <title lang="es">Dragon wars</title>
   </programme>
   <programme start="20261106000000 +0000" stop="20261107000000 +0000" channel="CineWestern.es@SD">
     <title lang="es">Cine Western</title>
@@ -1761,24 +1683,6 @@
       <value>12</value>
     </rating>
     <image>https://provider-static.plex.tv/epg/cms/production/96c8f674-f6b3-4f00-92e6-cfd98dca03b9/Logo_2000X3000_-_Background_-_Cin__Western_-_Zylo_Paris.jpg</image>
-  </programme>
-  <programme start="20261106124500 +0000" stop="20261106131000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
-    <title lang="es">Frasier</title>
-    <desc lang="es">Martin se postula para presidente de la junta del condominio y Frasier hace todo el trabajo.</desc>
-    <category lang="es">Temporada 10 Episodio 3 - Poder Prexy</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
-  </programme>
-  <programme start="20261106131000 +0000" stop="20261106133000 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
-    <title lang="es">Frasier</title>
-    <desc lang="es">El joven primo agresivo y obstinado de Roz la visita en la ciudad, logrando alienar a todos excepto a Kenny.</desc>
-    <category lang="es">Temporada 10 Episodio 4 - Besos a la prima</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
-  </programme>
-  <programme start="20261106133000 +0000" stop="20261106135500 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
-    <title lang="es">Frasier</title>
-    <desc lang="es">La fiesta de Halloween activa la creatividad cómica de todos y se realiza una na competición a la mejor broma.</desc>
-    <category lang="es">Temporada 10 Episodio 5 - Cuentos de la cripta</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
   </programme>
   <programme start="20261106135500 +0000" stop="20261106141500 +0000" channel="ComedyCentralLatinAmerica.us@Panregional">
     <title lang="es">Frasier</title>
@@ -2032,12 +1936,6 @@
     <category lang="es">Temporada 23 Episodio 1 - Guasón mexicano</category>
     <image>https://cdn.mitvstatic.com/programs/ar_south-park-s23e01-mexican-joker_l_m.jpg</image>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106133700 +0000" channel="DePeliculaLatinAmerica.mx@SD">
-    <title lang="es">El planeta de las mujeres invasoras</title>
-    <desc lang="es">Una nave espacial, infestada de mujeres guerreras alienígenas de otro planeta, aterriza en México con un solo propósito: llevarse algunos especímenes humanos para copiar su sistema respiratorio y poder organizar una invasión más numerosa.</desc>
-    <category lang="es">C.Ficción / 1965</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_el-planeta-de-las-mujeres-invasoras-1965_l_m.jpg</image>
-  </programme>
   <programme start="20261106133700 +0000" stop="20261106152900 +0000" channel="DePeliculaLatinAmerica.mx@SD">
     <title lang="es">El ropavejero</title>
     <desc lang="es">Cirilo es un vendedor de ropa usada que sueña con comprar una granja para su vecino y la mujer de éste. En sus intentos por conseguir el dinero necesario vivirá grandes aventuras y conocerá el amor.</desc>
@@ -2092,129 +1990,113 @@
     <category lang="es">Drama / 1982</category>
     <image>https://cdn.mitvstatic.com/programs/ar_la-golfa-del-barrio-1982_l_m.jpg</image>
   </programme>
-  <programme start="20261106124000 +0000" stop="20261106130500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">La escuela del terror de Casper</title>
-  </programme>
-  <programme start="20261106130500 +0000" stop="20261106133000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">Home: las aventuras de Tip y Oh</title>
-  </programme>
-  <programme start="20261106133000 +0000" stop="20261106135500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">Home: las aventuras de Tip y Oh</title>
-  </programme>
-  <programme start="20261106135500 +0000" stop="20261106142000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">El Show de Peabody y Sherman</title>
-  </programme>
-  <programme start="20261106142000 +0000" stop="20261106144500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">El Show de Peabody y Sherman</title>
-  </programme>
-  <programme start="20261106144500 +0000" stop="20261106151000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
-    <title lang="es">El Show de Peabody y Sherman</title>
-  </programme>
-  <programme start="20261106151000 +0000" stop="20261106153500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106141000 +0000" stop="20261106143500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras de la calle Harvey</title>
   </programme>
-  <programme start="20261106153500 +0000" stop="20261106160000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106143500 +0000" stop="20261106150000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras de la calle Harvey</title>
   </programme>
-  <programme start="20261106160000 +0000" stop="20261106162500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106150000 +0000" stop="20261106152500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Glitter Model</title>
   </programme>
-  <programme start="20261106162500 +0000" stop="20261106165000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106152500 +0000" stop="20261106155000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Glitter Model</title>
   </programme>
-  <programme start="20261106165000 +0000" stop="20261106171500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106155000 +0000" stop="20261106161500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras del Gato con Botas</title>
   </programme>
-  <programme start="20261106171500 +0000" stop="20261106173500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106161500 +0000" stop="20261106163500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras del Gato con Botas</title>
   </programme>
-  <programme start="20261106173500 +0000" stop="20261106180000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106163500 +0000" stop="20261106170000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras del Gato con Botas</title>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261106182500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106170000 +0000" stop="20261106172500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls ¡No pierdas el ritmo!</title>
   </programme>
-  <programme start="20261106182500 +0000" stop="20261106185000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106172500 +0000" stop="20261106175000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls ¡No pierdas el ritmo!</title>
   </programme>
-  <programme start="20261106185000 +0000" stop="20261106191500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106175000 +0000" stop="20261106181500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls ¡No pierdas el ritmo!</title>
   </programme>
-  <programme start="20261106191500 +0000" stop="20261106194000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106181500 +0000" stop="20261106184000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
-  <programme start="20261106194000 +0000" stop="20261106200500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106184000 +0000" stop="20261106190500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
-  <programme start="20261106200500 +0000" stop="20261106203000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106190500 +0000" stop="20261106193000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
-  <programme start="20261106203000 +0000" stop="20261106205500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106193000 +0000" stop="20261106195500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos en el espacio</title>
   </programme>
-  <programme start="20261106205500 +0000" stop="20261106212000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106195500 +0000" stop="20261106202000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos en el espacio</title>
   </programme>
-  <programme start="20261106212000 +0000" stop="20261106214500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106202000 +0000" stop="20261106204500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos en el espacio</title>
   </programme>
-  <programme start="20261106214500 +0000" stop="20261106221000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106204500 +0000" stop="20261106211000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
-  <programme start="20261106221000 +0000" stop="20261106223500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106211000 +0000" stop="20261106213500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
-  <programme start="20261106223500 +0000" stop="20261106230000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106213500 +0000" stop="20261106220000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Kung Fu Panda: The Paws of Destiny</title>
   </programme>
-  <programme start="20261106230000 +0000" stop="20261106232500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106220000 +0000" stop="20261106222500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls ¡No pierdas el ritmo!</title>
   </programme>
-  <programme start="20261106232500 +0000" stop="20261106235000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106222500 +0000" stop="20261106225000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls ¡No pierdas el ritmo!</title>
   </programme>
-  <programme start="20261106235000 +0000" stop="20261107001500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106225000 +0000" stop="20261106231500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Trolls ¡No pierdas el ritmo!</title>
   </programme>
-  <programme start="20261107001500 +0000" stop="20261107004000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106231500 +0000" stop="20261106234000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
-  <programme start="20261107004000 +0000" stop="20261107010500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261106234000 +0000" stop="20261107000500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
-  <programme start="20261107010500 +0000" stop="20261107013000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261107000500 +0000" stop="20261107003000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
   </programme>
-  <programme start="20261107013000 +0000" stop="20261107015500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261107003000 +0000" stop="20261107005500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos en el espacio</title>
   </programme>
-  <programme start="20261107015500 +0000" stop="20261107022000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261107005500 +0000" stop="20261107012000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos en el espacio</title>
   </programme>
-  <programme start="20261107022000 +0000" stop="20261107024500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261107012000 +0000" stop="20261107014500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las épicas aventuras del Capitán Calzoncillos en el espacio</title>
   </programme>
-  <programme start="20261107024500 +0000" stop="20261107031000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261107014500 +0000" stop="20261107021000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Viva el rey Julien: En el exilio</title>
   </programme>
-  <programme start="20261107031000 +0000" stop="20261107033500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261107021000 +0000" stop="20261107023500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Viva el rey Julien: En el exilio</title>
   </programme>
-  <programme start="20261107033500 +0000" stop="20261107040000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261107023500 +0000" stop="20261107030000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Viva el rey Julien: En el exilio</title>
   </programme>
-  <programme start="20261107040000 +0000" stop="20261107042500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261107030000 +0000" stop="20261107032500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras de la calle Harvey</title>
   </programme>
-  <programme start="20261107042500 +0000" stop="20261107045000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261107032500 +0000" stop="20261107035000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">Las aventuras de la calle Harvey</title>
   </programme>
-  <programme start="20261107045000 +0000" stop="20261107051500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+  <programme start="20261107035000 +0000" stop="20261107041500 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
     <title lang="es">El amanecer de los Croods</title>
   </programme>
-  <programme start="20261106130000 +0000" stop="20261106133000 +0000" channel="DubaiTVInternational.ae@SD">
-    <title lang="en">أخبار الإمارات</title>
-    <image>https://media0106.elcinema.com/blank_photos/150x200.jpg</image>
+  <programme start="20261107041500 +0000" stop="20261107044000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">El amanecer de los Croods</title>
+  </programme>
+  <programme start="20261107044000 +0000" stop="20261107051000 +0000" channel="DreamWorksChannelLatinAmerica.us@Panregional">
+    <title lang="es">El Show de Peabody y Sherman</title>
   </programme>
   <programme start="20261106133000 +0000" stop="20261106143000 +0000" channel="DubaiTVInternational.ae@SD">
     <title lang="en">برنامج وجهان لحكاية</title>
@@ -2235,12 +2117,6 @@
   <programme start="20261106163000 +0000" stop="20261106173000 +0000" channel="DubaiTVInternational.ae@SD">
     <title lang="en">السبت</title>
     <image>https://media0106.elcinema.com/blank_photos/150x200.jpg</image>
-  </programme>
-  <programme start="20261106120000 +0000" stop="20261106133000 +0000" channel="ElTreceInternacionalLatinAmerica.ar@SD">
-    <title lang="es">La mañana con Moria</title>
-    <desc lang="es">Un provocador magazine de actualidad, con la conducción de Moria Casán y su lengua karateka. El espacio tendrá debates sobre los temas del día, actualidad, policiales, política, espectáculos, salud y entretenimiento.</desc>
-    <category lang="es">Magazine</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg</image>
   </programme>
   <programme start="20261106133000 +0000" stop="20261106153000 +0000" channel="ElTreceInternacionalLatinAmerica.ar@SD">
     <title lang="es">Puro show</title>
@@ -2313,19 +2189,6 @@
     <desc lang="es">Fin de transmisión.</desc>
     <category lang="es">Variedades</category>
     <image>https://cdn.mitvstatic.com/programs/ar_fin-de-transmision_l_m.jpg</image>
-  </programme>
-  <programme start="20261106120903 +0000" stop="20261106140807 +0000" channel="FIFAPlus.uk@HispanicAmerica">
-    <title lang="es">Inter Miami CF vs FC Porto | Grupo A | Mundial de Clubes FIFA 2025™ | Partido Completo</title>
-    <sub-title lang="es">Episode 1</sub-title>
-    <desc lang="es">Vídeo del partido completo entre Inter Miami CF y FC Porto jugado en el Estadio Mercedes-Benz, Atlanta el jueves, 19 de junio de 2025 a las 15:00 (hora local).</desc>
-    <date>20250627</date>
-    <category lang="es">Sports</category>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <rating>
-      <value>A</value>
-    </rating>
-    <image>https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/41428-43476/85137622-default_v1.jpg</image>
   </programme>
   <programme start="20261106140807 +0000" stop="20261106160625 +0000" channel="FIFAPlus.uk@HispanicAmerica">
     <title lang="es">Palmeiras vs Chelsea FC | Cuartos de final | Mundial de Clubes FIFA 2025™ | Partido Completo</title>
@@ -2483,14 +2346,6 @@
     </rating>
     <image>https://partner-upload-assets.wurl.com/sysdata_s_p_a/132569.jpg</image>
   </programme>
-  <programme start="20261106130000 +0000" stop="20261106140000 +0000" channel="FashionBox.nl@SD">
-    <title lang="en">City Chic</title>
-    <desc lang="en">S03E14 social/political</desc>
-    <category lang="en">Aktuálne záležitosti</category>
-    <category lang="en">Politika</category>
-    <episode-num system="xmltv_ns">2.13.0/1</episode-num>
-    <episode-num system="onscreen">S03E14</episode-num>
-  </programme>
   <programme start="20261106140000 +0000" stop="20261106150000 +0000" channel="FashionBox.nl@SD">
     <title lang="en">Couture Fall Winter 2018</title>
     <desc lang="en">E04 social/political</desc>
@@ -2611,16 +2466,6 @@
     <episode-num system="xmltv_ns">2.0.0/1</episode-num>
     <episode-num system="onscreen">S03E01</episode-num>
   </programme>
-  <programme start="20261106130000 +0000" stop="20261106133000 +0000" channel="FashionTV.in@SD">
-    <title lang="en">Fashion from South Africa</title>
-    <desc lang="en">A look at the talent explosion in the world of South African fashion and its gifted designers.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p24179650_b_h10_ac.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261106133000 +0000" stop="20261106140000 +0000" channel="FashionTV.in@SD">
-    <title lang="en">Most Watched</title>
-    <desc lang="en">The top 20 most watched videos this week.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12330155_b_h10_ab.jpg?lock=1280x720" />
-  </programme>
   <programme start="20261106140000 +0000" stop="20261106143000 +0000" channel="FashionTV.in@SD">
     <title lang="en">Most Watched</title>
     <desc lang="en">The top 20 most watched videos this week.</desc>
@@ -2665,62 +2510,6 @@
     <title lang="en">Top Models</title>
     <desc lang="en">Runway appearances, exclusive interviews, photo shoots and more from the most famous models.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p9863059_b_h8_ad.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261106130000 +0000" stop="20261106130500 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106130500 +0000" stop="20261106131000 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106131000 +0000" stop="20261106131500 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106131500 +0000" stop="20261106132000 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106132000 +0000" stop="20261106132500 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106132500 +0000" stop="20261106133000 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106133000 +0000" stop="20261106133500 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106133500 +0000" stop="20261106134000 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106134000 +0000" stop="20261106134500 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106134500 +0000" stop="20261106135000 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106135000 +0000" stop="20261106135500 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106135500 +0000" stop="20261106140000 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106140000 +0000" stop="20261106140500 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
-  </programme>
-  <programme start="20261106140500 +0000" stop="20261106141000 +0000" channel="FashionTV.ua@SD">
-    <title lang="ru">⋗ Fashion TV</title>
-    <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
   </programme>
   <programme start="20261106141000 +0000" stop="20261106141500 +0000" channel="FashionTV.ua@SD">
     <title lang="ru">⋗ Fashion TV</title>
@@ -3187,18 +2976,6 @@
     <title lang="ru">⋗ Fashion TV</title>
     <desc lang="ru">Самые актуальные тенденции с мировых подиумов, интервью с экспертами моды, репортажи с закрытых мероприятий и закулисья показов – все это в одном эфире. Узнайте, как рождаются новые коллекции, что вдохновляет создателей моды, и какие детали становятся главными трендами сезона. Путешествуйте по столицам моды, следите за работой стилистов и визажистов, открывайте для себя свежие идеи для собственного стиля. Окунитесь в динамичный и захватывающий мир fashion-индустрии. Франция</desc>
   </programme>
-  <programme start="20261106123000 +0000" stop="20261106133000 +0000" channel="GarageTVLatinAmerica.ar@SD">
-    <title lang="es">Retromobile</title>
-    <desc lang="es">Si te gustan los vehículos clásicos, éste es tu programa. La industria automotriz del ayer rejuvenece a bordo de "Retromobile", un espacio para coleccionistas, restauradores y ejemplares que nunca pasarán de moda.</desc>
-    <category lang="es">Retromobile</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_automovilismo-retromobile_l_m.jpg</image>
-  </programme>
-  <programme start="20261106133000 +0000" stop="20261106140000 +0000" channel="GarageTVLatinAmerica.ar@SD">
-    <title lang="es">Hattemer - El legado</title>
-    <desc lang="es">Un taller familiar donde tres generaciones restauran, recuperan y customizan reliquias. Además descubrirás cómo eran los vehículos antiguos, particularidades, anécdotas. ¡Historia pura!</desc>
-    <category lang="es">Deportivo</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_hattemer-el-legado_l_m.jpg</image>
-  </programme>
   <programme start="20261106140000 +0000" stop="20261106143000 +0000" channel="GarageTVLatinAmerica.ar@SD">
     <title lang="es">Visión motor</title>
     <desc lang="es">Juan Carlos Pérez Loizeau presenta un espacio de análisis sobre la realidad automovilística con su sello de calidad. Porque no basta con saber lo que pasa, también hay que entenderlo.</desc>
@@ -3367,12 +3144,6 @@
     <category lang="es">Holy Wheels</category>
     <image>https://cdn.mitvstatic.com/programs/ar_automovilismo-holy-wheels_l_m.jpg</image>
   </programme>
-  <programme start="20261106120500 +0000" stop="20261106134000 +0000" channel="LifetimeLatinAmerica.us@Brazil">
-    <title lang="pt">Uma Volta para a Vitória</title>
-    <desc lang="pt">Após a morte da mãe, Blake é forçado a viver com seu pai irresponsável. Mas sua vida muda para melhor quando conhece uma jovem bailarina e se torna seu parceiro de dança em uma importante competição anual.</desc>
-    <category lang="pt">Holiday / 2012</category>
-    <image>https://cdn.mitvstatic.com/programs/br_uma-volta-para-a-vitoria-2012-1_l_m.jpg</image>
-  </programme>
   <programme start="20261106134000 +0000" stop="20261106151500 +0000" channel="LifetimeLatinAmerica.us@Brazil">
     <title lang="pt">Um Suéter para o Natal</title>
     <desc lang="pt">Jess deixa seu emprego em uma aclamada loja para criar uma linha de roupas sustentáveis, se junta a um fazendeiro e descobre a magia do Natal.</desc>
@@ -3439,12 +3210,6 @@
     <category lang="pt">Holiday / 2023</category>
     <image>https://cdn.mitvstatic.com/programs/br_como-se-apaixonar-no-natal-2023_l_m.jpg</image>
   </programme>
-  <programme start="20261106130000 +0000" stop="20261106140000 +0000" channel="MBCDrama.ae@SD">
-    <title lang="ar">كلنا عيال قرية</title>
-    <desc lang="ar">ينقل كريّم والذي يعمل في البنك الزراعي في مدينة عرعر إلي الرياض ويسكن مع أخيه سليّم الذي فصل من البنك بعد سرقة خزنة البنك بعدما أهمل مفتاح الخزنة وأعطاه لزميله السارق.</desc>
-    <category lang="ar">مسلسل</category>
-    <image>https://media0106.elcinema.com/uploads/_150x200_28a112887f3e67950beb56fee32955eb31ae9e212feb7647afced5612391cfa5.jpg</image>
-  </programme>
   <programme start="20261106140000 +0000" stop="20261106150000 +0000" channel="MBCDrama.ae@SD">
     <title lang="ar">Lost in Someone's Love</title>
     <desc lang="ar">في إطار درامي، تعيش ساي جوشي مع والدها وهي فتاة شجاعة وصادقة ونزيهة تطمح لأن تصبح طبيبة، ولكنها تجد نفسها في معضلة عائلية مجبرة خلالها على الزواج من ضابط شرطة.</desc>
@@ -3462,18 +3227,6 @@
     <desc lang="ar">في هذا الجزء يقوم (أبو دياب)، الذي يأتي للحارة ويُفاجأ بوجود مأمون بك زوج فريال خانوم، والذي يعرفه أبو دياب منذ أيام سجنه مع العقيد أبو شهاب في سجن أرواد، فيتنكر بدور زبال محتال.</desc>
     <category lang="ar">مسلسل</category>
     <image>https://media0106.elcinema.com/uploads/_150x200_350f3a9ab705fd86fe515e6ca16e597bac79693943af8697de1fe0c5f07c3ef6.jpg</image>
-  </programme>
-  <programme start="20261106115500 +0000" stop="20261106131000 +0000" channel="MusicBoxBrazil.br@SD">
-    <title lang="pt">Fresno no Parque Redenção - A Noite dos 100 Mil Emos</title>
-    <desc lang="pt">A banda Fresno inicia sua despedida em Porto Alegre ao reunir 100 mil fãs no Parque da Redenção em um show que marcou a história como "A Noite dos 100 Mil Emos".</desc>
-    <category lang="pt">Special</category>
-    <image>https://cdn.mitvstatic.com/programs/br_fresno-no-parque-redenc-o-a-noite-dos-100-mil-emos_l_m.jpg</image>
-  </programme>
-  <programme start="20261106131000 +0000" stop="20261106134000 +0000" channel="MusicBoxBrazil.br@SD">
-    <title lang="pt">Backstage</title>
-    <desc lang="pt">O programa embarcou no "Navegantes", cruzeiro de Marisa Monte, e viveu uma imersão poética e musical. Entre bastidores, shows emocionantes e depoimentos de fãs, a arte transformou o alto-mar em um palco inesquecível.</desc>
-    <category lang="pt">Music</category>
-    <image>https://cdn.mitvstatic.com/programs/br_backstage_l_m.jpg</image>
   </programme>
   <programme start="20261106134000 +0000" stop="20261106150000 +0000" channel="MusicBoxBrazil.br@SD">
     <title lang="pt">Jukebox</title>
@@ -3823,16 +3576,6 @@
     <category lang="pt">Music</category>
     <image>https://cdn.mitvstatic.com/programs/br_music-drops_l_m.jpg</image>
   </programme>
-  <programme start="20261106112530 +0000" stop="20261106131501 +0000" channel="MyTimeMovieNetworkEast.us@SD">
-    <title lang="en">Romantic Friction</title>
-    <desc lang="en">Artist Lea pretends to be the author of a hit romance novel written by Michael, leading to love.</desc>
-    <date>20230101</date>
-    <category lang="en">Movies</category>
-    <rating>
-      <value>TV-G</value>
-    </rating>
-    <image>https://provider-static.plex.tv/epg/cms/production/1be8da4c-3ba8-48b6-98ea-e0272c6807ad/MT_PLEX_US_2000x3000_-_Sam_Abraham.jpg</image>
-  </programme>
   <programme start="20261106131501 +0000" stop="20261106150520 +0000" channel="MyTimeMovieNetworkEast.us@SD">
     <title lang="en">Our Take on Love</title>
     <desc lang="en">Designer Isabella and filmmaker Blake plan a big celebration in a mansion with a famous love story.</desc>
@@ -3905,21 +3648,6 @@
       <value>TV-14</value>
     </rating>
     <image>https://d3jmt8cffgn8py.cloudfront.net/MYTIME/Default_MyTime_1920x1080.png</image>
-  </programme>
-  <programme start="20261106125900 +0000" stop="20261106132300 +0000" channel="NBCComedyVault.us@SD">
-    <title lang="en">Will &amp; Grace</title>
-    <sub-title lang="en">Will on Ice</sub-title>
-    <desc lang="en">Jack and Grace (Sean Hayes, Debra Messing) surprise Will (Eric McCormack) on his birthday with tickets to an ice-skating show with Rudy Galindo (as himself). With Megan Mullally.</desc>
-  </programme>
-  <programme start="20261106132300 +0000" stop="20261106134600 +0000" channel="NBCComedyVault.us@SD">
-    <title lang="en">Will &amp; Grace</title>
-    <sub-title lang="en">My Fair Maid-y</sub-title>
-    <desc lang="en">Will hires a cleaning lady to help Grace with her preparations for an upcoming decorators' contest; Jack dates a guy he meets at the bookstore.</desc>
-  </programme>
-  <programme start="20261106134600 +0000" stop="20261106141000 +0000" channel="NBCComedyVault.us@SD">
-    <title lang="en">Will &amp; Grace</title>
-    <sub-title lang="en">The Unsinkable Mommy Adler</sub-title>
-    <desc lang="en">Grace (Debra Messing) gets a visit from her mother (guest star Debbie Reynolds), who wreaks havoc by suggesting that she marry Will (Eric McCormack).</desc>
   </programme>
   <programme start="20261106141000 +0000" stop="20261106143400 +0000" channel="NBCComedyVault.us@SD">
     <title lang="en">Will &amp; Grace</title>
@@ -4046,62 +3774,47 @@
     <sub-title lang="en">Hey La, Hey La, My Ex-Boyfriend's Back</sub-title>
     <desc lang="en">Will's (Eric McCormack) former boyfriend (guest star Chris Potter) is back in town and may want to rekindle their relationship. With Debra Messing.</desc>
   </programme>
-  <programme start="20261106130000 +0000" stop="20261106140000 +0000" channel="ParaguayTV.py@SD">
-    <title lang="es">Marandu Ko'e</title>
-  </programme>
   <programme start="20261106140000 +0000" stop="20261106150000 +0000" channel="ParaguayTV.py@SD">
-    <title lang="es">Ovación Deportiva</title>
-  </programme>
-  <programme start="20261106150000 +0000" stop="20261106160000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Paraguay 920</title>
   </programme>
-  <programme start="20261106160000 +0000" stop="20261106170000 +0000" channel="ParaguayTV.py@SD">
+  <programme start="20261106150000 +0000" stop="20261106160000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Curiosidades</title>
   </programme>
-  <programme start="20261106170000 +0000" stop="20261106180000 +0000" channel="ParaguayTV.py@SD">
+  <programme start="20261106160000 +0000" stop="20261106170000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Aula 920 (RNP)</title>
   </programme>
-  <programme start="20261106180000 +0000" stop="20261106190000 +0000" channel="ParaguayTV.py@SD">
+  <programme start="20261106170000 +0000" stop="20261106180000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">El payaso Plim Plim un héroe del corazón</title>
   </programme>
-  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="ParaguayTV.py@SD">
+  <programme start="20261106180000 +0000" stop="20261106190000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Magarte</title>
   </programme>
-  <programme start="20261106200000 +0000" stop="20261106203000 +0000" channel="ParaguayTV.py@SD">
+  <programme start="20261106190000 +0000" stop="20261106193000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Paraguay deportivo</title>
   </programme>
-  <programme start="20261106203000 +0000" stop="20261106210000 +0000" channel="ParaguayTV.py@SD">
+  <programme start="20261106193000 +0000" stop="20261106200000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Paraguay deportivo</title>
+  </programme>
+  <programme start="20261106200000 +0000" stop="20261106210000 +0000" channel="ParaguayTV.py@SD">
+    <title lang="es">Paraguay noticias - Edición central</title>
   </programme>
   <programme start="20261106210000 +0000" stop="20261106220000 +0000" channel="ParaguayTV.py@SD">
-    <title lang="es">Paraguay noticias - Edición central</title>
-  </programme>
-  <programme start="20261106220000 +0000" stop="20261106230000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Resurgir</title>
   </programme>
-  <programme start="20261106230000 +0000" stop="20261107000000 +0000" channel="ParaguayTV.py@SD">
+  <programme start="20261106220000 +0000" stop="20261106230000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Sinfónica Nacional</title>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107010000 +0000" channel="ParaguayTV.py@SD">
+  <programme start="20261106230000 +0000" stop="20261107000000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Acústicos</title>
   </programme>
-  <programme start="20261107010000 +0000" stop="20261107020000 +0000" channel="ParaguayTV.py@SD">
+  <programme start="20261107000000 +0000" stop="20261107010000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Paraguay noticias - Edición central</title>
   </programme>
-  <programme start="20261107020000 +0000" stop="20261107040000 +0000" channel="ParaguayTV.py@SD">
+  <programme start="20261107010000 +0000" stop="20261107030000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">Duplex nacional</title>
   </programme>
-  <programme start="20261107040000 +0000" stop="20261107070000 +0000" channel="ParaguayTV.py@SD">
+  <programme start="20261107030000 +0000" stop="20261107060000 +0000" channel="ParaguayTV.py@SD">
     <title lang="es">La mañana nacional</title>
-  </programme>
-  <programme start="20261106125800 +0000" stop="20261106140600 +0000" channel="QelloConcertsbyStingray.ca@SD">
-    <title lang="en">Nirvana - Up Close and Personal</title>
-    <desc lang="en">This film features powerful footage of Nirvana in action, both in concert and in the studio. In addition, we hear from a team of leading music critics and insiders including Miti Adhikari, Kurt Cobain's biographer Charles R. Cross.</desc>
-    <date>20261106</date>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-    <image>https://metadata-static.plex.tv/a/gracenote/afd1d602ebf1cbe7a76fe4ffd2f06a52.jpg</image>
   </programme>
   <programme start="20261106140600 +0000" stop="20261106170500 +0000" channel="QelloConcertsbyStingray.ca@SD">
     <title lang="en">David Gilmour - Remember That Night</title>
@@ -4138,16 +3851,6 @@
       <value>TV-PG</value>
     </rating>
     <image>https://metadata-static.plex.tv/9/gracenote/93aa751de4f5458f769fb45099839e08.jpg</image>
-  </programme>
-  <programme start="20261106143000 +0000" stop="20261106150000 +0000" channel="RaiItalia.it@Australia">
-    <title lang="en">TG3</title>
-    <sub-title lang="en">TG3</sub-title>
-    <desc lang="en">Spazio di approfondimento giornalistico a cura della redazione del TG3, dedicato a temi di immediata attualita, nazionali ed internazionali.</desc>
-  </programme>
-  <programme start="20261106150000 +0000" stop="20261106153000 +0000" channel="RaiItalia.it@Australia">
-    <title lang="en">Quante storie</title>
-    <sub-title lang="en">Quante storie</sub-title>
-    <desc lang="en">Quali sono le storie che cambiano il nostro Paese? Quali i racconti che meglio lo fotografano? Corrado Augias alla scoperta delle storie, dei libri, dei film, delle mostre che raccontano il Paese.</desc>
   </programme>
   <programme start="20261106153000 +0000" stop="20261106174500 +0000" channel="RaiItalia.it@Australia">
     <title lang="en">Casa Italia</title>
@@ -4282,23 +3985,6 @@
     <title lang="en">Punti di Vista</title>
     <sub-title lang="en">Punti di Vista</sub-title>
     <desc lang="en">Un espacio de informacion para profundizar y comprender un tema a traves de comparaciones entre la realidad italiana y extranjera y para ver posibles soluciones a nuestros problemas cotidianos al otro lado de la frontera.</desc>
-  </programme>
-  <programme start="20261106134000 +0000" stop="20261106151500 +0000" channel="RaiWorldPremium.it@SD">
-    <title lang="en">Le cose che restano</title>
-    <sub-title lang="en">Le cose che restano</sub-title>
-    <desc lang="en">La storia della famiglia Giordani, improvvisamente divisa dal dolore a seguito di un evento doloroso, e del modo in cui i diversi componenti reagiscono con fatica e coraggio al disorientamento che li colpisce.</desc>
-    <date>20261106</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Miniseries</category>
-  </programme>
-  <programme start="20261106151500 +0000" stop="20261106160000 +0000" channel="RaiWorldPremium.it@SD">
-    <title lang="en">Una buona stagione</title>
-    <sub-title lang="en">Una buona stagione</sub-title>
-    <desc lang="en">I Masci Santangelo, stimati viticoltori del Trentino Alto Adige, hanno un sogno: diffondere il vino da loro prodotto sul mercato mondiale, a dispetto della crisi economica e dei numerosi problemi familiari.</desc>
-    <date>20261106</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <category lang="en">Miniseries</category>
   </programme>
   <programme start="20261106160000 +0000" stop="20261106162500 +0000" channel="RaiWorldPremium.it@SD">
     <title lang="en">Un posto al sole</title>
@@ -4510,17 +4196,22 @@
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <episode-num system="onscreen">S01E01</episode-num>
   </programme>
-  <programme start="20261106130000 +0000" stop="20261106133000 +0000" channel="SonyChannel.br@SD">
-    <title lang="pt">The Nanny</title>
-    <desc lang="pt">Maggie quer fazer uma tatuagem e todos a desencorajam. Fran revela ter uma, e o Sr. Sheffield fica curioso tentando descobrir onde fica. A mãe de Fran quer que ela vá ao Dr. Roberts e remova a tatuagem.</desc>
-    <category lang="pt">Temporada 4 Episódio 9 - Tattoo</category>
-    <image>https://cdn.mitvstatic.com/programs/br_the-nanny-s04e09-tattoo_l_m.jpg</image>
+  <programme start="20261107150000 +0000" stop="20261107155000 +0000" channel="RaiWorldPremium.it@SD">
+    <title lang="en">Una buona stagione</title>
+    <sub-title lang="en">Una buona stagione</sub-title>
+    <desc lang="en">I Masci Santangelo, stimati viticoltori del Trentino Alto Adige, hanno un sogno: diffondere il vino da loro prodotto sul mercato mondiale, a dispetto della crisi economica e dei numerosi problemi familiari.</desc>
+    <date>20261107</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Miniseries</category>
   </programme>
-  <programme start="20261106133000 +0000" stop="20261106140000 +0000" channel="SonyChannel.br@SD">
-    <title lang="pt">The Nanny</title>
-    <desc lang="pt">Fran entra em uma competição de beleza para ganhar um carro, mas a juíza não se impressiona com ela.</desc>
-    <category lang="pt">Temporada 4 Episódio 10 - The Car Show</category>
-    <image>https://cdn.mitvstatic.com/programs/br_the-nanny-s04e10-the-car-show_l_m.jpg</image>
+  <programme start="20261107155000 +0000" stop="20261107161500 +0000" channel="RaiWorldPremium.it@SD">
+    <title lang="en">Un posto al sole</title>
+    <sub-title lang="en">Un posto al sole</sub-title>
+    <desc lang="en">Le storie e le intricate vicende degli abitanti di un condominio, Palazzo Paladini, situato sulla collina partenopea di Posillipo, stretta tra il luccicante mare di Napoli e il Vesuvio.</desc>
+    <date>20261107</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
   </programme>
   <programme start="20261106140000 +0000" stop="20261106143000 +0000" channel="SonyChannel.br@SD">
     <title lang="pt">My Wife and Kids</title>
@@ -4624,18 +4315,168 @@
     <category lang="pt">Temporada 3 Episódio 16 - Man of the Year</category>
     <image>https://cdn.mitvstatic.com/programs/br_my-wife-and-kids-s03e16-man-of-the-year_l_m.jpg</image>
   </programme>
-  <programme start="20261106124018 +0000" stop="20261106133148 +0000" channel="SonyOneBlacklist.fr@HD">
-    <title lang="fr">The Blacklist</title>
-    <sub-title lang="fr">The Third Estate (No. 136)</sub-title>
-    <desc lang="fr">Red et la Task Force se mobilisent pour empêcher un groupe terroriste anticapitaliste d'enlever des enfants. Pendant ce temps, Ressler enquête pour savoir ce qui est arrivé à sa mère, Katarina Rostova, ancienne membre du KGB.</desc>
-    <date>20130923</date>
-    <category lang="fr">Bingeworthy</category>
-    <episode-num system="xmltv_ns">5.16.0/1</episode-num>
-    <episode-num system="onscreen">S06E17</episode-num>
-    <rating>
-      <value>12</value>
-    </rating>
-    <image>https://images.frequency.com/video/originals/7312855049305890976/rectangle/14tsowqyhbi4n1wda2m2xs249x.jpg</image>
+  <programme start="20261106143400 +0000" stop="20261106163400 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Karate Kid 2: El momento de la verdad</title>
+    <desc lang="es">El regreso de Miyagi a Okinawa desata la ira de un antiguo enemigo, quien no escatimará esfuerzos para destruirlo. Ahora, maestro y discípulo enfrentarán juntos el mayor de los retos, esta vez no será por un campeonato sino por el honor.</desc>
+    <date>19700101</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Acción</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/afca168fbd2bd53eaf39ba86aee18496.jpg</image>
+  </programme>
+  <programme start="20261106163400 +0000" stop="20261106180900 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Hotel Transylvania 2</title>
+    <desc lang="es">Todo parece mejorar en el Hotel Transilvania. La rígida norma de "sólo para monstruos" se ha suprimido. Lo que preocupa al conde es que que su adorable nieto Dennis, medio humano y medio vampiro, no dé señal alguna de vampirismo.</desc>
+    <date>19700101</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Animación</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/5da2f7cddaee2313d8a47c07b9ecf638.jpg</image>
+  </programme>
+  <programme start="20261106180900 +0000" stop="20261106200400 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Ghostbusters 2</title>
+    <desc lang="es">La normalidad parece reinar en la ciudad pero, en las cloacas, una fuerza sobrenatural está por desatar la catástrofe. Un espíritu maligno se ha despertado y Los Cazafantasmas tienen que hacerle frente.</desc>
+    <date>19700101</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Ciencia Ficción</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/cc49c5cc5a58c5c47975a2022cdd9d1d_N6gF2kU.jpg</image>
+  </programme>
+  <programme start="20261106200400 +0000" stop="20261106214400 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Lluvia de hamburguesas 2: la venganza de las sobras</title>
+    <desc lang="es">Cuando Flint descubre que su máquina aún funciona y crea bestias mutantes de alimentos. Ahora tendrá que regresar para salvar el mundo.</desc>
+    <date>19700101</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Animación</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/e9ff85ad0b4e97175007a8c2e473e5e4.jpg</image>
+  </programme>
+  <programme start="20261106214400 +0000" stop="20261106231900 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Hotel Transylvania 4 - Transformanía</title>
+    <desc lang="es">Cuando la misteriosa invención de Van Helsing se descontrola, Drac y sus amigos se transforman en humanos y Johnny se vuelve un monstruo. Con sus nuevos cuerpos disparejos, Drac y Johnny deberán unirse para encontrar una cura. Con ayuda de Mavis y la manada de Drac, la presión aumenta para encontrar una forma de transformarse de nuevo, antes de que se vuelva permanente.</desc>
+    <date>19700101</date>
+    <category lang="es">Animación</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/0922d00d25d8cc2cabf25c5b81b246bc.jpg</image>
+  </programme>
+  <programme start="20261106231900 +0000" stop="20261107005400 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Anaconda</title>
+    <desc lang="es">Un equipo de rodaje, con un antropólogo al frente, emprende una expedición por el Amazonas para encontrar a los indios Shirishama. Durante el viaje conocen a Sarone, un extraño individuo obsesionado por capturar a una anaconda, quien los toma prisioneros y los obliga a capturar al gran reptil.</desc>
+    <date>19700101</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Ciencia Ficción</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/354cfe09dc6f5923e1017ffc165e2cd1.jpg</image>
+  </programme>
+  <programme start="20261107005400 +0000" stop="20261107032000 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">El ataque</title>
+    <desc lang="es">Al policía John Cale se le negó la posibilidad de entrar al cuerpo de seguridad del Presidente de EUA. Pero al visitar la Casa Blanca con su hija, el lugar es atacado por terroristas. Ahora Cale intentará salvar al Presidente, a su hija y al país.</desc>
+    <date>19700101</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Thriller</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/02cf387bacd6fe2dfbeee161fb1a8eea.jpg</image>
+  </programme>
+  <programme start="20261107032000 +0000" stop="20261107053000 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">La chica salvaje</title>
+    <desc lang="es">Kya, una niña que se crió en los pantanos de Carolina del Norte, se vuelve la sospechosa principal en la muerte de un hombre con el que mantuvo una relación</desc>
+    <date>19700101</date>
+    <category lang="es">Drama</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/e3c7749593f7288cbf8385ad11663195.jpg</image>
+  </programme>
+  <programme start="20261107053000 +0000" stop="20261107071400 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Monster Hunter</title>
+    <desc lang="es">La teniente Artemis y sus leales soldados son transportados de nuestro mundo a un mundo de monstruos peligrosos y poderosos que gobiernan sus dominios con una ferocidad mortal</desc>
+    <date>19700101</date>
+    <category lang="es">Acción</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/9b2c705b40b0dff1c20d5f7dc8d823c3.jpg</image>
+  </programme>
+  <programme start="20261107071400 +0000" stop="20261107090000 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">La Niebla</title>
+    <desc lang="es">Una espesa niebla invade la zona portuaria y luego todo un pequeño pueblo costero de California. La niebla no viene sola: trae un grupo de marinos muertos por negligencia en busca de venganza.</desc>
+    <date>19700101</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Terror</category>
+    <category lang="es">Aventura</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/8f6da382e83dfa401cb42757f1e0c907.jpg</image>
+  </programme>
+  <programme start="20261107090000 +0000" stop="20261107093000 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Chicas con clase - Temp. 4 - Episodio 9</title>
+    <desc lang="es">Julia y Suzanne sufren una serie de contratiempos durante un viaje a Japón para visitar a su madre y recoger el nuevo coche de Suzanne. Mientras tanto, Anthony y Mary Jo votan en una encuesta telefónica sin saber que cada llamada cuesta dinero.</desc>
+    <date>19700101</date>
+    <category lang="es">Comedia</category>
+    <episode-num system="xmltv_ns">3.8.0/1</episode-num>
+    <episode-num system="onscreen">S04E09</episode-num>
+    <image>https://zpapi.zetatv.com.uy/media/images/d0f7402f309d3cd5c492811cf4160605.jpg</image>
+  </programme>
+  <programme start="20261107093000 +0000" stop="20261107100000 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Chicas con clase - Temp. 4 - Episodio 10</title>
+    <desc lang="es">Para compensar el "ding" que dejó en el auto de Mary Jo, Suzanne intenta ayudarla a conocer hombres con consejos de un libro de autoayuda.</desc>
+    <date>19700101</date>
+    <category lang="es">Comedia</category>
+    <episode-num system="xmltv_ns">3.9.0/1</episode-num>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <image>https://zpapi.zetatv.com.uy/media/images/d118e1663c3d38b58e6ca98e412bd918.jpg</image>
+  </programme>
+  <programme start="20261107100000 +0000" stop="20261107103000 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Casados con hijos - Temp. 1 - Episodio 5</title>
+    <desc lang="es">Esteban y Marilú se apuntan a cuidar a los hijos Olivares mientras Angie y Poncho están de fin de semana "romántico" pero fallan escandalosamente en su simulacro como padres.</desc>
+    <date>19700101</date>
+    <category lang="es">Comedia</category>
+    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <image>https://zpapi.zetatv.com.uy/media/images/ccd13645c3755986f2334ec7962ab642.jpg</image>
+  </programme>
+  <programme start="20261107103000 +0000" stop="20261107110000 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Enloqueciendo contigo - Temp. 1 - Episodio 5</title>
+    <desc lang="es">Pablo y Jimena recuerdan cuando se conocieron: Ambos quieren el último rollo de guayaba y Pablo se lo cede. Se escriben, se coquetean y Jimena lo invita a la fiesta de navidad de su trabajo. Pablo cambia por ella sus planes de mudarse a Guadalajara.</desc>
+    <date>19700101</date>
+    <category lang="es">Drama</category>
+    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <image>https://zpapi.zetatv.com.uy/media/images/4e60ee4639ce12442e8cc643873dce9f.jpg</image>
+  </programme>
+  <programme start="20261107110000 +0000" stop="20261107113000 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Chicas con clase - Temp. 4 - Episodio 11</title>
+    <desc lang="es">Suzanne asiste a la reunión de su escuela secundaria, donde la gente la rechaza porque pesa más que en la escuela secundaria.</desc>
+    <date>19700101</date>
+    <category lang="es">Comedia</category>
+    <episode-num system="xmltv_ns">3.10.0/1</episode-num>
+    <episode-num system="onscreen">S04E11</episode-num>
+    <image>https://zpapi.zetatv.com.uy/media/images/e258a2eab1a5bbb9be824b8348672d7b.jpg</image>
+  </programme>
+  <programme start="20261107113000 +0000" stop="20261107120000 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Casados con hijos - Temp. 1 - Episodio 4</title>
+    <desc lang="es">Es el aniversario de bodas de los Olivares. Poncho casi obligado compra un obsequio, mientras Angie, asesorada por sus vecinos, organiza una cena.</desc>
+    <date>19700101</date>
+    <category lang="es">Comedia</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://zpapi.zetatv.com.uy/media/images/a61f4adc06d3895409bed41e0b8fc6a6.jpg</image>
+  </programme>
+  <programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Enloqueciendo contigo - Temp. 1 - Episodio 4</title>
+    <desc lang="es">En la celebración del Día de las Madres, Jimena tiene náuseas y una serie de confusiones llevan a los invitados a pensar que está embarazada. Sin embargo, Pablo sabe que su malestar es causado por otras razones.</desc>
+    <date>19700101</date>
+    <category lang="es">Drama</category>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <image>https://zpapi.zetatv.com.uy/media/images/ecb049d6f3b2cacf8142369508c498b9.jpg</image>
+  </programme>
+  <programme start="20261107123000 +0000" stop="20261107145000 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">La leyenda del Zorro</title>
+    <desc lang="es">El Zorro, luego de colaborar con su espada para que California se convierta en el estado número 31 de la Unión, está obligado a cumplir la promesa que le hizo a Elena, su mujer: llevar adelante una vida normal como Alejandro de la Vega y abandonar su identidad secreta. Sin embargo, la aparición de nuevos villanos pondrán en jaque el acatamiento de su juramento.</desc>
+    <date>19700101</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Clásicos</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/22499f07ed701c46401abff62a6cab1a.jpg</image>
+  </programme>
+  <programme start="20261107145000 +0000" stop="20261107163000 +0000" channel="SonyMoviesLatinAmerica.us@SD">
+    <title lang="es">Mis huellas a casa</title>
+    <desc lang="es">Una perra viaja cuatrocientas millas en busca de su dueño a través del desierto de Colorado.</desc>
+    <date>19700101</date>
+    <category lang="es">Drama</category>
+    <image>https://zpapi.zetatv.com.uy/media/images/b421b3250dce77a2b359fdd13f494a8b.jpg</image>
   </programme>
   <programme start="20261106133148 +0000" stop="20261106142319 +0000" channel="SonyOneBlacklist.fr@HD">
     <title lang="fr">The Blacklist</title>
@@ -4805,19 +4646,6 @@
       <value>12</value>
     </rating>
     <image>https://images.frequency.com/video/originals/7312863486099376226/rectangle/1cxbu2l0dow221du7avt2fdv9j.jpg</image>
-  </programme>
-  <programme start="20261106125033 +0000" stop="20261106134803 +0000" channel="SonyOneFavoris.fr@HD">
-    <title lang="fr">Charlie's Angels</title>
-    <sub-title lang="fr">Catch A Falling Angel</sub-title>
-    <desc lang="fr">Lorsque le petit ami d'une atrice porno disparaît, les Drôles de dames sont appelées à enquêter. Le producteur tente de les faire tuer dans un accident de voiture et projette d'assassiner l'actrice du film.</desc>
-    <date>19800123</date>
-    <category lang="fr">Classic tv</category>
-    <episode-num system="xmltv_ns">3.83.0/1</episode-num>
-    <episode-num system="onscreen">S04E84</episode-num>
-    <rating>
-      <value>All</value>
-    </rating>
-    <image>https://images.frequency.com/video/originals/7289693234692971987/rectangle/1fuaxn5vtsv2p15acr2w3fyqe4.jpg</image>
   </programme>
   <programme start="20261106134803 +0000" stop="20261106144610 +0000" channel="SonyOneFavoris.fr@HD">
     <title lang="fr">Charlie's Angels</title>
@@ -5022,16 +4850,6 @@
     </rating>
     <image>https://images.frequency.com/video/originals/7287530565505645437/Texted/rectangle/1b49il5ktc72w1k9fb76t1ozul.png</image>
   </programme>
-  <programme start="20261106115636 +0000" stop="20261106140107 +0000" channel="SonyOneHitsComedie.fr@HD">
-    <title lang="fr">Maid in Manhattan</title>
-    <desc lang="fr">Marisa Ventura est une mère célibataire qui vit seule avec son fils Ty dans le Bronx ; travaille comme gouvernante dans l'un des palaces les plus luxueux de Manhattan. La jeune femme espère gravir les échelons. La vie de Marisa va bientôt se trouver bouleversée lorsqu’un riche héritier américain qui séjourne pour une semaine dans cet hôtel, se méprend sur son identité.</desc>
-    <date>20021212</date>
-    <category lang="fr">Movies</category>
-    <rating>
-      <value>All</value>
-    </rating>
-    <image>https://images.frequency.com/video/originals/7307772353998643275/Texted/rectangle/1t5bd76svavdb1lchlugrw9q8l.png</image>
-  </programme>
   <programme start="20261106140107 +0000" stop="20261106163150 +0000" channel="SonyOneHitsComedie.fr@HD">
     <title lang="fr">Spanglish</title>
     <desc lang="fr">John Clasky (Adam Sandler) est un père dévoué dont les talents de chef ont permis à sa famille (Téa Leoni, Cloris Leachman) de vivre une vie de luxe. Ils possèdent une villa d'été à Malibu, dont s'occupe la magnifique gouvernante, Flor (Paz Vega), qui a quitté le Mexique pour immigrer à Los Angeles afin d'offrir une meilleure vie à sa remarquable fille, Cristina (Shelbie Bruce), qui embrasse très vite ce nouveau style de vie américain.</desc>
@@ -5081,12 +4899,6 @@
       <value>All</value>
     </rating>
     <image>https://images.frequency.com/video/originals/7183478928955449429/Texted/rectangle/hbgxg1s2mhue11mwlax99yexr.jpg</image>
-  </programme>
-  <programme start="20261106122000 +0000" stop="20261106140000 +0000" channel="StudioUniversalLatinAmerica.us@Brazil">
-    <title lang="pt">Um Par Perfeito para o Natal</title>
-    <desc lang="pt">Olivia decide ir a um evento no Natal cujo objetivo é formar casais. Lá, ela conhece Thomas, que é tão cético em relação ao evento quanto ela, mas esse encontro acaba os unindo.</desc>
-    <category lang="pt">Romance / 2022</category>
-    <image>https://cdn.mitvstatic.com/programs/br_um-par-perfeito-para-o-natal-2022_l_m.jpg</image>
   </programme>
   <programme start="20261106140000 +0000" stop="20261106153500 +0000" channel="StudioUniversalLatinAmerica.us@Brazil">
     <title lang="pt">Nosso Mural de Natal</title>
@@ -5309,32 +5121,6 @@
     <desc lang="es">Fin de transmisión.</desc>
     <category lang="es">Variedades</category>
     <image>https://cdn.mitvstatic.com/programs/pe_fin-de-transmision_l_m.jpg</image>
-  </programme>
-  <programme start="20261106124613 +0000" stop="20261106131813 +0000" channel="ThePetCollective.us@UK">
-    <title lang="en">Animals Unscripted</title>
-    <sub-title lang="en">Animals Unscripted | Chick Flick</sub-title>
-    <desc lang="en">Chickens, goats, horses, you name it, we've got it.</desc>
-    <date>20260202</date>
-    <category lang="en">Explore</category>
-    <episode-num system="xmltv_ns">3.2.0/1</episode-num>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-    <image>https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https%253A%252F%252Fimages.frequency.com%252Fvideo%252F7425393518330574554%252Fsolid%252Frectangle%252Fw1920_h1080%252F1c0ip6oqbj95q10cxrcu13safc.png</image>
-  </programme>
-  <programme start="20261106131813 +0000" stop="20261106135013 +0000" channel="ThePetCollective.us@UK">
-    <title lang="en">Animals Unscripted</title>
-    <sub-title lang="en">Animals Unscripted | Shampooch</sub-title>
-    <desc lang="en">In this episode we feature puppies washed in the sink. You're welcome.</desc>
-    <date>20260209</date>
-    <category lang="en">Explore</category>
-    <episode-num system="xmltv_ns">3.7.0/1</episode-num>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-    <image>https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https%253A%252F%252Fimages.frequency.com%252Fvideo%252F7426533963963622216%252Fsolid%252Frectangle%252Fw1920_h1080%252F1787ti7bkj9wo1lo7ez3esa7er.png</image>
   </programme>
   <programme start="20261106135013 +0000" stop="20261106142213 +0000" channel="ThePetCollective.us@UK">
     <title lang="en">Animals Unscripted</title>
@@ -5596,12 +5382,6 @@
     </rating>
     <image>https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https%253A%252F%252Fimages.frequency.com%252Fvideo%252F7434532541267994293%252Fsolid%252Frectangle%252Fw1920_h1080%252Fn2kqw9jua0l01g9kv3uvbkcsw.jpeg</image>
   </programme>
-  <programme start="20261106120000 +0000" stop="20261106133000 +0000" channel="TigoSports.py@SD">
-    <title lang="es">De taquito</title>
-    <desc lang="es">Eva Rodríguez, Gloria González, Montse González y Bethania Borba se unen para alegrar tus tardes con temas de la actualidad, tendencias, lo que pasa en las redes sociales y el lado B del mundo deportivo.</desc>
-    <category lang="es">De taquito</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg</image>
-  </programme>
   <programme start="20261106133000 +0000" stop="20261106150000 +0000" channel="TigoSports.py@SD">
     <title lang="es">Equipo titular</title>
     <desc lang="es">Un programa para opinar y conocer el sentimiento del hincha futbolero sobre el mundo deportivo. Hernán Osorio, Pedro Torres, Kokeba y Oliver Ferreira discuten sobre competencias, partidos, rendimientos, equipos y mucho más.</desc>
@@ -5754,58 +5534,64 @@
     <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/M13TVP1380797" />
     <image>https://estatico.emisiondof6.com/recorte/n/vegend/M13TVF1380797.jpg</image>
   </programme>
-  <programme start="20261106124500 +0000" stop="20261106133000 +0000" channel="Trece.py@SD">
-    <title lang="es">Mucho gusto</title>
+  <programme start="20261107140000 +0000" stop="20261107160000 +0000" channel="Trece.es@SD">
+    <title lang="es">Alaska</title>
+    <desc lang="es">Una familia se acaba de trasladar a un pequeño pueblo de la costa de Alaska. Mientras Jessie disfruta de la naturaleza, Sean se pasa el día refunfuñando sobre lo aburrida que es la vida en un pueblo donde nunca pasa nada. Hasta que un día su padre desaparece.</desc>
+    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/M13TVP124697" />
+    <image>https://estatico.emisiondof6.com/recorte/n/vegend/M13TVF124697.jpg</image>
   </programme>
-  <programme start="20261106133000 +0000" stop="20261106150000 +0000" channel="Trece.py@SD">
-    <title lang="es">El Noticiero</title>
-  </programme>
-  <programme start="20261106150000 +0000" stop="20261106151500 +0000" channel="Trece.py@SD">
+  <programme start="20261106140000 +0000" stop="20261106141500 +0000" channel="Trece.py@SD">
     <title lang="es">Sorteo de la quiniela</title>
   </programme>
-  <programme start="20261106151500 +0000" stop="20261106153000 +0000" channel="Trece.py@SD">
+  <programme start="20261106141500 +0000" stop="20261106143000 +0000" channel="Trece.py@SD">
     <title lang="es">La Cocina de Sarita</title>
   </programme>
-  <programme start="20261106153000 +0000" stop="20261106163000 +0000" channel="Trece.py@SD">
+  <programme start="20261106143000 +0000" stop="20261106153000 +0000" channel="Trece.py@SD">
     <title lang="es">Entretiempo</title>
   </programme>
-  <programme start="20261106163000 +0000" stop="20261106173000 +0000" channel="Trece.py@SD">
+  <programme start="20261106153000 +0000" stop="20261106163000 +0000" channel="Trece.py@SD">
     <title lang="es">Doctor en casa</title>
   </programme>
-  <programme start="20261106173000 +0000" stop="20261106183000 +0000" channel="Trece.py@SD">
+  <programme start="20261106163000 +0000" stop="20261106173000 +0000" channel="Trece.py@SD">
     <title lang="es">Programación Pagada</title>
   </programme>
-  <programme start="20261106183000 +0000" stop="20261106190000 +0000" channel="Trece.py@SD">
+  <programme start="20261106173000 +0000" stop="20261106180000 +0000" channel="Trece.py@SD">
     <title lang="es">Sorteo de la quiniela</title>
   </programme>
-  <programme start="20261106190000 +0000" stop="20261106191500 +0000" channel="Trece.py@SD">
+  <programme start="20261106180000 +0000" stop="20261106181500 +0000" channel="Trece.py@SD">
     <title lang="es">A confirmar</title>
   </programme>
-  <programme start="20261106191500 +0000" stop="20261106193000 +0000" channel="Trece.py@SD">
+  <programme start="20261106181500 +0000" stop="20261106183000 +0000" channel="Trece.py@SD">
     <title lang="es">Entrenando con mamá</title>
   </programme>
-  <programme start="20261106193000 +0000" stop="20261106210000 +0000" channel="Trece.py@SD">
+  <programme start="20261106183000 +0000" stop="20261106200000 +0000" channel="Trece.py@SD">
     <title lang="es">Será una gran tarde</title>
   </programme>
-  <programme start="20261106210000 +0000" stop="20261106223000 +0000" channel="Trece.py@SD">
+  <programme start="20261106200000 +0000" stop="20261106213000 +0000" channel="Trece.py@SD">
     <title lang="es">El Noticiero</title>
   </programme>
-  <programme start="20261106223000 +0000" stop="20261106224500 +0000" channel="Trece.py@SD">
+  <programme start="20261106213000 +0000" stop="20261106214500 +0000" channel="Trece.py@SD">
     <title lang="es">Sorteo de la quiniela</title>
   </programme>
-  <programme start="20261106224500 +0000" stop="20261106230000 +0000" channel="Trece.py@SD">
+  <programme start="20261106214500 +0000" stop="20261106220000 +0000" channel="Trece.py@SD">
     <title lang="es">M. Skate</title>
   </programme>
-  <programme start="20261106230000 +0000" stop="20261107013000 +0000" channel="Trece.py@SD">
+  <programme start="20261106220000 +0000" stop="20261107003000 +0000" channel="Trece.py@SD">
     <title lang="es">Baloncesto</title>
   </programme>
-  <programme start="20261107013000 +0000" stop="20261107020000 +0000" channel="Trece.py@SD">
+  <programme start="20261107003000 +0000" stop="20261107010000 +0000" channel="Trece.py@SD">
     <title lang="es">Ciclo de cultura</title>
   </programme>
-  <programme start="20261107020000 +0000" stop="20261107033000 +0000" channel="Trece.py@SD">
+  <programme start="20261107010000 +0000" stop="20261107023000 +0000" channel="Trece.py@SD">
     <title lang="es">El Noticiero</title>
   </programme>
-  <programme start="20261107033000 +0000" stop="20261107050000 +0000" channel="Trece.py@SD">
+  <programme start="20261107023000 +0000" stop="20261107040000 +0000" channel="Trece.py@SD">
     <title lang="es">Tercer tiempo</title>
+  </programme>
+  <programme start="20261107040000 +0000" stop="20261107043000 +0000" channel="Trece.py@SD">
+    <title lang="es">Franja infantil</title>
+  </programme>
+  <programme start="20261107043000 +0000" stop="20261107060000 +0000" channel="Trece.py@SD">
+    <title lang="es">A confirmar</title>
   </programme>
 </tv>
