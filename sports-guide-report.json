@@ -1,11 +1,11 @@
 {
-  "generatedAtUTC": "2026-11-06T16:35:23Z",
+  "generatedAtUTC": "2026-11-06T17:10:44Z",
   "channels": [
     {
       "number": 238,
       "name": "NBC NEWS NOW",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 54,
+      "freshProgrammeCount": 53,
       "reason": null
     },
     {
@@ -13,69 +13,69 @@
       "name": "ESPN 1",
       "status": "UNKNOWN",
       "freshProgrammeCount": 0,
-      "reason": "Exact regional feed not established; original playback probe failed"
+      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "number": 240,
       "name": "ESPN 2",
       "status": "UNKNOWN",
       "freshProgrammeCount": 0,
-      "reason": "Exact regional feed not established; original playback probe failed"
+      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "number": 241,
       "name": "ESPN 3",
       "status": "UNKNOWN",
       "freshProgrammeCount": 0,
-      "reason": "Exact regional feed not established; original playback probe failed"
+      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "number": 242,
       "name": "ESPN 4",
       "status": "UNKNOWN",
       "freshProgrammeCount": 0,
-      "reason": "Exact regional feed not established; original playback probe failed"
+      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "number": 243,
       "name": "ESPN 5",
       "status": "UNKNOWN",
       "freshProgrammeCount": 0,
-      "reason": "Exact regional feed not established; original playback probe failed"
+      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "number": 244,
       "name": "ESPN 6",
       "status": "UNKNOWN",
       "freshProgrammeCount": 0,
-      "reason": "Exact regional feed not established; original playback probe failed"
+      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "number": 245,
       "name": "ESPN 7",
       "status": "UNKNOWN",
       "freshProgrammeCount": 0,
-      "reason": "Exact regional feed not established; original playback probe failed"
+      "reason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "number": 246,
       "name": "Win Sports",
-      "status": "UNKNOWN",
-      "freshProgrammeCount": 0,
-      "reason": "Exact source-to-schedule binding not verified; original playback probe failed"
+      "status": "VERIFIED_PROGRAMME",
+      "freshProgrammeCount": 38,
+      "reason": null
     },
     {
       "number": 247,
       "name": "Win Sports+",
-      "status": "UNKNOWN",
-      "freshProgrammeCount": 0,
-      "reason": "Exact source-to-schedule binding not verified; original playback probe failed"
+      "status": "VERIFIED_PROGRAMME",
+      "freshProgrammeCount": 38,
+      "reason": null
     },
     {
       "number": 248,
       "name": "beIN SPORTS XTRA",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 70,
+      "freshProgrammeCount": 69,
       "reason": null
     },
     {
@@ -89,7 +89,7 @@
       "number": 250,
       "name": "RM TV + 🇪🇸",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 48,
+      "freshProgrammeCount": 47,
       "reason": null
     },
     {
@@ -102,9 +102,9 @@
     {
       "number": 252,
       "name": "SKY CRICKET",
-      "status": "UNKNOWN",
-      "freshProgrammeCount": 0,
-      "reason": "Exact schedule binding not established"
+      "status": "VERIFIED_PROGRAMME",
+      "freshProgrammeCount": 71,
+      "reason": null
     }
   ],
   "failures": []

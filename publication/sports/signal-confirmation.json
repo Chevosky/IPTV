@@ -1,0 +1,127 @@
+{
+  "checkedAtUTC": "2026-11-06T17:09:27.360978+00:00",
+  "scope": "All 32 preserved alternatives for ten original channels; nine migrated original player sources and original Sky rendition decoded",
+  "originalSourcesReplaced": false,
+  "originalAlternativesRemoved": false,
+  "mediaUrlsPublished": false,
+  "observations": [
+    {
+      "number": 240,
+      "sourceId": "src_3e01cb4e95c2c97d",
+      "captureUTC": "2026-11-06T16:59:55.076638+00:00",
+      "frameSHA256": "25f553d29bac3d8fa6a131d1da9c0dba9e258668a723a232cc39693d61611c21",
+      "decodedFrames": 3,
+      "nonSilentPCM": true,
+      "declaredPlayerChannelKey": "espn2",
+      "programmingPromoted": false
+    },
+    {
+      "number": 241,
+      "sourceId": "src_73cd713499a9ce02",
+      "captureUTC": "2026-11-06T16:59:55.579645+00:00",
+      "frameSHA256": "4d7a3b9ecfeb2fd34f6deb206808c72e3130bac0e6134ea8853fa0789495446f",
+      "decodedFrames": 3,
+      "nonSilentPCM": true,
+      "declaredPlayerChannelKey": "espn3",
+      "programmingPromoted": false
+    },
+    {
+      "number": 239,
+      "sourceId": "src_f7583d1f978f241f",
+      "captureUTC": "2026-11-06T16:59:55.543220+00:00",
+      "frameSHA256": "61110f9d5169a2dd3f3f1dad396eae67d35e25aa8e34b270c6166e8b193ba310",
+      "decodedFrames": 3,
+      "nonSilentPCM": true,
+      "declaredPlayerChannelKey": "espn",
+      "programmingPromoted": false
+    },
+    {
+      "number": 242,
+      "sourceId": "src_0a891c670a0a38ae",
+      "captureUTC": "2026-11-06T17:00:04.393576+00:00",
+      "frameSHA256": "22f0c207652461ca58154c58950559bf3b2fb6785810a4f0cc950674e3254793",
+      "decodedFrames": 3,
+      "nonSilentPCM": true,
+      "declaredPlayerChannelKey": "espn4",
+      "programmingPromoted": false
+    },
+    {
+      "number": 243,
+      "sourceId": "src_1475c9ad9dd2180b",
+      "captureUTC": "2026-11-06T17:00:04.738931+00:00",
+      "frameSHA256": "90c1e7a21b0e1bb9e6af59ea222647d54a32ecefc40ede8ecad6b7ba37e58fce",
+      "decodedFrames": 3,
+      "nonSilentPCM": true,
+      "declaredPlayerChannelKey": "espn5",
+      "programmingPromoted": false
+    },
+    {
+      "number": 246,
+      "sourceId": "src_8648d0947c4b2117",
+      "captureUTC": "2026-11-06T17:00:13.812238+00:00",
+      "frameSHA256": "0341d64526c99491a0072e375ec33a0deffd3b4c2205700e2044a83a62a7c81f",
+      "decodedFrames": 3,
+      "nonSilentPCM": true,
+      "declaredPlayerChannelKey": "winsports",
+      "programmingPromoted": true
+    },
+    {
+      "number": 245,
+      "sourceId": "src_da8dbb1fe8377671",
+      "captureUTC": "2026-11-06T17:00:14.598902+00:00",
+      "frameSHA256": "c6a2ea92870c6a9eefc43e78002bbb54e7648e87686c5405f99d7f2d5352814f",
+      "decodedFrames": 3,
+      "nonSilentPCM": true,
+      "declaredPlayerChannelKey": "espn7",
+      "programmingPromoted": false
+    },
+    {
+      "number": 244,
+      "sourceId": "src_79064a91d1c6e4c5",
+      "captureUTC": "2026-11-06T17:00:17.650357+00:00",
+      "frameSHA256": "c1589e0700a9f4d01a8fdaf878e529d74185d9729ef410463ce8fb9690442a06",
+      "decodedFrames": 3,
+      "nonSilentPCM": true,
+      "declaredPlayerChannelKey": "espn6",
+      "programmingPromoted": false
+    },
+    {
+      "number": 247,
+      "sourceId": "src_7e1ea67bf8f51301",
+      "captureUTC": "2026-11-06T17:00:20.572717+00:00",
+      "frameSHA256": "699b8774ee82538fa6aaeff39a994a6f2f2ddb765de8b2526bc14b7d2f333d8b",
+      "decodedFrames": 3,
+      "nonSilentPCM": true,
+      "declaredPlayerChannelKey": "winplus",
+      "programmingPromoted": true
+    },
+    {
+      "number": 252,
+      "sourceId": "src_e6ebdbe95667ace9",
+      "captureUTC": "2026-11-06T17:00:19.542027+00:00",
+      "frameSHA256": "8e3bbdbd8f217ca2d4a5697701a5a2579bd52e02dd4ae0783fa644812d6cdc90",
+      "decodedFrames": 3,
+      "nonSilentPCM": true,
+      "observedBrand": "Sky Sports Cricket",
+      "observedEvent": "WBBL Melbourne Stars vs Sydney Sixers; scoreboard STA vs SIX",
+      "officialEPGService": "GB#1702",
+      "scheduledIntervalUTC": [
+        "2026-11-06T14:00:00Z",
+        "2026-11-06T17:00:00Z"
+      ],
+      "captureAtScheduleBoundarySeconds": 19.55,
+      "appliedTimeOffsetSeconds": 0,
+      "programmingPromoted": true
+    }
+  ],
+  "winplayOfficialConfiguration": {
+    "source": "https://winplay.co/env-config.js?b=1791389437",
+    "bytes": 1487,
+    "unityApiConfirmed": true,
+    "publicClientConfirmed": true,
+    "sha256": "35fad294730a31bd7a3a2353e1b589ea40291c128a6c3748b415e8f78251d1a2"
+  },
+  "winSportsObserved": "WIN sports VIVO; Nos cogió la tarde at on-screen 11:58 Colombia before official 12:00 Reto Win Tenis transition",
+  "winPlusObserved": "WIN+ fútbol; UNI vs IVC; matches official signal winsportsplus, Union Magdalena vs Ind. Valle del Cauca replay",
+  "ESPNHold": "All seven declared ESPN player keys yielded decoded video and audio. ESPN 1/2/3/4/6 logos and Spanish promotions were observed; ESPN 5/7 short samples did not establish an exact edition. Several candidate grids mismatch capture-time content, and preserved alternatives include Brazil. No ESPN regional or temporal binding promoted."
+}

@@ -11,6 +11,37 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 import build_sports_guide as guide
 
 class SportsGuideTests(unittest.TestCase):
+    def test_winplay_subsecond_boundary_matches_xmltv_precision(self):
+        payload = {'result': [{'content': {'signalId': 'winsports', 'epg': [
+            {'title': 'Preview', 'startTime': '2026-11-07T00:30:00.167Z', 'endTime': '2026-11-07T00:55:00.167Z'},
+            {'title': 'Match', 'startTime': '2026-11-07T00:55:00.000Z', 'endTime': '2026-11-07T03:00:00.000Z'}]}}]}
+        result = guide.normalize(guide.parse_winplay(json.dumps(payload).encode(), 'winsports'), datetime(2026, 11, 7, tzinfo=timezone.utc))
+        self.assertEqual(result[0]['stop'], result[1]['start'])
+
+    def test_winplay_uses_exact_signal_and_fresh_title(self):
+        payload = {'result': [{'content': {'signalId': 'winsports', 'epg': [
+            {'programName': 'Old stale label', 'title': 'Reto Win Tenis',
+             'startTime': '2026-11-06T17:00:00.000Z', 'endTime': '2026-11-06T19:00:00.000Z'}]}}]}
+        record = guide.parse_winplay(json.dumps(payload).encode(), 'winsports')[0]
+        self.assertEqual(record['title'], 'Reto Win Tenis')
+        self.assertEqual(record['start'], datetime(2026, 11, 6, 17, tzinfo=timezone.utc))
+        with self.assertRaisesRegex(ValueError, 'Exact Win signal'):
+            guide.parse_winplay(json.dumps(payload).encode(), 'winsportsplus')
+
+    def test_sky_rejects_other_service_and_uses_explicit_duration(self):
+        payload = {'schedule': [{'sid': '1702', 'events': [
+            {'st': 1793984400, 'd': 900, 't': 'ICC programme'}]}]}
+        record = guide.parse_sky(json.dumps(payload).encode(), '1702')[0]
+        self.assertEqual(record['stop'] - record['start'], timedelta(minutes=15))
+        with self.assertRaisesRegex(ValueError, 'Exact Sky service'):
+            guide.parse_sky(json.dumps(payload).encode(), 'other-service')
+
+    def test_sky_region_cannot_be_silently_substituted(self):
+        binding = {'schedule': {'provider': 'sky', 'region': 'IT', 'key': '1702',
+            'providerChannelID': 'SkySportsCricket.uk@HD'}}
+        with self.assertRaisesRegex(ValueError, 'regional edition'):
+            guide.provider_schedule(binding, datetime.now(timezone.utc), ET.Element('channels'), lambda _: self.fail('Wrong region must not fetch'))
+
     def test_midnight_rollover_and_no_fabricated_final_end(self):
         data = {'day': [{'contenido': {'noche': {'item': [
             {'hora': '2026-11-06T23:00:00.000Z', 'programa': {'content': 'Late'}},

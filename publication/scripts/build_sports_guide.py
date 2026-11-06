@@ -6,15 +6,17 @@ import hashlib
 import json
 from pathlib import Path
 import urllib.request
+import urllib.parse
 import xml.etree.ElementTree as ET
 
 UTC = timezone.utc
 PLEX_MAP = 'https://raw.githubusercontent.com/iptv-org/epg/master/sites/plex.tv/plex.tv_us.channels.xml'
 ROOT = Path(__file__).resolve().parents[2]
 
-def fetch(url):
+def fetch(url, headers=None, data=None):
     request = urllib.request.Request(url, headers={'User-Agent': 'Zapper-EPG/1.0',
-        'Accept': 'application/json,application/xml,text/xml', 'x-plex-provider-version': '7.2'})
+        'Accept': 'application/json,application/xml,text/xml', 'x-plex-provider-version': '7.2',
+        **(headers or {})}, data=json.dumps(data).encode() if data is not None else None)
     with urllib.request.urlopen(request, timeout=25) as response:
         if response.status != 200:
             raise ValueError('HTTP ' + str(response.status))
@@ -22,6 +24,48 @@ def fetch(url):
     if len(data) > 4_000_000:
         raise ValueError('Response exceeds bound')
     return data
+
+def parse_winplay(data, signal):
+    matching = [r['content'] for r in json.loads(data).get('result', []) if r.get('content', {}).get('signalId') == signal]
+    if len(matching) != 1:
+        raise ValueError('Exact Win signal missing or ambiguous')
+    programmes = []
+    for p in matching[0].get('epg', []):
+        # The official provider updates title while programName can retain an older title.
+        title = p.get('title') or p.get('programName')
+        programmes.append({'title': title, 'description': p.get('description') or '',
+            # XMLTV serializes seconds. Normalize the provider's millisecond jitter
+            # before overlap validation; genuine whole-second overlaps still fail.
+            'start': datetime.fromisoformat(p['startTime'].replace('Z', '+00:00')).replace(microsecond=0),
+            'stop': datetime.fromisoformat(p['endTime'].replace('Z', '+00:00')).replace(microsecond=0)})
+    return programmes
+
+def winplay_schedule(signal, now, read):
+    base = 'https://unity.tbxapis.com/v0'
+    auth = json.loads(read(base + '/auth/public', headers={'Content-Type': 'application/json'},
+        data={'auth': {'sub': '6a561d048728db7c786b53b0941d0dd9', 'country': None,
+                       'currentProfile': None, 'device': None, 'language': None}}))
+    # Public anonymous client session only; token stays in memory and is never output.
+    headers = {'Authorization': 'JWT ' + auth['token']['access_token']}
+    sections = json.loads(read(base + '/sections?page=1&pageSize=400', headers=headers))
+    section = next(x for x in sections['result'] if x.get('name') == 'Programación')
+    components = json.loads(read(base + '/sections/' + urllib.parse.quote(section['id'], safe='') + '/components', headers=headers))
+    link = next(x['itemsURL'] for x in components['result'] if x.get('active') and x.get('componentType') == 'epg_grid')
+    parsed = urllib.parse.urlsplit(link)
+    if parsed.scheme != 'https' or parsed.hostname != 'unity.tbxapis.com' or parsed.username or parsed.password:
+        raise ValueError('Unexpected official Win EPG host')
+    query = urllib.parse.urlencode({'pageSize': 25, 'page': 1,
+        'fromEpg': iso(now - timedelta(hours=6)), 'toEpg': iso(now + timedelta(hours=72))})
+    url = link + '?' + query
+    return parse_winplay(read(url, headers=headers), signal), [url]
+
+def parse_sky(data, sid):
+    rows = [s for s in json.loads(data).get('schedule', []) if str(s.get('sid')) == sid]
+    if len(rows) != 1:
+        raise ValueError('Exact Sky service missing or ambiguous')
+    return [{'start': datetime.fromtimestamp(e['st'], UTC),
+        'stop': datetime.fromtimestamp(e['st'] + e['d'], UTC),
+        'title': e['t'], 'description': e.get('sy') or ''} for e in rows[0].get('events', [])]
 
 def iso(value):
     return value.astimezone(UTC).isoformat(timespec='seconds').replace('+00:00', 'Z')
@@ -99,6 +143,17 @@ def provider_schedule(binding, now, channel_map, read=fetch):
         url = 'https://publish.realmadrid.com/content/sling/app-servlets/realmadrid/tv-schedule.json?lang=' + schedule['key'] + '&days=4'
         programmes = parse_realmadrid(read(url))
         urls = [url]
+    elif schedule['provider'] == 'winplay':
+        programmes, urls = winplay_schedule(schedule['key'], now, read)
+    elif schedule['provider'] == 'sky':
+        if schedule['region'] != 'GB' or schedule['providerChannelID'] != 'SkySportsCricket.uk@HD' or schedule['key'] != '1702':
+            raise ValueError('Unapproved Sky regional edition')
+        programmes, urls = [], []
+        for offset in (-1, 0, 1, 2):
+            date = (now + timedelta(days=offset)).strftime('%Y%m%d')
+            url = 'https://awk.epgsky.com/hawk/linear/schedule/' + date + '/' + schedule['key']
+            programmes.extend(parse_sky(read(url, headers={'X-SkyOTT-Territory': 'GB'}), schedule['key']))
+            urls.append(url)
     else:
         raise ValueError('Unsupported provider')
     return normalize(programmes, now), urls

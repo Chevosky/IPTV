@@ -36,7 +36,7 @@
       "zapperNumber": 239,
       "name": "ESPN 1",
       "schedule": null,
-      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "id": "source1:content:content_c6875ec247cd1591",
@@ -54,7 +54,7 @@
       "zapperNumber": 240,
       "name": "ESPN 2",
       "schedule": null,
-      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "id": "source1:content:content_6dd9174d05134940",
@@ -69,7 +69,7 @@
       "zapperNumber": 241,
       "name": "ESPN 3",
       "schedule": null,
-      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "id": "source1:content:content_54c05c092bc0b68b",
@@ -83,7 +83,7 @@
       "zapperNumber": 242,
       "name": "ESPN 4",
       "schedule": null,
-      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "id": "source1:content:content_35fcfa9bc4ac8472",
@@ -98,7 +98,7 @@
       "zapperNumber": 243,
       "name": "ESPN 5",
       "schedule": null,
-      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "id": "source1:content:content_943c284707b56edb",
@@ -113,7 +113,7 @@
       "zapperNumber": 244,
       "name": "ESPN 6",
       "schedule": null,
-      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "id": "source1:content:content_b704ab3b6d109c4e",
@@ -128,7 +128,7 @@
       "zapperNumber": 245,
       "name": "ESPN 7",
       "schedule": null,
-      "unavailableReason": "Exact regional feed not established; original playback probe failed"
+      "unavailableReason": "Spanish ESPN picture and audio observed through original declared domain migration; current regional schedule correspondence remains unverified; Brazilian alternatives preserved separately"
     },
     {
       "id": "source1:content:content_94b65cf8def70b44",
@@ -143,8 +143,15 @@
       "presentationSlot": 355,
       "zapperNumber": 246,
       "name": "Win Sports",
-      "schedule": null,
-      "unavailableReason": "Exact source-to-schedule binding not verified; original playback probe failed"
+      "schedule": {
+        "provider": "winplay",
+        "key": "winsports",
+        "providerChannelID": "Win Sports",
+        "language": "es",
+        "region": "CO",
+        "identityEvidence": "https://winplay.co/co/programacion"
+      },
+      "unavailableReason": null
     },
     {
       "id": "source1:content:content_1b46b7ff8308ad8b",
@@ -158,8 +165,15 @@
       "presentationSlot": 356,
       "zapperNumber": 247,
       "name": "Win Sports+",
-      "schedule": null,
-      "unavailableReason": "Exact source-to-schedule binding not verified; original playback probe failed"
+      "schedule": {
+        "provider": "winplay",
+        "key": "winsportsplus",
+        "providerChannelID": "Win+Fútbol",
+        "language": "es",
+        "region": "CO",
+        "identityEvidence": "https://winplay.co/co/programacion"
+      },
+      "unavailableReason": null
     },
     {
       "id": "source1:content:content_acd7fbf7106dca11",
@@ -252,8 +266,15 @@
       "presentationSlot": 503,
       "zapperNumber": 252,
       "name": "SKY CRICKET",
-      "schedule": null,
-      "unavailableReason": "Exact schedule binding not established"
+      "schedule": {
+        "provider": "sky",
+        "key": "1702",
+        "providerChannelID": "SkySportsCricket.uk@HD",
+        "language": "en",
+        "region": "GB",
+        "identityEvidence": "https://www.skysports.com/watch/sky-sports-cricket"
+      },
+      "unavailableReason": null
     }
   ],
   "identityProof": {
@@ -269,6 +290,11 @@
       "beIN": "US English XTRA, not en Espanol or MENA XTRA numbered feeds; original Amagi partner channel beinxtra-localnow",
       "FIFA": "Original Wurl channel path decodes to Vidaa-us_FIFAPlusEnglish_HLS, matching UnitedStates English edition",
       "NBC": "NBC News NOW US English, distinct from NBC Sports NOW and NBC broadcast network"
+    },
+    "additional": {
+      "verificationRecord": "publication/sports/signal-confirmation.json",
+      "winplay": "Original player declares winsports and winplus; frame logos WIN sports and WIN+ futbol; current Win+ match scoreboard UNI/IVC matches official Union Magdalena vs Ind. Valle del Cauca EPG",
+      "sky": "Original rendition shows Sky Sports Cricket UK logo and WBBL Melbourne Stars vs Sydney Sixers, matching official GB sid1702 14:00-17:00 UTC programme at capture boundary; no time offset applied"
     }
   }
 }
