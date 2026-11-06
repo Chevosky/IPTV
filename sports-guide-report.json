@@ -1,5 +1,5 @@
 {
-  "generatedAtUTC": "2026-11-06T17:10:44Z",
+  "generatedAtUTC": "2026-11-06T17:14:02Z",
   "channels": [
     {
       "number": 238,
@@ -61,7 +61,7 @@
       "number": 246,
       "name": "Win Sports",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 38,
+      "freshProgrammeCount": 37,
       "reason": null
     },
     {
