@@ -13,6 +13,11 @@ on:
       - 'publication/scripts/retry-coordinated-publication.sh'
       - 'publication/tests/test_coordinated_publication.py'
       - 'publication/scripts/refresh_expansion.py'
+      - 'scripts/build_iptvorg_channels.py'
+      - 'scripts/merge_xmltv.py'
+      - 'scripts/merge_freeepg_fallbacks.py'
+      - 'freeepg-fallbacks.json'
+      - 'favorites-test.m3u'
       - 'publication/tests/test_xmltv_format.py'
       - 'publication/tests/test_epg_freshness.py'
       - 'publication/tests/test_channel_policy.py'
@@ -75,6 +80,34 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
+      - name: Refresh exact EPG before the coordinated release
+        env:
+          NODE_OPTIONS: --max-old-space-size=6144
+        run: |
+          exact_epg="$RUNNER_TEMP/zapper-exact-iptvorg-epg"
+          git clone --depth 1 -b master https://github.com/iptv-org/epg.git "$exact_epg"
+          python scripts/build_iptvorg_channels.py "$exact_epg"
+          mkdir -p "$RUNNER_TEMP/zapper-exact-batches"
+          shopt -s nullglob
+          batches=(iptvorg-batches/*.channels.xml)
+          test "${#batches[@]}" -gt 0
+          (
+            cd "$exact_epg"
+            npm ci
+            for channels in "$GITHUB_WORKSPACE"/iptvorg-batches/*.channels.xml; do
+              site="$(basename "$channels" .channels.xml)"
+              output="$RUNNER_TEMP/zapper-exact-batches/${site}.xml"
+              set +e
+              npm run grab -- --channels="$channels" --output="$output" --days=1 --maxConnections=3 --timeout=20000
+              status=$?
+              set -e
+              if [ "$status" -ne 0 ]; then
+                echo "::warning::Exact EPG batch ${site} exited ${status}; continuing with independent sources"
+              fi
+            done
+          )
+          python scripts/merge_xmltv.py "$RUNNER_TEMP/zapper-exact-batches" guide-iptvorg-exact.xml
+          python scripts/merge_freeepg_fallbacks.py
       - name: Install official public YouTube resolver
         if: ${{ hashFiles('publication/epg/expansion-seed.json') != '' }}
         continue-on-error: true
