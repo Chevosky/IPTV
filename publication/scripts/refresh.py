@@ -1,5 +1,5 @@
 """Scheduled preparation: observations never promote unknown content to playable."""
-import base64,hashlib,json,os,subprocess,urllib.request,urllib.error
+import base64,hashlib,json,os,subprocess,sys,urllib.request,urllib.error
 from tempfile import TemporaryDirectory
 from channel_policy import filter_playlist, load_policy
 from datetime import datetime,timezone
@@ -81,10 +81,10 @@ try:
   report['scheduleUpdates']='Lens verified schedule bindings required; no identity inferred from HTTP'
   assert seen,'No eligible Sports sources supplied; cannot certify maintenance'
  elif mode=='epg':
-  subprocess.run(['python','scripts/build_epg.py'],check=True)
+  subprocess.run([sys.executable,'scripts/build_epg.py'],check=True)
   env={**os.environ,'ZAPPER_PLAYLIST':canonical_playlist.name}
-  subprocess.run(['python','publication/scripts/build_flex_guide.py'],env=env,check=True)
-  validator=['python','publication/scripts/validate_zapper_guide.py','guide-flex-candidate.xml',
+  subprocess.run([sys.executable,'publication/scripts/build_flex_guide.py'],env=env,check=True)
+  validator=[sys.executable,'publication/scripts/validate_zapper_guide.py','guide-flex-candidate.xml',
              '--previous','guide-flex.xml','--coverage-report','coverage-flex-candidate.json']
   if expansion_seed.exists():
    validator.extend(['--previous-expansion',str(expansion_seed)])
