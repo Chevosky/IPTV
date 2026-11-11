@@ -115,8 +115,13 @@ try:
     report['nativeYouTubeFallbackRefresh']=result.get('nativeYouTubeFallbackRefresh',{})
     report['publicFallbackRefresh']=result['publicFallbackRefresh']
     files.append('coordinated-generation.json')
+    # The coordinated builder produces the consumer artefacts.  The exact EPG
+    # state was produced by the preceding exact-guide stage and already lives
+    # at the repository root, ready for git add below.
+    exact_state_set = set(exact_state)
     for file in files:
-     copyfile(output/file,file)
+     if file not in exact_state_set:
+      copyfile(output/file,file)
    report['scope']='Flex and Zapper from one generation; Sports guide preserved independently'
   else:
    for guide in guides:

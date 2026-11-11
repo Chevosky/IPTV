@@ -82,6 +82,14 @@ def prepare(root):
         "guide-flex-20261003.xml": "old flex guide",
         "zapper-flex.m3u": "old playlist",
         "guide-sports-news.xml": "sports",
+        # These are produced immediately before the coordinated generation in
+        # the scheduled workflow.  Keep them in this fixture so a future
+        # refactor cannot publish the consumer artefacts while dropping the
+        # exact-guide state that made them current.
+        "guide-iptvorg-exact.xml": "fresh exact guide",
+        "iptvorg-selected.channels.xml": "<channels><channel id='one'/></channels>",
+        "iptvorg-missing-selected.channels.xml": "<channels/>",
+        "iptvorg-epg-coverage.json": '{"current": 1}',
     }
     for name, contents in files.items():
         (repo / name).write_text(contents)
@@ -124,6 +132,10 @@ class CoordinatedPublicationRetryTests(unittest.TestCase):
                 "PATH": str(bins) + os.pathsep + os.environ.get("PATH", os.defpath),
             }
             runner = root / "runner"
+            for name in ("guide-iptvorg-exact.xml", "iptvorg-selected.channels.xml",
+                         "iptvorg-missing-selected.channels.xml", "iptvorg-epg-coverage.json"):
+                path = runner / name
+                path.write_text(path.read_text() + " refreshed")
             result = run(["bash", "publication/scripts/retry-coordinated-publication.sh",
                           sys.executable, "publication/scripts/refresh.py"], runner, env, check=False)
             self.assertEqual(result.returncode, expected_exit, result.stdout + result.stderr)
@@ -138,7 +150,11 @@ class CoordinatedPublicationRetryTests(unittest.TestCase):
                                  {"inventory": 2, "attempted": 2, "renewed": 1})
                 changed = run(["git", "diff", "--name-only", "main^", "main"], remote).stdout.splitlines()
                 self.assertCountEqual(changed, ["coordinated-generation.json", "guide-flex.xml",
-                                                "guide-flex-20261003.xml", "zapper-flex.m3u"])
+                                                "guide-flex-20261003.xml", "zapper-flex.m3u",
+                                                "guide-iptvorg-exact.xml",
+                                                "iptvorg-selected.channels.xml",
+                                                "iptvorg-missing-selected.channels.xml",
+                                                "iptvorg-epg-coverage.json"])
                 sports = run(["git", "show", "main:guide-sports-news.xml"], remote).stdout
                 self.assertEqual(sports, "sports" if case == "clean" else "sports new")
                 envelope = json.loads(run(["git", "show", "main:coordinated-generation.json"], remote).stdout)
