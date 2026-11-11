@@ -2,21 +2,9 @@ name: Update Curated EPG
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "37 3 * * *"
-  push:
-    branches: [main]
-    paths:
-      - "guide.xml"
-      - "favorites-test.m3u"
-      - "epg-aliases.json"
-      - "epg-force-aliases.json"
-      - "epg-time-offsets.json"
-      - "scripts/build_favorites_guide.py"
-      - ".github/workflows/update-curated-epg.yml"
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: iptv-publish
@@ -56,19 +44,6 @@ jobs:
               raise SystemExit("Filtered guide is empty")
           PY
 
-      - name: Publish
+      - name: Keep generated guide for review only
         run: |
-          mkdir -p /tmp/iptv-publish
-          cp guide-favorites.xml guide-flex-20261003.xml coverage-favorites.json /tmp/iptv-publish/
-          git fetch origin main
-          git reset --hard origin/main
-          cp /tmp/iptv-publish/* .
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add guide-favorites.xml guide-flex-20261003.xml coverage-favorites.json
-          if git diff --cached --quiet; then
-            echo "No guide changes."
-            exit 0
-          fi
-          git commit -m "Update curated EPG"
-          git push
+          echo "The coordinated six-hour workflow is the sole publisher."
