@@ -140,15 +140,11 @@ if BATCH_DIR.exists():
 else:
     BATCH_DIR.mkdir(parents=True)
 
-refresh_ids=set()
-if EXACT_GUIDE.exists():
-    try:
-        eroot=ET.parse(EXACT_GUIDE).getroot()
-        refresh_ids={ch.get("id") for ch in eroot.findall("channel") if ch.get("id")}
-    except Exception:
-        refresh_ids=set()
-
-batch_targets=current_missing | refresh_ids
+# A coordinated refresh is only useful when the exact schedules themselves are
+# current.  A previous guide is a fallback after a source fails; it must never
+# decide that an exact source can be skipped indefinitely.
+refresh_ids=set(selected)
+batch_targets=refresh_ids
 
 site_rows=defaultdict(list)
 for cid in sorted(batch_targets):
