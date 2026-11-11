@@ -95,6 +95,12 @@ try:
    raise PublicationMainAdvanced('main advanced before generation')
   guides = ('guide-flex.xml', 'guide-flex-20261003.xml')
   files = [*guides, 'zapper-flex.m3u']
+  # The exact guide and its selection report are refreshed immediately before
+  # this coordinated build.  Commit them with the consumer artefacts so the
+  # next six-hour cycle starts from the same verified basis.
+  exact_state = ('guide-iptvorg-exact.xml', 'iptvorg-selected.channels.xml',
+                 'iptvorg-missing-selected.channels.xml', 'iptvorg-epg-coverage.json')
+  files.extend(name for name in exact_state if (ROOT / name).is_file())
   if expansion_seed.exists():
    from refresh_expansion import build
    with TemporaryDirectory() as temporary:
