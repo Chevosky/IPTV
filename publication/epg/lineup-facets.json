@@ -1,0 +1,1969 @@
+{
+  "AELatinAmerica.us@Brazil": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "AELatinAmerica.us@Panregional": {
+    "broadcastArea": [
+      "c/CO",
+      "c/EC",
+      "c/PE",
+      "c/BO",
+      "r/CENAMER",
+      "c/DO",
+      "r/CARIB"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "AMCLatinAmerica.us@Brazil": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "AXN.br@SD": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "AXNLatinAmerica.us@Andes": {
+    "broadcastArea": [
+      "c/CO",
+      "c/PE",
+      "c/EC",
+      "c/BO"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "AXNLatinAmerica.us@CentralAmerica": {
+    "broadcastArea": [
+      "r/CENAMER",
+      "c/PA",
+      "r/CARIB"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "AXNLatinAmerica.us@South": {
+    "broadcastArea": [
+      "c/AR",
+      "c/PY",
+      "c/UY"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "AdrenalinaPuraTV.us@Brazil": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "AdultSwimLatinAmerica.us@Brazil": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "AdultSwimLatinAmerica.us@Panregional": {
+    "broadcastArea": [
+      "c/AR",
+      "c/PY",
+      "c/UY"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "AmericaParaguay.py@SD": {
+    "broadcastArea": [
+      "c/PY"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "AmericaTV.ar@SD": {
+    "broadcastArea": [
+      "c/AR"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "AmericasVoice.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "AmericasVoiceNews.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "Antena3Internacional.es@SD": {
+    "broadcastArea": [
+      "c/ES",
+      "r/HISPAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "Arte1.br@SD": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "AsianCrush.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "AtacamaTV.cl@SD": {
+    "broadcastArea": [
+      "c/CL"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "AztecaInternacional.mx@SD": {
+    "broadcastArea": [
+      "c/MX"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "BBCDrama.uk@Spain": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "BBCEarth.uk@US": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "BBCNews.uk@LatinAmerica": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  "BBCNews.uk@NorthAmerica": {
+    "broadcastArea": [
+      "r/NORAM"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "BBCNews.uk@UK": {
+    "broadcastArea": [
+      "c/UK"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "BETCinema.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "BETClassicsPlutoTV.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "BETComedyMovies.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "BETPlutoTV.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "BETPlutoTV.us@US": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "BETVisionaries.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "BestofMTV.se@DK": {
+    "broadcastArea": [
+      "c/DK"
+    ],
+    "languages": [
+      "eng",
+      "dan"
+    ]
+  },
+  "BestofMTV.se@NO": {
+    "broadcastArea": [
+      "c/NO"
+    ],
+    "languages": [
+      "eng",
+      "nor"
+    ]
+  },
+  "BestofMTV.se@SE": {
+    "broadcastArea": [
+      "c/SE"
+    ],
+    "languages": [
+      "eng",
+      "swe"
+    ]
+  },
+  "BestofParadiseHotelFinalveckan.se@SE": {
+    "broadcastArea": [
+      "c/SE"
+    ],
+    "languages": [
+      "eng",
+      "swe"
+    ]
+  },
+  "BestofParadiseHotelKyssarkarlek.se@SE": {
+    "broadcastArea": [
+      "c/SE"
+    ],
+    "languages": [
+      "eng",
+      "swe"
+    ]
+  },
+  "BestofParadiseHotelPandorasAsk.se@SE": {
+    "broadcastArea": [
+      "c/SE"
+    ],
+    "languages": [
+      "eng",
+      "swe"
+    ]
+  },
+  "BestofParadiseHotelSkolveckan.se@SE": {
+    "broadcastArea": [
+      "c/SE"
+    ],
+    "languages": [
+      "eng",
+      "swe"
+    ]
+  },
+  "BestofTheDrewBarrymoreShow.se@DK": {
+    "broadcastArea": [
+      "c/DK"
+    ],
+    "languages": [
+      "eng",
+      "dan"
+    ]
+  },
+  "BestofTheDrewBarrymoreShow.se@NO": {
+    "broadcastArea": [
+      "c/NO"
+    ],
+    "languages": [
+      "eng",
+      "nor"
+    ]
+  },
+  "BestofTheDrewBarrymoreShow.se@SE": {
+    "broadcastArea": [
+      "c/SE"
+    ],
+    "languages": [
+      "eng",
+      "swe"
+    ]
+  },
+  "BestofTheDrewBarrymoreShow.us@CA": {
+    "broadcastArea": [
+      "c/CA"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "CCPlutoTV.de@DACH": {
+    "broadcastArea": [
+      "c/DE",
+      "c/AT",
+      "c/CH"
+    ],
+    "languages": [
+      "deu"
+    ]
+  },
+  "CSI.se@DK": {
+    "broadcastArea": [
+      "c/DK"
+    ],
+    "languages": [
+      "eng",
+      "dan"
+    ]
+  },
+  "CSI.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "CSICrimeSceneInvestigation.de@GB": {
+    "broadcastArea": [
+      "c/UK",
+      "c/IE"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "CSIMiami.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "CSIMiami.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "CSIMiamienespanol.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "CSINYenespanol.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "CSIenespanol.us@SD": {
+    "broadcastArea": [
+      "c/US",
+      "r/HISPAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "Canal26.ar@SD": {
+    "broadcastArea": [
+      "c/AR"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "Canal8MardelPlata.ar@SD": {
+    "broadcastArea": [
+      "ct/ARMDQ"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "CanalPlusActionEurope.nl@Czechia": {
+    "broadcastArea": [
+      "c/CZ",
+      "c/SK"
+    ],
+    "languages": [
+      "cze"
+    ]
+  },
+  "CanalPlusCinemas.fr@SD": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "Cine666byPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "CineActionbyPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "CineCatastrophebyPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "CineHorreurbyPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "CineRetrobyPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "CineRomancebyPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "CineRomantico.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "CineSciFibyPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "CineSony.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  "CineTerror.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "CineTerror.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "CineTerror.us@US": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "CineThrillersbyPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "CineWestern.es@SD": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "CineWestern.fr@SD": {
+    "broadcastArea": [
+      "c/FR",
+      "c/CH"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "CineWesternbyPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "Cineaventura.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "CinebyPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "CinedAsiebyPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "Cineenespanol.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "ClassicTVComedy.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "ComediaalobestiadePlutoTV.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "ComedyCentralAnimation.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "ComedyCentralLatinAmerica.us@Panregional": {
+    "broadcastArea": [
+      "c/AR",
+      "c/CL",
+      "c/VE",
+      "c/PY",
+      "c/UY",
+      "c/MX",
+      "c/PA",
+      "c/CO",
+      "c/PE",
+      "c/EC",
+      "c/BO",
+      "r/CENAMER",
+      "r/CARIB"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "ComedyCentralPlutoTV.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "ComedyCentralPlutoTV.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "ComedyCentralPlutoTV.us@US": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "ComedyCentralRoast.se@DK": {
+    "broadcastArea": [
+      "c/DK"
+    ],
+    "languages": [
+      "eng",
+      "dan"
+    ]
+  },
+  "ComedyCentralSouthPark.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "ComedyCentralSouthPark.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "ComedyCentralenEspanol.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "DW.de@English": {
+    "broadcastArea": [
+      "r/EMEA",
+      "r/ASIA"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "DW.de@Espanol": {
+    "broadcastArea": [
+      "r/HISPAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "DanceFM.cl@SD": {
+    "broadcastArea": [
+      "c/CL"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "DatingNakedUK.se@DK": {
+    "broadcastArea": [
+      "c/DK"
+    ],
+    "languages": [
+      "eng",
+      "dan"
+    ]
+  },
+  "DatingNakedUK.se@NO": {
+    "broadcastArea": [
+      "c/NO"
+    ],
+    "languages": [
+      "eng",
+      "nor"
+    ]
+  },
+  "DatingNakedUK.se@SE": {
+    "broadcastArea": [
+      "c/SE"
+    ],
+    "languages": [
+      "eng",
+      "swe"
+    ]
+  },
+  "DePeliculaLatinAmerica.mx@SD": {
+    "broadcastArea": [
+      "r/HISPAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "DePeliculaPlus.mx@SD": {
+    "broadcastArea": [
+      "r/HISPAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "DePeliculaUS.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "DreamWorksChannelLatinAmerica.us@Panregional": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "DubaiTVInternational.ae@SD": {
+    "broadcastArea": [
+      "c/AE"
+    ],
+    "languages": [
+      "ara"
+    ]
+  },
+  "ELatinAmerica.us@Mexico": {
+    "broadcastArea": [
+      "c/MX"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "ElChavoTV.mx@HD": {
+    "broadcastArea": [
+      "c/MX"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "ElTreceInternacionalLatinAmerica.ar@SD": {
+    "broadcastArea": [
+      "r/HISPAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "FIFAPlus.uk@HispanicAmerica": {
+    "broadcastArea": [
+      "c/AR",
+      "r/HISPAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "FIFAPlus.uk@Portuguese": {
+    "broadcastArea": [
+      "c/BR",
+      "c/PT"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "FashionBox.nl@SD": {
+    "broadcastArea": [
+      "r/EUR",
+      "r/ASIA",
+      "r/SSA"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "FashionLifeStyle.ru@SD": {
+    "broadcastArea": [
+      "c/RU"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "FashionTV.in@SD": {
+    "broadcastArea": [
+      "c/IN"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "FashionTV.ru@SD": {
+    "broadcastArea": [
+      "c/RU"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "FashionTV.ua@SD": {
+    "broadcastArea": [
+      "c/UA"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "FashionTVParisLOriginal.fr@SD": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "GarageTVLatinAmerica.ar@SD": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "GlobalFashionChannel.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "History.br@SD": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "History2LatinAmerica.us@Brazil": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "History2LatinAmerica.us@Panregional": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "ISTV.br@SD": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "ImpactTVDance.ro@SD": {
+    "broadcastArea": [
+      "c/RO"
+    ],
+    "languages": [
+      "ron"
+    ]
+  },
+  "LEGOKidsTV.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "LifetimeLatinAmerica.us@Brazil": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "LifetimeLatinAmerica.us@Panregional": {
+    "broadcastArea": [
+      "r/LATAM",
+      "r/CARIB"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "MBCDrama.ae@SD": {
+    "broadcastArea": [
+      "r/ARAB",
+      "r/MAGHREB"
+    ],
+    "languages": [
+      "ara"
+    ]
+  },
+  "MTVPlutoTV.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "MTVPlutoTV.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "MegaTV.py@SD": {
+    "broadcastArea": [
+      "c/PY"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "MusicBoxBrazil.br@SD": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "MyTimeMovieNetworkEast.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "NBCComedyVault.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "Naruto.us@Brazil": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "Nickelodeon.br@SD": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "ParadiseHotel.se@DK": {
+    "broadcastArea": [
+      "c/DK"
+    ],
+    "languages": [
+      "eng",
+      "dan"
+    ]
+  },
+  "ParadiseHotel.se@NO": {
+    "broadcastArea": [
+      "c/NO"
+    ],
+    "languages": [
+      "eng",
+      "nor"
+    ]
+  },
+  "ParadiseHotel.se@SE": {
+    "broadcastArea": [
+      "c/SE"
+    ],
+    "languages": [
+      "eng",
+      "swe"
+    ]
+  },
+  "ParadiseHotelUnderlagnerne.se@DK": {
+    "broadcastArea": [
+      "c/DK"
+    ],
+    "languages": [
+      "eng",
+      "dan"
+    ]
+  },
+  "ParaguayTV.py@SD": {
+    "broadcastArea": [
+      "c/PY"
+    ],
+    "languages": [
+      "spa",
+      "gug"
+    ]
+  },
+  "PlayTV.br@SD": {
+    "broadcastArea": [
+      "s/BR-SP"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTV90sClassics.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "PlutoTVANIMEGO.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "PlutoTVAnime.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVAnime.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVAnimeAcao.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVCineAccion.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVCineClasico.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVCineClassicos.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVCineComedia.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVCineComedia.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVCineComedia.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVCineComediaRomantica.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVCineCrime.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVCineCrimen.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVCineDrama.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVCineDrama.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVCineEstelar.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVCineFamilia.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVCineFamilia.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVCineInspiracao.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVCineInspirador.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVCineRomance.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVCineRomance.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVCineRomantico.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVCineSucessos.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVCineSuspenso.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVCinedeautor.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVComediamadeinSpain.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVComediasRomanticas.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVDesenhosClassicos.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVHistoire.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "PlutoTVKids.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVKids.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVKidsClassics.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVKidsClassics.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "PlutoTVKidsClub.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "PlutoTVKidsClub.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVNetmovies.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVNuestroCine.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVRetro.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVRetroToons.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "PlutoTVSciFi.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVSciFi.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVSeries.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVSeriesAcao.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVSeriesComedia.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVSeriesCriminais.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVSeriesDrama.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVSeriesFantastiques.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "PlutoTVSeriesLatinas.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVSeriesNovelescas.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVSeriesRetro.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVSeriesSciFi.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVSeriesSciFi.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVSeriescriminales.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVSeriesdeAccion.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVSeriesdeComedia.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVSeriesdeCrimen.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVSeriesdeDrama.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVSeriesdeOtrosContinentes.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVSeriesdeSciFi.us@LatAm": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVShowsporStingray.us@BR": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "PlutoTVSuperKids.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "PlutoTVThrillers.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVTrueCrime.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "PlutoTVWestern.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "QelloConcertsbyStingray.ca@SD": {
+    "broadcastArea": [
+      "c/CA",
+      "c/IN"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "RaiItalia.it@Australia": {
+    "broadcastArea": [
+      "c/AU",
+      "c/NZ"
+    ],
+    "languages": [
+      "ita",
+      "eng"
+    ]
+  },
+  "RaiItalia.it@EuropeAfrica": {
+    "broadcastArea": [
+      "r/EUR",
+      "r/AFR"
+    ],
+    "languages": [
+      "ita",
+      "eng"
+    ]
+  },
+  "RaiItalia.it@NorthAmericas": {
+    "broadcastArea": [
+      "r/NORAM"
+    ],
+    "languages": [
+      "ita"
+    ]
+  },
+  "RaiItalia.it@SouthAmericas": {
+    "broadcastArea": [
+      "r/SOUTHAM"
+    ],
+    "languages": [
+      "ita"
+    ]
+  },
+  "RaiStoria.it@SD": {
+    "broadcastArea": [
+      "c/IT"
+    ],
+    "languages": [
+      "ita"
+    ]
+  },
+  "RaiSudtirol.it@SD": {
+    "broadcastArea": [
+      "s/IT-32"
+    ],
+    "languages": [
+      "deu"
+    ]
+  },
+  "RaiWorldPremium.it@SD": {
+    "broadcastArea": [
+      "c/AU",
+      "c/US",
+      "c/CA"
+    ],
+    "languages": [
+      "ita"
+    ]
+  },
+  "RealAmericasVoice.us@KPVMLD": {
+    "broadcastArea": [
+      "ct/USLAS"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "RealAmericasVoice.us@SD": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "SensaCineTVxPluto.de@ES": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "SeriesbyPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "SonyChannel.br@SD": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "SonyMovies.br@SD": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "SonyMoviesLatinAmerica.us@SD": {
+    "broadcastArea": [
+      "r/LATAM"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "SonyOneBlacklist.fr@HD": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "SonyOneFavoris.fr@HD": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "SonyOneHitsAction.fr@HD": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "SonyOneHitsComedie.fr@HD": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  },
+  "StarCinema.ru@SD": {
+    "broadcastArea": [
+      "c/RU"
+    ],
+    "languages": [
+      "rus"
+    ]
+  },
+  "StudioUniversalLatinAmerica.us@Brazil": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "TNTNovelas.us@Brazil": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "TVCamara.py@SD": {
+    "broadcastArea": [
+      "c/PY"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "TVEInternacionalAmerica.es@HD": {
+    "broadcastArea": [
+      "r/LATAM",
+      "c/US",
+      "c/CA"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "Telefe.ar@SD": {
+    "broadcastArea": [
+      "c/AR"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "TelefeBuenosAires.ar@SD": {
+    "broadcastArea": [
+      "s/AR-S"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "TelefeInternacional.ar@SD": {
+    "broadcastArea": [
+      "r/HISPAM",
+      "c/AR"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "Telefuturo.py@SD": {
+    "broadcastArea": [
+      "c/PY"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "ThePetCollective.us@Brazil": {
+    "broadcastArea": [
+      "c/BR"
+    ],
+    "languages": [
+      "por"
+    ]
+  },
+  "ThePetCollective.us@Mexico": {
+    "broadcastArea": [
+      "c/MX"
+    ],
+    "languages": []
+  },
+  "ThePetCollective.us@Spain": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "ThePetCollective.us@UK": {
+    "broadcastArea": [
+      "c/UK"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "ThePetCollective.us@US": {
+    "broadcastArea": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "TigoSports.py@SD": {
+    "broadcastArea": [
+      "c/PY"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "TopGear.uk@SD": {
+    "broadcastArea": [
+      "c/UK"
+    ],
+    "languages": [
+      "eng"
+    ]
+  },
+  "TotalmusicDance.uk@HD": {
+    "broadcastArea": [
+      "c/UK"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "Trece.es@SD": {
+    "broadcastArea": [
+      "c/ES"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "Trece.py@SD": {
+    "broadcastArea": [
+      "c/PY"
+    ],
+    "languages": [
+      "spa"
+    ]
+  },
+  "TrueCrimebyPlutoTV.de@FR": {
+    "broadcastArea": [
+      "c/FR"
+    ],
+    "languages": [
+      "fra"
+    ]
+  }
+}

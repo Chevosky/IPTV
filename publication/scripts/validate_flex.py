@@ -3,14 +3,14 @@ import json,re,sys,xml.etree.ElementTree as ET
 from pathlib import Path
 from channel_policy import active_channels, load_policy
 
-def validate(root,baseline):
+def validate(root,baseline,playlist=None):
  c=json.loads((root/'catalog-flex.json').read_text());old=json.loads((baseline/'catalog-flex.json').read_text())
  assert len(c['channels'])==len(old['channels'])==237
  locks=['id','number','order','name','shortName','category','country','language','tvgId','logo','sources']
  for a,b in zip(c['channels'],old['channels']):
   for key in locks:assert a.get(key)==b.get(key),key
  counts={k:sum(s['type']==k for ch in c['channels'] for s in ch['sources']) for k in ['direct','pluto']};assert counts=={'direct':101,'pluto':136}
- text=(root/'zapper-flex.m3u').read_text();lines=[x for x in text.splitlines() if x.strip()];assert lines[0]=='#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Chevosky/IPTV/main/guide-flex.xml"'
+ text=(playlist if playlist is not None else root/'zapper-flex.m3u').read_text();lines=[x for x in text.splitlines() if x.strip()];assert lines[0]=='#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Chevosky/IPTV/main/guide-flex.xml"'
  pairs=[];entry=None
  for line in lines[1:]:
   if line.startswith('#EXTINF:'):assert entry is None;entry=line

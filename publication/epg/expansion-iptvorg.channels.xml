@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<channels>
+  <!-- Exact bindings reviewed against iptv-org/epg ae9cc64f9497c602ec2f6e17857ae38b3aa1ff05. -->
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ABP_NEWS" lang="en" xmltv_id="ABPNews.in@SD">ABP News</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AAJ_TAK" lang="en" xmltv_id="AajTak.in@SD">Aaj Tak</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_DD_NEWS" lang="en" xmltv_id="DDNews.in@SD">DD News</channel>
+  <channel site="canalplus.com" site_id="#26" lang="fr" xmltv_id="France2.fr@SD">FRANCE 2</channel>
+  <channel site="canalplus.com" site_id="#545" lang="fr" xmltv_id="France5.fr@SD">FRANCE 5</channel>
+  <channel site="canalplus.com" site_id="#553" lang="fr" xmltv_id="LCI.fr@SD">LCI</channel>
+  <channel site="dstv.com" site_id="ken#311" lang="en" xmltv_id="AkiliKids.ke@SD">Akili Kids</channel>
+  <channel site="elcinema.com" site_id="1382" lang="ar" xmltv_id="AlArabyTV2.qa@SD">التلفزيون العربي 2</channel>
+  <channel site="elcinema.com" site_id="1349" lang="ar" xmltv_id="AlIraqia.iq@SD">العراقية</channel>
+  <channel site="elcinema.com" site_id="1216" lang="ar" xmltv_id="AlJadeed.lb@SD">الجديد</channel>
+  <channel site="elcinema.com" site_id="1352" lang="ar" xmltv_id="AlSaudiya.sa@SD">السعودية</channel>
+  <channel site="elcinema.com" site_id="1298" lang="ar" xmltv_id="AmmanTV.jo@SD">عَمان</channel>
+  <channel site="elcinema.com" site_id="1314" lang="ar" xmltv_id="JordanTV.jo@SD">الأردن</channel>
+  <channel site="elcinema.com" site_id="1340" lang="ar" xmltv_id="MBCIraq.iq@SD">إم بي سي العراق</channel>
+  <channel site="elcinema.com" site_id="1278" lang="ar" xmltv_id="MBCMasr2.eg@SD">إم بي سي مصر 2</channel>
+  <channel site="gatotv.com" site_id="agrotendencia_tv" lang="es" xmltv_id="AgrotendenciaTV.cr@SD">Canal Agrotendencia TV</channel>
+  <channel site="gatotv.com" site_id="institucional_colombia" lang="es" xmltv_id="CanalInstitucional.co@SD">Canal Institucional (Colombia)</channel>
+  <channel site="gatotv.com" site_id="sur_andalucia" lang="es" xmltv_id="CanalSurAndalucia.es@SD">Canal Sur Andalucía</channel>
+  <channel site="gatotv.com" site_id="estrella_tv" lang="es" xmltv_id="EstrellaTV.us@SD">Canal Estrella TV</channel>
+  <channel site="gatotv.com" site_id="historia_espana" lang="es" xmltv_id="Historia.es@SD">Canal Historia (España)</channel>
+  <channel site="gatotv.com" site_id="mexiquense_tv" lang="es" xmltv_id="MexiquenseTV.mx@SD">Canal Mexiquense TV</channel>
+  <channel site="gatotv.com" site_id="rcn_novelas" lang="es" xmltv_id="RCNNovelas.co@SD">Canal RCN Novelas</channel>
+  <channel site="gatotv.com" site_id="senal_colombia" lang="es" xmltv_id="SenalColombia.co@SD">Canal Señal Colombia</channel>
+  <channel site="gatotv.com" site_id="telecaribe" lang="es" xmltv_id="Telecaribe.co@SD">Canal Telecaribe</channel>
+  <channel site="gatotv.com" site_id="7_de_costa_rica_teletica" lang="es" xmltv_id="Teletica7.cr@SD">Canal 7 de Costa Rica (Teletica)</channel>
+  <channel site="guidatv.sky.it" site_id="DTH#462" lang="it" xmltv_id="DeejayTV.it@SD">Deejay TV</channel>
+  <channel site="meo.pt" site_id="CNNPT" lang="pt" xmltv_id="CNNPortugal.pt@SD">CNN Portugal</channel>
+  <channel site="mi.tv" site_id="cl#canal-13-c" lang="es" xmltv_id="13C.cl@SD">13C</channel>
+  <channel site="mi.tv" site_id="br#agromais-hd" lang="pt" xmltv_id="AgroMais.br@SD">Agromais HD</channel>
+  <channel site="mi.tv" site_id="br#cnn-brasil" lang="pt" xmltv_id="CNNBrasil.br@SD">CNN Brasil</channel>
+  <channel site="mi.tv" site_id="br#futura" lang="pt" xmltv_id="CanalFutura.br@SD">Futura</channel>
+  <channel site="mi.tv" site_id="ar#el-trece" lang="es" xmltv_id="ElTrece.ar@SD">Canal 13</channel>
+  <channel site="mi.tv" site_id="ar#encuentro" lang="es" xmltv_id="Encuentro.ar@SD">Encuentro</channel>
+  <channel site="mi.tv" site_id="br#globo-news" lang="pt" xmltv_id="GloboNews.br@SD">Globo News</channel>
+  <channel site="mi.tv" site_id="gt#guatevision" lang="es" xmltv_id="Guatevision.gt@SD">Guatevisión</channel>
+  <channel site="mi.tv" site_id="mx#canal-de-las-estrellas-xew" lang="es" xmltv_id="LasEstrellas.mx@SD">Las Estrellas</channel>
+  <channel site="mi.tv" site_id="sv#canal-19-nacional" lang="es" xmltv_id="MegavisionCanal19.sv@SD">Canal 19</channel>
+  <channel site="mi.tv" site_id="sv#canal-21-nacional" lang="es" xmltv_id="MegavisionCanal21.sv@SD">Canal 21</channel>
+  <channel site="mi.tv" site_id="ar#net-tv" lang="es" xmltv_id="NETTV.ar@SD">Net TV</channel>
+  <channel site="mi.tv" site_id="ar#pakapaka" lang="es" xmltv_id="Pakapaka.ar@SD">Pakapaka</channel>
+  <channel site="mi.tv" site_id="br#rede-minas" lang="pt" xmltv_id="RedeMinas.br@SD">Rede Minas</channel>
+  <channel site="mi.tv" site_id="br#tv-brasil" lang="pt" xmltv_id="TVBrasil.br@SD">TV Brasil</channel>
+  <channel site="mi.tv" site_id="br#tv-camara" lang="pt" xmltv_id="TVCamara.br@SD">TV Câmara</channel>
+  <channel site="mi.tv" site_id="cl#senado-tv" lang="es" xmltv_id="TVSenado.cl@SD">TV Senado</channel>
+  <channel site="mon-programme-tv.be" site_id="24/programme-television-la-une-rtbf" lang="fr" xmltv_id="LaUne.be@SD">LA UNE (RTBF)</channel>
+  <channel site="movistarplus.es" site_id="ETB" lang="es" xmltv_id="ETB2On.es@HD">etb2ON</channel>
+  <channel site="programetv.ro" site_id="digi-24" lang="ro" xmltv_id="Digi24.ro@SD">Digi 24</channel>
+  <channel site="programetv.ro" site_id="pro-cinema-hd" lang="ro" xmltv_id="ProCinema.ro@SD">Pro Cinema HD</channel>
+  <channel site="programetv.ro" site_id="tvr-1" lang="ro" xmltv_id="TVR1.ro@SD">TVR 1</channel>
+  <channel site="reportv.com.ar" site_id="967" lang="es" xmltv_id="CanalI.ve@SD">CANAL I</channel>
+  <channel site="reportv.com.ar" site_id="309" lang="es" xmltv_id="Globovision.ve@SD">GLOBOVISION</channel>
+  <channel site="reportv.com.ar" site_id="934" lang="es" xmltv_id="MeridianoTV.ve@SD">MERIDIANO TV</channel>
+  <channel site="reportv.com.ar" site_id="2186" lang="es" xmltv_id="TVes.ve@SD">TVES</channel>
+  <channel site="shahid.mbc.net" site_id="1001845" lang="ar" xmltv_id="AsharqDiscovery.sa@SD">الشرق ديسكفري</channel>
+  <channel site="shahid.mbc.net" site_id="997605" lang="ar" xmltv_id="AsharqDocumentary.sa@SD">Asharq Documentary</channel>
+  <channel site="sky.com" site_id="DE#1160" lang="de" xmltv_id="KiKA.de@HD">KiKA HD</channel>
+  <channel site="sky.com" site_id="DE#653" lang="de" xmltv_id="MDRFernsehen.de@Thuringen">MDR Thüringen HD</channel>
+  <channel site="sky.com" site_id="IT#9060" lang="it" xmltv_id="Radiofreccia.it@SD">RADIOFRECCIA HD</channel>
+  <channel site="tv.dir.bg" site_id="61" lang="bg" xmltv_id="bTV.bg@SD">bTV</channel>
+  <channel site="tv.nu" site_id="nrk1" lang="no" xmltv_id="NRK1.no@SD">NRK1</channel>
+  <channel site="tvhebdo.com" site_id="rdi/RDI" lang="fr" xmltv_id="IciRDI.ca@SD">RDI</channel>
+  <channel site="tvpassport.com" site_id="pbs-kids-247/31867" lang="en" xmltv_id="PBSKids.us@SD">PBS KIDS 24/7</channel>
+</channels>

@@ -6,6 +6,7 @@ import json
 import xml.etree.ElementTree as ET
 from pluto_identity import retained_epg_check
 from channel_policy import active_channels, load_policy
+from guide_history import RETAINED
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -41,6 +42,10 @@ def stats(path, wanted, now, require_fresh=True, excluded_ids=frozenset()):
         start, stop = when(p.get("start", "")), when(p.get("stop", ""))
         if stop <= start:
             raise ValueError(f"{path.name}: invalid programme times")
+        if p.get(RETAINED) == "1":
+            if stop > now:
+                raise ValueError(f"{path.name}: history cannot describe future programming")
+            continue
         total += 1
         if stop > now: future_ids.add(cid)
         if start <= now < stop:
@@ -52,11 +57,40 @@ def stats(path, wanted, now, require_fresh=True, excluded_ids=frozenset()):
     return {"channels": len(effective_ids), "programmes": total, "currentCoverage": current, "nonStaleChannels": len(future_ids), "horizonUTC": horizon.isoformat()}
 
 
+def previous_inventory(previous, expansion, wanted, excluded_ids):
+    if expansion is None:
+        return wanted, excluded_ids
+    from filter_expansion import playlist_rows, unpack
+    reviewed, _ = unpack(expansion)
+    expansion_ids = {row["tvgID"] for row in reviewed["expansion"]}
+    if expansion_ids & wanted:
+        raise ValueError("Expansion overlaps canonical guide")
+    previous_exclusions = excluded_ids | expansion_ids
+    coordinated_path = previous.with_name("coordinated-generation.json")
+    if not coordinated_path.is_file():
+        return wanted, previous_exclusions
+    payload, _ = unpack(coordinated_path)
+    raw = previous.read_bytes()
+    if "flexSports" in payload:
+        from flex_sports import project, validate_routes
+        sports_ids = {row["id"] for row in validate_routes(payload["flexSports"])}
+        if sports_ids & (wanted | previous_exclusions):
+            raise ValueError("Projected Sports overlap the canonical or expansion guide")
+        _, expected = project(payload, playlist_rows)
+        if expected != raw:
+            raise ValueError("Previous Flex guide differs from its coordinated Sports projection")
+        previous_exclusions |= sports_ids
+    elif payload["flexXML"].encode() != raw:
+        return wanted, previous_exclusions
+    return wanted - set(payload.get("editorialWithheldTvgIDs", [])), previous_exclusions
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("candidate", type=Path)
     p.add_argument("--previous", type=Path)
     p.add_argument("--coverage-report", type=Path)
+    p.add_argument("--previous-expansion", type=Path)
     a = p.parse_args()
     catalog = json.loads((ROOT / "catalog-flex.json").read_text())
     policy = load_policy(ROOT)
@@ -79,7 +113,9 @@ def main():
         if missing:
             raise SystemExit(f'Pluto EPG regression: {len(missing)}/{tracked} previously verified channel IDs lost real programming; preserve last-known-good guide')
     if a.previous and a.previous.exists():
-        previous = stats(a.previous, wanted, now, require_fresh=False, excluded_ids=excluded_ids)
+        previous_wanted, previous_exclusions = previous_inventory(
+            a.previous, a.previous_expansion, wanted, excluded_ids)
+        previous = stats(a.previous, previous_wanted, now, require_fresh=False, excluded_ids=previous_exclusions)
         if (previous["currentCoverage"] >= 60 and candidate["currentCoverage"] < previous["currentCoverage"] * 0.7) or candidate["programmes"] < previous["programmes"] * 0.5:
             raise SystemExit("abrupt guide coverage/programme drop")
     print(json.dumps({"candidate": candidate, "realCoverage": coverage.get("covered_channels") if coverage else None, "syntheticCoverage": coverage.get("synthetic_channels") if coverage else None, "previous": previous if a.previous and a.previous.exists() else None}))

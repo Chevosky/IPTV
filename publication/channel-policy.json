@@ -18,5 +18,91 @@
     "DatingNakedUK.se@NO"
   ],
   "reason": "Explicit user request: exclude these channel families from channel lists and guides, including future variants.",
-  "preserveHistoricalIdentities": true
+  "preserveHistoricalIdentities": true,
+  "categoryOverrides": {
+    "ABCEntertains.au@Sydney": {
+      "category": "02 - Entertainment",
+      "source": "https://www.abc.net.au/independent/channels"
+    },
+    "AMCLatinAmerica.us@Brazil": {
+      "category": "03 - Movies",
+      "source": "https://www.sky.com.br/blog/posts/guia-dos-canais-sky"
+    },
+    "AXN.br@SD": {
+      "category": "04 - Series",
+      "source": "https://www.sky.com.br/blog/posts/guia-dos-canais-sky"
+    },
+    "AXNLatinAmerica.us@Andes": {
+      "category": "04 - Series",
+      "source": "https://la.axn.com/"
+    },
+    "AXNLatinAmerica.us@CentralAmerica": {
+      "category": "04 - Series",
+      "source": "https://la.axn.com/"
+    },
+    "AXNLatinAmerica.us@South": {
+      "category": "04 - Series",
+      "source": "https://la.axn.com/"
+    },
+    "AdultSwimLatinAmerica.us@Brazil": {
+      "category": "02 - Entertainment",
+      "source": "https://publicidad.wbd.com/wbd-anuncia-el-lanzamiento-de-adult-swim-en-america-latina/"
+    },
+    "AdultSwimLatinAmerica.us@Panregional": {
+      "category": "02 - Entertainment",
+      "source": "https://publicidad.wbd.com/wbd-anuncia-el-lanzamiento-de-adult-swim-en-america-latina/"
+    },
+    "CanalI.ve@SD": {
+      "category": "00 - General",
+      "source": "https://www.canal-i.com/noticias/canal-i-cumple-19-aos-apostando-a-venezuela"
+    },
+    "ChadaTV.ma@SD": {
+      "category": "02 - Entertainment",
+      "source": "https://www.haca.ma/fr/chada-tv"
+    },
+    "DeejayTV.it@SD": {
+      "category": "07 - Music",
+      "source": "https://www.deejay.it/tv/"
+    },
+    "France5.fr@SD": {
+      "category": "06 - Documentary & Factual",
+      "source": "https://www.francetelevisions.fr/et-vous/notre-tele/en-bref/nos-chaines-tele-un-bouquet-de-service-public-31579"
+    },
+    "Globovision.ve@SD": {
+      "category": "01 - News",
+      "source": "https://www.globovision.com/nacional/14426/globovision-cumple-29-anos-en-2023-innovamos-contenidos-alianzas-e-inversiones"
+    },
+    "Guatevision.gt@SD": {
+      "category": "00 - General",
+      "source": "https://www.guatevision.com/guia-de-tv"
+    },
+    "Historia.es@SD": {
+      "category": "06 - Documentary & Factual",
+      "source": "https://amcglobalmedia.es/noticias/canal-historia/canal-historia-celebra-su-25o-aniversario-como-lider-y-referente-de-documentales-en-la-television-de-pago/"
+    },
+    "RCNNovelas.co@SD": {
+      "category": "04 - Series",
+      "source": "https://discovery-content-co.tigocloud.net/uploads/GUIA_CANALES_04032026_ebd8f95063.pdf"
+    },
+    "RaiWorldPremium.it@SD": {
+      "category": "04 - Series",
+      "source": "https://www.raicom.rai.it/en/rai-in-the-world/"
+    },
+    "RedeMinas.br@SD": {
+      "category": "09 - Lifestyle & Culture",
+      "source": "https://redeminas.tv/politica-para-exibicao-na-interprogramacao/"
+    },
+    "ServusTV.at@SD": {
+      "category": "00 - General",
+      "source": "https://www.servustv.com/de/content/seite/sport-livestreams-bei-servustv-on"
+    },
+    "StudioUniversalLatinAmerica.us@Brazil": {
+      "category": "03 - Movies",
+      "source": "https://cms.sky.com.br/web/sky/programacao/lista-canais/canal-studio-universal"
+    },
+    "exp:youtube:UC83jt4dlz1Gjl58fzQrrKZg": {
+      "category": "01 - News",
+      "source": "https://www.channelnewsasia.com/watch/tv-schedule"
+    }
+  }
 }

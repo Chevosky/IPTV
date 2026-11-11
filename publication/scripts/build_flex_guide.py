@@ -9,6 +9,9 @@ from pluto_identity import canonical_pluto_ids
 from xmltv_format import write_xmltv_clean
 from epg_freshness import prefer_incoming
 from channel_policy import excluded, load_policy
+import guia_mi8
+import guia_expansion
+import guia_telefe
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -317,8 +320,65 @@ for target_id, source_id in aliases.items():
         out_programmes.append(p)
     coverage_source[target_id] = {"type":"alias","source_id":source_id}
 
-# Pluto: derive the real Pluto channel ID from the stream URL and query its EPG directly.
 now = datetime.now(timezone.utc)
+if guia_mi8.CHANNEL in wanted:
+    try:
+        local_schedule = guia_mi8.fetch_programmes(now)
+    except (OSError, ValueError):
+        local_schedule = []
+    if not local_schedule:
+        previous_guide = ROOT / "guide-flex.xml"
+        if previous_guide.is_file():
+            local_schedule = [
+                node for node in ET.parse(previous_guide).getroot().findall("programme")
+                if node.get("channel") == guia_mi8.CHANNEL
+                and node.get("zapper-provider-id") == guia_mi8.PROVIDER
+                and (parse_xmltv_dt(node.get("stop")) or now) > now
+            ]
+    if local_schedule:
+        out_programmes = [node for node in out_programmes if node.get("channel") != guia_mi8.CHANNEL]
+        out_programmes.extend(local_schedule)
+        coverage_source[guia_mi8.CHANNEL] = {"type": "official", "source_id": guia_mi8.PROVIDER}
+
+if guia_telefe.CHANNEL in wanted:
+    try:
+        national_schedule = guia_telefe.fetch_programmes(now)
+    except (OSError, ValueError) as error:
+        print(f"Telefe national schedule: {error}")
+        national_schedule = []
+    prior_official = []
+    try:
+        previous = ET.parse(ROOT / "guide-flex.xml").getroot()
+    except (OSError, ET.ParseError):
+        pass
+    else:
+        prior_official = [
+            row for row in previous.findall("programme")
+            if row.get("channel") == guia_telefe.CHANNEL
+            and row.get("zapper-provider-id") == guia_telefe.PROVIDER
+            and row.get("zapper-provenance") == guia_telefe.URL
+            and (parse_xmltv_dt(row.get("stop")) or now) > now
+        ]
+    national_schedule = guia_telefe.overlay(national_schedule, prior_official, parse_xmltv_dt)
+    if national_schedule:
+        out_programmes = guia_telefe.overlay(national_schedule, out_programmes, parse_xmltv_dt)
+        coverage_source[guia_telefe.CHANNEL] = {"type": "official", "source_id": guia_telefe.PROVIDER}
+
+rai_id = guia_expansion.RAI_ASIA_AUSTRALIA_ID
+if rai_id in wanted:
+    try:
+        previous = ET.parse(ROOT / "guide-flex.xml").getroot().findall(f'programme[@channel="{rai_id}"]')
+    except (OSError, ET.ParseError):
+        previous = []
+    schedule = guia_expansion.rai_asia_australia_schedule(now, previous)
+    # The cable schedule has been observed to differ from the catalog's live feed.
+    out_programmes = [row for row in out_programmes if row.get("channel") != rai_id]
+    coverage_source.pop(rai_id, None)
+    if schedule:
+        out_programmes.extend(schedule)
+        coverage_source[rai_id] = {"type": "official", "source_id": guia_expansion.RAI_ASIA_AUSTRALIA_PROVIDER}
+
+# Pluto: derive the real Pluto channel ID from the stream URL and query its EPG directly.
 end = now + timedelta(hours=WINDOW_HOURS)
 for target_id, info in playlist.items():
     if target_id in coverage_source:

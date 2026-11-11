@@ -5,7 +5,48 @@ on:
     branches: [main]
     paths:
       - 'publication/scripts/build_flex_guide.py'
+      - 'publication/scripts/guia_telefe.py'
+      - 'publication/tests/test_guia_telefe.py'
+      - 'publication/tests/test_guia_mega_ficcion.py'
+      - 'publication/tests/test_guia_bbc_xumo.py'
+      - 'publication/scripts/refresh.py'
+      - 'publication/scripts/retry-coordinated-publication.sh'
+      - 'publication/tests/test_coordinated_publication.py'
+      - 'publication/scripts/refresh_expansion.py'
+      - 'publication/tests/test_xmltv_format.py'
+      - 'publication/tests/test_epg_freshness.py'
+      - 'publication/tests/test_channel_policy.py'
+      - 'publication/tests/test_expansion_refresh.py'
+      - 'publication/scripts/public_*.py'
+      - 'publication/scripts/pluto_hls.py'
+      - 'publication/scripts/infomaniak_hls.py'
+      - 'publication/scripts/qatar_hls.py'
+      - 'publication/tests/test_qatar_fallback.py'
+      - 'publication/tests/test_pluto_fallbacks.py'
+      - 'publication/tests/test_public_fallbacks.py'
+      - 'publication/tests/test_public_hls_video.py'
+      - 'publication/tests/test_public_hls_rolling.py'
+      - 'publication/tests/test_public_hls_reviewed_segments.py'
+      - 'publication/tests/test_lineup_logos.py'
+      - 'publication/scripts/directos_youtube.py'
+      - 'publication/scripts/directos_youtube_anonimos.py'
+      - 'publication/tests/test_directos_youtube.py'
+      - 'publication/tests/test_youtube_fallbacks.py'
+      - 'publication/tests/test_native_youtube_fallbacks.py'
+      - 'publication/scripts/filter_expansion.py'
+      - 'publication/scripts/flex_sports.py'
+      - 'publication/sports/flex-direct-bindings.json'
+      - 'publication/tests/test_flex_sports.py'
+      - 'publication/scripts/order_lineup.py'
+      - 'publication/scripts/guide_history.py'
+      - 'publication/scripts/guide_continuity.py'
+      - 'publication/tests/test_guide_history.py'
+      - 'publication/scripts/guia_*.py'
+      - 'publication/epg/**'
+      - '.github/workflows/zapper-refresh-epg.yml'
       - 'publication/scripts/validate_zapper_guide.py'
+      - 'publication/scripts/validate_flex.py'
+      - 'publication/scripts/xmltv_format.py'
       - 'publication/scripts/pluto_identity.py'
       - 'publication/scripts/epg_freshness.py'
       - 'publication/scripts/channel_policy.py'
@@ -21,26 +62,80 @@ concurrency:
   cancel-in-progress: false
 jobs:
   refresh:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
-      - name: Test guide generation regressions
+      - name: Install official public YouTube resolver
+        if: ${{ hashFiles('publication/epg/expansion-seed.json') != '' }}
+        continue-on-error: true
         run: |
-          python -m unittest discover -s publication/tests -p 'test_xmltv_format.py' -v
-          python -m unittest discover -s publication/tests -p 'test_epg_freshness.py' -v
-          python -m unittest discover -s publication/tests -p 'test_channel_policy.py' -v
+          python -m venv "$RUNNER_TEMP/zapper-ytdlp"
+          "$RUNNER_TEMP/zapper-ytdlp/bin/python" -m pip install "yt-dlp[default]==2026.8.19"
+      - name: Ensure FFmpeg is available for public fallback checks
+        continue-on-error: true
+        run: |
+          if ! command -v ffmpeg >/dev/null; then
+            sudo apt-get update
+            sudo apt-get install -y --no-install-recommends ffmpeg
+          fi
       - name: Validate and refresh against current publication
         env:
           REFRESH_MODE: epg
+          GRABBER_REVISION: ae9cc64f9497c602ec2f6e17857ae38b3aa1ff05
           PUBLIC_RESOLVER_ORIGIN: https://zapper-pluto-flex.chevosky.workers.dev
-        run: python publication/scripts/refresh.py
+          ZAPPER_YOUTUBE_DATA_API_KEY: ${{ secrets.ZAPPER_YOUTUBE_DATA_API_KEY }}
+          ZAPPER_YOUTUBE_YTDLP: ${{ runner.temp }}/zapper-ytdlp/bin/yt-dlp
+        run: |
+          bash publication/scripts/retry-coordinated-publication.sh bash -euo pipefail -c '
+            python -m unittest discover -s publication/tests -p "test_xmltv_format.py" -v
+            python -m unittest discover -s publication/tests -p "test_coordinated_publication.py" -v
+            python -m unittest discover -s publication/tests -p "test_epg_freshness.py" -v
+            python -m unittest discover -s publication/tests -p "test_guia_telefe.py" -v
+            python -m unittest discover -s publication/tests -p "test_guia_mega_ficcion.py" -v
+            python -m unittest discover -s publication/tests -p "test_guia_bbc_xumo.py" -v
+            python -m unittest discover -s publication/tests -p "test_channel_policy.py" -v
+            python -m unittest discover -s publication/tests -p "test_expansion_refresh.py" -v
+            python -m unittest discover -s publication/tests -p "test_directos_youtube.py" -v
+            python -m unittest discover -s publication/tests -p "test_youtube_fallbacks.py" -v
+            python -m unittest discover -s publication/tests -p "test_native_youtube_fallbacks.py" -v
+            python -m unittest discover -s publication/tests -p "test_flex_sports.py" -v
+            python -m unittest discover -s publication/tests -p "test_public_fallbacks.py" -v
+            python -m unittest discover -s publication/tests -p "test_public_hls_video.py" -v
+            python -m unittest discover -s publication/tests -p "test_public_hls_rolling.py" -v
+            python -m unittest discover -s publication/tests -p "test_public_hls_reviewed_segments.py" -v
+            python -m unittest discover -s publication/tests -p "test_pluto_fallbacks.py" -v
+            python -m unittest discover -s publication/tests -p "test_qatar_fallback.py" -v
+            python -m unittest discover -s publication/tests -p "test_lineup_logos.py" -v
+            python -m unittest discover -s publication/tests -p "test_guide_history.py" -v
+            export ZAPPER_EXPANSION_BATCHES
+            ZAPPER_EXPANSION_BATCHES="$(mktemp -d "$RUNNER_TEMP/expansion-batches.XXXXXX")"
+            if [[ -f publication/epg/expansion-seed.json ]]; then
+              grabber="$(mktemp -d "$RUNNER_TEMP/iptv-org-epg.XXXXXX")"
+              git init "$grabber"
+              git -C "$grabber" fetch --depth 1 https://github.com/iptv-org/epg.git "$GRABBER_REVISION"
+              git -C "$grabber" checkout --detach FETCH_HEAD
+              test "$(git -C "$grabber" rev-parse HEAD)" = "$GRABBER_REVISION"
+              (
+                cd "$grabber"
+                npm ci
+                if ! npm run grab -- --channels="$GITHUB_WORKSPACE/publication/epg/expansion-iptvorg.channels.xml" \
+                  --output="$ZAPPER_EXPANSION_BATCHES/{site}.xml" --days=1 --maxConnections=3 --timeout=12000; then
+                  echo "::warning::IPTV-org guide grab failed; validating any batch files and direct providers"
+                fi
+              )
+            fi
+            python publication/scripts/refresh.py
+          '
       - uses: actions/upload-artifact@v4
         if: always()
         with:

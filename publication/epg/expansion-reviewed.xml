@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <programme channel="bTV.bg@SD" start="20261107200000 +0000" stop="20261107225000 +0000"
+             zapper-provider-id="official:www.btv.bg:bTV.bg@SD"
+             zapper-provenance="https://www.btv.bg/programata/?day=2026-11-07">
+    <title lang="bg">Жената чудо</title>
+  </programme>
+  <programme channel="bTV.bg@SD" start="20261107225000 +0000" stop="20261108011500 +0000"
+             zapper-provider-id="official:www.btv.bg:bTV.bg@SD"
+             zapper-provenance="https://www.btv.bg/programata/?day=2026-11-08">
+    <title lang="bg">Съпротива</title>
+  </programme>
+  <programme channel="Antena3CNN.ro@SD" start="20261108040000 +0000" stop="20261108080000 +0000"
+             zapper-provider-id="official:antenaplay.ro:antena3"
+             zapper-provenance="https://antenaplay.ro/program/antena3">
+    <title lang="ro">Știrile dimineții</title>
+  </programme>
+  <programme channel="Antena3CNN.ro@SD" start="20261108093000 +0000" stop="20261108100000 +0000"
+             zapper-provider-id="official:antenaplay.ro:antena3"
+             zapper-provenance="https://antenaplay.ro/program/antena3">
+    <title lang="ro">Numai de bine</title>
+  </programme>
+  <programme channel="Antena3CNN.ro@SD" start="20261108100000 +0000" stop="20261108110000 +0000"
+             zapper-provider-id="official:antenaplay.ro:antena3"
+             zapper-provenance="https://antenaplay.ro/program/antena3">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme channel="Antena3CNN.ro@SD" start="20261108110000 +0000" stop="20261108120000 +0000"
+             zapper-provider-id="official:antenaplay.ro:antena3"
+             zapper-provenance="https://antenaplay.ro/program/antena3">
+    <title lang="ro">News Magazine</title>
+  </programme>
+  <programme channel="Antena3CNN.ro@SD" start="20261108120000 +0000" stop="20261108130000 +0000"
+             zapper-provider-id="official:antenaplay.ro:antena3"
+             zapper-provenance="https://antenaplay.ro/program/antena3">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme channel="Antena3CNN.ro@SD" start="20261108130000 +0000" stop="20261108133000 +0000"
+             zapper-provider-id="official:antenaplay.ro:antena3"
+             zapper-provenance="https://antenaplay.ro/program/antena3">
+    <title lang="ro">News Magazine</title>
+  </programme>
+  <programme channel="Antena3CNN.ro@SD" start="20261108133000 +0000" stop="20261108140000 +0000"
+             zapper-provider-id="official:antenaplay.ro:antena3"
+             zapper-provenance="https://antenaplay.ro/program/antena3">
+    <title lang="ro">De-a viața ascunselea</title>
+  </programme>
+  <programme channel="Antena3CNN.ro@SD" start="20261108140000 +0000" stop="20261108150000 +0000"
+             zapper-provider-id="official:antenaplay.ro:antena3"
+             zapper-provenance="https://antenaplay.ro/program/antena3">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme channel="Antena3CNN.ro@SD" start="20261108150000 +0000" stop="20261108160000 +0000"
+             zapper-provider-id="official:antenaplay.ro:antena3"
+             zapper-provenance="https://antenaplay.ro/program/antena3">
+    <title lang="ro">News Magazine</title>
+  </programme>
+  <programme channel="Antena3CNN.ro@SD" start="20261108160000 +0000" stop="20261108170000 +0000"
+             zapper-provider-id="official:antenaplay.ro:antena3"
+             zapper-provenance="https://antenaplay.ro/program/antena3">
+    <title lang="ro">Știri</title>
+  </programme>
+  <programme channel="LasEstrellas.mx@SD" start="20261109023000 +0000" stop="20261109050000 +0000" zapper-provenance="https://www.lasestrellas.tv/reality/quien-es-la-mascara/llegan-los-superpoderes-a-quien-es-la-mascara-velo-este-domingo-con-las-estrellas-video" zapper-provider-id="reviewed:lasestrellas-formulatv"><title>¿Quién es la Máscara?</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108034500 +0000" stop="20261108040000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج الاردن بنقاء مائه</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108040000 +0000" stop="20261108043000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>نشرة اخبار السابعة</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108043000 +0000" stop="20261108070000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج يوم جديد</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108070000 +0000" stop="20261108080000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج بيتك</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108080000 +0000" stop="20261108090000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج الان</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108090000 +0000" stop="20261108100000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج المطبخ</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108100000 +0000" stop="20261108110000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج نشامى الوطن</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108110000 +0000" stop="20261108120000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج فاسألو اهل الذكر</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108120000 +0000" stop="20261108123000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج ارض الخير</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108123000 +0000" stop="20261108130000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>الرسوم ىالمتحركة</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108140000 +0000" stop="20261108150000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج بيت للكل</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108150000 +0000" stop="20261108160000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج النافذة</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108160000 +0000" stop="20261108170000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج هنا الاردن 962</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108170000 +0000" stop="20261108180000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج الثامنة</title></programme>
+  <programme channel="JordanTV.jo@SD" start="20261108190000 +0000" stop="20261108200000 +0000" zapper-provenance="https://elcinema.com/tvguide/1314/" zapper-provider-id="elcinema-detail:1314"><title>برنامج مسارات</title></programme>
+  <programme start="20261109100000 +0000" stop="20261109120000 +0000" channel="ELDEBER.bo@SD" zapper-provider-id="reviewed:eldeber-lanzamiento-20261109" zapper-provenance="https://eldeber.com.bo/pais/hay-nueva-programacion-deber-renueva-pantalla-noticias-analisis-entretenimiento_1794004917"><title lang="es">A Primera Hora</title></programme>
+  <programme start="20261109120000 +0000" stop="20261109130000 +0000" channel="ELDEBER.bo@SD" zapper-provider-id="reviewed:eldeber-lanzamiento-20261109" zapper-provenance="https://eldeber.com.bo/pais/hay-nueva-programacion-deber-renueva-pantalla-noticias-analisis-entretenimiento_1794004917"><title lang="es">Influyentes</title></programme>
+  <programme start="20261109130000 +0000" stop="20261109150000 +0000" channel="ELDEBER.bo@SD" zapper-provider-id="reviewed:eldeber-lanzamiento-20261109" zapper-provenance="https://eldeber.com.bo/pais/hay-nueva-programacion-deber-renueva-pantalla-noticias-analisis-entretenimiento_1794004917"><title lang="es">Para Ellas</title></programme>
+  <programme start="20261109150000 +0000" stop="20261109163000 +0000" channel="ELDEBER.bo@SD" zapper-provider-id="reviewed:eldeber-lanzamiento-20261109" zapper-provenance="https://eldeber.com.bo/pais/hay-nueva-programacion-deber-renueva-pantalla-noticias-analisis-entretenimiento_1794004917"><title lang="es">DIEZ</title></programme>
+  <programme start="20261109163000 +0000" stop="20261109180000 +0000" channel="ELDEBER.bo@SD" zapper-provider-id="reviewed:eldeber-lanzamiento-20261109" zapper-provenance="https://eldeber.com.bo/pais/hay-nueva-programacion-deber-renueva-pantalla-noticias-analisis-entretenimiento_1794004917"><title lang="es">ED24 Noticias</title></programme>
+  <programme start="20261109180000 +0000" stop="20261109200000 +0000" channel="ELDEBER.bo@SD" zapper-provider-id="reviewed:eldeber-lanzamiento-20261109" zapper-provenance="https://eldeber.com.bo/pais/hay-nueva-programacion-deber-renueva-pantalla-noticias-analisis-entretenimiento_1794004917"><title lang="es">Aquí Estoy</title></programme>
+  <programme start="20261109200000 +0000" stop="20261109220000 +0000" channel="ELDEBER.bo@SD" zapper-provider-id="reviewed:eldeber-lanzamiento-20261109" zapper-provenance="https://eldeber.com.bo/pais/hay-nueva-programacion-deber-renueva-pantalla-noticias-analisis-entretenimiento_1794004917"><title lang="es">Bulla</title></programme>
+  <programme start="20261109220000 +0000" stop="20261110000000 +0000" channel="ELDEBER.bo@SD" zapper-provider-id="reviewed:eldeber-lanzamiento-20261109" zapper-provenance="https://eldeber.com.bo/pais/hay-nueva-programacion-deber-renueva-pantalla-noticias-analisis-entretenimiento_1794004917"><title lang="es">ED24 Noticias</title></programme>
+  <programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="ELDEBER.bo@SD" zapper-provider-id="reviewed:eldeber-lanzamiento-20261109" zapper-provenance="https://eldeber.com.bo/pais/hay-nueva-programacion-deber-renueva-pantalla-noticias-analisis-entretenimiento_1794004917"><title lang="es">Dinero</title></programme>
+  <programme start="20261110010000 +0000" stop="20261110020000 +0000" channel="ELDEBER.bo@SD" zapper-provider-id="reviewed:eldeber-lanzamiento-20261109" zapper-provenance="https://eldeber.com.bo/pais/hay-nueva-programacion-deber-renueva-pantalla-noticias-analisis-entretenimiento_1794004917"><title lang="es">ON - Otra Noche</title></programme>
+</tv>

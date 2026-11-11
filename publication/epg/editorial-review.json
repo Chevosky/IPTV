@@ -1,0 +1,17 @@
+{
+  "reviewedPayloadSHA256": "88f938b4720baf3a4ad67c6aff9e4d6ece0d1f74bc9b5a1ee0c0a74055be115e",
+  "withheldTvgIDs": [
+    "DubaiTVInternational.ae@SD",
+    "Nickelodeon.br@SD"
+  ],
+  "withheldYouTubePublishers": [],
+  "retainedAfterReview": {
+    "3sat.de@SD": "Variedades, paisajes, ciencia y cultura; el usuario lo quiere conservar.",
+    "MDRFernsehen.de@Thuringen": "Naturaleza, viajes, cine y deportes; el usuario lo quiere conservar.",
+    "NRK1.no@SD": "Variedades, documentales de viaje y naturaleza, entretenimiento y deporte.",
+    "TVR1.ro@SD": "Variedades, cine, música y cultura en la grilla exacta revisada.",
+    "KTV.kr@SD": "La emisora programa viajes, documentales y cultura; la entrega de subtítulos de la ruta sigue por verificar.",
+    "bTV.bg@SD": "La grilla combina patrimonio, gastronomía, cine y entretenimiento."
+  },
+  "languagePolicy": "El idioma se usa para filtrar a elección del usuario. No se excluye ninguna señal por idioma."
+}
