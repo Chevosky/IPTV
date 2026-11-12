@@ -1,81 +1,81 @@
 {
-  "generatedAtUTC": "2026-11-12T15:04:25Z",
+  "generatedAtUTC": "2026-11-12T23:32:17Z",
   "channels": [
     {
       "number": 238,
       "name": "NBC NEWS NOW",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 62,
+      "freshProgrammeCount": 53,
       "reason": null
     },
     {
       "number": 239,
       "name": "ESPN 1",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 27,
+      "freshProgrammeCount": 22,
       "reason": null
     },
     {
       "number": 240,
       "name": "ESPN 2",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 28,
+      "freshProgrammeCount": 22,
       "reason": null
     },
     {
       "number": 241,
       "name": "ESPN 3",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 30,
+      "freshProgrammeCount": 25,
       "reason": null
     },
     {
       "number": 242,
       "name": "ESPN 4",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 35,
+      "freshProgrammeCount": 27,
       "reason": null
     },
     {
       "number": 243,
       "name": "ESPN 5",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 29,
+      "freshProgrammeCount": 21,
       "reason": null
     },
     {
       "number": 244,
       "name": "ESPN 6",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 22,
+      "freshProgrammeCount": 18,
       "reason": null
     },
     {
       "number": 245,
       "name": "ESPN 7",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 23,
+      "freshProgrammeCount": 20,
       "reason": null
     },
     {
       "number": 246,
       "name": "Win Sports",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 33,
+      "freshProgrammeCount": 37,
       "reason": null
     },
     {
       "number": 247,
       "name": "Win Sports+",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 34,
+      "freshProgrammeCount": 38,
       "reason": null
     },
     {
       "number": 248,
       "name": "beIN SPORTS XTRA",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 66,
+      "freshProgrammeCount": 60,
       "reason": null
     },
     {
@@ -89,21 +89,21 @@
       "number": 250,
       "name": "RM TV + 🇪🇸",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 36,
+      "freshProgrammeCount": 33,
       "reason": null
     },
     {
       "number": 251,
       "name": "FIFA+",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 47,
+      "freshProgrammeCount": 42,
       "reason": null
     },
     {
       "number": 252,
       "name": "SKY CRICKET",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 72,
+      "freshProgrammeCount": 62,
       "reason": null
     }
   ],
