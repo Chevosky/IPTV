@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build a Flex/Zapper release locally; it never commits, pushes, or publishes."""
 import argparse
+import json
 import os
 import shutil
 import subprocess
@@ -57,7 +58,10 @@ def main():
             if not destination.exists():
                 npm_grab(args.npm, epg, channels, destination)
         run(sys.executable, repo / "scripts/merge_xmltv.py", base_batches, repo / "guide-iptvorg-exact.xml", cwd=repo)
-        run(sys.executable, repo / "scripts/merge_freeepg_fallbacks.py", cwd=repo)
+        freeepg = json.loads((repo / "freeepg-fallbacks.json").read_text())
+        for country in sorted({spec["country"].lower() for spec in freeepg.values()}):
+            run(sys.executable, repo / "scripts/merge_freeepg_fallbacks.py", cwd=repo,
+                env={**os.environ, "FREEEPG_COUNTRY": country, "FREEEPG_TIMEOUT_SECONDS": "12"})
         env = {**os.environ, "ZAPPER_PLAYLIST": "zapper-flex.m3u",
                "ZAPPER_SKIP_SUPPLEMENTARY_GUIDES": "1", "ZAPPER_METADATA_TIMEOUT_SECONDS": "8"}
         run(sys.executable, scripts / "build_flex_guide.py", cwd=repo, env=env)

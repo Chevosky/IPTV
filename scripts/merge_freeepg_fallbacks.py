@@ -2,6 +2,7 @@
 import gzip
 import io
 import json
+import os
 import re
 import unicodedata
 import urllib.request
@@ -41,7 +42,8 @@ def fetch_country(code):
     for url in urls:
         try:
             req=urllib.request.Request(url,headers={"User-Agent":"Chevosky-IPTV-EPG/3.0"})
-            with urllib.request.urlopen(req,timeout=90) as r:
+            timeout=float(os.environ.get("FREEEPG_TIMEOUT_SECONDS","90"))
+            with urllib.request.urlopen(req,timeout=timeout) as r:
                 raw=r.read()
                 enc=(r.headers.get("Content-Encoding") or "").lower()
             if url.endswith(".gz") or enc=="gzip" or raw[:2]==b"\x1f\x8b":
@@ -73,7 +75,10 @@ resolved=[]
 existing_channel_ids={c.get("id") for c in root.findall("channel")}
 existing_keys={(p.get("channel"),p.get("start"),p.get("stop"),(p.findtext("title") or "").strip()) for p in root.findall("programme")}
 
+requested_country=os.environ.get("FREEEPG_COUNTRY","").lower()
 for country,targets in sorted(targets_by_country.items()):
+    if requested_country and country != requested_country:
+        continue
     try:
         feed=fetch_country(country)
     except Exception as e:
