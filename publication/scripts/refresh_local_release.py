@@ -80,7 +80,8 @@ def main():
             if not destination.exists():
                 npm_grab(args.npm, epg, channels, destination)
         code = """from filter_expansion import unpack\nfrom guia_expansion import binding\nfrom pathlib import Path\np,_=unpack(Path('publication/epg/expansion-seed.json'))\nprint('\\n'.join(' '.join(x) for x in [sorted({binding(e)[0] for e in p['expansion'] if binding(e)})[i:i+6] for i in range(0, len({binding(e)[0] for e in p['expansion'] if binding(e)}), 6)]))"""
-        groups = subprocess.check_output([sys.executable, "-c", code], cwd=repo, text=True).splitlines()
+        groups = subprocess.check_output([sys.executable, "-c", code], cwd=repo, text=True,
+                                         env={**os.environ, "PYTHONPATH": str(scripts)}).splitlines()
         for index, group in enumerate(groups, 1):
             destination = official_batches / f"{index:02}.xml"
             if not destination.exists():
