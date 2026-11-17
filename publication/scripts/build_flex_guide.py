@@ -91,7 +91,10 @@ def dt_to_xmltv(dt):
 
 def fetch_json(url):
     req = urllib.request.Request(url, headers={"User-Agent":"Chevosky-IPTV-EPG/2.2"})
-    with urllib.request.urlopen(req, timeout=60) as r:
+    # Metadata improves synthetic labels only. A stalled public mirror must
+    # not prevent locally collected schedules from becoming a candidate.
+    timeout = float(os.environ.get("ZAPPER_METADATA_TIMEOUT_SECONDS", "8"))
+    with urllib.request.urlopen(req, timeout=timeout) as r:
         return json.loads(r.read().decode("utf-8"))
 
 def clean_synthetic_name(value):
@@ -321,7 +324,11 @@ for target_id, source_id in aliases.items():
     coverage_source[target_id] = {"type":"alias","source_id":source_id}
 
 now = datetime.now(timezone.utc)
-if guia_mi8.CHANNEL in wanted:
+# The exact EPG batches are the primary local input. This switch is for a
+# bounded recovery run: it skips only supplementary lookups, never collected
+# batch schedules or the catalogue.
+supplementary_network = os.environ.get("ZAPPER_SKIP_SUPPLEMENTARY_GUIDES") != "1"
+if supplementary_network and guia_mi8.CHANNEL in wanted:
     try:
         local_schedule = guia_mi8.fetch_programmes(now)
     except (OSError, ValueError):
@@ -340,7 +347,7 @@ if guia_mi8.CHANNEL in wanted:
         out_programmes.extend(local_schedule)
         coverage_source[guia_mi8.CHANNEL] = {"type": "official", "source_id": guia_mi8.PROVIDER}
 
-if guia_telefe.CHANNEL in wanted:
+if supplementary_network and guia_telefe.CHANNEL in wanted:
     try:
         national_schedule = guia_telefe.fetch_programmes(now)
     except (OSError, ValueError) as error:
@@ -365,7 +372,7 @@ if guia_telefe.CHANNEL in wanted:
         coverage_source[guia_telefe.CHANNEL] = {"type": "official", "source_id": guia_telefe.PROVIDER}
 
 rai_id = guia_expansion.RAI_ASIA_AUSTRALIA_ID
-if rai_id in wanted:
+if supplementary_network and rai_id in wanted:
     try:
         previous = ET.parse(ROOT / "guide-flex.xml").getroot().findall(f'programme[@channel="{rai_id}"]')
     except (OSError, ET.ParseError):

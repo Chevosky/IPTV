@@ -207,6 +207,7 @@ def remove_unusable_programmes(data, previously_unavailable=()):
 
 
 def build(root, baseline_playlist, baseline_guide, batches, output, *, fetch_official=True, official_snapshot=None,
+          official_batches=(),
           youtube_fetch=None, youtube_public_fetch=None, fallback_probe=None, pluto_fallback_probe=None, qatar_fallback_probe=None, master_fallback_probe=None, recovery_probe=None, youtube_fallback_probe=None,
           native_youtube_fallback_probe=None):
     now = datetime.now(timezone.utc)
@@ -301,6 +302,19 @@ def build(root, baseline_playlist, baseline_guide, batches, output, *, fetch_off
     official = guia_expansion.programmes_for_expansion(
         seed["expansion"], prior_schedule if fresh else None, now,
         fetch=fetch_official, snapshot=official_snapshot)
+    # A local collection can be split into bounded provider jobs. Accept only
+    # complete, current schedules for known expansion identities.
+    expected_official = {
+        entry["tvgID"]: ":".join(resolved[:2])
+        for entry in seed["expansion"] if (resolved := guia_expansion.binding(entry))
+    }
+    for batch in official_batches:
+        rows_by_feed = programmes_by_feed(Path(batch).read_bytes())
+        for feed, rows in rows_by_feed.items():
+            if (feed in by_id and expected_official.get(feed)
+                    and all(row.get("zapper-provider-id") == expected_official[feed] for row in rows)
+                    and projection.programme_state(rows, now) in projection.VERIFIED_STATES):
+                official[feed] = rows
     official_only_channels = 0
     if not fresh:
         official = {
