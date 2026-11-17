@@ -49,7 +49,7 @@ def main():
     base_batches, expansion_inputs = work / "base-batches", work / "expansion-inputs"
     expansion_batches, official_batches = work / "expansion-batches", work / "official-batches"
     for directory in (base_batches, expansion_inputs, expansion_batches, official_batches):
-        directory.mkdir(mode=0o700)
+        directory.mkdir(mode=0o700, exist_ok=True)
     try:
         run(sys.executable, repo / "scripts/build_iptvorg_channels.py", epg, cwd=repo)
         for channels in sorted((repo / "iptvorg-batches").glob("*.channels.xml")):
