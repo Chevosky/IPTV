@@ -1,81 +1,81 @@
 {
-  "generatedAtUTC": "2026-11-17T20:49:45Z",
+  "generatedAtUTC": "2026-11-18T07:16:31Z",
   "channels": [
     {
       "number": 238,
       "name": "NBC NEWS NOW",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 58,
+      "freshProgrammeCount": 74,
       "reason": null
     },
     {
       "number": 239,
       "name": "ESPN 1",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 25,
+      "freshProgrammeCount": 38,
       "reason": null
     },
     {
       "number": 240,
       "name": "ESPN 2",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 30,
+      "freshProgrammeCount": 38,
       "reason": null
     },
     {
       "number": 241,
       "name": "ESPN 3",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 23,
+      "freshProgrammeCount": 37,
       "reason": null
     },
     {
       "number": 242,
       "name": "ESPN 4",
-      "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 28,
-      "reason": null
+      "status": "RETAINED_LAST_VALID",
+      "freshProgrammeCount": 0,
+      "reason": "TimeoutError: The read operation timed out"
     },
     {
       "number": 243,
       "name": "ESPN 5",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 26,
+      "freshProgrammeCount": 34,
       "reason": null
     },
     {
       "number": 244,
       "name": "ESPN 6",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 23,
+      "freshProgrammeCount": 30,
       "reason": null
     },
     {
       "number": 245,
       "name": "ESPN 7",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 23,
+      "freshProgrammeCount": 26,
       "reason": null
     },
     {
       "number": 246,
       "name": "Win Sports",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 16,
+      "freshProgrammeCount": 10,
       "reason": null
     },
     {
       "number": 247,
       "name": "Win Sports+",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 11,
+      "freshProgrammeCount": 34,
       "reason": null
     },
     {
       "number": 248,
       "name": "beIN SPORTS XTRA",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 60,
+      "freshProgrammeCount": 76,
       "reason": null
     },
     {
@@ -89,25 +89,30 @@
       "number": 250,
       "name": "RM TV + 🇪🇸",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 41,
+      "freshProgrammeCount": 36,
       "reason": null
     },
     {
       "number": 251,
       "name": "FIFA+",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 33,
+      "freshProgrammeCount": 40,
       "reason": null
     },
     {
       "number": 252,
       "name": "SKY CRICKET",
       "status": "VERIFIED_PROGRAMME",
-      "freshProgrammeCount": 71,
+      "freshProgrammeCount": 83,
       "reason": null
     }
   ],
-  "failures": [],
+  "failures": [
+    {
+      "name": "ESPN 4",
+      "error": "TimeoutError: The read operation timed out"
+    }
+  ],
   "reviewedExclusions": [
     {
       "number": 240,
